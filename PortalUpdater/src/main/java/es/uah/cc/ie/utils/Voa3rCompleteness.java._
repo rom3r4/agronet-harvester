@@ -1,0 +1,298 @@
+/*
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU Lesser General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+ You should have received a copy of the GNU Lesser General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+package es.uah.cc.ie.utils;
+
+import es.uah.cc.ie.portalupdater.*;
+import java.io.File;
+import java.io.IOException;
+import java.sql.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.logging.*;
+import org.jdom.Element;
+
+/*
+import org.ontspace.MetadataRecordReference;
+import org.ontspace.agrisap.translator.Agrisap;
+import org.ontspace.dc.translator.DublinCore;
+import org.ontspace.owl.util.AutomaticLangDetector;
+import org.ontspace.voa3rap2.translator.Voa3rAP2;
+*/
+
+/**
+ *
+ * @author refusta
+ */
+public class Voa3rCompleteness {
+
+    Connection _con = null;
+
+    public static void main(String[] args) {
+        //1-Read the configuration file and make some standar tasks like stablish
+        //     the mysql connection.
+        //2-Read the XML files obtained from the harvesting process
+        //3-Remove the content items that are no longer available in the
+        //     original repositories
+        //4-Trnaslate and store each XML file into the ont-space repository
+        //5-If the previous step worked withour errors, then store the XML file
+        //     in the joomla database like an article.
+
+        //Section 1: CONFIGURATION
+        String configFileOntSpace, configFileCMSUpdater;
+        System.out.println("One parameter must been set up to use the program:");
+        System.out.println("  - CMSupdater Configuration File");
+        //it is possible to set up the parameters using the command line
+        if (args.length == 1) {
+            System.out.println("Using the values obtained in the command line.");
+            configFileCMSUpdater = args[0];
+        } else {
+            System.out.println(
+                    "Using the default values for the mandatory parameters.");
+            configFileCMSUpdater = System.getProperty("user.dir")
+                    + System.getProperty("file.separator") + "etc"
+                    + System.getProperty("file.separator") + "conf.xml";
+        }
+        System.out.println("  - CMSupdater Configuration File: "
+                + configFileCMSUpdater);
+
+        PortalUpdaterConf portalUpdaterConf = new PortalUpdaterConf(
+                configFileCMSUpdater);
+
+        configFileOntSpace = portalUpdaterConf.getOntSpaceConfFile().
+                getAbsolutePath();
+
+        System.out.println("  - Ont-Space Configuration File: "
+                + configFileOntSpace);
+        Logger fileLogger = null;
+        try {
+            boolean append = true;
+            String logFilePath = System.getProperty("user.dir")
+                    + System.getProperty("file.separator") + "log"
+                    + System.getProperty("file.separator") + "log.txt";
+            FileHandler fh = new FileHandler(logFilePath, append);
+            fh.setFormatter(new Formatter() {
+
+                @Override
+                public String format(LogRecord rec) {
+                    StringBuilder buf = new StringBuilder(1000);
+                    buf.append(new java.util.Date());
+                    buf.append(' ');
+                    buf.append(formatMessage(rec));
+                    buf.append('\n');
+                    return buf.toString();
+                }
+            });
+            fileLogger = Logger.getLogger(MetadataSQLHelper.class.getName());
+            fileLogger.addHandler(fh);
+            // Stop forwarding log records to ancestor handlers
+            fileLogger.setUseParentHandlers(false);
+        } catch (IOException ex) {
+            Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
+            System.exit(-1);
+        }
+
+        DatabaseHandler dbHandler = null;
+        try {
+            dbHandler = new DatabaseHandler(portalUpdaterConf);
+            Logger.getLogger(Main.class.getName()).log(Level.INFO,
+                    "Database schema and tables successfully created");
+        } catch (SQLException ex) {
+            Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
+            System.exit(-1);
+        }
+        OntSpaceHandler oHandler = new OntSpaceHandler(configFileOntSpace);
+        oHandler.printRepositoryURI();
+
+        String treeFolderPath = System.getProperty("user.dir")
+                + System.getProperty("file.separator") + "etc"
+                + System.getProperty("file.separator") + "europarl_corpus"
+                + System.getProperty("file.separator");
+        AutomaticLangDetector automaticLangDetector = new AutomaticLangDetector(
+                treeFolderPath);
+
+        //this counter will be used to call the garbage collector
+        int contentItemsStored = 0;
+        final int CALL_GC = 400;
+
+        //Section 2: HARVESTED XML FILES
+        XMLMetadataFiles xmlFiles = new XMLMetadataFiles();
+        HashMap<String, ArrayList<File>> harvestedXMLFiles =
+                xmlFiles.readXMLFiles(portalUpdaterConf.getHarvestingFolder());
+
+        //Section 3: REMOVE CONTENT
+//        ArrayList<String> deletedRecords = xmlFiles.getDeletedRecords();
+//
+//        for (String deletedId : deletedRecords) {
+//            if (oHandler.remove(deletedId)) {
+//                dbHandler.remove(deletedId);
+//            } else {
+//                Logger.getLogger(Main.class.getName()).log(Level.SEVERE,
+//                    "ERROR in ont-space while removing {0}", deletedId);
+//            }
+//        }
+
+        //SECTION 4 AND 5: STORE OR UPDATE IN ONT-SPACE AND JOOMLA
+        /*
+        ArrayList<File> dcFiles = harvestedXMLFiles.get("DC");
+        String fileName;
+        DublinCore dc = null;
+        MetadataRecordReference recordReference;
+        if (dcFiles != null) {
+            //we need to check that there are some files to store or update
+            for (File xml : dcFiles) {
+                Logger.getLogger(Main.class.getName()).log(Level.INFO,
+                        "File {0}", xml.getAbsolutePath());
+                fileName = xml.getName();
+                System.out.println("fileName: " + fileName);
+                dc = new DublinCore(xml, fileLogger, automaticLangDetector);
+                try {
+                    SetInitialData(fileName, "prodinra");
+                } catch (SQLException ex) {
+                    Logger.getLogger(Voa3rCompleteness.class.getName()).log(Level.SEVERE, null, ex);
+                }
+                dc.parseDCXMLStats(fileName);
+                contentItemsStored++;
+                if (contentItemsStored % CALL_GC == 0) {
+                    System.gc();
+                }
+            }
+        }
+
+        ArrayList<File> vap2Files = harvestedXMLFiles.get("VAP2");
+        Voa3rAP2 vap2 = null;
+        if (vap2Files != null) {
+            //we need to check that there are some files to store or update
+            for (File xml : vap2Files) {
+                Logger.getLogger(Main.class.getName()).log(Level.INFO,
+                        "File {0}", xml.getAbsolutePath());
+                fileName = xml.getName();
+                vap2 = new Voa3rAP2(xml, fileLogger, automaticLangDetector);
+                vap2.parseVoa3rAP2XML();
+                contentItemsStored++;
+                if (contentItemsStored % CALL_GC == 0) {
+                    System.gc();
+                }
+            }
+        }
+
+
+        ArrayList<File> agrisFiles = harvestedXMLFiles.get("AGRIS");
+        Agrisap agrisap = null;
+        if (agrisFiles != null) {
+            //we need to check that there are some files to store or update
+            for (File xml : agrisFiles) {
+                Logger.getLogger(Main.class.getName()).log(Level.INFO,
+                        "File {0}", xml.getAbsolutePath());
+                agrisap = new Agrisap(xml, fileLogger, automaticLangDetector);
+                agrisap.parseAgrisapXML();
+                fileName = xml.getName();
+                contentItemsStored++;
+                if (contentItemsStored % CALL_GC == 0) {
+                    System.gc();
+                }
+            }
+        }
+
+        String faoHarvestingId;
+        FAOMetadataHelper faoMetadataHelper;
+        File oneYearFAOFolder = xmlFiles.readOneFAOYearFolder(portalUpdaterConf.getFaoAgrisFolder());
+        //when oneYearFAOFolder == null all the resources from FAO have been stored
+        if (oneYearFAOFolder != null) {
+            ArrayList<File> faoXMLFiles = xmlFiles.readFAOXMLFiles(
+                    oneYearFAOFolder);
+            for (File xml : faoXMLFiles) {
+                Logger.getLogger(Main.class.getName()).log(Level.INFO,
+                        "File {0}", xml.getAbsolutePath());
+                faoMetadataHelper = new FAOMetadataHelper(xml, fileLogger);
+                faoMetadataHelper.parseAgrisapXML();
+                HashMap<String, Element> agsResources = faoMetadataHelper.getAgsResource();
+                Iterator<String> agsResourceIt =
+                        agsResources.keySet().iterator();
+
+                while (agsResourceIt.hasNext()) {
+                    String faoExtraId = agsResourceIt.next();
+                    Element faoResource = agsResources.get(faoExtraId);
+                    agrisap = new Agrisap(xml, fileLogger, automaticLangDetector);
+                    agrisap.parseAgrisapXML(faoResource);
+
+                    faoHarvestingId = xml.getAbsolutePath();
+                    faoHarvestingId = faoHarvestingId.replace(portalUpdaterConf.getFaoAgrisFolder().getAbsolutePath(), "");
+                    faoHarvestingId = "fao:" + faoHarvestingId;
+                    faoHarvestingId = faoHarvestingId.replace(".xml", "_xml/" + faoExtraId);
+                    contentItemsStored++;
+                    if (contentItemsStored % CALL_GC == 0) {
+                        System.gc();
+                    }
+                }
+            }
+        }
+
+        Logger.getLogger(Main.class.getName()).log(Level.INFO,
+                "END: Number of content items stored or update {0}",
+                contentItemsStored);
+
+        if (contentItemsStored == 0) {
+            try {
+                File finishedFile = new File(System.getProperty("user.dir")
+                        + System.getProperty("file.separator") + "etc"
+                        + System.getProperty("file.separator") + ".storageFinished");
+                Logger.getLogger(Main.class.getName()).log(Level.INFO,
+                        "All resources have been stored.");
+                finishedFile.createNewFile();
+            } catch (IOException ex) {
+                Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null,
+                        ex);
+            }
+        }
+	*/
+    }//end of main method
+
+    public static void SetInitialData(String xmlFile, String repository) throws SQLException {
+        Connection connection = null;
+        Statement stmt;
+        try {
+            connection = DriverManager.getConnection("jdbc:mysql://127.0.0.1/voa3r_stats",
+                    "root", "tragasables");
+            stmt = connection.createStatement();
+            String insertScript = ("INSERT INTO voa3r_stats.voa3r_completeness VALUES "
+                    + "(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)");
+            PreparedStatement addData = connection.prepareStatement(insertScript);
+            addData.setString(1, xmlFile);
+            addData.setString(2, repository);
+            addData.setInt(3, 0);
+            addData.setInt(4, 0);
+            addData.setInt(5, 0);
+            addData.setInt(6, 0);
+            addData.setInt(7, 0);
+            addData.setInt(8, 0);
+            addData.setInt(9, 0);
+            addData.setInt(10, 0);
+            addData.setInt(11, 0);
+            addData.setInt(12, 0);
+            addData.setInt(13, 0);
+            addData.setInt(14, 0);
+            addData.setInt(15, 0);
+            addData.setInt(16, 0);
+            addData.setInt(17, 0);
+            addData.executeUpdate();
+            addData.close();
+            stmt.close();
+            connection.close();
+        } catch (Exception error) {
+            System.out.println(error.getMessage());
+        }
+    }
+}

@@ -1,0 +1,249 @@
+/*
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+package es.uah.cc.ie.utils;
+
+import es.uah.cc.ie.portalupdater.*;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import org.jdom.Document;
+import org.jdom.Element;
+import org.jdom.JDOMException;
+import org.jdom.input.JDOMParseException;
+import org.jdom.input.SAXBuilder;
+// import org.ontspace.MetadataRecordReference;
+
+/**
+ * This class contains the code needed to keep up to date the files obtained through
+ * the harvesting process, the ont-space repository and the web portal installation.
+ * @version 0.8
+ */
+public class XMLValidator {
+
+    /**
+     * main method used to keep shyncronized the harvested files obtained from an
+     * institutional repository installation with the web portal CMS and the
+     * ont-space repository
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        //1-Read the configuration file and make some standar tasks like stablish
+        //     the mysql connection.
+        //2-Read the XML files obtained from the harvesting process
+        //3-Remove the content items that are no longer available in the
+        //     original repositories
+        //4-Trnaslate and store each XML file into the ont-space repository
+        //5-If the previous step worked withour errors, then store the XML file
+        //     in the joomla database like an article.
+
+        //Section 1: CONFIGURATION
+        String configFileCMSUpdater;
+        System.out.println("One parameter must been set up to use the program:");
+        System.out.println("  - CMSupdater Configuration File");
+        //it is possible to set up the parameters using the command line
+        if (args.length == 1) {
+            System.out.println("Using the values obtained in the command line.");
+            configFileCMSUpdater = args[0];
+        } else {
+            System.out.println(
+                "Using the default values for the mandatory parameters.");
+            configFileCMSUpdater = System.getProperty("user.dir")
+                + System.getProperty("file.separator") + "etc"
+                + System.getProperty("file.separator") + "conf.xml";
+        }
+        System.out.println("  - CMSupdater Configuration File: "
+            + configFileCMSUpdater);
+
+        PortalUpdaterConf portalUpdaterConf = new PortalUpdaterConf(
+            configFileCMSUpdater);
+
+        String logFilePath = System.getProperty("user.dir")
+            + System.getProperty("file.separator") + "log"
+            + System.getProperty("file.separator") + "XMLValidation.txt";
+
+        PrintWriter logFile = null;
+        try {
+            logFile = new PrintWriter(new FileWriter(logFilePath));
+        } catch (IOException ex) {
+            Logger.getLogger(XMLValidator.class.getName()).
+                log(Level.SEVERE, null, ex);
+        }
+
+        //this counter will be used to call the garbage collector
+        int totalContentItems = 0;
+        final int CALL_GC = 400;
+        final int PRINT_NEW_LINE = 40000;
+        int xmlChecked = 0;
+        int validDC = 0;
+        int totalDC = 0;
+        int validAGRIS = 0;
+        int totalAGRIS = 0;
+        int validQDC = 0;
+        int totalQDC = 0;
+        int validMODS = 0;
+        int totalMODS = 0;
+        int validFAOXMLs = 0;
+        int totalFAOItems = 0;
+        int totalFAOXMLs = 0;
+
+        String xsdLocation = "http://www.openarchives.org/OAI/2.0/oai_dc.xsd";
+        SAXBuilder builder = new SAXBuilder(
+            "org.apache.xerces.parsers.SAXParser", true);
+        builder.setFeature("http://apache.org/xml/features/validation/schema",
+            true);
+        builder.setProperty(
+            "http://apache.org/xml/properties/schema/external-schemaLocation",
+            xsdLocation);
+        Document doc = null;
+
+        //Section 2: HARVESTED XML FILES
+        XMLMetadataFiles xmlFiles = new XMLMetadataFiles();
+        HashMap<String, ArrayList<File>> harvestedXMLFiles =
+            xmlFiles.readXMLFiles(portalUpdaterConf.getHarvestingFolder());
+
+        //SECTION 3: CHECK XMLs
+        ArrayList<File> dcFiles = harvestedXMLFiles.get("DC");
+        MetadataRecordReference recordReference;
+        if (dcFiles != null) {
+            //we need to check that there are some files to store or update
+            for (File xml : dcFiles) {
+//                Logger.getLogger(XMLValidator.class.getName()).log(Level.INFO,
+//                    "File {0}", xml.getAbsolutePath());
+                try {
+                    doc = builder.build(xml);
+                    Element root = doc.getRootElement();
+                    validDC++;
+                } catch (JDOMParseException ex) {
+                    logFile.println(xml.getAbsolutePath());
+                } catch (JDOMException ex) {
+                    logFile.println(xml.getAbsolutePath());
+                } catch (IOException ex) {
+                    logFile.println(xml.getAbsolutePath());
+                }
+                totalDC++;
+                xmlChecked++;
+                totalContentItems++;
+                if (totalContentItems % CALL_GC == 0) {
+                    System.gc();
+                }
+                if (totalContentItems % PRINT_NEW_LINE == 0) {
+                    System.out.println("######################"
+                        + " content items checked so far: " + totalContentItems);
+                }
+            }
+        }
+
+        ArrayList<File> agrisFiles = harvestedXMLFiles.get("AGRIS");
+        if (agrisFiles != null) {
+            //we need to check that there are some files to store or update
+            for (File xml : agrisFiles) {
+//                Logger.getLogger(XMLValidator.class.getName()).log(Level.INFO,
+//                    "File {0}", xml.getAbsolutePath());
+                try {
+                    doc = builder.build(xml);
+                    Element root = doc.getRootElement();
+                    validAGRIS++;
+                } catch (JDOMParseException ex) {
+                    logFile.println(xml.getAbsolutePath());
+                } catch (JDOMException ex) {
+                    logFile.println(xml.getAbsolutePath());
+                } catch (IOException ex) {
+                    logFile.println(xml.getAbsolutePath());
+                }
+                totalAGRIS++;
+                xmlChecked++;
+                totalContentItems++;
+                if (totalContentItems % CALL_GC == 0) {
+                    System.gc();
+                }
+                if (totalContentItems % PRINT_NEW_LINE == 0) {
+                    System.out.println("######################"
+                        + " content items checked so far: " + totalContentItems);
+                }
+            }
+        }
+
+        ArrayList<File> faoXMLDatesFolder =
+            xmlFiles.readFAOXMLDates(portalUpdaterConf.getFaoAgrisFolder());
+        String faoHarvestingId;
+        FAOMetadataHelper faoMetadataHelper;
+        for (File dateFolder : faoXMLDatesFolder) {
+            ArrayList<File> faoXMLFiles = xmlFiles.readFAOXMLFiles(dateFolder);
+            for (File xml : faoXMLFiles) {
+//                Logger.getLogger(XMLValidator.class.getName()).log(Level.INFO,
+//                    "File {0}", xml.getAbsolutePath());
+                try {
+                    faoMetadataHelper = new FAOMetadataHelper(xml);
+                    faoMetadataHelper.parseAgrisapXML();
+                    HashMap<String, Element> agsResources = faoMetadataHelper.
+                        getAgsResource();
+                    doc = builder.build(xml);
+                    Element root = doc.getRootElement();
+                    validFAOXMLs++;
+                    totalFAOItems += agsResources.keySet().size();
+                    totalContentItems += agsResources.keySet().size();
+                } catch (JDOMParseException ex) {
+                    logFile.println(xml.getAbsolutePath());
+                } catch (JDOMException ex) {
+                    logFile.println(xml.getAbsolutePath());
+                } catch (IOException ex) {
+                    logFile.println(xml.getAbsolutePath());
+                }
+
+                if (totalContentItems % CALL_GC == 0) {
+                    System.gc();
+                }
+                if (totalContentItems % PRINT_NEW_LINE == 0) {
+                    System.out.println("######################"
+                        + " content items checked so far: "
+                        + totalContentItems);
+                }
+                totalFAOXMLs++;
+                xmlChecked++;
+            }
+        }
+
+        if (logFile != null) {
+            logFile.flush();
+            logFile.close();
+        }
+
+        int totalErrors = (totalDC - validDC) + (totalQDC - validQDC) + (totalMODS
+            - validMODS) + (totalAGRIS - validAGRIS) + (totalFAOXMLs
+            - validFAOXMLs);
+
+        System.out.println("General statistics:");
+        System.out.println(" - Number of content items: " + totalContentItems);
+        System.out.println(" - Number of XML checked: " + xmlChecked);
+        System.out.println(" - DC: Valid " + validDC);
+        System.out.println(" - DC: Total " + totalDC);
+        System.out.println(" - QDC: Valid " + validQDC);
+        System.out.println(" - QDC: Total " + totalQDC);
+        System.out.println(" - MODS: Valid " + validMODS);
+        System.out.println(" - MODS: Total " + totalMODS);
+        System.out.println(" - AGRIS: Valid " + validAGRIS);
+        System.out.println(" - AGRIS: Total " + totalAGRIS);
+        System.out.println(" - FAO AGRIS: Total items " + totalFAOItems);
+        System.out.println(" - FAO AGRIS: Valid XMLs " + validFAOXMLs);
+        System.out.println(" - FAO AGRIS: Total XMLs " + totalFAOXMLs);
+        System.out.println("\nTotal Errors " + totalErrors);
+
+    }//end of main method
+}

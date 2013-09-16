@@ -1,0 +1,185 @@
+<!--==========================================================================================================-->
+<!-- 	legacy.dtd - This is the Document Type Definition prepared and used for the conversion of the AGRIS legacy dayta (1975-2004) to XML
+It is based on the current DTD (http://purl.org/agmes/agrisap/dtd/) and has been prepared by the GILW  group on 18 February 2005
+It provides more flexibility and has other ad hoc changes for AGROVOC and non AGROVOC terms -->
+<!--==========================================================================================================-->
+<!-- Namespaces URIs declarations -->
+<!ENTITY agsns "http://purl.org/agmes/1.1/">
+<!ENTITY dcns "http://purl.org/dc/elements/1.1/">
+<!ENTITY aglsns "http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2">
+<!ENTITY dctermsns "http://purl.org/dc/terms/">
+<!-- Convenience entities for XML namespace declarations -->
+<!ENTITY % agsnsdecl "xmlns:ags CDATA #FIXED &quot;&agsns;&quot;">
+<!ENTITY % dcnsdecl "xmlns:dc CDATA #FIXED &quot;&dcns;&quot;">
+<!ENTITY % aglsnsdecl "xmlns:agls CDATA #FIXED &quot;&aglsns;&quot;">
+<!ENTITY % dctermsnsdecl "xmlns:dcterms CDATA #FIXED &quot;&dctermsns;&quot;">
+<!-- The root element -->
+<!ELEMENT ags:resources (ags:resource+)>
+<!ATTLIST ags:resources
+	xmlns:ags CDATA #FIXED "http://purl.org/agmes/1.1/"
+	xmlns:dc CDATA #FIXED "http://purl.org/dc/elements/1.1/"
+	xmlns:agls CDATA #FIXED "http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2"
+	xmlns:dcterms CDATA #FIXED "http://purl.org/dc/terms/"
+>
+<!ATTLIST ags:resource
+	ags:ARN ID #IMPLIED
+>
+<!ELEMENT ags:resource (dc:title+, dc:creator*, dc:publisher*, dc:date*, dc:subject+, dc:description*, dc:identifier*, dc:type*, dc:format*, dc:language*, dc:relation*, agls:availability*, dc:source*, dc:coverage*, dc:rights*, ags:citation*)>
+<!-- ELEMENT title -->
+<!ELEMENT dc:title (#PCDATA | dcterms:alternative)*>
+<!ATTLIST dc:title
+	xml:lang CDATA #IMPLIED
+>
+<!ELEMENT dcterms:alternative (#PCDATA)>
+<!ATTLIST dcterms:alternative
+	xml:lang CDATA #IMPLIED
+>
+<!-- ELEMENT creator -->
+<!ELEMENT dc:creator (ags:creatorPersonal | ags:creatorCorporate | ags:creatorConference)*>
+<!ELEMENT ags:creatorPersonal (#PCDATA)>
+<!ELEMENT ags:creatorCorporate (#PCDATA)>
+<!ELEMENT ags:creatorConference (#PCDATA)>
+<!-- ELEMENT publisher -->
+<!ELEMENT dc:publisher (ags:publisherName | ags:publisherPlace)*>
+<!ELEMENT ags:publisherName (#PCDATA)>
+<!ELEMENT ags:publisherPlace (#PCDATA)>
+<!-- ELEMENT date -->
+<!ELEMENT dc:date (dcterms:dateIssued*)>
+<!ELEMENT dcterms:dateIssued (#PCDATA)>
+<!ATTLIST dcterms:dateIssued
+	scheme (dcterms:W3CDTF) #IMPLIED
+>
+<!-- ELEMENT subject -->
+<!ELEMENT dc:subject (#PCDATA | ags:subjectClassification | ags:subjectThesaurus)*>
+<!ATTLIST dc:subject
+	xml:lang CDATA #IMPLIED
+>
+<!ELEMENT ags:subjectClassification (#PCDATA)>
+<!ATTLIST ags:subjectClassification
+	scheme (ags:ASC | ags:CABC | dcterms:DDC | dcterms:LCC | dcterms:UDC) #IMPLIED
+>
+<!ELEMENT ags:subjectThesaurus (#PCDATA)>
+<!ATTLIST ags:subjectThesaurus
+	xml:lang CDATA #IMPLIED
+	scheme (ags:AGROVOC | AGROVOCIAD | AGROVOCCAD | AGROVOCUpTerms | proposedTerms | localTerms | ags:NALT | ags:ASFAT | dcterms:LCSH | dcterms:MeSH | ags:CABT) #IMPLIED
+>
+<!-- ELEMENT description -->
+<!ELEMENT dc:description (ags:descriptionNotes | ags:descriptionEdition | dcterms:abstract)*>
+<!ELEMENT ags:descriptionNotes (#PCDATA)>
+<!ELEMENT ags:descriptionEdition (#PCDATA)>
+<!ELEMENT dcterms:abstract (#PCDATA)>
+<!ATTLIST dcterms:abstract
+	xml:lang CDATA #IMPLIED
+>
+<!-- ELEMENT identifier -->
+<!ELEMENT dc:identifier (#PCDATA)>
+<!ATTLIST dc:identifier
+	scheme (ags:IPC | ags:RN | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:DOI) #IMPLIED
+>
+<!-- ELEMENT type -->
+<!ELEMENT dc:type (#PCDATA)>
+<!ATTLIST dc:type
+	scheme (dcterms:DCMIType) #IMPLIED
+>
+<!-- ELEMENT format -->
+<!ELEMENT dc:format (dcterms:extent | dcterms:medium)*>
+<!ELEMENT dcterms:extent (#PCDATA)>
+<!ELEMENT dcterms:medium (#PCDATA)>
+<!ATTLIST dcterms:medium
+	scheme (dcterms:IMT) #IMPLIED
+>
+<!-- ELEMENT language -->
+<!ELEMENT dc:language (#PCDATA)>
+<!ATTLIST dc:language
+	scheme (ags:ISO639-1 | dcterms:ISO639-2) #IMPLIED
+>
+<!-- ELEMENT relation -->
+<!ELEMENT dc:relation (dcterms:isPartOf | dcterms:hasPart | dcterms:isVersionOf | dcterms:hasVersion | dcterms:isFormatOf | dcterms:hasFormat | dcterms:references | dcterms:isReferencedBy | dcterms:isIMPLIEDBy | dcterms:requires | dcterms:isReplacedBy | dcterms:replaces | ags:relationHasTranslation | ags:relationIsTranslationOf)*>
+<!ELEMENT dcterms:isPartOf (#PCDATA)>
+<!ATTLIST dcterms:isPartOf
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI) #IMPLIED
+>
+<!ELEMENT dcterms:hasPart (#PCDATA)>
+<!ATTLIST dcterms:hasPart
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI) #IMPLIED
+>
+<!ELEMENT dcterms:isVersionOf (#PCDATA)>
+<!ATTLIST dcterms:isVersionOf
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI) #IMPLIED
+>
+<!ELEMENT dcterms:hasVersion (#PCDATA)>
+<!ATTLIST dcterms:hasVersion
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI) #IMPLIED
+>
+<!ELEMENT dcterms:isFormatOf (#PCDATA)>
+<!ATTLIST dcterms:isFormatOf
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI) #IMPLIED
+>
+<!ELEMENT dcterms:hasFormat (#PCDATA)>
+<!ATTLIST dcterms:hasFormat
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI) #IMPLIED
+>
+<!ELEMENT dcterms:references (#PCDATA)>
+<!ATTLIST dcterms:references
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI) #IMPLIED
+>
+<!ELEMENT dcterms:isReferencedBy (#PCDATA)>
+<!ATTLIST dcterms:isReferencedBy
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI) #IMPLIED
+>
+<!ELEMENT dcterms:isIMPLIEDBy (#PCDATA)>
+<!ATTLIST dcterms:isIMPLIEDBy
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI) #IMPLIED
+>
+<!ELEMENT dcterms:requires (#PCDATA)>
+<!ATTLIST dcterms:requires
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI) #IMPLIED
+>
+<!ELEMENT dcterms:isReplacedBy (#PCDATA)>
+<!ATTLIST dcterms:isReplacedBy
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI) #IMPLIED
+>
+<!ELEMENT dcterms:replaces (#PCDATA)>
+<!ATTLIST dcterms:replaces
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI) #IMPLIED
+>
+<!ELEMENT ags:relationHasTranslation (#PCDATA)>
+<!ATTLIST ags:relationHasTranslation
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI) #IMPLIED
+>
+<!ELEMENT ags:relationIsTranslationOf (#PCDATA)>
+<!ATTLIST ags:relationIsTranslationOf
+	scheme (ags:IPC | ags:PN | ags:ISBN | ags:JN | dcterms:URI | ags:RN | ags:DOI) #IMPLIED
+>
+<!-- ELEMENT availability -->
+<!ELEMENT agls:availability (ags:availabilityLocation, ags:availabilityNumber)*>
+<!ELEMENT ags:availabilityLocation (#PCDATA)>
+<!ELEMENT ags:availabilityNumber (#PCDATA)>
+<!-- ELEMENT source -->
+<!ELEMENT dc:source (#PCDATA)>
+<!-- ELEMENT coverage -->
+<!ELEMENT dc:coverage (#PCDATA | dcterms:spatial | dcterms:temporal)*>
+<!ELEMENT dcterms:spatial (#PCDATA)>
+<!ATTLIST dcterms:spatial
+	scheme (dcterms:Point | dcterms:ISO3166 | dcterms:TGN | dcterms:Box) #IMPLIED
+>
+<!ELEMENT dcterms:temporal (#PCDATA)>
+<!ATTLIST dcterms:temporal
+	scheme (dcterms:Period | dcterms:W3CDTF) #IMPLIED
+>
+<!-- ELEMENT rights -->
+<!ELEMENT dc:rights (#PCDATA | ags:rightsStatement | ags:rightsTermsOfUse)*>
+<!ELEMENT ags:rightsStatement (#PCDATA)>
+<!ELEMENT ags:rightsTermsOfUse (#PCDATA)>
+<!-- ELEMENT citation -->
+<!ELEMENT ags:citation (ags:citationTitle | ags:citationIdentifier | ags:citationNumber | ags:citationChronology)*>
+<!ELEMENT ags:citationTitle (#PCDATA)>
+<!ATTLIST ags:citationTitle
+	xml:lang CDATA #IMPLIED
+>
+<!ELEMENT ags:citationIdentifier (#PCDATA)>
+<!ATTLIST ags:citationIdentifier
+	scheme (ags:ISSN | ags:CODEN) #IMPLIED
+>
+<!ELEMENT ags:citationNumber (#PCDATA)>
+<!ELEMENT ags:citationChronology (#PCDATA)>

@@ -1,0 +1,422 @@
+/*
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+package es.uah.cc.ie.portalupdater;
+
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import org.ontspace.MetadataRecordReference;
+import org.ontspace.MetadataRepository;
+import org.ontspace.agrisap.owl.AgrisapQueryManagerImpl;
+import org.ontspace.agrisap.translator.Agrisap;
+import org.ontspace.dc.owl.DCQueryManagerImpl;
+import org.ontspace.dc.translator.DublinCore;
+import org.ontspace.mods.owl.ModsQueryManagerImpl;
+import org.ontspace.mods.translator.Mods;
+import org.ontspace.owl.MetadataRepositoryFactory;
+import org.ontspace.owl.util.MetadataRepositoryConfigException;
+import org.ontspace.owl.util.OntologyNotInRepositoryException;
+import org.ontspace.owl.util.OntspaceConfiguration;
+import org.ontspace.owl.util.QMConfiguration;
+import org.ontspace.qdc.owl.QDCQueryManagerImpl;
+import org.ontspace.resource.owl.ResourceQueryManagerImpl;
+import org.ontspace.voa3rap2.owl.Voa3rAP2QueryManagerImpl;
+import org.ontspace.voa3rap2.translator.Voa3rAP2;
+import org.ontspace.voa3rap4.owl.Voa3rAP4QueryManagerImpl;
+import org.ontspace.voa3rap4.translator.Voa3rAP4;
+
+/**
+ * This class contains the code needed to execute the ont-space related methods
+ * @author abian
+ */
+public class OntSpaceHandler {
+
+    MetadataRepository _rep = null;
+    ResourceQueryManagerImpl _resourceQM = null;
+    DCQueryManagerImpl _dcQM = null;
+    QDCQueryManagerImpl _qdcQM = null;
+    AgrisapQueryManagerImpl _agrisQM = null;
+    ModsQueryManagerImpl _modsQM = null;
+    Voa3rAP2QueryManagerImpl _vap2QM = null;
+    Voa3rAP4QueryManagerImpl _vap4QM = null;
+    static String _configFileOntSpace = null;
+    static int _storedCounter = 0;
+    static final int _limit = 1000;
+
+    /**
+     * Public class constructor
+     * @param configFileOntSpace Configuration file with information about the
+     * installation of the ont-space repository
+     */
+    public OntSpaceHandler(String configFileOntSpace) {
+        this._configFileOntSpace = configFileOntSpace;
+        this.createRepositoryConnection(configFileOntSpace);
+    }
+
+    /**
+     * This method sets up the communication with the ont-space respository
+     */
+    private void createRepositoryConnection(String configFileOntSpace) {
+        try {
+            OntspaceConfiguration confOntSpace =
+                    new OntspaceConfiguration(configFileOntSpace);
+            try {
+                _rep =
+                        MetadataRepositoryFactory.createOrOpenMetadataRepository(
+                        confOntSpace);
+            } catch (MetadataRepositoryConfigException ex1) {
+                Logger.getLogger(OntSpaceHandler.class.getName()).
+                        log(Level.SEVERE, null, ex1);
+            }
+            System.out.println("Public repository URI: "
+                    + _rep.getRepositoryURI());
+            //QMs creation
+            this.obtainQMs(confOntSpace);
+
+        } catch (MetadataRepositoryConfigException ex) {
+            Logger.getLogger(OntSpaceHandler.class.getName()).
+                    log(Level.SEVERE, null, ex);
+        }
+    }
+
+    private void obtainQMs(OntspaceConfiguration confOntSpace) {
+        this.obtainResourceQM(confOntSpace);
+        this.obtainDCQM(confOntSpace);
+        this.obtainQDCQM(confOntSpace);
+        this.obtainAgrisQM(confOntSpace);
+        this.obtainModsQM(confOntSpace);
+        this.obtainVoa3rAP2QM(confOntSpace);
+        this.obtainVoa3rAP4QM(confOntSpace);
+    }
+
+    private void obtainResourceQM(OntspaceConfiguration confOntSpace) {
+        try {
+            System.out.println("OBTAINING resource QM");
+            HashMap<String, Object> params =
+                    new HashMap<String, Object>(confOntSpace.getOntologies());
+            QMConfiguration qmConf = confOntSpace.getQms().get(
+                    QMConfiguration.QMType.RESOURCE);
+            Iterator<String> qmSpecificOntsIt = qmConf.getOntologyUris().
+                    iterator();
+            String specificOnt;
+            HashMap<String, Object> qmParams = new HashMap<String, Object>();
+            while (qmSpecificOntsIt.hasNext()) {
+                specificOnt = qmSpecificOntsIt.next();
+                qmParams.put(specificOnt, params.get(specificOnt));
+            }
+            System.out.println("QM java class: " + qmConf.getJavaClass());
+            _resourceQM = (ResourceQueryManagerImpl) _rep.getQueryManager(qmConf.
+                    getJavaClass(), qmParams);
+        } catch (OntologyNotInRepositoryException ex) {
+            Logger.getLogger(OntSpaceHandler.class.getName()).
+                    log(Level.SEVERE, null, ex);
+        }
+    }
+
+    private void obtainDCQM(OntspaceConfiguration confOntSpace) {
+        try {
+            System.out.println("OBTAINING DC QM");
+            HashMap<String, Object> params =
+                    new HashMap<String, Object>(confOntSpace.getOntologies());
+            QMConfiguration qmConf = confOntSpace.getQms().get(
+                    QMConfiguration.QMType.DC);
+            Iterator<String> qmSpecificOntsIt = qmConf.getOntologyUris().
+                    iterator();
+            String specificOnt;
+            HashMap<String, Object> qmParams = new HashMap<String, Object>();
+            while (qmSpecificOntsIt.hasNext()) {
+                specificOnt = qmSpecificOntsIt.next();
+                qmParams.put(specificOnt, params.get(specificOnt));
+            }
+            System.out.println("QM java class: " + qmConf.getJavaClass());
+            _dcQM = (DCQueryManagerImpl) _rep.getQueryManager(qmConf.
+                    getJavaClass(), qmParams);
+        } catch (OntologyNotInRepositoryException ex) {
+            Logger.getLogger(OntSpaceHandler.class.getName()).
+                    log(Level.SEVERE, null, ex);
+        }
+    }
+
+    private void obtainQDCQM(OntspaceConfiguration confOntSpace) {
+        try {
+            System.out.println("OBTAINING QDC QM");
+            HashMap<String, Object> params =
+                    new HashMap<String, Object>(confOntSpace.getOntologies());
+            QMConfiguration qmConf = confOntSpace.getQms().get(
+                    QMConfiguration.QMType.QDC);
+            Iterator<String> qmSpecificOntsIt = qmConf.getOntologyUris().
+                    iterator();
+            String specificOnt;
+            HashMap<String, Object> qmParams = new HashMap<String, Object>();
+            while (qmSpecificOntsIt.hasNext()) {
+                specificOnt = qmSpecificOntsIt.next();
+                qmParams.put(specificOnt, params.get(specificOnt));
+            }
+            System.out.println("QM java class: " + qmConf.getJavaClass());
+            _qdcQM = (QDCQueryManagerImpl) _rep.getQueryManager(qmConf.
+                    getJavaClass(), qmParams);
+        } catch (OntologyNotInRepositoryException ex) {
+            Logger.getLogger(OntSpaceHandler.class.getName()).
+                    log(Level.SEVERE, null, ex);
+        }
+    }
+
+    private void obtainAgrisQM(OntspaceConfiguration confOntSpace) {
+        try {
+            System.out.println("OBTAINING Agris QM");
+            HashMap<String, Object> params =
+                    new HashMap<String, Object>(confOntSpace.getOntologies());
+            QMConfiguration qmConf = confOntSpace.getQms().get(
+                    QMConfiguration.QMType.AGRIS);
+            Iterator<String> qmSpecificOntsIt = qmConf.getOntologyUris().
+                    iterator();
+            String specificOnt;
+            HashMap<String, Object> qmParams = new HashMap<String, Object>();
+            while (qmSpecificOntsIt.hasNext()) {
+                specificOnt = qmSpecificOntsIt.next();
+                qmParams.put(specificOnt, params.get(specificOnt));
+            }
+            System.out.println("QM java class: " + qmConf.getJavaClass());
+            _agrisQM = (AgrisapQueryManagerImpl) _rep.getQueryManager(qmConf.
+                    getJavaClass(), qmParams);
+        } catch (OntologyNotInRepositoryException ex) {
+            Logger.getLogger(OntSpaceHandler.class.getName()).
+                    log(Level.SEVERE, null, ex);
+        }
+    }
+
+    private void obtainModsQM(OntspaceConfiguration confOntSpace) {
+        try {
+            System.out.println("OBTAINING MODS QM");
+            HashMap<String, Object> params =
+                    new HashMap<String, Object>(confOntSpace.getOntologies());
+            QMConfiguration qmConf = confOntSpace.getQms().get(
+                    QMConfiguration.QMType.MODS);
+            Iterator<String> qmSpecificOntsIt = qmConf.getOntologyUris().
+                    iterator();
+            String specificOnt;
+            HashMap<String, Object> qmParams = new HashMap<String, Object>();
+            while (qmSpecificOntsIt.hasNext()) {
+                specificOnt = qmSpecificOntsIt.next();
+                qmParams.put(specificOnt, params.get(specificOnt));
+            }
+            System.out.println("QM java class: " + qmConf.getJavaClass());
+            _modsQM = (ModsQueryManagerImpl) _rep.getQueryManager(qmConf.
+                    getJavaClass(), qmParams);
+        } catch (OntologyNotInRepositoryException ex) {
+            Logger.getLogger(OntSpaceHandler.class.getName()).
+                    log(Level.SEVERE, null, ex);
+        }
+    }
+
+    private void obtainVoa3rAP2QM(OntspaceConfiguration confOntSpace) {
+        try {
+            System.out.println("OBTAINING vap2 QM");
+            HashMap<String, Object> params =
+                    new HashMap<String, Object>(confOntSpace.getOntologies());
+            QMConfiguration qmConf = confOntSpace.getQms().get(
+                    QMConfiguration.QMType.VOA3RAP2);
+            Iterator<String> qmSpecificOntsIt = qmConf.getOntologyUris().
+                    iterator();
+            String specificOnt;
+            HashMap<String, Object> qmParams = new HashMap<String, Object>();
+            while (qmSpecificOntsIt.hasNext()) {
+                specificOnt = qmSpecificOntsIt.next();
+                qmParams.put(specificOnt, params.get(specificOnt));
+            }
+            System.out.println("QM java class: " + qmConf.getJavaClass());
+            _vap2QM = (Voa3rAP2QueryManagerImpl) _rep.getQueryManager(qmConf.
+                    getJavaClass(), qmParams);
+        } catch (OntologyNotInRepositoryException ex) {
+            Logger.getLogger(OntSpaceHandler.class.getName()).
+                    log(Level.SEVERE, null, ex);
+        }
+    }
+    
+    private void obtainVoa3rAP4QM(OntspaceConfiguration confOntSpace) {
+        try {
+            System.out.println("OBTAINING vap4 QM");
+            HashMap<String, Object> params =
+                    new HashMap<String, Object>(confOntSpace.getOntologies());
+            QMConfiguration qmConf = confOntSpace.getQms().get(
+                    QMConfiguration.QMType.VOA3RAP4);
+            Iterator<String> qmSpecificOntsIt = qmConf.getOntologyUris().
+                    iterator();
+            String specificOnt;
+            HashMap<String, Object> qmParams = new HashMap<String, Object>();
+            while (qmSpecificOntsIt.hasNext()) {
+                specificOnt = qmSpecificOntsIt.next();
+                qmParams.put(specificOnt, params.get(specificOnt));
+            }
+            System.out.println("QM java class: " + qmConf.getJavaClass());
+            _vap4QM = (Voa3rAP4QueryManagerImpl) _rep.getQueryManager(qmConf.
+                    getJavaClass(), qmParams);
+        } catch (OntologyNotInRepositoryException ex) {
+            Logger.getLogger(OntSpaceHandler.class.getName()).
+                    log(Level.SEVERE, null, ex);
+        }
+    }
+    
+    /**
+     * This methods prints the repository URI
+     */
+    public void printRepositoryURI() {
+        System.out.println(_rep.getRepositoryURI());
+    }
+
+    /**
+     * This method removes a content item in ont-space
+     * @param deletedId
+     * @return
+     */
+    public boolean remove(String deletedId) {
+        //TODO
+        boolean result = true;
+
+        System.out.println("Ont-Space: trying to remove " + deletedId);
+        //String loToDelete = _dcQM.loExistsInRepository(deletedId);
+        //_dcQM.removeIndividualURI(loToDelete);
+
+        return result;
+    }
+
+    @Deprecated
+    public boolean existLO(DublinCore dc) {
+        //TODO
+        boolean result = false;
+
+        //String loId = _dcQM.loExistsInRepository(id);
+
+        return result;
+    }
+
+    private void checkAndReopenRepository(){
+        if (++_storedCounter % _limit == 0){
+            this.closeRepository();
+            this.createRepositoryConnection(_configFileOntSpace);
+        }
+    }
+    
+    public MetadataRecordReference storeDC(DublinCore dc) {
+        this.checkAndReopenRepository();
+        MetadataRecordReference result = null;
+        try {
+            result = _dcQM.storeNewDublinCore(dc);
+        } catch (Exception ex) {
+            Logger.getLogger(OntSpaceHandler.class.getName()).log(Level.SEVERE,
+                    null, ex);
+        }
+        return result;
+    }
+
+    //TODO
+    public boolean updateDC(DublinCore dc) {
+        boolean result = true;
+
+        Logger.getLogger(Main.class.getName()).log(Level.INFO, "Updating...");
+
+        return result;
+    }
+
+    public MetadataRecordReference storeMODS(Mods mods) {
+        this.checkAndReopenRepository();
+        MetadataRecordReference result = null;
+        try {
+            result = _modsQM.storeNewMods(mods);
+        } catch (Exception ex) {
+            Logger.getLogger(OntSpaceHandler.class.getName()).log(Level.SEVERE,
+                    null, ex);
+        }
+        return result;
+    }
+
+    //TODO
+    public boolean updateMODS(Mods mods) {
+        boolean result = true;
+
+        Logger.getLogger(Main.class.getName()).log(Level.INFO, "Updating...");
+
+        return result;
+    }
+    
+    /**
+     * This method closes the reposiroty
+     **/
+    public void closeRepository() {
+        _rep.close();
+    }
+
+    public MetadataRecordReference storeAgris(Agrisap agrisap) {
+        this.checkAndReopenRepository();
+        MetadataRecordReference result = null;
+        try {
+            result = _agrisQM.storeNewAgrisap(agrisap);
+        } catch (Exception ex) {
+            Logger.getLogger(OntSpaceHandler.class.getName()).log(Level.SEVERE,
+                    null, ex);
+        }
+        return result;
+    }
+
+    //TODO
+    public boolean updateAgris(Agrisap agrisap) {
+        boolean result = true;
+
+        Logger.getLogger(Main.class.getName()).log(Level.INFO, "Updating...");
+
+        return result;
+    }
+    
+    public MetadataRecordReference storeVoa3rAP2(Voa3rAP2 vap2) {
+        this.checkAndReopenRepository();
+        MetadataRecordReference result = null;
+        try {
+            result = _vap2QM.storeNewVoa3rAP2(vap2);
+        } catch (Exception ex) {
+            Logger.getLogger(OntSpaceHandler.class.getName()).log(Level.SEVERE, "Error storing vap2 in ontology", ex);
+        }
+        return result;
+    }
+
+    //TODO
+    public boolean updateVoa3rAP2(Voa3rAP2 vap2) {
+        boolean result = true;
+
+        Logger.getLogger(Main.class.getName()).log(Level.INFO, "Updating...");
+
+        return result;
+    }
+    
+    public MetadataRecordReference storeVoa3rAP4(Voa3rAP4 vap4) {
+        this.checkAndReopenRepository();
+        MetadataRecordReference result = null;
+        try {
+            result = _vap4QM.storeNewVoa3rAP4(vap4);
+        } catch (Exception ex) {
+            Logger.getLogger(OntSpaceHandler.class.getName()).log(Level.SEVERE, "Error storing vap4 in ontology", ex);
+        }
+        return result;
+    }
+
+    //TODO
+    public boolean updateVoa3rAP4(Voa3rAP4 vap4) {
+        boolean result = true;
+
+        Logger.getLogger(Main.class.getName()).log(Level.INFO, "Updating...");
+
+        return result;
+    }
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portalupdater>
+    <mysql>
+        <mysqlURI>jdbc:mysql://127.0.0.1:3306/voa3r_content</mysqlURI>
+        <user>root</user>
+        <password>hrgGfs5s</password>
+    </mysql>
+    <cerif>
+        <mysqlURI>jdbc:mysql://127.0.0.1:3306/cerif</mysqlURI>
+        <user>root</user>
+        <password>hrgGfs5s</password>
+    </cerif>
+    <harvestingFolder>/opt/voa3r/harvested_files</harvestingFolder>
+    <faoAgrisFolder>/opt/voa3r/FAO</faoAgrisFolder>
+    <ontspaceConf>{HOME}/workspace/ont-space-v2/etc/create.xml</ontspaceConf>
+</portalupdater>
+

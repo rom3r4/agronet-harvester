@@ -1,0 +1,69 @@
+/*
+ont-space - The ontology-based resource metadata repository
+Copyright (c) 2006-2011, Information Eng. Research Unit - Univ. of Alcalá
+http://www.cc.uah.es/ie
+This library is free software; you can redistribute it and/or modify it under
+the terms of the GNU Lesser General Public License as published by the Free
+Software Foundation; either version 2.1 of the License, or (at your option)
+any later version.
+This library is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more
+details.
+You should have received a copy of the GNU Lesser General Public License along
+with this library; if not, write to the Free Software Foundation, Inc.,
+59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
+ */
+package org.ontspace.agrisap.translator;
+
+import org.jdom.Element;
+import org.jdom.Namespace;
+import org.ontspace.agrovoc.cache.AgrovocCacheHelper;
+
+/**
+ *
+ * @author raquel
+ */
+public class Subject2Subject {
+
+    public Subject2Subject(Element child, Agrisap agris) {
+        String metadata = child.getName();
+
+        Namespace xmlNS = Namespace.getNamespace("xml",
+                "http://www.w3.org/XML/1998/namespace");
+
+        //3-Subject
+        if (metadata.compareTo("subject") == 0) {
+            String value = child.getTextTrim();
+            if (value.length() > 2) {
+                agris.setSubject(value);
+            }
+        } else
+        if (metadata.compareTo("subjectClassification") == 0) {
+            String value = child.getTextTrim();
+            if (value.length() > 2) {
+            agris.setSubjectClassification(value);}
+        } else
+        if (metadata.compareTo("subjectThesaurus") == 0) {
+            String lang = child.getAttributeValue("lang", xmlNS);
+            String value = child.getTextTrim();
+            if (lang == null) {               
+                if (value.length() > 2) {
+
+                    value = value.replace("www.fao.org", "aims.fao.org");
+                    value = value.replace("#", "/");
+                    agris.setSubjectThesaurus(value);
+                }
+            } else {
+              AgrovocCacheHelper ah = AgrovocCacheHelper.getInstance();
+              String agrovocURI = ah.getAgrovocId(value.toLowerCase());
+              if (agrovocURI != null) {
+                  agris.setSubjectThesaurus(agrovocURI);
+              } else {
+                agris.setSubject(value.toLowerCase());
+              }
+            }
+
+        }
+    }
+}

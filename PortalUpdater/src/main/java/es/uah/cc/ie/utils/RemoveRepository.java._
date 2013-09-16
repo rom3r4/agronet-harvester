@@ -1,0 +1,202 @@
+/*
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+package es.uah.cc.ie.utils;
+
+import java.io.File;
+import java.sql.Connection;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import es.uah.cc.ie.portalupdater.*;
+import java.io.FileFilter;
+import java.sql.DriverManager;
+import java.util.Arrays;
+/*
+import org.ontspace.owl.util.MetadataRepositoryConfigException;
+import org.ontspace.owl.util.OntspaceConfiguration;
+*/
+
+/**
+ * This class contains the code needed to remove completely the TDB, mysql database
+ *  and the .stored files in the harvested folders.
+ * @version 0.8
+ */
+public class RemoveRepository {
+
+    /**
+     * main method used to remove completely the TDB, mysql database
+     *  and the .stored files in the harvested folders
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+
+        //Section 1: CONFIGURATION
+        String configFileOntSpace, configFileCMSUpdater;
+        System.out.println("One parameter must been set up to use the program:");
+        System.out.println("  - CMSupdater Configuration File");
+        //it is possible to set up the parameters using the command line
+        if (args.length == 1) {
+            System.out.println("Using the values obtained in the command line.");
+            configFileCMSUpdater = args[0];
+        } else {
+            System.out.println(
+                    "Using the default values for the mandatory parameters.");
+            configFileCMSUpdater = System.getProperty("user.dir")
+                    + System.getProperty("file.separator") + "etc"
+                    + System.getProperty("file.separator") + "conf.xml";
+        }
+        System.out.println("  - CMSupdater Configuration File: "
+                + configFileCMSUpdater);
+
+        PortalUpdaterConf portalUpdaterConf = new PortalUpdaterConf(
+                configFileCMSUpdater);
+
+        configFileOntSpace = portalUpdaterConf.getOntSpaceConfFile().
+                getAbsolutePath();
+
+        System.out.println("  - Ont-Space Configuration File: "
+                + configFileOntSpace);
+
+        //Section 2:
+
+        File finishedFile = new File(System.getProperty("user.dir")
+                + System.getProperty("file.separator") + "etc"
+                + System.getProperty("file.separator") + ".storageFinished");
+        System.out.println("file '" + finishedFile + "' removed.");
+        finishedFile.delete();
+        File logFile = new File(System.getProperty("user.dir")
+                + System.getProperty("file.separator") + "log"
+                + System.getProperty("file.separator") + "log.txt");
+        System.out.println("file '" + logFile + "' removed.");
+        logFile.delete();
+
+        //- Remove the .stored file in each folder
+        cleanStoredFiles(portalUpdaterConf.getHarvestingFolder());
+        cleanStoredFiles(portalUpdaterConf.getFaoAgrisFolder());
+
+        //- Remove the files inside the TDB folder
+        try {
+            OntspaceConfiguration confOntSpace =
+                    new OntspaceConfiguration(configFileOntSpace);
+            File tdb = new File(confOntSpace.getTdbConf().getFolder());
+            ArrayList<File> tdbFiles = new ArrayList<File>();
+            tdbFiles.addAll(Arrays.asList(tdb.listFiles()));
+            for (File tdbFile : tdbFiles) {
+                tdbFile.delete();
+            }
+            System.out.println("TDB '" + tdb.getAbsolutePath() + "' removed.");
+        } catch (MetadataRepositoryConfigException ex) {
+            Logger.getLogger(RemoveRepository.class.getName()).
+                    log(Level.SEVERE, null, ex);
+        }
+
+        //- Remove the content_items sql schema
+        dropSQLSchema(portalUpdaterConf);
+
+    }//end of main method
+
+    /**
+     * This methods removes the .stored files created during the storing process
+     * @param folder folder with the XML files
+     */
+    public static void cleanStoredFiles(File folder) {
+
+        FileFilter folderFilter = new FileFilter() {
+
+            @Override
+            public boolean accept(File file) {
+                return file.isDirectory();
+            }
+        };
+
+        ArrayList<File> dates = new ArrayList<File>();
+        dates.addAll(Arrays.asList(folder.listFiles(folderFilter)));
+
+        //the program only stores one folder each time
+        File date;
+        Iterator<File> datesIt = dates.iterator();
+        ArrayList<File> sets = new ArrayList<File>();
+        File dotStored;
+        while (datesIt.hasNext()) {
+            date = datesIt.next();
+            System.out.println(date.toString() + " .stored removed.");
+            dotStored = new File(date.getAbsolutePath() + System.getProperty(
+                    "file.separator") + ".stored");
+            dotStored.delete();
+            sets.addAll(Arrays.asList(date.listFiles(folderFilter)));
+            for (File subSet : sets) {
+                System.out.println(subSet.toString() + " .stored removed.");
+                dotStored = new File(subSet.getAbsolutePath() + System.
+                        getProperty("file.separator") + ".stored");
+                dotStored.delete();
+            }
+        }
+
+    }
+
+    /**
+     * This method removes the mysql Schema with the information about the 
+     * content items
+     * @param portalUpdaterConf portal updater configuration class
+     */
+    private static void dropSQLSchema(PortalUpdaterConf portalUpdaterConf) {
+        Statement stmt = null;
+        String schemaName = portalUpdaterConf.getMysqlURI();
+        schemaName = schemaName.substring(schemaName.lastIndexOf("/") + 1);;
+        try {
+            Class.forName("com.mysql.jdbc.Driver");
+
+            String mysqlURI = portalUpdaterConf.getMysqlURI();
+            mysqlURI = mysqlURI.substring(0, mysqlURI.lastIndexOf("/"));
+            Connection con =
+                    DriverManager.getConnection(mysqlURI, portalUpdaterConf.
+                    getMysqlUser(), portalUpdaterConf.getMysqlPassword());
+            stmt = con.createStatement();
+        } catch (SQLException ex) {
+            Logger.getLogger(RemoveRepository.class.getName()).
+                    log(Level.SEVERE, null, ex);
+        } catch (ClassNotFoundException ex1) {
+            Logger.getLogger(DatabaseHandler.class.getName()).
+                    log(Level.SEVERE, null, ex1);
+        }
+        System.out.println("Table '" + schemaName + ".content_id' removed");
+        try {
+            stmt.executeUpdate("DROP TABLE " + schemaName + ".content_id");
+        } catch (SQLException ex) {
+            Logger.getLogger(RemoveRepository.class.getName()).log(Level.INFO,
+                    "Table content_id not found, maybe it wasn't created in advance");
+        }
+
+        System.out.println("Table '" + schemaName + ".content_items' removed");
+        try {
+            stmt.executeUpdate("DROP TABLE " + schemaName + ".content_items");
+        } catch (SQLException ex) {
+            Logger.getLogger(RemoveRepository.class.getName()).log(Level.INFO,
+                    "Table content_items not found, maybe it wasn't created in advance");
+        }
+        try {
+            stmt.close();
+        } catch (SQLException ex) {
+            Logger.getLogger(RemoveRepository.class.getName()).
+                    log(Level.SEVERE, null, ex);
+        }
+
+
+
+    }
+}

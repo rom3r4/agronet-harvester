@@ -1,0 +1,134 @@
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>ie.cc.uah.es</groupId>
+  <artifactId>PortalUpdater</artifactId>
+  <packaging>jar</packaging>
+  <version>1.0</version>
+  <name>PortalUpdater</name>
+  <url>http://maven.apache.org</url>
+  <build>
+    <plugins>
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <version>2.0.2</version>
+            <configuration>
+                <source>1.6</source>
+                <target>1.6</target>
+                <mainClass>es.uah.cc.ie.portalupdater.Main</mainClass>
+                <archive>
+                    <manifest>
+                      <addClasspath>true</addClasspath>
+                      <mainClass>es.uah.cc.ie.portalupdater.Main</mainClass>
+                      <classpathLayoutType>repository</classpathLayoutType>
+                  </manifest>
+              </archive>
+          </configuration>
+      </plugin>
+  </plugins>
+</build>
+<dependencies>
+    <dependency>
+        <groupId>mysql</groupId>
+        <artifactId>mysql-connector-java</artifactId>
+        <version>5.1.14</version>
+    </dependency>
+    <dependency>
+        <groupId>org.slf4j</groupId>
+        <artifactId>slf4j-api</artifactId>
+        <version>1.6.1</version>
+    </dependency>
+    <dependency>
+        <groupId>commons-codec</groupId>
+        <artifactId>commons-codec</artifactId>
+        <version>1.8</version>
+    </dependency>
+    <dependency>
+        <groupId>com.google.code.gson</groupId>
+        <artifactId>gson</artifactId>
+        <version>1.6</version><!-- Stack Overflow for v1.7+ -->
+    </dependency>
+    <dependency>
+        <groupId>junit</groupId>
+        <artifactId>junit</artifactId>
+        <version>4.11</version>
+    </dependency>
+    <dependency>
+        <groupId>com.hp.hpl.jena</groupId>
+        <artifactId>jena</artifactId>
+        <version>2.6.4</version>
+    </dependency>
+    <dependency>
+        <groupId>com.hp.hpl.jena</groupId>
+        <artifactId>sdb</artifactId>
+        <version>1.3.4</version>
+    </dependency>
+    <dependency>
+        <groupId>com.hp.hpl.jena</groupId>
+        <artifactId>tdb</artifactId>
+        <version>0.8.10</version>
+    </dependency>
+    <dependency>
+        <groupId>jug</groupId>
+        <artifactId>jug</artifactId>
+        <version>1.1.2</version>
+    </dependency>
+
+    
+        <!--
+        <dependency>
+            <groupId>ie.cc.uah.es</groupId>
+            <artifactId>ont-space-v2</artifactId>
+            <version>1</version>
+        </dependency>
+        <dependency>
+        	<groupId>ie.cc.uah.es</groupId>
+        	<artifactId>automaticAnnotator</artifactId>
+        	<version>1.0</version>
+        </dependency>
+    -->
+    <dependency>
+     <groupId>commons-lang</groupId>
+     <artifactId>commons-lang</artifactId>
+     <version>2.4</version>
+ </dependency>
+ <dependency>
+    <groupId>org.jdom</groupId>
+    <artifactId>jdom</artifactId>
+    <version>1.1</version>
+</dependency>
+<dependency>
+    <groupId>com.googlecode.ez-vcard</groupId>
+    <artifactId>ez-vcard</artifactId>
+    <version>0.7.1</version>
+</dependency>
+</dependencies>
+<repositories>
+    <repository>
+        <id>central</id>
+        <name>Maven Repository</name>
+        <layout>default</layout>
+        <url>http://repo1.maven.org/maven2</url>
+        <snapshots>
+            <enabled>false</enabled>
+        </snapshots>
+    </repository>
+        <!--
+        <repository>
+            <id>ie</id>
+            <name>Maven Repository IE</name>
+            <layout>default</layout>
+            <!..<url>http://oe.dynalias.net:8080/nexus-webapp-1.3.6/content/groups/public</url>..>
+            <url>http://192.168.71.55:8080/nexus-webapp-1.3.6/content/groups/public</url>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </repository>
+    -->
+</repositories>
+<description>This application synchronizes the ontspace repository and
+    the CMS used as the web portal
+</description>
+</project>
