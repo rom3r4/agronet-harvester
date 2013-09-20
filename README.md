@@ -1,4 +1,4 @@
-[drupal-contentuploader](#)
+﻿[drupal-contentuploader](#)
 ======================
 
 Helper Java App that Harvests Metadata-Models' repositories and inserts them it into Relational databases
@@ -67,5 +67,5 @@ Installation
 Licence
 ===
 
-Propietary. University of Alcalá  .
+Propietary. University of Alcal.�  .
 Disclaimer: This code is provided as-is. Run it at your own risk

@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>The CORA dataset: validation and diagnostics of in-situ ocean temperature and salinity measurements</dc:title>
+  <dc:creator>Cabanes, Cecile</dc:creator>
+  <dc:creator>Grouazel, Antoine</dc:creator>
+  <dc:creator>Von Schuckmann, Karina</dc:creator>
+  <dc:creator>Hamon, Michel</dc:creator>
+  <dc:creator>Turpin, Victor</dc:creator>
+  <dc:creator>Coatanoan, Christine</dc:creator>
+  <dc:creator>Paris, Francois</dc:creator>
+  <dc:creator>Guinehut, Stephanie</dc:creator>
+  <dc:creator>Boone, C.</dc:creator>
+  <dc:creator>Ferry, N.</dc:creator>
+  <dc:creator>De Boyer Montegut, Clement</dc:creator>
+  <dc:creator>Carval, Thierry</dc:creator>
+  <dc:creator>Reverdin, Gilles</dc:creator>
+  <dc:creator>Pouliquen, Sylvie</dc:creator>
+  <dc:creator>Le Traon, Pierre-yves</dc:creator>
+  <dc:description>The French program Coriolis, as part of the French operational oceanographic system, produces the COriolis dataset for Re-Analysis (CORA) on a yearly basis. This dataset contains in-situ temperature and salinity profiles from different data types. The latest release CORA3 covers the period 1990 to 2010. Several tests have been developed to ensure a homogeneous quality control of the dataset and to meet the requirements of the physical ocean reanalysis activities (assimilation and validation). Improved tests include some simple tests based on comparison with climatology and a model background check based on a global ocean reanalysis. Visual quality control is performed on all suspicious temperature and salinity profiles identified by the tests, and quality flags are modified in the dataset if necessary. In addition, improved diagnostic tools have been developed – including global ocean indicators – which give information on the quality of the CORA3 dataset and its potential applications. CORA3 is available on request through the MyOcean Service Desk (http://www.myocean.eu/).</dc:description>
+  <dc:publisher>Copernicus Gesellschaft Mbh</dc:publisher>
+  <dc:date>2013</dc:date>
+  <dc:type>text</dc:type>
+  <dc:type>Publication</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://archimer.ifremer.fr/doc/00117/22799/20606.pdf</dc:identifier>
+  <dc:identifier>DOI:10.5194/os-9-1-2013</dc:identifier>
+  <dc:source>Ocean Science (1812-0784) (Copernicus Gesellschaft Mbh), 2013 , Vol. 9 , N. 1 , P. 1-18</dc:source>
+  <dc:language>en</dc:language>
+  <dc:relation>http://archimer.ifremer.fr/doc/00117/22799/</dc:relation>
+  <dc:rights>Author(s) 2013. CC Attribution 3.0 License.</dc:rights>
+</oai_dc:dc>

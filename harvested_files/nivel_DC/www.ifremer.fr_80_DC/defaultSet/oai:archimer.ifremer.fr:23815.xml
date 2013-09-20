@@ -1,0 +1,17 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Transmitting Response Measurement of Low-Frequency Projectors in confined Environment with Maximum Length Sequences and Homomorphic Signal Processing</dc:title>
+  <dc:creator>Le Gall, Yves</dc:creator>
+  <dc:creator>Gautard, Stéphane</dc:creator>
+  <dc:description>IFREMER is involved in long range oceanography experiments, such as acoustic tomography, using very low frequency transducers. Thus, the possibility to measure in tank or in pool the transducer Transmitting Voltage Response (TVR) is a real need for reliability controls after several months deployment at sea. 
+Because of large wavelengths, usual methods like burst excitation are unsuitable to tank measurement. The use of Maximum Length Sequences (MLS) allows the fast determination of the impulse response of the system made up the projector and its environment. MLS generation and signal cross correlation calculation using Fast Hadamard Transform are achieved by a software called "MITAS".
+The separation between transducer contribution and environment effect is made easier with a homomorphic signal processing in which windows are applied in the cepstral domain preferably to the time domain. Parameters of this processing (signal length and window shape in both domains) have been optimized for two configurations : a low-Q 2 kHz ring projector in a tank, and a higher-Q 200 Hz Janus-Helmholtz transducer in a pool. 
+Results have been compared to free-field measurements of both transducers : a 2 dB accuracy is obtained for the TVR and wall effect is still existing but well softened.</dc:description>
+  <dc:publisher>Underwater Acoustic Calibration Measurements: proceedings of an Underwater Acoustics Group Conference Held at the National Physical Laboratory, UK, 20th - 21st July 1998.</dc:publisher>
+  <dc:date>1998-07</dc:date>
+  <dc:type>text</dc:type>
+  <dc:type>Conference article</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://archimer.ifremer.fr/doc/00127/23815/21738.pdf</dc:identifier>
+  <dc:language>en</dc:language>
+  <dc:relation>http://archimer.ifremer.fr/doc/00127/23815/</dc:relation>
+</oai_dc:dc>

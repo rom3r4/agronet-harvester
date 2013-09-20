@@ -1,0 +1,15 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Importance of geosat orbit and tidal errors in the estimation of large-scale indian-ocean variations</dc:title>
+  <dc:creator>Perigaud, C</dc:creator>
+  <dc:creator>Zlotnicki, V</dc:creator>
+  <dc:description>Geosat ERM data concerning the Indian Ocean over a period of 26 months were processed with two different techniques of orbit error reduction in order to improve the accuracy of estimates of large-scale meridional sea-level variations. The first technique removes an along-track polynomial of degree 1 over approximately 5,000 km; the second removes an along-track once-per-revolution sine wave (approximately 40,000 km). Averaged over the Indian Ocean, the difference between the two estimates represents 43 % of the total variance and 31 % of the annual variance. This difference contains both oceanic and error signals. Sea-level variations from both techniques show an error with a spectral peak at 7-degrees-6 zonal wavelength, 317-day period, propagating westward at 2.6 km/day. This error is caused by the M2 tidal signal being inaccurately corrected and then aliased by Geosat's sampling characteristics into low-frequency apparent sea-level variations. We remove the tidal error by filtering out the spectral peak in the frequency-zonal wave number and re-analyze the estimated sea level. The polynomial technique produces stronger attenuation of both the tidal error and the large-scale oceanic signal. The annual variance retained by the filter contains 9 and 14 % of the respective annual variances of the two techniques before filtering. After filtering, the residual difference between the two methods represents 44 % of the total variance and 23 % of the annual variance. The sine-wave method yields a larger estimate of annual and interrannual meridional variations. Driven by the monsoon, the difference in sea level between the northern and southern basins (over 10-degrees-20-degrees-S) decreases from May to November. This sea-level change is estimated at 19.6 cm and 15.6 cm by the two techniques. Similarly, in 1988 the sea level averaged from July to December is higher than in 1987 over the band from the equator to 10-degrees-N. This sea-level change is estimated at 3.0 and 1.0 cm by the two techniques.</dc:description>
+  <dc:publisher>Gauthier-Villars</dc:publisher>
+  <dc:date>1992</dc:date>
+  <dc:type>text</dc:type>
+  <dc:type>Publication</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://archimer.ifremer.fr/doc/00101/21178/18795.pdf</dc:identifier>
+  <dc:source>Oceanologica Acta (0399-1784) (Gauthier-Villars), 1992 , Vol. 15 , N. 5 , P. 491-505</dc:source>
+  <dc:language>en</dc:language>
+  <dc:relation>http://archimer.ifremer.fr/doc/00101/21178/</dc:relation>
+</oai_dc:dc>

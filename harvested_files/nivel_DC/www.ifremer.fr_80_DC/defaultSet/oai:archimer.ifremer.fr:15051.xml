@@ -1,0 +1,18 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Comparison between three implementations of automatic identification algorithms for the quantification and characterization of mesoscale eddies in the South Atlantic Ocean</dc:title>
+  <dc:creator>Souza, Joao Marcos Azevedo Correia De</dc:creator>
+  <dc:creator>De Boyer Montegut, Clement</dc:creator>
+  <dc:creator>Le Traon, Pierre-yves</dc:creator>
+  <dc:description>Three methods for automatic detection of mesoscale coherent structures are applied to Sea Level Anomaly (SLA) fields in the South Atlantic. The first method is based on the wavelet packet decomposition of the SLA data, the second on the estimation of the Okubo-Weiss parameter and the third on a geometric criterion using the winding-angle approach. The results provide a comprehensive picture of the mesoscale eddies over the South Atlantic Ocean, emphasizing their main characteristics: amplitude, diameter, duration and propagation velocity. Five areas of particular eddy dynamics were selected: the Brazil Current, the Agulhas eddies propagation corridor, the Agulhas Current retroflexion, the Brazil-Malvinas confluence zone and the northern branch of the Antarctic Circumpolar Current (ACC). For these areas, mean propagation velocities and amplitudes were calculated. Two regions with long duration eddies were observed, corresponding to the propagation of Agulhas and ACC eddies. Through the comparison between the identification methods, their main advantages and shortcomings were detailed. The geometric criterion presents the best performance, mainly in terms of number of detections, duration of the eddies and propagation velocities. The results are particularly good for the Agulhas Rings, which have the longest lifetimes of all South Atlantic eddies.</dc:description>
+  <dc:publisher>Copernicus Gesellschaft Mbh</dc:publisher>
+  <dc:date>2011</dc:date>
+  <dc:type>text</dc:type>
+  <dc:type>Publication</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://archimer.ifremer.fr/doc/00039/15051/12378.pdf</dc:identifier>
+  <dc:identifier>DOI:10.5194/os-7-317-2011</dc:identifier>
+  <dc:source>Ocean Science (1812-0784) (Copernicus Gesellschaft Mbh), 2011 , Vol. 7 , N. 3 , P. 317-334</dc:source>
+  <dc:language>en</dc:language>
+  <dc:relation>http://archimer.ifremer.fr/doc/00039/15051/</dc:relation>
+  <dc:rights>Author(s) 2011. This work is distributed under the Creative Commons Attribution 3.0 License. EGU</dc:rights>
+</oai_dc:dc>

@@ -33,6 +33,12 @@ import org.jdom.input.SAXBuilder;
 import org.ontspace.owl.util.AutomaticLangDetector;
 import org.ontspace.owl.util.LanguageISOHelper;
 
+// GSON
+import com.google.gson.annotations.SerializedName;
+import com.google.gson.annotations.Expose;
+
+
+
 /**
  * Java class to model the Dublin Core resource
  *
@@ -40,6 +46,135 @@ import org.ontspace.owl.util.LanguageISOHelper;
  */
 public class DublinCore {
 
+    public void setxmlFile(File _xmlFile) {
+        this._xmlFile = _xmlFile;
+    }
+
+    public void setlogger(Logger _logger) {
+        this._logger = _logger;
+    }
+
+    public void setdetector(AutomaticLangDetector _detector) {
+        this._detector = _detector;
+    }
+
+    public void setidentifiers(ArrayList<String> _identifiers) {
+        this._identifiers = _identifiers;
+    }
+
+    public void settitles(HashMap<String, String> _titles) {
+        this._titles = _titles;
+    }
+
+    public void setlanguages(ArrayList<String> _languages) {
+        this._languages = _languages;
+    }
+
+    public void setdescriptions(HashMap<String, String> _descriptions) {
+        this._descriptions = _descriptions;
+    }
+
+    public void setsubjects(HashMap<String, ArrayList<String>> _subjects) {
+        this._subjects = _subjects;
+    }
+
+    public void setagrovocTerms(ArrayList<String> _agrovocTerms) {
+        this._agrovocTerms = _agrovocTerms;
+    }
+
+    public void setcoverages(ArrayList<String> _coverages) {
+        this._coverages = _coverages;
+    }
+
+    public void settypes(ArrayList<String> _types) {
+        this._types = _types;
+    }
+
+    public void setdates(ArrayList<String> _dates) {
+        this._dates = _dates;
+    }
+
+    public void setcreators(ArrayList<String> _creators) {
+        this._creators = _creators;
+    }
+
+    public void setcontributors(ArrayList<String> _contributors) {
+        this._contributors = _contributors;
+    }
+
+    public void setpublishers(ArrayList<String> _publishers) {
+        this._publishers = _publishers;
+    }
+
+    public void setformats(ArrayList<String> _formats) {
+        this._formats = _formats;
+    }
+
+    public void setrights(ArrayList<String> _rights) {
+        this._rights = _rights;
+    }
+
+    public void setrelations(ArrayList<String> _relations) {
+        this._relations = _relations;
+    }
+
+    public void setsources(ArrayList<String> _sources) {
+        this._sources = _sources;
+    }
+
+    public void setlangISOHelper(LanguageISOHelper _langISOHelper) {
+        this._langISOHelper = _langISOHelper;
+    }
+
+
+    // private LanguageISOHelper _langISOHelper = null;
+        @Expose(serialize = true, deserialize = false)
+        protected File _xmlFile = null;
+        @Expose(serialize = true, deserialize = false)
+        protected Logger _logger = null;
+        // protected AutomaticLangDetector _detector = null;
+        @Expose(serialize = true, deserialize = false)
+        protected AutomaticLangDetector _detector = null;
+        // protected String _detector = null;
+        @Expose(serialize = true, deserialize = false)
+        private ArrayList<String> _identifiers = null;
+        @Expose(serialize = true, deserialize = false)
+        private HashMap<String, String> _titles = null;
+        @Expose(serialize = true, deserialize = false)
+        private ArrayList<String> _languages = null;
+        @Expose(serialize = true, deserialize = false)
+        private HashMap<String, String> _descriptions = null;
+        @Expose(serialize = true, deserialize = false)
+        private HashMap<String, ArrayList<String>> _subjects = null;
+        @Expose(serialize = true, deserialize = false)
+        private ArrayList<String> _agrovocTerms = null;
+        @Expose(serialize = true, deserialize = false)
+        private ArrayList<String> _coverages = null;
+        @Expose(serialize = true, deserialize = false)
+        private ArrayList<String> _types = null;
+        @Expose(serialize = true, deserialize = false)
+        private ArrayList<String> _dates = null;
+        @Expose(serialize = true, deserialize = false)
+        private ArrayList<String> _creators = null;
+        @Expose(serialize = true, deserialize = false)
+        private ArrayList<String> _contributors = null;
+        @Expose(serialize = true, deserialize = false)
+        private ArrayList<String> _publishers = null;
+        @Expose(serialize = true, deserialize = false)
+        private ArrayList<String> _formats = null;
+        @Expose(serialize = true, deserialize = false)
+        private ArrayList<String> _rights = null;
+        @Expose(serialize = true, deserialize = false)
+        private ArrayList<String> _relations = null;
+        @Expose(serialize = true, deserialize = false)
+        private ArrayList<String> _sources = null;
+        // Language ISO Helper
+        @Expose(serialize = true, deserialize = false)
+        private LanguageISOHelper _langISOHelper = null;
+
+
+
+/*
     private ArrayList<String> _identifiers = null;
     private HashMap<String, String> _titles = null;
     private ArrayList<String> _languages = null;
@@ -61,7 +196,7 @@ public class DublinCore {
     protected File _xmlFile = null;
     protected Logger _logger = null;
     protected AutomaticLangDetector _detector = null;
-
+*/
     /**
      * Default constructor
      *
@@ -112,6 +247,32 @@ public class DublinCore {
         this(xmlFile, logger);
         _detector = langDetector;
     }
+
+
+        public DublinCore(DublinCore dublinCore) {
+
+                this._identifiers = dublinCore._identifiers;
+                this._titles = dublinCore._titles;
+                this._languages = dublinCore._languages;
+                this._descriptions = dublinCore._descriptions;
+                this._subjects = dublinCore._subjects;
+                this._agrovocTerms = dublinCore._agrovocTerms;
+                this._coverages = dublinCore._coverages;
+                this._types = dublinCore._types;
+                this._dates = dublinCore._dates;
+                this._creators = dublinCore._creators;
+                this._contributors = dublinCore._contributors;
+                this._publishers = dublinCore._publishers;
+                this._formats = dublinCore._formats;
+                this._rights = dublinCore._rights;
+                this._relations = dublinCore._relations;
+                this._sources = dublinCore._sources;
+                // Language ISO Helper
+                this._langISOHelper = new LanguageISOHelper();
+                this._xmlFile = dublinCore._xmlFile;
+        }
+
+
 
     /**
      * This method receives a DC XML FILE and creates a DC Object that stores
@@ -180,7 +341,7 @@ public class DublinCore {
             String childrenName = child.getName();
             Element childString = child.getChild("string", strNS);
             if (childString != null) {
-                System.out.println("childstring found in " + childrenName);
+                // System.out.println("childstring found in " + childrenName);
                 child = childString;
             }
 

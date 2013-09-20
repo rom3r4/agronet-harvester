@@ -30,7 +30,7 @@ import com.google.gson.GsonBuilder;
 import static org.junit.Assert.*;
 
 // import es.uah.cc.ie.portalupdater.*;
-import es.uah.cc.ie.utils.Test;
+// import es.uah.cc.ie.utils.Test;
 import org.ontspace.agrisap.translator.Agrisap;
 import org.ontspace.dc.translator.DublinCore;
 
@@ -55,13 +55,13 @@ import org.ontspace.dc.translator.DublinCore;
 
 /**
  * @version 0.x
- * @author: Julian
+ * @author: Julian R.
  */
 public class DrushUpdater {
 
-	private static final String DRUPAL_ROOT_DIR = "/www/voa3r7";
+	private static final String DRUPAL_ROOT_DIR = "/www/voa3r";
 	// Tests
-	private final boolean RUN_TESTS = true;
+	private final boolean RUN_TESTS = false;
 	private final int DUBLIN_CORE = 0;
 	private final int AGRISAP = 1;
 	private int test_passed;
@@ -245,7 +245,9 @@ public class DrushUpdater {
 			// comment out for greater performance
 			while (aux != null) {
 				// printf
-				System.out.println(aux);
+				
+				// FIELD VALUE ************
+				// System.out.println(aux);
 
 				// loop
 				aux = br.readLine();

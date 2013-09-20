@@ -1,8 +1,16 @@
 #!/bin/bash
 echo "update script"
 DATE=$(date +%Y_%m_%d);
-PROJECT_SOURCES=/Users/fernandosainz/Desktop/drupal-contentuploader-master/PortalUpdater
-logFile=/Users/fernandosainz/Desktop/drupal-contentuploader-master/execute_voa3r_portalUpdater_$DATE\.log;
+
+# CHANGE-ME pont this to the dir where runandtest.sh directory is placed
+
+# DIR=/Users/fernandosainz/Desktop/drupal-contentuploader-master
+# DIR=/opt/test/drupal-contentuploader
+DIR="/opt/voa3r"
+
+PROJECT_SOURCES="${DIR}/PortalUpdater"
+logFile="${DIR}/execute_voa3r_portalUpdater_$DATE\.log;"
+
 cd $PROJECT_SOURCES
 mvn clean dependency:copy-dependencies package 
 # &> $logFile

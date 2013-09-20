@@ -1,6 +1,6 @@
 /*
 ont-space - The ontology-based resource metadata repository
-Copyright (c) 2006-2011, Information Eng. Research Unit - Univ. of Alcalá
+Copyright (c) 2006-2011, Information Eng. Research Unit - Univ. of Alcala
 http://www.cc.uah.es/ie
 This library is free software; you can redistribute it and/or modify it under
 the terms of the GNU Lesser General Public License as published by the Free

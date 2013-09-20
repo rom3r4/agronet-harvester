@@ -11,13 +11,16 @@ host_name=`cat /etc/hostname`
 # CHANGE-ME
 # variable pointing to the directory containig this file
 # remove trailing '/' character at the end
-INIT_DIR=/Users/fernandosainz/Desktop/drupal-contentuploader-master
+# INIT_DIR=/Users/fernandosainz/Desktop/drupal-contentuploader-master
+# INIT_DIR="/opt/test/drupal-contentuploader"
+INIT_DIR="/opt/voa3r"
 
 
 # this aprox doesnt detect machine changes
 # if [ ! -f  "${INIT_DIR}/$0" ]; then
 
 if [ "${host_name}" = "rrm" -a "${INIT_DIR}" = "/opt/voa3r" ]; then
+#if [ "${host_name}" = "rrm" -a "${INIT_DIR}" = "/opt/test/drupal-contentuploader" ]; then
   echo -n ""
 else  
   echo "Edit this file and change the INIT_DIR variable. Then re-run it"

@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>TRANSMER, un modèle hydrodynamique rapide et précis pour la simulation à moyen et long terme des transferts de radionucléides en Manche et dans le sud de la Mer du Nord</dc:title>
+  <dc:creator>Bailly Du Bois, Pascal</dc:creator>
+  <dc:creator>Dumas, Franck</dc:creator>
+  <dc:subject>English Channel</dc:subject>
+  <dc:subject>North Sea</dc:subject>
+  <dc:subject>Radionuclide</dc:subject>
+  <dc:subject>Concentration</dc:subject>
+  <dc:subject>Dispersion</dc:subject>
+  <dc:subject>Dissolved substances</dc:subject>
+  <dc:subject>Seawater</dc:subject>
+  <dc:subject>Hydrodynamic model</dc:subject>
+  <dc:subject>Modèle</dc:subject>
+  <dc:subject>Sb 125</dc:subject>
+  <dc:subject>Dispersion</dc:subject>
+  <dc:subject>Mer du Nord</dc:subject>
+  <dc:subject>Manche</dc:subject>
+  <dc:description>TRANSMER hydrodynamic model simulates dispersion of dissolved substances in seawater at the scale of the English Channel and the south of the North Sea with a mesh size of one kilometre and a time step of 30 minutes. It has been qualitatively and quantitatively validated by 1400 measurement of 125Sb in seawater. This model evaluates the medium- and long-term consequences of releases of soluble pollutants in the marine ecosystem under normal or accidental conditions, at a very low computation cost (it takes less than one hour to simulate one year).</dc:description>
+  <dc:description>Le modèle hydrodynamique TRANSMER permet de simuler la dispersion de substances dissoutes dans l'eau de mer en Manche et dans le sud de la Mer du Nord avec un pas d'espace d'un kilomètre et un pas de temps de 30 minutes. Il a été validé qualitativement et quantitativement par 1400 mesures de 125Sb en solution. Ce modèle permet de simuler les conséquences à moyen et long terme de rejets de polluants solubles dans l'écosystème marin, dans des situations normales ou accidentelles et avec des temps de calcul très faibles (moins d'une heure de calcul par année de simulation)</dc:description>
+  <dc:publisher>VIIIèmes Journées Nationales Génie Civil ¿ Génie Côtier, Compiègne, 7-9 septembre 2004</dc:publisher>
+  <dc:date>2004-09</dc:date>
+  <dc:type>text</dc:type>
+  <dc:type>Conference article</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://archimer.ifremer.fr/doc/2004/acte-563.pdf</dc:identifier>
+  <dc:language>fr</dc:language>
+  <dc:relation>http://archimer.ifremer.fr/doc/00000/563/</dc:relation>
+</oai_dc:dc>

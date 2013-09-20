@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Modèles autorégressifs à changements de régimes markoviens. Applications aux séries tempo-relles de vent</dc:title>
+  <dc:creator>Ailliot, Pierre</dc:creator>
+  <dc:subject>Space time model</dc:subject>
+  <dc:subject>Wind time series</dc:subject>
+  <dc:subject>Asymptotic properties</dc:subject>
+  <dc:subject>Maximum likelihood estimator</dc:subject>
+  <dc:subject>Stability</dc:subject>
+  <dc:subject>Markov Switching autoregressive model</dc:subject>
+  <dc:subject>Modèle spatio temporel</dc:subject>
+  <dc:subject>Séries temporelles de vent</dc:subject>
+  <dc:subject>Propriétés asymptotiques</dc:subject>
+  <dc:subject>Estimateurs du maximum de vraisemblance</dc:subject>
+  <dc:subject>Stabilité</dc:subject>
+  <dc:subject>Modèles autorégressifs à changements de régimes markoviens</dc:subject>
+  <dc:description>In this thesis, several original Markov switching autoregressive model are proposed for wind time series. The first chapter is devoted to a theoretical study of these models. We focus mainly on the problems of the numerical calculation of the maximum likelihood estimators, of the asymp-totic behavior of these estimators and finally of model selection and validation. In the second chapter, we propose various Markov switching autoregressive model to describe the evolution of the wind in a fixed point, and then in the third chapter its space-time evolution. For each suggested model, we check the physical interpretability of the various parameters, and their capacity to simulate realistic artificial sequences. The obtained results are compared to those corresponding to the models which are usually used in the literature.</dc:description>
+  <dc:description>Dans cette thèse, plusieurs modèles originaux, utilisant les modèles autorégressifs à change-ments de régimes markoviens, sont proposés pour les séries temporelles de vent. L'étude théorique de ces modèles fait l'objet du premier chapitre. Nous abordons en particulier les problèmes du calcul numérique des estimateurs du maximum de vraisemblance, de l'étude de leurs comportements asymptotiques ainsi que celui de la validation de modèle. Dans le deuxième chapitre, nous proposons divers modèles autorégressifs à changements de régimes markoviens permettant de décrire l'évolution du vent en un point fixé, puis dans le troisième chapitre son évolution spatio-temporelle. Pour chacun des modèles proposés, nous vérifions l'interprétabilité météorologique des différents paramètres et leur capacité à simuler des nouvelles séquences artificielles réalistes. Ces résultats sont comparés avec ceux corre-spondant aux modèles usuellement utilisés dans la littérature.</dc:description>
+  <dc:publisher>Université de Rennes 1</dc:publisher>
+  <dc:date>2004-11-15</dc:date>
+  <dc:type>text</dc:type>
+  <dc:type>Thesis</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://archimer.ifremer.fr/doc/2004/these-325.pdf</dc:identifier>
+  <dc:language>fr</dc:language>
+  <dc:relation>http://archimer.ifremer.fr/doc/00000/325/</dc:relation>
+</oai_dc:dc>

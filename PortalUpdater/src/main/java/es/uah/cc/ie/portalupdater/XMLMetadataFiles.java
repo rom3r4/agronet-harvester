@@ -94,8 +94,6 @@ public class XMLMetadataFiles {
 
         dates.addAll(Arrays.asList(harvestingFolder.listFiles(folderFilter)));
 
-// System.out.println("a -->" + dates.size());
-
         //the program only stores one folder each time
         boolean alreadyStored = false;
         boolean finisExecution = false;
@@ -104,23 +102,14 @@ public class XMLMetadataFiles {
         while (datesIt.hasNext() && !finisExecution) {
             date = datesIt.next();
             alreadyStored = isFolderAlreadyStored(date);
-// System.out.println("b isstored?" + alreadyStored );
-
 
             if (!alreadyStored) {
-            
                 repositories.addAll(Arrays.asList(date.listFiles(folderFilter)));
-
-// System.out.println("k --> " + repositories.size() );
-                
                 System.out.println(date.toString() + " hasn't been stored yet.");
                 File newStored = new File(date.getAbsolutePath() + System.
                     getProperty("file.separator") + ".stored");
                 finisExecution = true;
                 try {
-// System.out.println("c");
-
-
                     newStored.createNewFile();
                 } catch (IOException ex) {
                     Logger.getLogger(XMLMetadataFiles.class.getName()).log(
@@ -131,23 +120,17 @@ public class XMLMetadataFiles {
                 System.out.println(date.toString() + " is already stored.");
             }
         }
-// System.out.println("d -repo-> " + repositories.size());
-
 
         String metadataSchema;
         for (File repFolder : repositories) {
             sets.addAll(Arrays.asList(repFolder.listFiles(folderFilter)));
         }
-// System.out.println("e -sets->" + sets.size());
-// System.out.println("e -repFolder->" + sets.size());
-
 
         for (File setFolder : sets) {
             metadataSchema = setFolder.getParent();
             metadataSchema =
                 metadataSchema.substring(metadataSchema.lastIndexOf("_") + 1,
                 metadataSchema.length());
-            // metadataSchema = "DC";    
             System.out.println("************* Resources found in "+ metadataSchema + " format. ************");
             if (metadataSchema.equalsIgnoreCase("DC")) {
                 dc.addAll(Arrays.asList(setFolder.listFiles(xmlFilter)));
@@ -169,8 +152,6 @@ public class XMLMetadataFiles {
                 _metadataFiles.put("VAP4", vap4);
             }
         }
-// System.out.println("f");
-
 
         //Some numbers just to be sure about the number of content items harvestded
         Iterator<String> iterator = _metadataFiles.keySet().iterator();

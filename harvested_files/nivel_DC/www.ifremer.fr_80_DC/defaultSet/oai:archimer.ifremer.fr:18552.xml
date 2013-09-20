@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Comparison of traditional microscopy and digitized image analysis to identify and delineate pelagic fish egg spatial distribution</dc:title>
+  <dc:creator>Lelievre, Stephanie</dc:creator>
+  <dc:creator>Antajan, Elvire</dc:creator>
+  <dc:creator>Vaz, Sandrine</dc:creator>
+  <dc:subject>fish eggs</dc:subject>
+  <dc:subject>ZooScan</dc:subject>
+  <dc:subject>image analysis</dc:subject>
+  <dc:subject>supervised learning method</dc:subject>
+  <dc:subject>interpolated map</dc:subject>
+  <dc:description>One of the problems concerning studies of fish egg distribution is the weak spatial and temporal resolution due to the workload that examination of a large number of samples would demand. Recently, the development of a new laboratory imaging system, the ZooScan, capable of obtaining relatively good resolution images enables automated zooplankton identification using supervised learning algorithms. This new approach was applied to formalin-fixed fish egg samples collected during French winter IBTS (International Bottom Trawl Surveys) in the Eastern English Channel and the Southern North Sea. Fish egg spatial distributions of seven species based on the microscope and ZooScan identifications were compared. Abundance and distribution maps of winter-spawning areas of plaice, long rough dab, cod and whiting were similar for both methods. Low identification accuracy for small size eggs was due to microscope misidentification of standards used for the ZooScan learning (dab and flounder). The potential input of such a tool to quickly acquire valuable data on identification, enumeration, size frequency distribution of fish eggs and map spawning areas is of great interest for understanding and forecasting fisheries recruitment and will support ecosystem-based management.</dc:description>
+  <dc:publisher>Oxford Univ Press</dc:publisher>
+  <dc:date>2012-06</dc:date>
+  <dc:type>text</dc:type>
+  <dc:type>Publication</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://archimer.ifremer.fr/doc/00074/18552/16103.pdf</dc:identifier>
+  <dc:identifier>DOI:10.1093/plankt/fbs015</dc:identifier>
+  <dc:source>Journal Of Plankton Research (0142-7873) (Oxford Univ Press), 2012-06 , Vol. 34 , N. 6 , P. 470-483</dc:source>
+  <dc:language>en</dc:language>
+  <dc:relation>http://archimer.ifremer.fr/doc/00074/18552/</dc:relation>
+  <dc:rights>The Author 2012. Published by Oxford University Press. All rights reserved.</dc:rights>
+</oai_dc:dc>

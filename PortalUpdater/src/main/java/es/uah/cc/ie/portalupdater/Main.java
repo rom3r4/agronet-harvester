@@ -36,11 +36,11 @@ import es.uah.cc.ie.utils.DrushUpdater;
 
 import org.ontspace.dc.translator.DublinCore;
 import org.ontspace.agrisap.translator.Agrisap;
+import org.ontspace.owl.util.AutomaticLangDetector;
 
 /*
  import org.ontspace.MetadataRecordReference;
  import org.ontspace.mods.translator.Mods;
- import org.ontspace.owl.util.AutomaticLangDetector;
  import org.ontspace.voa3rap2.translator.Voa3rAP2;
  import org.ontspace.voa3rap4.translator.Voa3rAP4;
  */
@@ -164,9 +164,10 @@ public class Main {
 		        + System.getProperty("file.separator") + "etc"
 		        + System.getProperty("file.separator") + "europarl_corpus"
 		        + System.getProperty("file.separator");
-		// AutomaticLangDetector automaticLangDetector = new
-		// AutomaticLangDetector(
-		// treeFolderPath);
+		
+		AutomaticLangDetector automaticLangDetector = new
+		AutomaticLangDetector(
+		 treeFolderPath);
 		// AutomaticLangDetector automaticLangDetector = null;
 
 		// System.out.println("2");
@@ -221,12 +222,12 @@ public class Main {
 				// Logger.getLogger(Main.class.getName()).log(Level.INFO,
 				// "File {0}", xml.getAbsolutePath());
 				fileName = xml.getName();
-				// dc = new DublinCore(xml, fileLogger, automaticLangDetector);
-				dc = new DublinCore(xml, fileLogger, "");
+				dc = new DublinCore(xml, fileLogger, automaticLangDetector);
+				//dc = new DublinCore(xml, fileLogger, "");
 
 				dc.parseDCXML();
 
-                DrushUpdater updater = new DrushUpdater(dc);
+            			DrushUpdater updater = new DrushUpdater(dc);
 
 				/*
 				 * if (!dbHandler.existLO(fileName)) { recordReference =
@@ -308,8 +309,8 @@ public class Main {
 				        .println("-------------------------------------------------------------------");
 				// Logger.getLogger(Main.class.getName()).log(Level.INFO,
 				// "File {0}", xml.getAbsolutePath());
-
-				agrisap = new Agrisap(xml, fileLogger, "");
+				agrisap = new Agrisap(xml, fileLogger, automaticLangDetector);
+				// agrisap = new Agrisap(xml, fileLogger, "");
 				agrisap.parseAgrisapXML();
 				DrushUpdater updater = new DrushUpdater(agrisap);
 				// fileName = xml.getName();
@@ -366,9 +367,9 @@ public class Main {
 					// System.out.println("11");
 
 					Element faoResource = agsResources.get(faoExtraId);
-					// agrisap =
-					// new Agrisap(xml, fileLogger, automaticLangDetector);
-					agrisap = new Agrisap(xml, fileLogger, "");
+					agrisap =
+					new Agrisap(xml, fileLogger, automaticLangDetector);
+					// agrisap = new Agrisap(xml, fileLogger, "");
 					agrisap.parseAgrisapXML(faoResource);
 
 					faoHarvestingId = xml.getAbsolutePath();

@@ -32,11 +32,149 @@ import org.jdom.input.SAXBuilder;
 import org.ontspace.owl.util.AutomaticLangDetector;
 import org.ontspace.owl.util.LanguageISOHelper;
 
+// GSON
+import com.google.gson.annotations.SerializedName;
+import com.google.gson.annotations.Expose;
+
+
+
 /**
  *Java class to model de Agris AP resources
  */
 public class Agrisap {
-    
+
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _subjectThesaurus =
+            new ArrayList<String>();
+    //DublinCore and QDC Metadata
+@Expose(serialize = false, deserialize = false)
+    private HashMap<String, String> _title = null;
+
+@Expose
+@SerializedName("id")
+    private ArrayList<String> _identifier = null;
+@Expose
+@SerializedName("lang")
+    private ArrayList<String> _language = null;
+@Expose
+@SerializedName("desc")
+    private ArrayList<String> _description = null;
+@Expose
+@SerializedName("subj")
+    private ArrayList<String> _subject = null;
+
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _coverage = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _type = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _date = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _creator = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _publisher = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _format = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _rights = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _relation = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _source = null;
+    //refined qualified dublin core elements
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _alternative = null;
+@Expose(serialize = false, deserialize = false)
+    private HashMap<String, String> _abstract = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _dateIssued = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _extent = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _medium = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _isVersionOf = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _hasVersion = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _isReplacedBy = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _replaces = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _isRequiredBy = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _requires = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _isPartOf = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _hasPart = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _isReferencedBy = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _references = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _isFormatOf = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _hasFormat = null;
+    //AgrisAP refinements
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _spatial = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _temporal = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _availability = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _creatorCorporate = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _citationNumber = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _creatorPersonal = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _availabilityNumber = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _citationIdentifier = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _citationTitle = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _citationChronology = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _availabilityLocation = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _citation = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _creatorConference = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _descriptionNotes = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _rightsStatement = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _descriptionEdition = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _subjectClassification = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _termsOfUse = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _hasTranslation = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _publisherPlace = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _publisherName = null;
+@Expose(serialize = false, deserialize = false)
+    private ArrayList<String> _isTranslationOf = null;
+    // Language ISO Helper
+@Expose(serialize = false, deserialize = false)
+    private LanguageISOHelper _langISOHelper = null;
+    // private String _langISOHelper = null;
+@Expose(serialize = false, deserialize = false)
+    private File _xmlFile = null;
+@Expose(serialize = false, deserialize = false)
+    private Logger _logger = null;
+@Expose(serialize = false, deserialize = false)
+    private AutomaticLangDetector _detector = null;
+    // private String _detector = null;
+
+
+/*    
     private ArrayList<String> _subjectThesaurus =
             new ArrayList<String>();
     //DublinCore and QDC Metadata
@@ -100,6 +238,7 @@ public class Agrisap {
     private File _xmlFile = null;
     private Logger _logger = null;
     private AutomaticLangDetector _detector = null;
+*/
 
     /**
      * Default constructor
@@ -187,6 +326,75 @@ public class Agrisap {
         this(xmlFile, logger);
         _detector = langDetector;
     }
+
+
+  /**
+     * Copy Constructor. High O()?
+     * @param Agrisap
+     */
+    public Agrisap(Agrisap agrisap) {
+
+        this._identifier = agrisap._identifier;
+        this._title = agrisap._title;
+        this._language = agrisap._language;
+        this._description = agrisap._description;
+        this._subject = agrisap._subject;
+        this._coverage = agrisap._coverage;
+        this._type = agrisap._type;
+        this._date = agrisap._date;
+        this._creator = agrisap._creator;
+        this._publisher = agrisap._publisher;
+        this._format = agrisap._format;
+        this._rights = agrisap._rights;
+        this._relation = agrisap._relation;
+        this._source = agrisap._source;
+        //refined qualified dublin core elements
+        this._alternative = agrisap._alternative;
+        this._abstract = agrisap._abstract;
+        this._dateIssued = agrisap._dateIssued;
+        this._extent = agrisap._extent;
+        this._medium = agrisap._medium;
+        this._isVersionOf = agrisap._isVersionOf;
+        this._hasVersion = agrisap._hasVersion;
+        this._isReplacedBy = agrisap._isReplacedBy;
+        this._replaces = agrisap._replaces;
+        this._isRequiredBy = agrisap._isRequiredBy;
+        this._requires = agrisap._requires;
+        this._isPartOf = agrisap._isPartOf;
+        this._hasPart = agrisap._hasPart;
+        this._isReferencedBy = agrisap._isReferencedBy;
+        this._references = agrisap._references;
+        this._isFormatOf = agrisap._isFormatOf;
+        this._hasFormat = agrisap._hasFormat;
+        //AgrisAP refinements
+        this._spatial = agrisap._spatial;
+        this._temporal = agrisap._temporal;
+        this._availability = agrisap._availability;
+        this._creatorCorporate = agrisap._creatorCorporate;
+        this._citationNumber = agrisap._citationNumber;
+        this._creatorPersonal = agrisap._creatorPersonal;
+	this._availabilityNumber = agrisap._availabilityNumber;
+        this._citationIdentifier = agrisap._citationIdentifier;
+        this._citationTitle = agrisap._citationTitle;
+        this._citationChronology = agrisap._citationChronology;
+        this._availabilityLocation = agrisap._availabilityLocation;
+        this._citation = agrisap._citation;
+        this._creatorConference = agrisap._creatorConference;
+        this._descriptionNotes = agrisap._descriptionNotes;
+        this._rightsStatement = agrisap._rightsStatement;
+        this._descriptionEdition = agrisap._descriptionEdition;
+        this._subjectClassification = agrisap._subjectClassification;
+        this._termsOfUse = agrisap._termsOfUse;
+        this._hasTranslation = agrisap._hasTranslation;
+        this._publisherPlace = agrisap._publisherPlace;
+        this._publisherName = agrisap._publisherName;
+        this._isTranslationOf = agrisap._isTranslationOf;
+        //Language ISO Helper
+        // this._langISOHelper = new LanguageISOHelper();
+        this._langISOHelper = agrisap._langISOHelper;
+        this._xmlFile = agrisap._xmlFile;
+
+}
 
     /**
      * This method fulfills an Agris Object that stores the metadata.
@@ -320,7 +528,7 @@ public class Agrisap {
         for (Element child : children) {
             //      System.out.println("traduciendo elemento "+child.getName());
             String childrenName = child.getName();
-            System.out.println(childrenName);
+            // System.out.println(childrenName);
             
             if (identifierNames.contains(childrenName)) {
                 Identifier2Identifier identifier2Identifier =
@@ -335,7 +543,7 @@ public class Agrisap {
                         child, this);
             } else
             if (descriptionNames.contains(childrenName)) {
-              System.out.println("found "+ childrenName);
+              // System.out.println("found "+ childrenName);
                 Description2Description description2Description =
                         new Description2Description(child, this,
                         _langISOHelper, _detector, _logger, _xmlFile);

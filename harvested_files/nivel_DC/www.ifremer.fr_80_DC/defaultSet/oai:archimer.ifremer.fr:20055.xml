@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>NAMIBIE, an interface dedicated to multimedia access to coastal data and information for Integrated Coastal Zone Management processes</dc:title>
+  <dc:creator>Loubersac, Lionel</dc:creator>
+  <dc:creator>Maraux,</dc:creator>
+  <dc:creator>Lemsanni, Abdellah</dc:creator>
+  <dc:creator>Fiandrino, Annie</dc:creator>
+  <dc:creator>Jouan, Mathieu</dc:creator>
+  <dc:creator>Tellier,</dc:creator>
+  <dc:creator>Denis, Jacques</dc:creator>
+  <dc:description>NAMIBIE (a french acronym for Integrated Multimedia Navigator Within Coastal Environment Data Bases) is a specific tool which first concept has been established by Ifremer and has been developped by an association between research in the field of coastal environment, innovation in the field of new information and communication technologies and services in the field of coastal integrated management and impact studies.
+The objectives of this tool are to facilitate research, direct access and display of relevant multimedia coastal integrated data and information according to an interactive, widely opened and playfull interface.
+The principles are based upon the fact that sustainable decision making needs an optimized unterstanding of coastal processes and better consultation between actors. In this purpose the development of the tool has considered that the end-user should and could be free to look after the data and the information he needs for a particular site or environment of interest and for a specific ICZM question according to easy navigation interfaces.
+That is why NAMIBIE concept is based upon :
+  - a coherent 3D representation of the coasts (i.e. from catchement areas to continental shelf and deep sea), which considers a coherent DEM from land to sea and textural representation of the environment using satellite imagery textural displays,
+  - a 3D navigator which allows the user to fly or dive over and within the coastal environment of interest,
+  - a multimedia database (text, graphs, image, maps, geographic objects, modelling results...) specific to the territory of interest,
+  - an interactive interface which helps in finding relevant information associated to specific questions.
+The technologies used include VRML data format, integration of standard GIS format (shp, grid, img) within the navigator, integration and display of modelling data. The production chain is realized in C++ and Java scripts allow dialogue between web pages and 3D windows.
+Applications are presented on the coasts of Languedoc Roussillon region (French Mediterranean border) in the framework of ICZM problematics</dc:description>
+  <dc:publisher>Littoral 2004, Aberdeen, Scotland, UK, September 2004</dc:publisher>
+  <dc:date>2004-09</dc:date>
+  <dc:type>text</dc:type>
+  <dc:type>Conference article</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://archimer.ifremer.fr/doc/00089/20055/17696.pdf</dc:identifier>
+  <dc:language>en</dc:language>
+  <dc:relation>http://archimer.ifremer.fr/doc/00089/20055/</dc:relation>
+</oai_dc:dc>

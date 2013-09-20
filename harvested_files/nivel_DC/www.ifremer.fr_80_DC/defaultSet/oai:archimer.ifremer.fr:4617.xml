@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Etude dynamique d'un train de pêche complet</dc:title>
+  <dc:creator>Marichal, Dominique</dc:creator>
+  <dc:creator>Vincent, Benoit</dc:creator>
+  <dc:subject>obstruction</dc:subject>
+  <dc:subject>fishing accident</dc:subject>
+  <dc:subject>manoeuvrability</dc:subject>
+  <dc:subject>trawl door</dc:subject>
+  <dc:subject>net</dc:subject>
+  <dc:subject>trawl gear</dc:subject>
+  <dc:subject>croche</dc:subject>
+  <dc:subject>accident de pêche</dc:subject>
+  <dc:subject>manoeuvrabilité</dc:subject>
+  <dc:subject>panneau</dc:subject>
+  <dc:subject>filet</dc:subject>
+  <dc:subject>chalut</dc:subject>
+  <dc:subject>train de pêche</dc:subject>
+  <dc:description>We present a complete numerical model of a full trawl gear and the vessel. The trawler is modelled by equations and hydrodynamic coefficients which are classically used for ship behaviour and ship manoeuvrability studies. It is submitted to the action of the warps. The warps and the net are part of a complex fluid-structure coupling problem. The net is a supple structure and its shape depends on the forces that are acting on it. Now, these forces themselves depend of the net meshes shape. The otter boards are most particular wings. We have studied one particular type. Then all these elements have been put together by writing their dynamics equations. A time step method enables the calculation of the shape, the forces and the motion of each element in the whole system.</dc:description>
+  <dc:description>Nous présentons l'étude dynamique d'un train de pêche complet. Le chalutier est
+modélisé par les équations classiques des théories de tenue à la mer et de manoeuvrabilité des navires. Il est soumis à l'action des funes. Les funes et les filets constituent un problème de couplage fluide-structure complexe. Le filet est une structure souple dont la forme dépend des efforts auxquels il est soumis. Mais ces efforts dépendent eux-même de la forme prise par les mailles. Les panneaux sont des profils portants très particuliers. Nous avons étudié en détail un type de panneau. Lorsque tous ces éléments sont rassemblés, « il suffit » d'écrire les équations de la dynamique pour chacun des objets considérés. Une résolution à pas de temps permet de suivre la déformation du train de pêche complet, l'évolution des tensions en tout point du chalut et de son gréement, les mouvements du chalutier.</dc:description>
+  <dc:publisher>Brest, 3 - 5 avril 2007</dc:publisher>
+  <dc:date>2007-04</dc:date>
+  <dc:type>text</dc:type>
+  <dc:type>Conference article</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://archimer.ifremer.fr/doc/2007/acte-4617.pdf</dc:identifier>
+  <dc:language>fr</dc:language>
+  <dc:relation>http://archimer.ifremer.fr/doc/00000/4617/</dc:relation>
+</oai_dc:dc>

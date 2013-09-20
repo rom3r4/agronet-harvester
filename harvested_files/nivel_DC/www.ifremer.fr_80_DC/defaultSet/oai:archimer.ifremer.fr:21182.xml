@@ -1,0 +1,16 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Assimilation of geosat data into a quasi-geostrophic model of the north-atlantic between 20-degrees and 50-degrees-N - preliminary-results</dc:title>
+  <dc:creator>Verron, J</dc:creator>
+  <dc:creator>Molines, Jm</dc:creator>
+  <dc:creator>Blayo, E</dc:creator>
+  <dc:description>Geosat altimeter residuals of the sea surface height (RSSH) are combined with the mean sea surface computed from the non-linear inverse model by Mercier et al. (1991) to provide a synthetic data set of the along-track sea-surface height over the North Atlantic during the period from 5 November 1986 to 2 December 1987. This data set is assimilated into a predictive numerical model of the North Atlantic circulations between 20-degrees and 50-degrees-N. The model is quasigeostrophic, four-layered and has realistic coastline and topography. The ocean circulation is forced by a constant wind stress curl from Hellerman and Rosenstein's data (1983). Nudging is the assimilation technique used to insert sea-surface data information into the model and is carried out along the Geosat ground tracks sequentially as data appears. The feasibility of the approach is initially demonstrated by comparing the model prediction along certain ground tracks with independent Geosat measurements obtained along these tracks and which have not been subjected to the assimilation process. Succinct comparisons are then performed to examine the validity of several model-predicted synoptic features of the circulation against other global observations over the North Atlantic. The usefulness of assimilating Geosat data has been clearly demonstrated since the model predictions, at least at the surface, seem more realistic than simulations realized without assimilation with this model or with other models, including much more sophisticated ones.</dc:description>
+  <dc:publisher>Gauthier-Villars</dc:publisher>
+  <dc:date>1992</dc:date>
+  <dc:type>text</dc:type>
+  <dc:type>Publication</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://archimer.ifremer.fr/doc/00101/21182/18799.pdf</dc:identifier>
+  <dc:source>Oceanologica Acta (0399-1784) (Gauthier-Villars), 1992 , Vol. 15 , N. 5 , P. 575-583</dc:source>
+  <dc:language>en</dc:language>
+  <dc:relation>http://archimer.ifremer.fr/doc/00101/21182/</dc:relation>
+</oai_dc:dc>

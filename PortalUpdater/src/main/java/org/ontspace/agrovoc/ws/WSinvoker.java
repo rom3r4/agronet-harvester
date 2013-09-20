@@ -36,12 +36,17 @@ import javax.xml.transform.stream.StreamResult;
  */
 public class WSinvoker {
 
+    public static String getTermInfo(String URI) throws Exception {
+	return "";
+   }
+
     /**
      * Gets the information for a given term in the Agrovoc service
      * @param URI URI for the term which information will be fetched
      * @return Sanitized XML representation for the information on the term
      * @throws Exception Any exception should be handled in an interface layer
      */
+     /*
     public static String getTermInfo(String URI) throws Exception {
         org.fao.acsw.webservice.ACSWWebServiceService service =
                 new org.fao.acsw.webservice.ACSWWebServiceService();
@@ -59,7 +64,6 @@ public class WSinvoker {
         sourceDispatch = service.createDispatch(portQName, Source.class, Service.Mode.PAYLOAD);
         Source result = sourceDispatch.invoke(new StreamSource(new StringReader(req)));
 
-        /* XML sanitizing starts here */
 
         // Get XML response
         ByteArrayOutputStream baos = new ByteArrayOutputStream();
@@ -81,4 +85,5 @@ public class WSinvoker {
 
         return retValue;
     }
+    */
 }
