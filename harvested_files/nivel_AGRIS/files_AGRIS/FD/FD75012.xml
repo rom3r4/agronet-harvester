@@ -1,0 +1,2507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "../../agrislegacy.dtd">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="FD7501570">
+<dc:title xml:lang="en">Beach landing of fish</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hoejsgaard, J.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy)</ags:creatorCorporate>
+<ags:creatorConference>3. FAO/DANIDA Training Course on Quality Aspects in the Handling and Storage of Fish, Copenhagen (Denmark), 5 Aug 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>FAO</ags:publisherName>
+<ags:publisherPlace>Rome (Italy)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--28975</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>2 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501570</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501423">
+<dc:title xml:lang="en">Agricultural extension and training</dc:title>
+<dc:creator>
+<ags:creatorCorporate>FAO, Rome (Italy)</ags:creatorCorporate>
+<ags:creatorConference>Committee on Agriculture - 3. Session, Rome (Italy), 15 Apr 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Feb 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">C00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--28828; 18 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-ESD--COAG/75/5</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>24 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501423</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502038">
+<dc:title xml:lang="en">Requirements for the irradiation of food on a commercial scale. Proceedings of a Panel on the Commercialization of Irradiated Food Items Accepted for Human Consumption, Vienna, 18-22 March 1974</dc:title>
+<dc:creator>
+<ags:creatorCorporate>FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture</ags:creatorCorporate>
+<ags:creatorConference>Panel on the Commercialization of Irradiated Food Items Accepted for Human Consumption, Vienna (Austria), 18 Mar 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29348; Illus., graphs, photographs; Bibliography, vp. (180 ref.); Summaries (En)</ags:descriptionNotes>
+</dc:description><dc:identifier scheme="ags:ISBN">92-0-111275-0</dc:identifier>
+<dc:identifier scheme="ags:RN">IAEA--STI/PUB/394</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>Z</dc:type>
+<dc:type>E</dc:type>
+<dc:format><dcterms:extent>219 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502038</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Panel Proceedings Series (IAEA)</ags:citationTitle>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501584">
+<dc:title xml:lang="en">Status of forestry in the U.S. - 1972-1973</dc:title>
+<dc:creator>
+<ags:creatorCorporate>FAO, Rome (Italy). Forestry Dept.</ags:creatorCorporate>
+<ags:creatorConference>North American Forestry Commission - 7. Session, Mexico City (Mexico), 4 Feb 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--28989</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-FO--NAFC/74/2(c)</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>25 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501584</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501603">
+<dc:title xml:lang="en">[Methodology of estimating cost and efficiency of logging operations and log transport]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Anaya Lopez, H.J.</ags:creatorPersonal>
+<ags:creatorPersonal>Quevedo V, T.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy). Forestry Dept.</ags:creatorCorporate>
+<ags:creatorConference>Seminario FAO/SIDA sobre el Transporte de la Madera en Paises de America Latina, Oaxtepec (Mexico), 23 Feb 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Nov 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29008; Illus.; 5 ref.; Summary (Es)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-FO--TLA/75/17</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>33 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501603</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502058">
+<dc:title xml:lang="en">Consumer attitudes towards food irradiation in the Netherlands</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kooij, J.G. van</ags:creatorPersonal>
+<ags:creatorConference>Panel on the Commercialization of Irradiated Food Items Accepted for Human Consumption, Vienna (Austria), 18 Mar 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29368</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">92-0-111275-0</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502058</ags:availabilityNumber></agls:availability>
+<dc:source>Requirements for the irradiation of food on a commercial scale. Proceedings of a Panel on the Commercialization of Irradiated Food Items Accepted for Human Consumption, Vienna, 18-22 March 1974, FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture.- Vienna (Austria): International Atomic Energy Agency, 1975.- ISBN 92-0-111275-0. p. 203</dc:source>
+<ags:citation><ags:citationTitle>Panel Proceedings Series (IAEA)</ags:citationTitle>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501597">
+<dc:title xml:lang="en">[Logging and transport in man made forests in developing countries]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>FAO, Rome (Italy). Forestry Dept.</ags:creatorCorporate>
+<ags:creatorConference>Seminario FAO/SIDA sobre el Transporte de la Madera en Paises de America Latina, Oaxtepec (Mexico), 23 Feb 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Nov 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29002; 15 tables; Bibliography p. 24-27 (69 ref.)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-FO--TLA/75/10</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>Z</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>29 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501597</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501830">
+<dc:title xml:lang="en">Food contamination monitoring in the United Kingdom</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kermode, G.O.</ags:creatorPersonal>
+<ags:creatorPersonal>Malik, R.K.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy). Food Policy and Nutrition Div.; World Health Organization, Geneva (Switzerland)</ags:creatorCorporate>
+<ags:creatorConference>FAO/WHO Expert Consultation to Identify the Food Contaminants to Be Monitored and to Recommend Sampling Plans and Methodology, Rome (Italy), 7 Oct 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q20</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29173</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-ESN--MON-74.1</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>30 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501830</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502249">
+<dc:title xml:lang="en">Integrated programmes and experiences in Latin America</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Montesinos, V.R.</ags:creatorPersonal>
+<ags:creatorPersonal>Cuentas Zavala, J.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Hevia, M.-T.</ags:creatorPersonal>
+<ags:creatorPersonal>Benjamin, W. (United Nations Children's Fund, Santiago (Chile). Oficina Regional para las Americas)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Summaries (En, Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502249</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Les Carnets de l'Enfance (UNICEF)</ags:citationTitle>
+<ags:citationTitle>Assignment Children (UNICEF)</ags:citationTitle>
+<ags:citationNumber>(no.31) p. 71-82</ags:citationNumber>
+<ags:citationChronology>(Jul 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501480">
+<dc:title xml:lang="en">Fibres</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Giles, J.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Singh, H.B.</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>FAO</ags:publisherName>
+<ags:publisherPlace>Rome (Italy)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--28885; 12 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501480</ags:availabilityNumber></agls:availability>
+<dc:source>Handbook of plant introduction in tropical crops, Leon, J. (ed.).- Rome (Italy): FAO, 1974. p. 119-125</dc:source>
+<ags:citation><ags:citationTitle>FAO Agricultural Studies (FAO)</ags:citationTitle>
+<ags:citationTitle>Etudes Agricoles de la FAO (FAO) - FAO Estudios Agropecuarios (FAO)</ags:citationTitle>
+<ags:citationNumber>no. 93</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501348">
+<dc:title xml:lang="en">Advisory services in regional fish culture, Asia and Far East Region. Project findings and recommendations</dc:title>
+<dc:creator>
+<ags:creatorCorporate>FAO, Rome (Italy). Fisheries Dept.</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--28803</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-FI--DP/RAS/72/128</dc:identifier>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>74 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501348</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501745">
+<dc:title xml:lang="en">Preliminary radiobiological studies on Hylemya antiqua Meigen and data on three radiation-induced (0.5 krad) chromosomal rearrangements</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Robinson, A.S.</ags:creatorPersonal>
+<ags:creatorPersonal>Heemert, C. van</ags:creatorPersonal>
+<ags:creatorConference>Symposium on the Sterility Principle for Insect Control, Innsbruck (Austria), 22 Jul 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29088; Includes discussion; Illus.; 37 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">IAEA--SM-186/30</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">92-0-010275-1</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501745</ags:availabilityNumber></agls:availability>
+<dc:source>Sterility principle for insect control 1974. Proceedings of the Symposium on the Sterility Principle for Insect Control, Innsbruck, 22-26 July 1974, FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture.- Vienna (Austria): International Atomic Energy Agency, 1975.- ISBN 92-0-010275-1. p. 375-385</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501502">
+<dc:title xml:lang="en">Techniques of pre-cooling, the long term storage, C.A. storage and the freezing of fruit and vegetables</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hall, E.G.</ags:creatorPersonal>
+<ags:creatorConference>International Seminar on Refrigeration for Asia and the Far East, Durgapur (India), 14 Jan 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>FAO</ags:publisherName>
+<ags:publisherPlace>Rome (Italy)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--28907; Illus.; 47 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501502</ags:availabilityNumber></agls:availability>
+<dc:source>Refrigeration applications to fish, fruit and vegetables in South East Asia. An International Short-Term Training Course, Durgapur, India, January 14-24, 1974, FAO, Rome (Italy); International Institute of Refrigeration, 75 - Paris (France).- Rome (Italy): FAO, 1974. p. 75-126</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501977">
+<dc:title xml:lang="en">Tuberculosis control in rural areas [of Europe]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>World Health Organization, Copenhagen (Denmark). Regional Office for Europe.</ags:creatorCorporate>
+<ags:creatorConference>WHO Technical Meeting on Tuberculosis Control in Rural Areas, Zagreb (Yugoslavia), 29 Sep 1970</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>WHO, Regional Office for Europe</ags:publisherName>
+<ags:publisherPlace>Copenhagen (Denmark)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:format><dcterms:extent>38 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501977</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501683">
+<dc:title xml:lang="en">Calorie intake and physical labour among agricultural workers in Guatemala</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Viteri, F.E.</ags:creatorPersonal>
+<ags:creatorPersonal>Torun, B. (Instituto de Nutricion de Centro America, Guatemala. Div. Biomedica)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">S00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>11 tables; 26 ref. Summaries (En, Fr, Pt)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501683</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Boletin de la Oficina Panamericana (PAHO)</ags:citationTitle>
+<ags:citationNumber>v. 78(1) p. 58-74</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502375">
+<dc:title xml:lang="en">Demonstrating the use of the computer with soil survey data to optimize soil resource allocation. Report for the Government of Korea</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Day, T.H.</ags:creatorPersonal>
+<ags:creatorPersonal>Ki Tae Um</ags:creatorPersonal>
+<ags:creatorPersonal>Teigen, L.D.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy). Land and Water Development Div.</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F24</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F26</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">U10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29577; 8 tables; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-AGL--UNDP/ROK/70/011</dc:identifier>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>vp.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502375</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502054">
+<dc:title xml:lang="en">Possibilities and problems of introducing radiation preservation of foodstuffs in Uruguay</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Merino, F.G.</ags:creatorPersonal>
+<ags:creatorConference>Panel on the Commercialization of Irradiated Food Items Accepted for Human Consumption, Vienna (Austria), 18 Mar 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29364; 2 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">92-0-111275-0</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502054</ags:availabilityNumber></agls:availability>
+<dc:source>Requirements for the irradiation of food on a commercial scale. Proceedings of a Panel on the Commercialization of Irradiated Food Items Accepted for Human Consumption, Vienna, 18-22 March 1974, FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture.- Vienna (Austria): International Atomic Energy Agency, 1975.- ISBN 92-0-111275-0. p. 181-182</dc:source>
+<ags:citation><ags:citationTitle>Panel Proceedings Series (IAEA)</ags:citationTitle>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501744">
+<dc:title xml:lang="en">Conditional mutations for the control on insect populations</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Fitz-Earle, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Suzuki, D.T.</ags:creatorPersonal>
+<ags:creatorConference>Symposium on the Sterility Principle for Insect Control, Innsbruck (Austria), 22 Jul 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29087; Includes discussion; 2 tables; 26 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">IAEA--SM-186/3</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">92-0-010275-1</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501744</ags:availabilityNumber></agls:availability>
+<dc:source>Sterility principle for insect control 1974. Proceedings of the Symposium on the Sterility Principle for Insect Control, Innsbruck, 22-26 July 1974, FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture.- Vienna (Austria): International Atomic Energy Agency, 1975.- ISBN 92-0-010275-1. p. 365-374</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502083">
+<dc:title xml:lang="en">Sandy soils. Report of the FAO/UNDP Seminar on Reclamation and Management of Sandy Soils in the Near East and North Africa, Nicosia, Cyprus, 3-8 December 1973</dc:title>
+<dc:creator>
+<ags:creatorCorporate>FAO, Rome (Italy). Land and Water Development Div.</ags:creatorCorporate>
+<ags:creatorConference>FAO/UNDP Seminar on Reclamation and Management of Sandy Soils in the Near East and North Africa, Nicosia (Cyprus), 3 Dec 1973</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>FAO</ags:publisherName>
+<ags:publisherPlace>Rome (Italy)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F26</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F28</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29393; Tables, graphs; Bibliography, vp. (141 ref.); Summaries (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>Z</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>251 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502083</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Soils Bulletin (FAO)</ags:citationTitle>
+<ags:citationNumber>no. 25</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501802">
+<dc:title xml:lang="en">Effect of planting method, seeding rate, row orientation, and row position on beds on grain yield, grain volume-weight, heads per unit area, seeds per head, and seed weight of wheat (Triticum aestivum L.)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Alemu, A.</ags:creatorPersonal>
+<ags:creatorCorporate>Arizona Univ., Tucson (USA). Graduate Coll.</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>FAO</ags:publisherName>
+<ags:publisherPlace>Rome (Italy)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29145; 11 tables; 23 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>37 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501802</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502072">
+<dc:title xml:lang="en">Training and instructional activities as a means of improving systems interconnection</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Wersig, G.</ags:creatorPersonal>
+<ags:creatorConference>Symposium on Information Systems: Connection and Compatibility, Varna (Bulgaria), 30 Sep 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">U20</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">C00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29382; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">IAEA--SM-189/16</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">92-0-070075-6</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502072</ags:availabilityNumber></agls:availability>
+<dc:source>Information systems. Their interconnection and compatibility. Proceedings of a Symposium on Information Systems: Connection and Compatibility, Varna, Bulgaria, 30 September - 3 October 1974, FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture.- Vienna (Austria): International Atomic Energy Agency, 1975.- ISBN 92-0-070075-6. p. 393-400</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501931">
+<dc:title xml:lang="en">Biological control of Fomes annosus by Peniophora gigantea</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Greig, B.J.W.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy). Forest Resources Div.</ags:creatorCorporate>
+<ags:creatorConference>2. FAO/IUFRO World Technical Consultation on Forest Diseases and Insects, New Delhi (India), 7 Apr 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Apr 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29274; 3 tables; 10 ref.; Summaries (En, Es, Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-FOR--IUFRO/DI/75/12-36</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>6 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501931</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501760">
+<dc:title xml:lang="en">Habitat as a factor inducing diversity of populations in the codling moth and other orchard pests, and its relevance to genetic control methods</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nagy, B.</ags:creatorPersonal>
+<ags:creatorPersonal>Jermy, T.</ags:creatorPersonal>
+<ags:creatorConference>Symposium on the Sterility Principle for Insect Control, Innsbruck (Austria), 22 Jul 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29103; Includes discussion; 20 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">IAEA--SM-186/11</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">92-0-010275-1</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501760</ags:availabilityNumber></agls:availability>
+<dc:source>Sterility principle for insect control 1974. Proceedings of the Symposium on the Sterility Principle for Insect Control, Innsbruck, 22-26 July 1974, FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture.- Vienna (Austria): International Atomic Energy Agency, 1975.- ISBN 92-0-010275-1. p. 537-542</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501447">
+<dc:title xml:lang="en">FAO fertilizer programme distribution and credit pilot schemes - The case in Brazil</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Vega, J. de la</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy). Land and Water Development Div.</ags:creatorCorporate>
+<ags:creatorConference>FAO/Fertilizer Industry Advisory Committee of Experts - 20. Session, Rome (Italy), 20 Mar 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Jan 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--28852; 2 tables</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-AGL--FFH/FP/75/6</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>5 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501447</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502332">
+<dc:title xml:lang="en">Isotopic ratios of iodine and other radionuclides as nuclear power pollution indicators</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Brauer, F.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Ballou, N.E.</ags:creatorPersonal>
+<ags:creatorConference>Symposium on Isotope Ratios as Pollutant Source and Behaviour Indicators, Vienna (Austria), 18 Nov 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">T00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29534; 6 tables; 34 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">IAEA--SM-191/20</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">92-0-010375-8</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502332</ags:availabilityNumber></agls:availability>
+<dc:source>Isotope ratios as pollutant source and behaviour indicators. Proceedings of a Symposium on Isotope Ratios as Pollutant Source and Behaviour Indicators, Vienna, 18-22 November 1974, FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture.- Vienna (Austria): International Atomic Energy Agency, 1975.- ISBN 92-0-010375-8. p. 215-229</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502441">
+<dc:title xml:lang="en">Drought in the West African Sahel and its consequences on the flood zones in the Niger, Senegal and lake Chad basins</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Lamagat, J.P.</ags:creatorPersonal>
+<ags:creatorConference>Consultation on Fisheries Problems in the Sahelian Zone, Bamako (Mali), 13 Nov 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">P10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29643; 5 tables, maps; 6 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502441</ags:availabilityNumber></agls:availability>
+<dc:source>Report of the Consultation on Fisheries Problems in the Sahelian Zone, Bamako, Mali, 13-20 November 1974, FAO, Rome (Italy). Fisheries Dept., 1975. FAO-FIP--CIFA/OP-4. p. 132-151</dc:source>
+<ags:citation><ags:citationTitle>CIFA Occasional Papers (FAO)</ags:citationTitle>
+<ags:citationTitle>Documents Occasionnels du CPCA (FAO)</ags:citationTitle>
+<ags:citationNumber>no. 4</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501995">
+<dc:title xml:lang="en">UNDP assists Latin American Banana Producers' Group to combat price decline</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Anon.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jun 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501995</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>UN Monthly Chronicle (UN)</ags:citationTitle>
+<ags:citationTitle>UNO Chronique Mensuelle (UN) - ONU Cronica Mensual (UN)</ags:citationTitle>
+<ags:citationNumber>v. 12(6) p. 46-48</ags:citationNumber>
+<ags:citationChronology>(Jun 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501860">
+<dc:title xml:lang="en">Statistical tables. Production, external trade, prices</dc:title>
+<dc:creator>
+<ags:creatorCorporate>FAO, Rome (Italy)</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29203; 16 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501860</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Monthly Bulletin of Agricultural Economics and Statistics (FAO)</ags:citationTitle>
+<ags:citationTitle>Bulletin Mensuel. Economie et Statistique Agricoles (FAO) -Boletin Mensual de Economia y Estadistica Agricolas (FAO)</ags:citationTitle>
+<ags:citationNumber>v. 24(4) p. 29-56</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502063">
+<dc:title xml:lang="en">Will there always be great diversity among the world's scientific and technological information handling systems?</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Baker, D.B.</ags:creatorPersonal>
+<ags:creatorPersonal>O'Dette, R.E.</ags:creatorPersonal>
+<ags:creatorConference>Symposium on Information Systems: Connection and Compatibility, Varna (Bulgaria), 30 Sep 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">U20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29373; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">IAEA--SM-189/38</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">92-0-070075-6</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502063</ags:availabilityNumber></agls:availability>
+<dc:source>Information systems. Their interconnection and compatibility. Proceedings of a Symposium on Information Systems: Connection and Compatibility, Varna, Bulgaria, 30 September - 3 October 1974, FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture.- Vienna (Austria): International Atomic Energy Agency, 1975.- ISBN 92-0-070075-6. p. 119-129</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501593">
+<dc:title xml:lang="en">[Mapping techniques for forest inventory]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Terezo, E.F.M.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy). Forestry Dept.</ags:creatorCorporate>
+<ags:creatorConference>Seminario FAO/SIDA sobre el Transporte de la Madera en Paises de America Latina, Oaxtepec (Mexico), 23 Feb 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Jan 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--28998; Summary (Es)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-FO--TLA/75/3</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>5 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501593</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501558">
+<dc:title xml:lang="en">Coordination of multilateral and bilateral assistance to fishery development programmes</dc:title>
+<dc:creator>
+<ags:creatorCorporate>FAO, Rome (Italy). Fisheries Dept.</ags:creatorCorporate>
+<ags:creatorConference>Committee on Fisheries - 10. Session, Rome (Italy), 3 Jun 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Apr 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E30</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--28963; Summaries (En, Es, Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-FI--COFI/75/8</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>8 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501558</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501498">
+<dc:title xml:lang="en">Studies of mechanized land development in Nigeria and possible effects of such work on employment</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Allan, T.G.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy). Agricultural Services Div.</ags:creatorCorporate>
+<ags:creatorConference>Expert Panel on the Effects of Farm Mechanization on Production and Employment, Rome (Italy), 4 Feb 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Feb 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--28903; 9 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-AGS--MPR/75/14</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>14 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501498</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501568">
+<dc:title xml:lang="en">The handling and storage of fish raw materials for the fish meal industry</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hansen, P.</ags:creatorPersonal>
+<ags:creatorPersonal>Hansen, H.E.</ags:creatorPersonal>
+<ags:creatorPersonal>Ikkala, P.</ags:creatorPersonal>
+<ags:creatorPersonal>Olsen, K.B.</ags:creatorPersonal>
+<ags:creatorPersonal>Petersen, T.E.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy)</ags:creatorCorporate>
+<ags:creatorConference>3. FAO/DANIDA Training Course on Quality Aspects in the Handling and Storage of Fish, Copenhagen (Denmark), 5 Aug 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>FAO</ags:publisherName>
+<ags:publisherPlace>Rome (Italy)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--28973; Illus.</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>vp.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501568</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501834">
+<dc:title xml:lang="en">Food contamination monitoring in the United States of America</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Somers, E.</ags:creatorPersonal>
+<ags:creatorPersonal>Erdman, I.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy). Food Policy and Nutrition Div.; World Health Organization, Geneva (Switzerland)</ags:creatorCorporate>
+<ags:creatorConference>FAO/WHO Expert Consultation to Identify the Food Contaminants to Be Monitored and to Recommend Sampling Plans and Methodology, Rome (Italy), 7 Oct 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q20</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29177</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-ESN--MON-74.5</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>24 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501834</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502116">
+<dc:title xml:lang="en">Price elasticity of bananas at retail</dc:title>
+<dc:creator>
+<ags:creatorCorporate>FAO, Rome (Italy). Commodities and Trade Div.</ags:creatorCorporate>
+<ags:creatorConference>Committee on Commodity Problems. Intergovernmental Group on Bananas - 6. Session, Abidjan (Ivory Coast), 29 Apr 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Mar 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29426</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-ESC--CCP-BA-75/6</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>3 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502116</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502383">
+<dc:title xml:lang="en">Report of the Ad Hoc Government Consultation on Pesticides in Agriculture and Public Health, Rome, Italy, 7-11 April 1975</dc:title>
+<dc:creator>
+<ags:creatorCorporate>FAO, Rome (Italy). Plant Production and Protection Div.</ags:creatorCorporate>
+<ags:creatorConference>Ad Hoc Government Consultation on Pesticides in Agriculture and Public Health, Rome (Italy), 7 Apr 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29585</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-AGP--1975/M/3</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>vp.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502383</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502177">
+<dc:title xml:lang="en">The three types of poverty</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Doo Kingue, M.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy)</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E30</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29487</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502177</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Ceres. FAO Review (FAO)</ags:citationTitle>
+<ags:citationTitle>Ceres. Revue FAO (FAO) - Ceres. Revista FAO (FAO)</ags:citationTitle>
+<ags:citationNumber>(no.45) p. 27-31</ags:citationNumber>
+<ags:citationChronology>(May 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501790">
+<dc:title xml:lang="en">Proposals for short term research, long term research, extension, education and international cooperation</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nagar, B.R.</ags:creatorPersonal>
+<ags:creatorConference>FAO/SIDA Expert Consultation on Organic Material as Fertilizers, Rome (Italy), 2 Dec 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>FAO</ags:publisherName>
+<ags:publisherPlace>Rome (Italy)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29133</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501790</ags:availabilityNumber></agls:availability>
+<dc:source>Organic material as fertilizers. Report of the FAO/SIDA Expert Consultation, Rome, 2-6 December 1974, FAO, Rome (Italy). Land and Water Development Div..- Rome (Italy): FAO, 1975. p. 379-386</dc:source>
+<ags:citation><ags:citationTitle>Soils Bulletin (FAO)</ags:citationTitle>
+<ags:citationNumber>no. 27</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501954">
+<dc:title xml:lang="en">The control of insect pests in urban and recreational forestry in Israel</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Halperin, J.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy). Forest Resources Div.</ags:creatorCorporate>
+<ags:creatorConference>2. FAO/IUFRO World Technical Consultation on Forest Diseases and Insects, New Delhi (India), 7 Apr 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Apr 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29297; 7 ref.; Summaries (En, Es, Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-FOR--IUFRO/DI/75/17-59</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>7 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501954</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502357">
+<dc:title xml:lang="en">Some stoichiometric relations and their value in rumen studies</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Czerkawski, J.W.</ags:creatorPersonal>
+<ags:creatorConference>Research Co-ordination Meeting and Panel on Tracer Techniques in Studies on the Use of Non-Protein Nitrogen (NPN) in Ruminants, Vienna (Austria), 18 Feb 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29559; 3 tables, graphs; 6 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">92-0-111175-4</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502357</ags:availabilityNumber></agls:availability>
+<dc:source>Tracer studies on non-protein nitrogen for ruminants 2. Proceedings of a Research Co-ordination Meeting and Panel on Tracer Techniques in Studies on the Use of Non-Protein Nitrogen (NPN) in Ruminants, 18-22 February 1974, FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture.- Vienna (Austria): International Atomic Energy Agency, 1975.- ISBN 92-0-111175-4. p. 55-63</dc:source>
+<ags:citation><ags:citationTitle>Panel Proceedings Series (IAEA)</ags:citationTitle>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502227">
+<dc:title xml:lang="en">Implications of outer space technology on development in meteorology and meteorological services</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Johnson, A.W.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>7 photos</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502227</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>WMO Bulletin (WMO)</ags:citationTitle>
+<ags:citationTitle>Bulletin de l'OMM (WMO)</ags:citationTitle>
+<ags:citationNumber>v. 24(3) p. 162-170</ags:citationNumber>
+<ags:citationChronology>(Jul 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501924">
+<dc:title xml:lang="en">Current status of research concerning resistance of Scots pine (Pinus sylvestris) to needle casts</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Stephan, B.R.</ags:creatorPersonal>
+<ags:creatorPersonal>Scholz, F.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy). Forest Resources Div.</ags:creatorCorporate>
+<ags:creatorConference>2. FAO/IUFRO World Technical Consultation on Forest Diseases and Insects, New Delhi (India), 7 Apr 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Apr 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29267; 36 ref.; Summaries (En, Es, Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-FOR--IUFRO/DI/75/10-29</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>7 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501924</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502242">
+<dc:title xml:lang="en">The management of radioactive wastes resulting from emergency situations on land and sea</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Morrison, J.A. (Atomic Energy of Canada Ltd., Chalk River, Ontario. Chalk River Nuclear Labs.)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jun 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">T00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>21 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502242</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Atomic Energy Review (IAEA)</ags:citationTitle>
+<ags:citationNumber>v. 13(2) p. 413-421</ags:citationNumber>
+<ags:citationChronology>(Jun 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502240">
+<dc:title xml:lang="en">On the fishes and fisheries of Lake Baringo [Kenya]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ssentongo, G.W. (East African Freshwater Fisheries Research Organization, Jinja (Uganda))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M40</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">M00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>1 map; 3 graphs; 12 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502240</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>The African Journal of Tropical Hydrobiology and Fisheries (EAFFRO)</ags:citationTitle>
+<ags:citationNumber>v. 3(1) p. 95-105</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502454">
+<dc:title xml:lang="en">Memo for the instructor ("animateur")</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Raimondo, P.</ags:creatorPersonal>
+<ags:creatorConference>Consultation on Fisheries Problems in the Sahelian Zone, Bamako (Mali), 13 Nov 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">C00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29656</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502454</ags:availabilityNumber></agls:availability>
+<dc:source>Report of the Consultation on Fisheries Problems in the Sahelian Zone, Bamako, Mali, 13-20 November 1974, FAO, Rome (Italy). Fisheries Dept., 1975. FAO-FIP--CIFA/OP-4. p. 325-327</dc:source>
+<ags:citation><ags:citationTitle>CIFA Occasional Papers (FAO)</ags:citationTitle>
+<ags:citationTitle>Documents Occasionnels du CPCA (FAO)</ags:citationTitle>
+<ags:citationNumber>no. 4</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501824">
+<dc:title xml:lang="en">Food, nutrition and population</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ahmad, K.U.</ags:creatorPersonal>
+<ags:creatorConference>FAO/UNFPA Seminar on Population Problems Related to Food and Agricultural Development in Asia and the Far East, Bangkok (Thailand), 9 Dec 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">S00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29167; Summary only</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501824</ags:availabilityNumber></agls:availability>
+<dc:source>Report on the FAO/UNFPA Seminar on Population Problems Related to Food and Agricultural Development in Asia and the Far East, Bangkok, Thailand, 9-13 December 1974, FAO, Rome (Italy), 1975. FAO-ESH--UN/TF-155. p. 25-27</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502361">
+<dc:title xml:lang="en">Urea-15N conversion after intravenous administration in sheep</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Boda, K.</ags:creatorPersonal>
+<ags:creatorPersonal>Havassy, I.</ags:creatorPersonal>
+<ags:creatorConference>Research Co-ordination Meeting and Panel on Tracer Techniques in Studies on the Use of Non-Protein Nitrogen (NPN) in Ruminants, Vienna (Austria), 18 Feb 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29563; Graphs; 29 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">92-0-111175-4</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502361</ags:availabilityNumber></agls:availability>
+<dc:source>Tracer studies on non-protein nitrogen for ruminants 2. Proceedings of a Research Co-ordination Meeting and Panel on Tracer Techniques in Studies on the Use of Non-Protein Nitrogen (NPN) in Ruminants, 18-22 February 1974, FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture.- Vienna (Austria): International Atomic Energy Agency, 1975.- ISBN 92-0-111175-4. p. 99-109</dc:source>
+<ags:citation><ags:citationTitle>Panel Proceedings Series (IAEA)</ags:citationTitle>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501888">
+<dc:title xml:lang="en">Control of insect pests and diseases with behavioral chemicals</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Vite, J.P.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy). Forest Resources Div.</ags:creatorCorporate>
+<ags:creatorConference>2. FAO/IUFRO World Technical Consultation on Forest Diseases and Insects, New Delhi (India), 7 Apr 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Feb 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29231; 9 ref.; Summaries (En, Es, Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-FOR--IUFRO/DI/75/13-0(b)</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>5 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501888</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501661">
+<dc:title xml:lang="en">Making work more human: working conditions and environment. Report of the Director-General</dc:title>
+<dc:creator>
+<ags:creatorCorporate>International Labour Office, Geneva (Switzerland)</ags:creatorCorporate>
+<ags:creatorConference>International Labour Conference. 60. Session, Geneva (Switzerland), 1975</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>ILO</ags:publisherName>
+<ags:publisherPlace>Geneva (Switzerland)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:identifier scheme="ags:ISBN">101331-6; ISBN 92-2-201331-X; ISBN 92-2-301331-3</dc:identifier>
+<dc:type>K</dc:type>
+<dc:format><dcterms:extent>122 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501661</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502068">
+<dc:title xml:lang="en">Acceptance of international standards</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Gray, J.C.</ags:creatorPersonal>
+<ags:creatorConference>Symposium on Information Systems: Connection and Compatibility, Varna (Bulgaria), 30 Sep 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">U20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29378; 2 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">IAEA--SM-189/11</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">92-0-070075-6</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502068</ags:availabilityNumber></agls:availability>
+<dc:source>Information systems. Their interconnection and compatibility. Proceedings of a Symposium on Information Systems: Connection and Compatibility, Varna, Bulgaria, 30 September - 3 October 1974, FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture.- Vienna (Austria): International Atomic Energy Agency, 1975.- ISBN 92-0-070075-6. p. 301-305</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501457">
+<dc:title xml:lang="en">The supply situation and the economics of fertilizer use in some African countries</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Zschernitz, K.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy). Land and Water Development Div.</ags:creatorCorporate>
+<ags:creatorConference>FAO/Fertilizer Industry Advisory Committee of Experts - 20. Session, Rome (Italy), 20 Mar 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Jan 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--28856</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-AGL--FFH/FP/75/10</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>N</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>21 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501457</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501920">
+<dc:title xml:lang="en">Evaluation of the effects of forest fertilization on damages caused by diseases</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kurkela, T.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy). Forest Resources Div.</ags:creatorCorporate>
+<ags:creatorConference>2. FAO/IUFRO World Technical Consultation on Forest Diseases and Insects, New Delhi (India), 7 Apr 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Apr 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">H00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29263; 28 ref.; Summaries (En, Es, Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-FOR--IUFRO/DI/75/10-25</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>13 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501920</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502044">
+<dc:title xml:lang="en">Irradiation treatment for sprout inhibition in potatoes. Prospects for application in Belgium</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Schietecatte, W.</ags:creatorPersonal>
+<ags:creatorPersonal>Nys, L.</ags:creatorPersonal>
+<ags:creatorConference>Panel on the Commercialization of Irradiated Food Items Accepted for Human Consumption, Vienna (Austria), 18 Mar 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29354; 22 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">92-0-111275-0</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502044</ags:availabilityNumber></agls:availability>
+<dc:source>Requirements for the irradiation of food on a commercial scale. Proceedings of a Panel on the Commercialization of Irradiated Food Items Accepted for Human Consumption, Vienna, 18-22 March 1974, FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture.- Vienna (Austria): International Atomic Energy Agency, 1975.- ISBN 92-0-111275-0. p. 69-87</dc:source>
+<ags:citation><ags:citationTitle>Panel Proceedings Series (IAEA)</ags:citationTitle>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501466">
+<dc:title xml:lang="en">Recommended methods for the detection and measurement of resistance of agricultural pests to pesticides. Tentative methods for adults of the Colorado potato beetle, Leptinotarsa decemlineats (Say) - FAO method no. 12</dc:title>
+<dc:creator>
+<ags:creatorCorporate>FAO, Rome (Italy). Plant Production and Protection Div.</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--28871; Summaries (En, Es, Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501466</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>FAO Plant Protection Bulletin (FAO)</ags:citationTitle>
+<ags:citationTitle>Bulletin Phytosanitaire de la FAO (FAO) - Boletin Fitosanitario de la FAO (FAO)</ags:citationTitle>
+<ags:citationNumber>v. 22(5-6) p. 112-116</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502043">
+<dc:title xml:lang="en">Petitions and clearances for irradiated food items: implementation of legislative requirements in marketing tests [in Israel]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Eisenberg, E.</ags:creatorPersonal>
+<ags:creatorPersonal>Foa, E.</ags:creatorPersonal>
+<ags:creatorPersonal>Lapidot, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Padova, R.</ags:creatorPersonal>
+<ags:creatorPersonal>Rosenberg, K.</ags:creatorPersonal>
+<ags:creatorPersonal>Ross, I.</ags:creatorPersonal>
+<ags:creatorConference>Panel on the Commercialization of Irradiated Food Items Accepted for Human Consumption, Vienna (Austria), 18 Mar 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">D50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29353; 33 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">92-0-111275-0</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502043</ags:availabilityNumber></agls:availability>
+<dc:source>Requirements for the irradiation of food on a commercial scale. Proceedings of a Panel on the Commercialization of Irradiated Food Items Accepted for Human Consumption, Vienna, 18-22 March 1974, FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture.- Vienna (Austria): International Atomic Energy Agency, 1975.- ISBN 92-0-111275-0. p. 61-68</dc:source>
+<ags:citation><ags:citationTitle>Panel Proceedings Series (IAEA)</ags:citationTitle>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501341">
+<dc:title xml:lang="en">Recommendations of the FAO Statistics Advisory Committee of Experts on the 1980 world census of agriculture</dc:title>
+<dc:creator>
+<ags:creatorCorporate>FAO, Rome (Italy)</ags:creatorCorporate>
+<ags:creatorConference>FAO/ECE/CES Study Group on Food and Agricultural Statistics in Europe - 9. Session, Geneva (Switzerland), 25 Nov 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Aug 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">U10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">A00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--28796</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-ESS--AGS/74-8</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>9 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501341</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501764">
+<dc:title xml:lang="en">Larval diets for the codling moth (Laspeyresia pomonella L., Lepidoptera: Olethreutidae)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hatmosoewarno, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Butt, B.</ags:creatorPersonal>
+<ags:creatorConference>Symposium on the Sterility Principle for Insect Control, Innsbruck (Austria), 22 Jul 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29107; Includes discussion; 3 tables; 11 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">IAEA--SM-186/62</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">92-0-010275-1</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501764</ags:availabilityNumber></agls:availability>
+<dc:source>Sterility principle for insect control 1974. Proceedings of the Symposium on the Sterility Principle for Insect Control, Innsbruck, 22-26 July 1974, FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture.- Vienna (Austria): International Atomic Energy Agency, 1975.- ISBN 92-0-010275-1. p. 579-584</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501657">
+<dc:title xml:lang="en">Fifteen years of activities, 1960-74 of the Inter-American Development Bank</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Inter-American Development Bank, Washington, D.C. (USA)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>IDB</ags:publisherName>
+<ags:publisherPlace>Washington, D.C. (USA)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E30</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Col. illus.</ags:descriptionNotes>
+</dc:description>
+<dc:format><dcterms:extent>81 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501657</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502028">
+<dc:title xml:lang="en">Comparison of laboratory techniques for the evaluation of FMD vaccines</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Terpstra, C.</ags:creatorPersonal>
+<ags:creatorConference>Meeting of the Research Group of the Standing Technical Committee of the European Commission for the Control of Food-and-Mouth Disease, Lelystad (Netherlands), 22 Oct 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Jan 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29338</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502028</ags:availabilityNumber></agls:availability>
+<dc:source>Report of the Meeting of the Research Group of the Standing Technical Committee of the European Commission for the Control of Foot-and-Mouth Disease, Lelystad, Netherlands, 22-24 October 1974, FAO, Rome (Italy). Animal Production and Health Div., Jan 1975. FAO-AGA--EUFMD/RG/75/1. p. 49-50</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501926">
+<dc:title xml:lang="en">The prospectives for using predators, parasites and entomopathogens for the control of forest insect pests</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Smirnoff, W.A.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy). Forest Resources Div.</ags:creatorCorporate>
+<ags:creatorConference>2. FAO/IUFRO World Technical Consultation on Forest Diseases and Insects, New Delhi (India), 7 Apr 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Apr 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29269; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-FOR--IUFRO/DI/75/11-31</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>6 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501926</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501467">
+<dc:title xml:lang="en">Recommended methods for the detection and measurement of resistance of agricultural pests to pesticides. Tentative method for adult locusts, Schistocerca gregaria Forsk., Locusta migratoria migratorioides R. and F. and Nomadacris septemfasciata Serv. - FAO method no. 13</dc:title>
+<dc:creator>
+<ags:creatorCorporate>FAO, Rome (Italy). Plant Production and Protection Div.</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--28872; Summaries (En, Es, Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501467</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>FAO Plant Protection Bulletin (FAO)</ags:citationTitle>
+<ags:citationTitle>Bulletin Phytosanitaire de la FAO (FAO) - Boletin Fitosanitario de la FAO (FAO)</ags:citationTitle>
+<ags:citationNumber>v. 22(5-6) p. 117-121</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501759">
+<dc:title xml:lang="en">Influence of pupal age on the response of the almond moth, Cadra cautella Walker, to different dosages of gamma irradiation</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Amoako-Atta, B.</ags:creatorPersonal>
+<ags:creatorPersonal>Partida, G.J.</ags:creatorPersonal>
+<ags:creatorConference>Symposium on the Sterility Principle for Insect Control, Innsbruck (Austria), 22 Jul 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29102; Includes discussion; 4 tables; 16 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">IAEA--SM-186/9</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">92-0-010275-1</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501759</ags:availabilityNumber></agls:availability>
+<dc:source>Sterility principle for insect control 1974. Proceedings of the Symposium on the Sterility Principle for Insect Control, Innsbruck, 22-26 July 1974, FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture.- Vienna (Austria): International Atomic Energy Agency, 1975.- ISBN 92-0-010275-1. p. 529-536</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501897">
+<dc:title xml:lang="en">Biodeterioration in wood chip piles during storage (north Italy)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Gambetta, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Orlandi, E.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy). Forest Resources Div.</ags:creatorCorporate>
+<ags:creatorConference>2. FAO/IUFRO World Technical Consultation on Forest Diseases and Insects, New Delhi (India), 7 Apr 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Apr 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29240; 11 ref.; Summaries (En, Es, Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-FOR--IUFRO/DI/75/6-13</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>vp.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501897</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501606">
+<dc:title xml:lang="en">World pulp and paper capacities 1974 to 1979. FAO survey 1975</dc:title>
+<dc:creator>
+<ags:creatorCorporate>FAO, Rome (Italy). Forestry Dept.</ags:creatorCorporate>
+<ags:creatorConference>FAO Advisory Committee on Pulp and Paper - 16. Session, Rome (Italy), 14 May 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Apr 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29011</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-FO--PAP/75/4</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>N</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>22 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501606</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502006">
+<dc:title xml:lang="en">Perspective study of agricultural development for Iran. Summary of central policy paper</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Baldini, B.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy). Agriculture Dept.</ags:creatorCorporate>
+<ags:creatorConference>Joint Iran/FAO Workshop on Agricultural Sector Planning, Tehran (Iran), 7 May 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Mar 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29316; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-AGD-ES--IRA/73/016/1</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>8 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502006</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502122">
+<dc:title xml:lang="en">Demand prospects for jute in five EEC consuming countries (Federal Republic of Germany, Netherlands, Italy, Ireland, Denmark)</dc:title>
+<dc:creator>
+<ags:creatorCorporate>FAO, Rome (Italy). Commodities and Trade Div.</ags:creatorCorporate>
+<ags:creatorConference>Committee on Commodity Problems. Intergovernmental Group on Jute, Kenaf and Allied Fibres - 10. Session, Rome (Italy), 21 May 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Apr 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29432; 12 tables</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-ESC--CCP-JU-75/4</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>20 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502122</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502359">
+<dc:title xml:lang="en">Synthesis and digestion of microbial nitrogen compounds and VFA production by the bovine</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Smith, R.H.</ags:creatorPersonal>
+<ags:creatorPersonal>Salter, D.N.</ags:creatorPersonal>
+<ags:creatorPersonal>Sutton, J.D.</ags:creatorPersonal>
+<ags:creatorPersonal>McAllan, A.B.</ags:creatorPersonal>
+<ags:creatorConference>Research Co-ordination Meeting and Panel on Tracer Techniques in Studies on the Use of Non-Protein Nitrogen (NPN) in Ruminants, Vienna (Austria), 18 Feb 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29561; 5 tables, graphs; 29 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">92-0-111175-4</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502359</ags:availabilityNumber></agls:availability>
+<dc:source>Tracer studies on non-protein nitrogen for ruminants 2. Proceedings of a Research Co-ordination Meeting and Panel on Tracer Techniques in Studies on the Use of Non-Protein Nitrogen (NPN) in Ruminants, 18-22 February 1974, FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture.- Vienna (Austria): International Atomic Energy Agency, 1975.- ISBN 92-0-111175-4. p. 81-93</dc:source>
+<ags:citation><ags:citationTitle>Panel Proceedings Series (IAEA)</ags:citationTitle>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502071">
+<dc:title xml:lang="en">Standardization and compatibility issues in the UNISIST programme</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Loehner, W.</ags:creatorPersonal>
+<ags:creatorConference>Symposium on Information Systems: Connection and Compatibility, Varna (Bulgaria), 30 Sep 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">U20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29381; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">IAEA--SM-189/39</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">92-0-070075-6</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502071</ags:availabilityNumber></agls:availability>
+<dc:source>Information systems. Their interconnection and compatibility. Proceedings of a Symposium on Information Systems: Connection and Compatibility, Varna, Bulgaria, 30 September - 3 October 1974, FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture.- Vienna (Austria): International Atomic Energy Agency, 1975.- ISBN 92-0-070075-6. p. 365-370</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501975">
+<dc:title xml:lang="en">The significance of minor elements on plant physiology</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Okajima, H. (Hokkaido Univ., Sapporo (Japan))</ags:creatorPersonal>
+<ags:creatorPersonal>Uritani, I. (Nagoya Univ., (Japan))</ags:creatorPersonal>
+<ags:creatorPersonal>Kun-huang, H. (National Tiwan Univ., Taipei)</ags:creatorPersonal>
+<ags:creatorCorporate>Asian and Pacific Council, Taipei (Taiwan). Food and Fertilizer Technology Center</ags:creatorCorporate>
+<ags:creatorConference>Seminar on the Use of Minor Elements for Crops, Taipei (Taiwan), Dec 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>ASPAC/FFTC</ags:publisherName>
+<ags:publisherPlace>Taipei (Taiwan)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Apr 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:format><dcterms:extent>76 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501975</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501722">
+<dc:title xml:lang="en">Some economic factors affecting choice of the sterile insect release method as part of a pest control programme</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Lever, B.G.</ags:creatorPersonal>
+<ags:creatorConference>Symposium on the Sterility Principle for Insect Control, Innsbruck (Austria), 22 Jul 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29065; Includes discussion; Graphs; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">IAEA--SM-186/53</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">92-0-010275-1</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501722</ags:availabilityNumber></agls:availability>
+<dc:source>Sterility principle for insect control 1974. Proceedings of the Symposium on the Sterility Principle for Insect Control, Innsbruck, 22-26 July 1974, FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture.- Vienna (Austria): International Atomic Energy Agency, 1975.- ISBN 92-0-010275-1. p. 135-149</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501823">
+<dc:title xml:lang="en">Population growth and institutional change</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Mitra, A.</ags:creatorPersonal>
+<ags:creatorConference>FAO/UNFPA Seminar on Population Problems Related to Food and Agricultural Development in Asia and the Far East, Bangkok (Thailand), 9 Dec 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">D10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29166; Summary only</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501823</ags:availabilityNumber></agls:availability>
+<dc:source>Report on the FAO/UNFPA Seminar on Population Problems Related to Food and Agricultural Development in Asia and the Far East, Bangkok, Thailand, 9-13 December 1974, FAO, Rome (Italy), 1975. FAO-ESH--UN/TF-155. p. 21-24</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501945">
+<dc:title xml:lang="en">Heart-rot of eucalyptus in Zambia</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ivory, M.H.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy). Forest Resources Div.</ags:creatorCorporate>
+<ags:creatorConference>2. FAO/IUFRO World Technical Consultation on Forest Diseases and Insects, New Delhi (India), 7 Apr 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Apr 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29288; 3 tables; 2 ref.; Summaries (En, Es, Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-FOR--IUFRO/DI/75/16-50</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>7 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501945</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501581">
+<dc:title xml:lang="en">Freight containers and fish transport</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Lisac, H.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy)</ags:creatorCorporate>
+<ags:creatorConference>3. FAO/DANIDA Training Course on Quality Aspects in the Handling and Storage of Fish, Copenhagen (Denmark), 5 Aug 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>FAO</ags:publisherName>
+<ags:publisherPlace>Rome (Italy)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--28986; 2 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>6 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501581</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501592">
+<dc:title xml:lang="en">[Application of ecosystem studies in the field of forestry]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Billeb Vela, F.H.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy). Forestry Dept.</ags:creatorCorporate>
+<ags:creatorConference>Seminario FAO/SIDA sobre el Transporte de la Madera en Paises de America Latina, Oaxtepec (Mexico), 23 Feb 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Nov 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--28997; Summary (Es)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-FO--TLA/75/2</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>11 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501592</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501850">
+<dc:title xml:lang="en">Policies and practices recommended in feeding older infants (six to twelve months) and young children (twelve to twenty-four months) in Indonesia</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sutedjo, R.</ags:creatorPersonal>
+<ags:creatorCorporate>Protein-Calorie Advisory Group of the United Nations System, New York, N.Y. (USA)</ags:creatorCorporate>
+<ags:creatorConference>PAG Regional Seminar, Singapore (Singapore), 25 Nov 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">S30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29193; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501850</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>PAG Bulletin (UN) (FAO) (WHO) (UNICEF)</ags:citationTitle>
+<ags:citationNumber>v.5(1) p. 13-16</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7500704">
+<dc:title xml:lang="en">Selecting among alternative nutrition strategies: analysis of purposes and priorities for action and information required therefore</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Chafkin, S.</ags:creatorPersonal>
+<ags:creatorCorporate>Protein-Calorie Advisory Group of the United Nations System, New York, N.Y. (USA)</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">S00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--28236; Edited version of PAG Document 1.17/12</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7500704</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>PAG Bulletin (FAO) (WHO) (UNICEF)</ags:citationTitle>
+<ags:citationNumber>v. 4(4) p. 22-26</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501556">
+<dc:title xml:lang="en">Review of the state of exploitation of the world fish resources</dc:title>
+<dc:creator>
+<ags:creatorCorporate>FAO, Rome (Italy). Fisheries Dept.</ags:creatorCorporate>
+<ags:creatorConference>Committee on Fisheries - 10. Session, Rome (Italy), 3 Jun 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Apr 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--28961; 14 tables, 1 map; Summaries (En, Es, Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-FI--COFI/75/4</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>24 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501556</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502090">
+<dc:title xml:lang="en">Agricultural advertising and promotion [in Africa]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Mueller, R.G.</ags:creatorPersonal>
+<ags:creatorPersonal>Myers, F.J.</ags:creatorPersonal>
+<ags:creatorConference>FAO/DANIDA Regional Seminar on Planning and Organization of Fertilizer Use Development in Africa, Nairobi (Kenya), 1 Dec 1972</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>FAO</ags:publisherName>
+<ags:publisherPlace>Rome (Italy)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29400</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502090</ags:availabilityNumber></agls:availability>
+<dc:source>Planning and organization of fertilizer use development in Africa. Papers presented at the FAO/DANIDA Regional Seminar on Planning and Organization of Fertilizer Use Development in Africa, Nairobi, Kenya, 1-16 December 1972, FAO, Rome (Italy). Land and Water Development Div..- Rome (Italy): FAO, 1975. p. 75-81</dc:source>
+<ags:citation><ags:citationTitle>Soils Bulletin (FAO)</ags:citationTitle>
+<ags:citationNumber>no. 26</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501333">
+<dc:title xml:lang="en">Methods of analysis for pesticide residues quoted in the monographs of the 1973 Joint FAO/WHO Meeting on Pesticide Residues</dc:title>
+<dc:creator>
+<ags:creatorCorporate>FAO, Rome (Italy). Food Policy and Nutrition Div.; World Health Organization, Geneva (Switzerland)</ags:creatorCorporate>
+<ags:creatorConference>Joint FAO/WHO Food Standards Programme. Codex Alimentarius Commission. Codex Committee on Pesticide Residues - 8. Session, The Hague (Netherlands), 3 Mar 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Dec 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q20</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--28788</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-ESN--CX/PR-75/6</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>10 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501333</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501743">
+<dc:title xml:lang="en">Effects of an analogue of the juvenile hormone on ovarian development and fecundity in the housefly, Musca domestica L.</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Bennett-Rezabova, B.</ags:creatorPersonal>
+<ags:creatorPersonal>Landa, V.</ags:creatorPersonal>
+<ags:creatorConference>Symposium on the Sterility Principle for Insect Control, Innsbruck (Austria), 22 Jul 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29086; Includes discussion; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">IAEA--SM-186/64</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">92-0-010275-1</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501743</ags:availabilityNumber></agls:availability>
+<dc:source>Sterility principle for insect control 1974. Proceedings of the Symposium on the Sterility Principle for Insect Control, Innsbruck, 22-26 July 1974, FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture.- Vienna (Austria): International Atomic Energy Agency, 1975.- ISBN 92-0-010275-1. p. 359-362</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502141">
+<dc:title xml:lang="en">Statistical tables. Production, external trade, prices</dc:title>
+<dc:creator>
+<ags:creatorCorporate>FAO, Rome (Italy)</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29451; 23 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502141</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Monthly Bulletin of Agricultural Economics and Statistics (FAO)</ags:citationTitle>
+<ags:citationTitle>Bulletin Mensuel. Economie et Statistique Agricoles (FAO) -Boletin Mensual de Economia y Estadistica Agricolas (FAO)</ags:citationTitle>
+<ags:citationNumber>v. 24(5) p. 23-56</ags:citationNumber>
+<ags:citationChronology>(May 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501666">
+<dc:title xml:lang="en">The use of ecological guidelines for development in the American humid tropics</dc:title>
+<dc:creator>
+<ags:creatorCorporate>International Union for Conservation of Nature and Natural Resources, Morges (Switzerland)</ags:creatorCorporate>
+<ags:creatorConference>International Meeting on the Use of Ecological Guidelines for Development in the American Humid Tropics, Caracas (Venezuela), 20 Feb 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>IUCN</ags:publisherName>
+<ags:publisherPlace>Morges (Switzerland)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F40</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Bibliography (344 ref.)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>Z</dc:type>
+<dc:format><dcterms:extent>249 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501666</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>IUCN Publications New Series (IUCN)</ags:citationTitle>
+<ags:citationNumber>no. 31</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501703">
+<dc:title xml:lang="en">Flood damage prevention policies</dc:title>
+<dc:creator>
+<ags:creatorPersonal>White, G.F. (Colorado Univ., Boulder (USA))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">P10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501703</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Nature and Resources (UNESCO)</ags:citationTitle>
+<ags:citationTitle>Nature et Ressources (UNESCO)</ags:citationTitle>
+<ags:citationNumber>v. 11(1) p. 2-7</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501313">
+<dc:title xml:lang="en">"Dry, ready to wet animal casings"</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Barat, S.K.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy). Industry Cooperative Programme</ags:creatorCorporate>
+<ags:creatorConference>Industry Cooperative Programme. Working Group on Integrated Meat Development - 6. Meeting, Rome (Italy), 24 Oct 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Oct 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--28768</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-DDI--G/74/93</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>5 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501313</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502319">
+<dc:title xml:lang="en">Anthropogenic carbon-13 decrease in atmospheric carbon dioxide as recorded in modern wood</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Freyer, H.D.</ags:creatorPersonal>
+<ags:creatorPersonal>Wiesberg, L.</ags:creatorPersonal>
+<ags:creatorConference>Symposium on Isotope Ratios as Pollutant Source and Behaviour Indicators, Vienna (Austria), 18 Nov 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">T00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29521; 2 tables, 12 graphs; 27 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">IAEA--SM-191/10</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">92-0-010375-8</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502319</ags:availabilityNumber></agls:availability>
+<dc:source>Isotope ratios as pollutant source and behaviour indicators. Proceedings of a Symposium on Isotope Ratios as Pollutant Source and Behaviour Indicators, Vienna, 18-22 November 1974, FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture.- Vienna (Austria): International Atomic Energy Agency, 1975.- ISBN 92-0-010375-8. p. 49-62</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501475">
+<dc:title xml:lang="en">Tuber and root crops</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Rogers, D.J.</ags:creatorPersonal>
+<ags:creatorPersonal>Yen, D.E.</ags:creatorPersonal>
+<ags:creatorPersonal>Coursey, D.G.</ags:creatorPersonal>
+<ags:creatorPersonal>Cooper, R.C.</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>FAO</ags:publisherName>
+<ags:publisherPlace>Rome (Italy)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--28880; 18 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501475</ags:availabilityNumber></agls:availability>
+<dc:source>Handbook of plant introduction in tropical crops, Leon, J. (ed.).- Rome (Italy): FAO, 1974. p. 26-41</dc:source>
+<ags:citation><ags:citationTitle>FAO Agricultural Studies (FAO)</ags:citationTitle>
+<ags:citationTitle>Etudes Agricoles de la FAO (FAO) - FAO Estudios Agropecuarios (FAO)</ags:citationTitle>
+<ags:citationNumber>no. 93</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501742">
+<dc:title xml:lang="en">A new device and concept to attract and sterilize pest insects in the field, particularly aphids (Homoptera: Aphidina)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Steffan, A.W.</ags:creatorPersonal>
+<ags:creatorConference>Symposium on the Sterility Principle for Insect Control, Innsbruck (Austria), 22 Jul 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29085; Includes discussion; Illus.; 15 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">IAEA--SM-186/8</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">92-0-010275-1</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501742</ags:availabilityNumber></agls:availability>
+<dc:source>Sterility principle for insect control 1974. Proceedings of the Symposium on the Sterility Principle for Insect Control, Innsbruck, 22-26 July 1974, FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture.- Vienna (Austria): International Atomic Energy Agency, 1975.- ISBN 92-0-010275-1. p. 349-357</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501755">
+<dc:title xml:lang="en">Effect of bacteria on tsetse flies fed through membranes</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Bauer, B.</ags:creatorPersonal>
+<ags:creatorPersonal>Wetzel, H.W.</ags:creatorPersonal>
+<ags:creatorConference>Symposium on the Sterility Principle for Insect Control, Innsbruck (Austria), 22 Jul 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29098; Includes discussion; 5 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">IAEA--SM-186/54</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">92-0-010275-1</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501755</ags:availabilityNumber></agls:availability>
+<dc:source>Sterility principle for insect control 1974. Proceedings of the Symposium on the Sterility Principle for Insect Control, Innsbruck, 22-26 July 1974, FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture.- Vienna (Austria): International Atomic Energy Agency, 1975.- ISBN 92-0-010275-1. p. 495-499</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502290">
+<dc:title xml:lang="en">Prediction of the optimal period for controlling eye-spot (Cercosporella Herpotrichoides) of wheat</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Schroedter, H. (Deutscher Wetterdienst, Braunschweig (Germany, F.R.))</ags:creatorPersonal>
+<ags:creatorPersonal>Fehrmann, H. (Goettingen Univ. (Germany, F.R.). Institut fuer Pflanzenpathologie und Pflanzenschutz)</ags:creatorPersonal>
+<ags:creatorConference>WMO Symposium "Agrometeorology of the Wheat Crop", Braunschweig (Germany, F.R.), 22 Oct 1973</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>Deutscher Wetterdienst</ags:publisherName>
+<ags:publisherPlace>Braunschweig (Germany, F.R.)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H50</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502290</ags:availabilityNumber></agls:availability>
+<dc:source>Agrometeorology of the wheat crop, World Meteorological Organization, Geneva (Switzerland).- Braunschweig (Germany, F.R.): Deutscher Wetterdienst, 1974. p. 167-175</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501825">
+<dc:title xml:lang="en">New agricultural technology, the small farmer and family size</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Pak, K.H.</ags:creatorPersonal>
+<ags:creatorConference>FAO/UNFPA Seminar on Population Problems Related to Food and Agricultural Development in Asia and the Far East, Bangkok (Thailand), 9 Dec 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29168; Summary only</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501825</ags:availabilityNumber></agls:availability>
+<dc:source>Report on the FAO/UNFPA Seminar on Population Problems Related to Food and Agricultural Development in Asia and the Far East, Bangkok, Thailand, 9-13 December 1974, FAO, Rome (Italy), 1975. FAO-ESH--UN/TF-155. p. 28-33</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501477">
+<dc:title xml:lang="en">Fruits</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Adam, A.V.</ags:creatorPersonal>
+<ags:creatorPersonal>Singh, H.B.</ags:creatorPersonal>
+<ags:creatorPersonal>Giacometti, D.C.</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>FAO</ags:publisherName>
+<ags:publisherPlace>Rome (Italy)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">H00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--28882; 28 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501477</ags:availabilityNumber></agls:availability>
+<dc:source>Handbook of plant introduction in tropical crops, Leon, J. (ed.).- Rome (Italy): FAO, 1974. p. 48-64</dc:source>
+<ags:citation><ags:citationTitle>FAO Agricultural Studies (FAO)</ags:citationTitle>
+<ags:citationTitle>Etudes Agricoles de la FAO (FAO) - FAO Estudios Agropecuarios (FAO)</ags:citationTitle>
+<ags:citationNumber>no. 93</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501647">
+<dc:title xml:lang="en">Indo-Pacific Fisheries Council. Proceedings. 15th Session, Wellington, New Zealand, 18-27 October 1972. Section 2 -Coastal aquaculture and environment</dc:title>
+<dc:creator>
+<ags:creatorCorporate>FAO, Bangkok (Thailand). Regional Office for Asia and the Far East</ags:creatorCorporate>
+<ags:creatorConference>Indo-Pacific Fisheries Council - 15. Session, Wellington (New Zealand), 18 Oct 1972</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>FAO</ags:publisherName>
+<ags:publisherPlace>Bangkok (Thailand)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29052; Illus.; Bibliography, vp. (174 ref.); Summaries (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>Z</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>91 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501647</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501893">
+<dc:title xml:lang="en">Training forest entomologists to meet world needs in the next decade</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Johnson, N.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy). Forest Resources Div.</ags:creatorCorporate>
+<ags:creatorConference>2. FAO/IUFRO World Technical Consultation on Forest Diseases and Insects, New Delhi (India), 7 Apr 1975</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Feb 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">C00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29236; Summaries (Es, Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-FOR--IUFRO/DI/75/18-0</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>3 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501893</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502455">
+<dc:title xml:lang="en">Organization of the fishery industry in Mali</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Szabo, A.</ags:creatorPersonal>
+<ags:creatorConference>Consultation on Fisheries Problems in the Sahelian Zone, Bamako (Mali), 13 Nov 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29657</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502455</ags:availabilityNumber></agls:availability>
+<dc:source>Report of the Consultation on Fisheries Problems in the Sahelian Zone, Bamako, Mali, 13-20 November 1974, FAO, Rome (Italy). Fisheries Dept., 1975. FAO-FIP--CIFA/OP-4. p. 328-331</dc:source>
+<ags:citation><ags:citationTitle>CIFA Occasional Papers (FAO)</ags:citationTitle>
+<ags:citationTitle>Documents Occasionnels du CPCA (FAO)</ags:citationTitle>
+<ags:citationNumber>no. 4</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502145">
+<dc:title xml:lang="en">Country tables of production, trade consumption of forest products, Asia and Oceania</dc:title>
+<dc:creator>
+<ags:creatorCorporate>FAO, Rome (Italy). Forest Industries and Trade Div.</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29455</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-FO--MISC/75/17</dc:identifier>
+<dc:type>N</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>152 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502145</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501681">
+<dc:title xml:lang="en">Nutrition, growth and development [in Guatemala]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Instituto de Nutricion de Centro America y Panama, Guatemala. Div. de Desarrollo Humano</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">S00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>16 ref. Summary (En, Fr, Pt)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501681</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Boletin de la Oficina Panamericana (PAHO)</ags:citationTitle>
+<ags:citationNumber>v. 78(1) p. 38-51</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502504">
+<dc:title xml:lang="en">Recycling. Japan faces its water problems</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Takeuchi, H.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy)</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">P10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29706</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502504</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Ceres. FAO Review (FAO)</ags:citationTitle>
+<ags:citationTitle>Ceres. Revue FAO (FAO) - Ceres. Revista FAO (FAO)</ags:citationTitle>
+<ags:citationNumber>(no. 46)p. 53-54</ags:citationNumber>
+<ags:citationChronology>(Jul 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502399">
+<dc:title xml:lang="en">Integrated control of cotton pests in Thailand</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Deema, P.</ags:creatorPersonal>
+<ags:creatorPersonal>Thongdeetaa, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Hongtrakula, T.</ags:creatorPersonal>
+<ags:creatorPersonal>Oonchitrawattana, T.</ags:creatorPersonal>
+<ags:creatorPersonal>Singhasenee, Y.</ags:creatorPersonal>
+<ags:creatorPersonal>Lippold, P.C.</ags:creatorPersonal>
+<ags:creatorCorporate>FAO, Rome (Italy); Ministry of Agriculture, Bangkok (Thailand)</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>Jun 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>FAO-ACCESS.No.--29601; 8 tables; 20 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FAO-AGP--UNDP/THA-68/526</dc:identifier>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>27 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502399</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="FD7502048">
+<dc:title xml:lang="en">Preparation for the introduction of food irradiation in Brazil [with particular reference to cereals and vegetables]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Zonenschain, L.</ags:creatorPersonal>
+<ags:creatorConference>Panel on the Commercialization of Irradiated Food Items Accepted for Human Consumption, Vienna (Austria), 18 Mar 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Atomic Energy Agency</ags:publisherName>
+<ags:publisherPlace>Vienna (Austria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>FAO-ACCESS.No.--29358; 7 tables; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">92-0-111275-0</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7502048</ags:availabilityNumber></agls:availability>
+<dc:source>Requirements for the irradiation of food on a commercial scale. Proceedings of a Panel on the Commercialization of Irradiated Food Items Accepted for Human Consumption, Vienna, 18-22 March 1974, FAO, Vienna (Austria). Joint FAO/IAEA Div. of Atomic Energy in Food and Agriculture.- Vienna (Austria): International Atomic Energy Agency, 1975.- ISBN 92-0-111275-0. p. 141-153</dc:source>
+<ags:citation><ags:citationTitle>Panel Proceedings Series (IAEA)</ags:citationTitle>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="FD7501660">
+<dc:title xml:lang="en">Abridged final report of the sixth session, Commission for Agricultural Meteorology, Washington, 14-25 October 1974</dc:title>
+<dc:creator>
+<ags:creatorCorporate>World Meteorological Organization, Geneva (Switzerland). Commission for Agricultural Meteorology</ags:creatorCorporate>
+<ags:creatorConference>6. Sess. Commission for Agricultural Meteorology, Washington, D.C. (USA), 14 Oct 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>WMO</ags:publisherName>
+<ags:publisherPlace>Geneva (Switzerland)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F10</ags:subjectClassification>
+</dc:subject>
+<dc:identifier scheme="ags:ISBN">-10402-6; ISBN 92-63-20402-0; ISBN 92-63-30402-5</dc:identifier>
+<dc:type>K</dc:type>
+<dc:format><dcterms:extent>79 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>FD</ags:availabilityLocation><ags:availabilityNumber>7501660</ags:availabilityNumber></agls:availability>
+</ags:resource>
+</ags:resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "../../agrislegacy.dtd">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="XF7590017">
+<dc:title xml:lang="en">To conquer hunger: opportunity and political will</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hopper, W.D.</ags:creatorPersonal>
+<ags:creatorCorporate>International Development Research Centre, Ottawa (Canada)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>IDRC</ags:publisherName>
+<ags:publisherPlace>Ottawa (Canada)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">A00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Summary (En, Fr). *IDRC, Ottawa (Canada), also in microfiche</ags:descriptionNotes>
+</dc:description><dc:identifier scheme="ags:ISBN">0-88936-061-8</dc:identifier>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>24 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>XF</ags:availabilityLocation><ags:availabilityNumber>7590017</ags:availabilityNumber></agls:availability>
+</ags:resource>
+</ags:resources>

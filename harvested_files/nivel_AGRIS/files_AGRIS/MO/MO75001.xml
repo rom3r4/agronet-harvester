@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "../../agrislegacy.dtd">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="MO7500004">
+<dc:title xml:lang="en">[Hydraulic-agricultural management and production system [Morocco]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Jowe, Ph.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">P10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">P12</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Summary (Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>MO</ags:availabilityLocation><ags:availabilityNumber>7500004</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Hommes, Terres et Eaux (Morocco)</ags:citationTitle>
+<ags:citationNumber>(no.13) p. 41-55</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="MO7500005">
+<dc:title xml:lang="en">[Contribution to the beet-chips market survey [Morocco]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sedrati, M.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>MO</ags:availabilityLocation><ags:availabilityNumber>7500005</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Hommes, Terres et Eaux (Morocco)</ags:citationTitle>
+<ags:citationNumber>(no.13) p. 111-113</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+</ags:resources>

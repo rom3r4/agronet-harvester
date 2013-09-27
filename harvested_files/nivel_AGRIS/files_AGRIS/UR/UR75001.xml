@@ -1,0 +1,2162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "../../agrislegacy.dtd">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="UR7500330">
+<dc:title xml:lang="en">[Scale insects are pests of park plantings [of cities and pleasure grounds in the Caucasian Mineral Waters, biology, spread]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Yanin, V.V. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Lesovodstva i Mekhanizatsii Lesnogo Khozyajstva, Pushkin Moskovskoj Oblasti (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500330</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zashchita Rastenij (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.3) p. 43-45</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400217">
+<dc:title xml:lang="en">[Machines for cabbage harvesting. [Moscow district, the RSFSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Krutskikh, B.</ags:creatorPersonal>
+<ags:creatorPersonal>Grigor'ev, L.</ags:creatorPersonal>
+<ags:creatorCorporate>Ministerstvo Sel'skogo Khozyajstva SSSR, Moscow</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">N00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 tables, 5 illus.</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400217</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Tekhnika v Sel'skom Khozyajstve (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.9) p. 21-25</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400025">
+<dc:title xml:lang="en">[Optimization of the framework of production [of feed crops and growth of sheep stock] of Sovkhoz Bestausky, Kustanay district. [Solution of the optimizational economic-mathematical problem by the use of computer. Kazakh SSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sadykov, Eh.K.</ags:creatorPersonal>
+<ags:creatorPersonal>Pugaj, P.N. (Kazakhskij Nauchno-Issledovatel'skij Inst. Ehkonomiki i Organizatsii Sel'skogo Khozyajstva, Alma-Ata (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E30</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400025</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Vestnik Sel'skokhozyajstvennoj Nauki Kazakhstana (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.7) p. 13-16</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400028">
+<dc:title xml:lang="en">[Depth of the soil rooting layer and the apricot yielding capacity. [The Daghestan ASSR horticulture]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kardashev, A.T.</ags:creatorPersonal>
+<ags:creatorPersonal>Gasiev, M.A.</ags:creatorPersonal>
+<ags:creatorCorporate>Dagestanskij Nauchno-Issledovatel'skij Inst. Sel'skogo Khozyajstva, Makhachkala (USSR). Dagestanskaya Opytnaya Stantsiya Plodovoyagodnykh Kul'tur</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F23</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 tables, 3 illus.</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400028</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Sadovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.9) p. 26,27</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400099">
+<dc:title xml:lang="en">[Cytoserological indices of immunity and its correlation in animals vaccinated against the plague]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Filimonova, Yu.A. (Nauchno-Issledovatel'skij Protivochumnyj Inst. Kavkaza i Zakavkaz'ya, Stavropol' (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>4 illus., 16 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400099</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zhurnal Mikrobiologii Ehpidemiologii i Immunobiologii (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.8) p. 37-41</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400125">
+<dc:title xml:lang="en">[Reliable frost protection to vineyards. [Semicover fan-shaped training of grapevines. The Crimea district, the Ukraine SSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Dubinko, V.K. (Krymskij Sel'skokhozyajstvennyj Inst., Simferopol' (Ukrainian SSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F27</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 illus.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400125</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Sadovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.10) p. 41-43</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400092">
+<dc:title xml:lang="en">[Improve the quality of [corn] silage [by conserving agents: sodium pyrosulphite and diammonium phosphat. The Kursk district, the RSFSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ponomarev, A.Ya.</ags:creatorPersonal>
+<ags:creatorPersonal>Shakhova, N.V. (Kurskaya Gosudarstvennaya Oblastnaya Sel'skokhozyajstvennaya Opytnaya Stantsiya (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">N10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400092</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Kukuruza (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.9) p. 21-22</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500193">
+<dc:title xml:lang="en">[Dispersal planting and methods of thinning of [beet] sprouts]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Poberezhnyj, F.V. (Uladovo-Lyulinetskaya Opytno-Selektsionnaya Stantsiya, Vinnitskaya Oblast' (Ukrainian SSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500193</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Sakharnaya Svekla (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 23-25</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500190">
+<dc:title xml:lang="en">[Effect of bacitracin on productivity and metabolism [of swine]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Gamko, L. (Belorusskaya Sel'skokhozyajstvennaya Akademiya, Minsk)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500190</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Svinovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 37</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400039">
+<dc:title xml:lang="en">[Efficiency of the apple tree cultivation on different seeding stocks [The Crimea district, the Ukrainian SSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Bluvshtejn, I.N.</ags:creatorPersonal>
+<ags:creatorCorporate>Ministerstvo Sel'skogo Khozyajstva SSSR, Moscow</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400039</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Sadovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.9) p. 20-21</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500086">
+<dc:title xml:lang="en">[Improved Merike trap]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Lodochkin, P.I. (Nauchno-Issledovatel'skij Inst. Kartofel'nogo Khozyajstva, Moskovskaya Oblast' (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500086</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zashchita Rastenij (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.1) p. 49</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500360">
+<dc:title xml:lang="en">[Role of herbicides in the system of measures on the control of weeds in crop rotation]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kutuzov, G.P. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Kormov, Moscow (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables; 10 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500360</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Khimiya v Sel'skom Khozyajstve (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.3) p. 31-34</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500301">
+<dc:title xml:lang="en">[Increase numbers of waterfowl [of non-diving and diving ducks]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Manush, S.</ags:creatorPersonal>
+<ags:creatorCorporate>Ministerstvo Sel'skogo Khozyajstva SSSR, Moscow</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L20</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500301</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Okhota i Okhotnich'e Khozyajstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.3) p. 16-17</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400204">
+<dc:title xml:lang="en">[Reutilization of carbohydrates and nitrogen from vegetative organs in the process of wheat grain formation and forming [spring - erytrospermum 841. Taldy-Kurgan district, the Kazakh SSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Marenkov, A.Ya.</ags:creatorPersonal>
+<ags:creatorPersonal>Marenkov, N.L. (Taldy-Kurganskaya Gosudarstvennaya Opytnaya Stantsiya (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 tables, 9 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400204</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agrokhimiya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.9) p. 60-65</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500385">
+<dc:title xml:lang="en">[Fluorography and complex therapy of pulmonary diseases in lambs]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kvyatkovskij, V.N.</ags:creatorPersonal>
+<ags:creatorPersonal>Ivanov, V.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Sagadiev, A. (Semipalatinskij Zootekhnichesko-Veterinarnyj Inst., Semipalatinsk (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500385</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Veterinariya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.3) p. 95-96</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400182">
+<dc:title xml:lang="en">[354 metric centers of potato a hectore. [The Chuvash ASSR, the RSFSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Andreev, M.</ags:creatorPersonal>
+<ags:creatorCorporate>Ministerstvo Sel'skogo Khozyajstva SSSR, Moscow</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400182</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Kartofel' i Ovoshchi (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.9) p. 4</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500046">
+<dc:title xml:lang="en">[Response of chemo-mutants of cotton to infestation with causative agent of verticillium wilt]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Gajbullaev, I.Kh.</ags:creatorPersonal>
+<ags:creatorPersonal>Avazhkodzhaev, M.Kh.</ags:creatorPersonal>
+<ags:creatorPersonal>Egamberdiev, A.E. (AN Uzbekskoj SSR, Tashkent. Inst. Ehksperimental'noj Biologii Rastenij)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables, graph; Summary (En); 10 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500046</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Genetika (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.1) p. 47-50</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500380">
+<dc:title xml:lang="en">[Parasitocoenosis of cestodes and conditionally pathogenic microflora in sheep intestines]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Radionov, P.V.</ags:creatorPersonal>
+<ags:creatorPersonal>Kemel'bekov, N.K.</ags:creatorPersonal>
+<ags:creatorCorporate>Ministerstvo Sel'skogo Khozyajstva SSSR, Moscow</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500380</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Veterinariya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.3) p. 73-75</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400199">
+<dc:title xml:lang="en">[Increase of topsoil]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Romanov, V. (Chuvashskaya Gosudarstvennaya Respublikanskaya Opytnaya Stantsiya, Tsivil'sk (USSR))</ags:creatorPersonal>
+<ags:creatorPersonal>Valev, N. (Timiryazevskaya Sel'skokhozyajstvennaya Akademiya, Moscow (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F27</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400199</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zemledelie (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.8) p. 36-37</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400184">
+<dc:title xml:lang="en">[Timing of potato strain renovation [considering soil-ecological conditions] in the Byelorussian SSR]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Dorozhkin, N. (AN Belorusskoj SSR, Minsk)</ags:creatorPersonal>
+<ags:creatorPersonal>Adamov, I. (Belorusskij Nauchno-Issledovatel'skij Inst. Kartofelevodstva i Plodoovoshchevodstva, Minsk)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400184</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Kartofel' i Ovoshchi (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.9) p. 7-9</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400088">
+<dc:title xml:lang="en">[In-crop or continuous rotation [Study of corn variety Kartuli krughi in three rotation schemes. The Georgian SSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Chubinidze, A.V.</ags:creatorPersonal>
+<ags:creatorPersonal>Mirianashvili, R.Sh. (Gruzinskij Nauchno-Issledovatel'skij Inst. Zemledeliya, Mtskheta (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400088</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Kukuruza (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.8) p. 12-13</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500197">
+<dc:title xml:lang="en">[Contribution to technology of close seedings [cotton plants]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Aliev, Z.A. (Tadzhikskij Nauchno-Issledovatel'skij Inst. Zemledeliya, Dushanbe (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500197</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Khlopkovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 23-24</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400133">
+<dc:title xml:lang="en">[Milk production by progressive technology. [The Gomel district, the Byelorussian SSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Merts, M.</ags:creatorPersonal>
+<ags:creatorCorporate>Ministerstvo Sel'skogo Khozyajstva SSSR, Moscow</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E30</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400133</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Ehkonomika Sel'skogo Khozyajstva (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.8) p. 40-46</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500099">
+<dc:title xml:lang="en">[To preserve Baraba [to make the Baraba steppe a reserve]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Khodkov, G.</ags:creatorPersonal>
+<ags:creatorCorporate>Ministerstvo Sel'skogo Khozyajstva SSSR, Moscow</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L20</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500099</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Okhota i Okhotnich'e Khozyajstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.1) p. 19</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400117">
+<dc:title xml:lang="en">[Large-fruited varieties of olive. [Gorky district, the Latvian SSR, Volyn district, Khmelnitsky district, Briansk district, Tula district]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kichina, V.V. (Nauchno-Issledovatel'skij Zonal'nyj Inst. Sadovodstva Nechernozemnoj Polosy, Moscow (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400117</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Sadovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.8) p. 40-41</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500108">
+<dc:title xml:lang="en">[Spread of principal corn diseases in the RSFSR during the last five years]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Fedorova, R.N. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Zashchity Rastenij, Leningrad (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500108</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Kukuruza (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 30</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500372">
+<dc:title xml:lang="en">[Turning out bacterial cultures from anabiosis [experimental study on Listerella]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Dzhubandykova, M.S. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Ehksperimental'noj Veterinarii, Moscow (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500372</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Veterinariya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.3) p. 48-49</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500144">
+<dc:title xml:lang="en">[Sowing machines [brief characteristic] for stable field backgrounds [North Kazakhstan, West Siberia]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kazankov, L. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Zernovogo Khozyajstva, Shortandy (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500144</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zemledelie (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 71-72</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500163">
+<dc:title xml:lang="en">[Physiological responses of layer hens to heat stress]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Danilova, A.K.</ags:creatorPersonal>
+<ags:creatorPersonal>Najdenskij, M.S.</ags:creatorPersonal>
+<ags:creatorPersonal>Yuzbashi, O. (Moskovskaya Veterinarnaya Akademiya (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500163</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Veterinariya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 27-30</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400219">
+<dc:title xml:lang="en">[Mechanizied after-cleaning of the sugar beet. [Penza district, the RSFSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Val'ko, F. (Penzenskij Sel'skokhozyajstvennyj Inst. (USSR))</ags:creatorPersonal>
+<ags:creatorPersonal>Kurkov, S.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">N10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 illus.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400219</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Tekhnika v Sel'skom Khozyajstve (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.9) p. 31-33</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500139">
+<dc:title xml:lang="en">[Evaluation rates of soil physical and mechanical properties]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sharov, N.M. (Moskovskij Inst. Inzhenerov Sel'skokhozyajstvennogo Proizvodstva (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F22</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus., 11 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500139</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Mekhanizatsiya i Ehlektrifikatsiya Sotsialisticheskogo Sel'skogo Khozyajstva (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 53-55</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500184">
+<dc:title xml:lang="en">[Effect of weaning dates of piglets on reproductive capacity of sows]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Voronov, P.</ags:creatorPersonal>
+<ags:creatorPersonal>Zankevich, A. (Nauchno-Issledovatel'skij i Proektno-Tekhnologicheskij Inst. Zhivotnovodstva Tsentral'no-Chernozemnoj Zony RSFSR, Belgorodskaya Oblast' (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500184</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Svinovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 15-16</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500182">
+<dc:title xml:lang="en">[Effect of oxytocin on fecundation and multifetation [of swine]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Shubin, A. (Nauchno-Issledovatel'skij i Proektno-Tekhnologicheskij Inst. Zhivotnovodstva Tsentral'no-Chernozemnoj Zony RSFSR, Belgorodskaya Oblast' (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500182</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Svinovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 11</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500103">
+<dc:title xml:lang="en">[Increasing sorghum yields [with agrotechnical methods] in Eastern Georgia]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Tsagurishvili, G.N.</ags:creatorPersonal>
+<ags:creatorPersonal>Samara, I.A. (Gruzinskij Nauchno-Issledovatel'skij Inst. Zemledeliya, Mtskheta (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500103</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Kukuruza (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 19</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500110">
+<dc:title xml:lang="en">[Vineyards on terraced hill-sides [agricultural practices]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ergesyan, R.A. (Armyanskij Nauchno-Issledovatel'skij Inst. Vinogradarstva, Vinodeliya i Plodovodstva, Ehchmiadzin (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500110</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Sadovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 16-17</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400123">
+<dc:title xml:lang="en">[Vertical strawberry culture. [Study of strawberry growing in vertical capacities in the Scientific Research Zonal Institute of the horticulture in the Non-chernozem Belt, the RSFSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Chukhlyaev, I.I.</ags:creatorPersonal>
+<ags:creatorPersonal>Shakhova, L.N.</ags:creatorPersonal>
+<ags:creatorPersonal>Golubeva, S.I.</ags:creatorPersonal>
+<ags:creatorCorporate>Ministerstvo Sel'skogo Khozyajstva SSSR, Moscow</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 tables, 3 illus.</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400123</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Sadovotstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.10) p. 35-36</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500121">
+<dc:title xml:lang="en">[New data on trichinosis pathogen [in swine]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Britov, V.A. (Dal'nevostochnyj Zonal'nyj Nauchno-Issledovatel'skij Veterinarnyj Inst., Blagoveshchensk na Amure (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L72</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>15 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500121</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Vestnik Sel'skokhozyajstvennoj Nauki (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 72-77</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400174">
+<dc:title xml:lang="en">[Kalmyk beef cattle and its performance potential]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Dorotyuk, Eh. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Myasnogo Skotovodstva, Orenburg (USSR))</ags:creatorPersonal>
+<ags:creatorPersonal>Kayumov, F.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Table</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400174</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Molochnoe i Myasnoe Skotovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.10) p. 19-20</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500170">
+<dc:title xml:lang="en">[Complex vaccination of sheep against anthrax, pox and anaerobic infections]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kadymov, R.A. (Azerbajdzhanskij Sel'skokhozyajstvennyj Inst., Kirovobad (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500170</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Veterinariya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 50-52</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500033">
+<dc:title xml:lang="en">[Quality control of aerosol desinfection [by the colorimetric method]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Zakomyrdin, A.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Bochenin, Yu.I. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Veterinarnoj Sanitarii, Moscow (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500033</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Veterinariya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.1) p. 31-32</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400074">
+<dc:title xml:lang="en">[Reducing of insiling mass moisture [by adding dry coarse fodders triturated in grinders to meal. The Podolsk region, the RSFSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Konoplev, E.</ags:creatorPersonal>
+<ags:creatorPersonal>Petrova, M. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Zhivotnovodstva, Podol'skij rajon (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">N10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Table</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400074</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Korma (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 40-42</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400001">
+<dc:title xml:lang="en">[Heritability and variability of characters in intervarietal and interspecific hybrids of cotton under different regimes of irrigation, Uzbek SSR]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Simongulyan, N.G.</ags:creatorPersonal>
+<ags:creatorPersonal>Saakova, S.G. (Ministerstvo Sel'skogo Khozyajstva SSSR, Moscow)</ags:creatorPersonal>
+<ags:creatorCorporate>AN SSSR, Moscow</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables; 16 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400001</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Genetika (USSR)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0016-6758</ags:citationIdentifier>
+<ags:citationNumber>(no.4) p. 5-12</ags:citationNumber>
+<ags:citationChronology>(Apr 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400049">
+<dc:title xml:lang="en">[Efficiency of machines [mower KC-2,1, crusher PTP-20 and mower-crushers KPV-30 and E-301] for grass mowing and crushing. [The Ukrainian SSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Derkach, G.</ags:creatorPersonal>
+<ags:creatorPersonal>Makarenko, L. (Cherkasskaya Gosudarstvennaya Sel'skokhozyajstvennaya Opytnaya Stantsiya, Smela (Ukrainian SSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 tables, 2 illus.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400049</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Tekhnika v Sel'skom Khozyajstve (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.8) p. 66-68</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400024">
+<dc:title xml:lang="en">[Effect of intensive trends in the development of beef cattle breeding [introduction of the industrial technology] on the increasing efficiency of beef production. [The Transcarpathian district, the Ukrainian SSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Lendel, M.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Jemets', G.S. (Uzhgorods'kij Gosudarstvennyj Univ. (Ukrainian SSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>4 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Uk</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400024</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Visnik Sil'skogospodars'koyi Nauki (Ukrainian SSR)</ags:citationTitle>
+<ags:citationNumber>(no.9) p. 20-24</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500326">
+<dc:title xml:lang="en">[Live box for mass breeding of insects [description]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kondratov, E.S.</ags:creatorPersonal>
+<ags:creatorCorporate>Ministerstvo Sel'skogo Khozyajstva SSSR, Moscow</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500326</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zashchita Rastenij (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.3) p. 26-27</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400041">
+<dc:title xml:lang="en">[Apple fruit picking [hand and machine picking on the Ukrainian SSR experimental farm]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Golovinskij, I.</ags:creatorPersonal>
+<ags:creatorPersonal>Gontar, D. (Ukrainskij Nauchno-Issledovatel'skij Inst. Sadovodstva, Kiev (Ukrainian SSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Table</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400041</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Sadovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.9) p. 17-18</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400009">
+<dc:title xml:lang="en">[Photosynthesis intensity in tea plant leaves of different varieties, Georgian SSR]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Patarava, B.D. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Chaya i Subtropicheskikh Kul'tur, Makharadze (USSR))</ags:creatorPersonal>
+<ags:creatorCorporate>Ministerstvo Sel'skogo Khozyajstva SSSR, Moscow</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Graph, table; Summary (Ru)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400009</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Subtropicheskie Kul'tury (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.1) p. 29-32</ags:citationNumber>
+<ags:citationChronology>(Jan 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400031">
+<dc:title xml:lang="en">[Determination of the efficiency to separate [optimum working conditions of seed cleaners [grain mixtures]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ul'rikh, N.N.</ags:creatorPersonal>
+<ags:creatorPersonal>Kosmovskij, Yu.A. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Mekhanizatsii Sel'skogo Khozyajstva, Moscow (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Table, 2 illus.</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400031</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Mekhanizatsiya i Ehlektrifikatsiya Sotsialisticheskogo Sel'skogo Khozyajstva (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.9) p. 10-13</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500341">
+<dc:title xml:lang="en">[Continuous application of herbicides, weediness and yield of vegetable crops]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Petrykin, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Mazyrina, M. (Ryazanskaya Gosudarstvennaya Oblastnaya Sel'skokhozyajstvennaya Opytnaya Stantsiya, Ryazanskaya Oblast' (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H60</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500341</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Kartofel' i Ovoshchi (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.3) p. 40</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500140">
+<dc:title xml:lang="en">[Devices for timing agricultural works]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Gel'fenbejn, S.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Suraev, N.G. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Priborov i Tekhniki Izmerenij v Sel'skom Khozyajstve, Moskovskaya Oblast' (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">N10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500140</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Mekhanizatsiya i Ehlektrifikatsiya Sotsialisticheskogo Sel'skogo Khozyajstva (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 55-57</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500009">
+<dc:title xml:lang="en">[New initial material for the fibre-flax plant breeding]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Davidyan, G.G.</ags:creatorPersonal>
+<ags:creatorPersonal>Rykova, R.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Kutuzova, S.N. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Rastenievodstva, Leningrad (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500009</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Len i Konoplya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.1) p. 24-25</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500363">
+<dc:title xml:lang="en">[The use of short stem spring wheat varieties for the selection [of winter wheat] under the irrigation [the Ukrainian SSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sobko, A.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Orlyuk, A.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Denisyuk, L.A. (Ukrainskij Nauchno-Issledovatel'skij Inst. Oroshaemogo Zemledeliya, Kherson)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500363</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Doklady Vsesoyuznoj Akademii Sel'skokhozyajstvennykh Nauk (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.3) p. 11-13</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400205">
+<dc:title xml:lang="en">[Effect of mineral nutrition rate [nitrogen, phosphorus, potassium] on yield and grain quality of winter wheat [Mironovskaya 808] in the stepped Volga region [the RSFSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Chub, M.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Potaturina, N.V.</ags:creatorPersonal>
+<ags:creatorPersonal>Litvinova, N.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Bebyakin, V.M. (Nauchno-Issledovatel'skij Inst. Sel'skogo Khozyajstva Yugo-Vostoka, Saratov (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>8 tables, 5 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400205</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agrokhimiya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.9) p. 66-74</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500070">
+<dc:title xml:lang="en">[Wintering of the Far East bees]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Khoroshilov, V.G. (Primorskaya Gosudarstvennaya Sel'skokhozyajstvennaya Opytnaya Stantsiya, Primorskij Kraj (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500070</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Pchelovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.1) p. 11</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500354">
+<dc:title xml:lang="en">[Companion sowing [with corn and joughara] of alfalfa]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ajtymbetov, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Toreniyazova, Zh. (Karakalpakskij Nauchno-Issledovatel'skij Inst. Zemledeliya, Chimbaj (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500354</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Khlopkovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.3) p. 20</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500189">
+<dc:title xml:lang="en">[Cannibalism in swine [causes of incidence and prophylactic measures]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Krutyporokh, F.</ags:creatorPersonal>
+<ags:creatorPersonal>Popov, N. (Ukrainskij Nauchno-Issledovatel'skij Inst. Zhivotnovodstva Stepnykh Rajonov, Khar'kov)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500189</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Svinovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 36-37</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500145">
+<dc:title xml:lang="en">[How to secure a planned rate of seeding [of corn, sunflower, castor-oil plant and other seeds; estimation according to formulas]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Budagov, A. (Kubanskij Sel'skokhozyajstvennyj Inst., Krasnodar (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Graphs</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500145</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zemledelie (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 72-74</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500019">
+<dc:title xml:lang="en">[Potato tubers resistance to Pectobacterium phytophthorum during storage [effects of growing conditions]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Pisarev, B.</ags:creatorPersonal>
+<ags:creatorPersonal>Tektonidi, I.</ags:creatorPersonal>
+<ags:creatorPersonal>Meshkova, Z. (Nauchno-Issledovatel'skij Inst. Kartofel'nogo Khozyajstva, Moskovskaya Oblast' (USSR))</ags:creatorPersonal>
+<ags:creatorCorporate>Ministerstvo Sel'skogo Khozyajstva SSSR,Moscow</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500019</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Kartofel' i Ovoshchi (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.1) p. 37-38</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400155">
+<dc:title xml:lang="en">[A rhythmical pace of pork production and marketing. [The Krasnodar Territory, the RSFSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nazarenko, A. (Kubanskij Sel'skokhozyajstvennyj Inst., Krasnodar (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Table</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400155</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Svinovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.9) p. 11-12</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500050">
+<dc:title xml:lang="en">[Muscular fibre alteration [of young bulls] after the trauma [contusions]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Fel'dshtejn, M.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Chumakov, V.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Pis'menskaya, V.N.</ags:creatorPersonal>
+<ags:creatorPersonal>Dolgov, V.A. (Moskovskij Tekhnologicheskij Inst. Myasnoj i Molochnoj Promyshlennosti (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L40</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>9 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500050</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Doklady Vsesoyuznoj Akademii Sel'skokhozyajstvennykh Nauk (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.1) p. 26-27</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400176">
+<dc:title xml:lang="en">[Improve interrelations [organization and economics] between specialized farms [for cattle and swine fattening] and breeding farms [for feeders supply]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Butikova, L. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Ehkonomiki Sel'skogo Khozyajstva, Moscow (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400176</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Molochnoe i Myasnoe Skotovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.10) p. 21-24</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400102">
+<dc:title xml:lang="en">[Streptomycine and oxitetracycline effects on the number of antibody-forming cells and titre-hemagglutinines in animal immunized]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nikolaev, A.I.</ags:creatorPersonal>
+<ags:creatorPersonal>Nazarmukhamedova, M.N. (Uzbekskij Inst. Ehpidemiologii, Mikrobiologii i Infektsionnykh Zabolevanij, Tashkent (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Table, 8 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400102</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zhurnal Mikrobiologii Ehpidemiologii i Immunobiologii (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.8) p. 93-95</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400086">
+<dc:title xml:lang="en">[Use of herbicides [Dalapon and Radakor] for corn under nonsaline soil conditions [The Ararat region] of the Armenian SSR]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Agaronyan, A.G.</ags:creatorPersonal>
+<ags:creatorPersonal>Oganesyan, B.S. (Armyanskij Nauchno-Issledovatel'skij Inst. Zashchity Rastenij, Ehchmiadzin (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Table</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400086</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Kukuruza (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.9) p. 30</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400103">
+<dc:title xml:lang="en">[Intensification of Soviet cheese process ageing]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ostroumov, L.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Gudkov, A.V.</ags:creatorPersonal>
+<ags:creatorPersonal>Babushkina, V.A. (Vsesoyuznyj  Nauchno-Issledovatel'skij Inst. Maslodel'noj i Syrodel'noj Promyshlennosti. Uglich (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 tables, 8 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400103</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Molochnaya Promyshlennost' (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.8) p. 18-21</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500132">
+<dc:title xml:lang="en">[Irradiators [of plants in green houses] of higher frequency with luminescent lamps]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Petrauskas, P.P. (Litovskaya Sel'skokhozyajstvennaya Akademiya, Kaunas (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">N10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables; 9 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500132</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Mekhanizatsiya i Ehlektrifikatsiya Sotsialisticheskogo Sel'skogo Khozyajstva (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 30-31</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500379">
+<dc:title xml:lang="en">[Efficiency of Dibiomicin in anaplasmosis treatment [of young bulls]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Artemenko, L.P. (Rovenskaya Nauchno-Issledovatel'skaya Veterinarnaya Stantsiya, Rovno (Ukrainian SSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500379</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Veterinariya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.3) p. 69</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400168">
+<dc:title xml:lang="en">[Effect of ploughing on movability of elements in solonetz soil development. [Kustanay district, the Kazakh SSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Pak, K.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Tsyurupa, I.G. (Pochvennyj Inst., Moscow (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F22</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F27</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 tables, 16 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400168</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agrokhimiya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.8) p. 107-113</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400208">
+<dc:title xml:lang="en">[Fertilizing water supply irrigation by phenolic waste waters of coke-chemical plant as a method of its utilization and rendering harmless. [Donetzk district, the Ukrainian SSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Davydov, V.D.</ags:creatorPersonal>
+<ags:creatorPersonal>Yanat'ev, V.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Medvedev, V.A. (Donetskaya Ovoshche-Bakhchevaya Opytnaya Stantsiya, Donetsk (Ukrainian SSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">P10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>8 tables, 14 ref., graph.</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400208</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Akrokhimiya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.9) p. 95-104</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500196">
+<dc:title xml:lang="en">[Optimum thickness of stand of mother starter beet in Central Chernozem regions [Voronezh and Tambov districts]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Chernavskij, N.P.</ags:creatorPersonal>
+<ags:creatorCorporate>Ministerstvo Sel'skogo Khozyajstva SSSR, Moscow</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500196</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Sakharnaya Svekla (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 35-37</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500004">
+<dc:title xml:lang="en">[Specialization of the wilt causative agent on the fine-fibered cotton plant [G. barbadense, Vakhsh river vally, the Uzbek SSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Menlikiev, M.Ya. (Tadzhikskij Sel'skokhozyajstvennyj Inst., Dushanbe (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500004</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Khlopkovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.1) p. 23</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500090">
+<dc:title xml:lang="en">[To improve selection and breeding work organization in pond-fish culture]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Krasavtsev, Yu. (Ukrainskij Nauchno-Issledovatel'skij Inst. Nauchno-Tekhnicheskoj Informatsii i Tekhniko-Ehkonomicheskikh Issledovanij, Kiev (Ukrainian SSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500090</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Rybovodstvo i Rybolovstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.1) p. 9-10</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500016">
+<dc:title xml:lang="en">[Performance of cows reared on diets with reduced quotas of milky feeds]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Arzumanyan, E.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Martyugin, D.D.</ags:creatorPersonal>
+<ags:creatorPersonal>Izilov, Yu.S. (Moskovskaya Sel'skokhozyajstvennaya Akademiya (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables; 23 ref.; summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500016</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Izvestiya Timiryazevskoj Sel'skokhozyajstvennoj Akademii (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.1) p. 149-157</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500008">
+<dc:title xml:lang="en">[Combinative ability estimation of hemp varieties by the topcross method]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Stepanov, G.S. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Lubyanykh Kul'tur, Glukhov (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500008</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Len i Konoplya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.1) p. 22-23</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400206">
+<dc:title xml:lang="en">[Barley yield and quality depending on conditions of nitrogenous nutrition of plants. [Zhodino, Minsk district, the Byelorussian SSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Berestov, I.I. (Belorusskij Nauchno-Issledovatel'skij Inst. Zemledeliya, Minsk)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>4 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400206</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agrokhimiya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.9) p. 75-79</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400170">
+<dc:title xml:lang="en">[All-Russian school of progressive methods [of cow milking. The RSFSR]]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Ministerstvo Sel'skogo Khozyajstva SSSR, Moscow</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400170</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Molochnoe i Myasnoe Skotovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.10) p. 9-10</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500308">
+<dc:title xml:lang="en">[Amino acid composition of beef in pure-bred and cross-bred young cattle]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ladan, P.E.</ags:creatorPersonal>
+<ags:creatorPersonal>Belkina, N.N.</ags:creatorPersonal>
+<ags:creatorPersonal>Uzhako, P.V.</ags:creatorPersonal>
+<ags:creatorPersonal>Matyashov, Yu.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Rudenko, V.P. (Donskoj Sel'skokhozyajstvennyj Inst., Persianovka (Ukrainian SSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Summaries (En, De, Fr); 10 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500308</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Vestnik Sel'skokhozyajstvennoj Nauki (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.3) p. 124-127</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400072">
+<dc:title xml:lang="en">[Rates of urea and root system of grasses. [Increasing of the productivity factor. The Kaluga district, the RSFSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Baranov, N. (Kaluzhskaya Gosudarstvennaya Oblastnaya Sel'skokhozyajstvennaya Opytnaya Stantsiya, Kaluga (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 table</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400072</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Korma (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) P. 23-24</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500323">
+<dc:title xml:lang="en">[Early harvest prevents potato from virus diseases [the Moscow region]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Klejmenov, B.V.</ags:creatorPersonal>
+<ags:creatorPersonal>Sergacheva, A.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Filippov, D.I. (Nauchno-Issledovatel'skij Inst. Kartofel'nogo Khozyajstva, Moskovskaya Oblast (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500323</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zashchita Rastenij (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.3) p. 19</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500107">
+<dc:title xml:lang="en">[Preharvesting picking out of corn]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Yunaev, A.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Zhuk, Ya.M. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Mekhanizatsii Sel'skogo Khozyajstva, Moscow (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500107</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Kukuruza (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 25-26</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500181">
+<dc:title xml:lang="en">[Microflora of semen and reproductive function of mothers [sows]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Serdyuk, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Ivanov, V.</ags:creatorPersonal>
+<ags:creatorPersonal>Belikov, A. (Nauchno-Issledovatel'skij Inst. Zhivotnovodstva Lesostepi i Poles'ya, Khar'kov (Ukrainian SSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500181</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Svinovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 10-11</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500096">
+<dc:title xml:lang="en">[Arrangements according to the improvement of home-grown forage in a region [option of grass mixtures]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kuksin, N.V.</ags:creatorPersonal>
+<ags:creatorPersonal>Tudel', N.I. (Ukrainskij Nauchno-Issledovatel'skij Inst. Zemledeliya, Kiev (Ukrainian SSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500096</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zhivotnovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.1) p. 24-30</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500362">
+<dc:title xml:lang="en">[Economical efficiency of mineral fertilizers in combination with anti-erosive field for winter following cultivation]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Trofimov, S.N. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Udobrenij i Agropochvovedeniya, Moscow (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F28</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500362</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Khimiya v Sel'skom Khozyajstve (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.3) p. 50-52</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400134">
+<dc:title xml:lang="en">[Assay of needs in techniques by rationing method. [The Azerbaijan SSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kabanov, P.</ags:creatorPersonal>
+<ags:creatorPersonal>Kuznetsov, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Yuzbashev, Ch.</ags:creatorPersonal>
+<ags:creatorCorporate>Ministerstvo Sel'skogo Khozyajstva SSSR, Moscow</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E30</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400134</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Ehkonomika Sel'skogo Khozyajstva (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.8) p. 46-50</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400141">
+<dc:title xml:lang="en">[A fattening efficiency of purebred and crossbred swines. [The Byelorussian SSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Klemantovich, G. (Belorusskij Nauchno-Issledovatel'skij Inst. Zhivotnovodstva, Minsk (Byelorussian SSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400141</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Svinovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.8) p. 20-21</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500178">
+<dc:title xml:lang="en">[Prophylaxis and treatment of acute gastroenteric diseases of neonatal calves]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Dorozhanskij, P.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Karabalin, Z. (Vostochno-Kazakhstanskaya Nauchno-Issledovatel'skaya Veterinarnaya Statnsiya, Ust'-Kamenogorsk (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500178</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Veterinariya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 94-96</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500141">
+<dc:title xml:lang="en">[Efficiency of [rural] economy system [in the Moldavian SSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Lupashku, M. (Vsesoyuznaya Akademiya Sel'skokhozyajstvennykh Nauk, Moscow (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500141</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zemledelie (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 12-15</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500315">
+<dc:title xml:lang="en">[At rabbit keepers of Lithuania [progressive methods in rabbit breeding]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Khartanova, A.V. (Ministerstvo Sel'skogo Khozyajstva Latvijskoj SSR, Riga (USSR). Glavnoe Upravlenie Zverovodstva)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500315</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Krolikovodstvo i Zverovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 16-18</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400154">
+<dc:title xml:lang="en">[Efficiency of automatized fattening [of swine. Grodno district, the Byelorussian SSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Rodionov, A.</ags:creatorPersonal>
+<ags:creatorCorporate>Ministerstvo Sel'skogo Khozyajstva SSSR, Moscow</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">N10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Table</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400154</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Svinovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.9) p. 10-11</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400011">
+<dc:title xml:lang="en">[Effect of the stand on the yield of common orange plants, Georgian SSR]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Pirtskhalajshvili, S.Kh.</ags:creatorPersonal>
+<ags:creatorPersonal>Trelitskaya, E.V. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Chaya i Subtropicheskikh Kul'tur, Makharadze (USSR))</ags:creatorPersonal>
+<ags:creatorCorporate>Ministerstvo Sel'skogo Khozyajstva SSSR, Moscow</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400011</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Subtropicheskie Kul'tury (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.1) p. 43-48</ags:citationNumber>
+<ags:citationChronology>(Jan 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500136">
+<dc:title xml:lang="en">[Record of disturbances in designing automatic driving systems [of tractor aggregates]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Klejn, Yu.K. (Gosudarstvennyj Soyuznyj Nauchno-Issledovatel'skij Traktornyj Inst., Moscow (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500136</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Mekhanizatsiya i Ehlektrifikatsiya Sotsialisticheskogo Sel'skogo Khozyajstva (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 42</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400004">
+<dc:title xml:lang="en">[Karyotype of the kazakh arkhar-merino sheep]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Mukhemedgaliev, F.M.</ags:creatorPersonal>
+<ags:creatorPersonal>Savitskij, V.F. (AN Kazakhskoj SSR, Alma-Ata)</ags:creatorPersonal>
+<ags:creatorCorporate>AN SSSR, Moscow</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus., tables; 13 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400004</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Genetika (USSR)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0016-6758</ags:citationIdentifier>
+<ags:citationNumber>(no.4) p. 43-47</ags:citationNumber>
+<ags:citationChronology>(Apr 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500014">
+<dc:title xml:lang="en">[Effect of Atrazine and Monuron [herbicides] on phosphorus compounds composition of corn at different levels of nutrition [doses of fertilizers]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Zhukov, Yu.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Ovcharenko, G.S.</ags:creatorPersonal>
+<ags:creatorPersonal>Bagaev, V.G.</ags:creatorPersonal>
+<ags:creatorPersonal>Bizyaeva, T.I. (Moskovskaya Sel'skokhozyajstvennaya Akademiya (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">H50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables; summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500014</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Izvestiya Timiryazevskoj Sel'skokhozyajstvennoj Akademii (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.1) p. 104-113</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500131">
+<dc:title xml:lang="en">[Effects of putting on moments of motor on machines with flexible shafts]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ambartsumyan, V.A. (Tselinogradskij Sel'skokhozyajstvennyj Inst. (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">N10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Graphs</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500131</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Mekhanizatsiya i Ehlektrifikatsiya Sotsialisticheskogo Sel'skogo Khozyajstva (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 24-26</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500043">
+<dc:title xml:lang="en">[CFT micromethod [complement fixation test] for the determination of foot-and-mouth disease virus type]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Gritsenko, A.I.</ags:creatorPersonal>
+<ags:creatorPersonal>Sobko, A.I.</ags:creatorPersonal>
+<ags:creatorPersonal>Chepurkina, A.I. (Vsesoyuznyj Nauchno-Issledovatel'skoj Yashchurnyj Inst., Pokrov (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500043</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Veterinariya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.1) p. 99-100</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400224">
+<dc:title xml:lang="en">[Arrangement for grain control loss of combine separator]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Vorob'ev, V.</ags:creatorPersonal>
+<ags:creatorPersonal>Samojlenko, E. (Kubanskij Nauchno-Issledovatel'skij Inst. po Ispytaniyu Traktorov i Sel'khozmashin, Novokubansk, Krasnodarskij kraj (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400224</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Tekhnika v Sel'skom Khozyajstve (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.9) p. 71-72</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500358">
+<dc:title xml:lang="en">[Yield and quality of fodder crops cultivated under conditions of irrigation in different level of nitrogen nutrition [winter rye, spring oats, corn and alfalfa]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Porozhnyak, V.N. (Karbardino-Balkarskaya Sel'skokhozyajstvennaya Opytnaya Stantsiya, Nal'chik (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500358</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Khimiya v Sel'skom Khozyajstve (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.3) p. 19-21</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500312">
+<dc:title xml:lang="en">[Thickness of hairiness in minks of different size]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Mamaeva, G.B.</ags:creatorPersonal>
+<ags:creatorPersonal>Khudyakova, T.N.</ags:creatorPersonal>
+<ags:creatorPersonal>Kstenina, T.A. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Okhotnich'ego Khozyajstva i Zverovodstva, Kirov (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500312</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Krolikovodstvo i Zverovodstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 10-11</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7500159">
+<dc:title xml:lang="en">[Musk-melon in flim greenhouses [yield increasing]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nemchenko, I.</ags:creatorPersonal>
+<ags:creatorPersonal>Bondarenko, S. (Ministerstvo Sel'skogo Khozyajstva Ukrainskoj SSR, Kiev (Ukrainian SSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7500159</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Kartofel' i Ovoshchi (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 37-39</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400055">
+<dc:title xml:lang="en">[Harvesting of seed-bearing [legumes and cereals] grasses [by re-equipped combines for direct and two-phase complete harvesting. The Non-Chernozem Belt of the USSR, the RSFSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Grin'kov, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Losev, V.</ags:creatorPersonal>
+<ags:creatorPersonal>Gorbatenko, V. (Tsenral'nyj Nauchno-Issledovatel'skij Inst. Mekhanizatsii i Ehlektrifikatsii Sel'skogo Khozyajstva Nechernozemnoj Zony SSSR, Minsk)</ags:creatorPersonal>
+<ags:creatorPersonal>Kechek'yan, Yu.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Table, illus.</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400055</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Tekhnika v Sel'skom Khozyajstve (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.8) p. 19-22</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="UR7400048">
+<dc:title xml:lang="en">[Two-row ambury harvester [Ky-0,2 and Ky-0,2A in assembly with tractor MTZ for harvesting and field processing of ambury. Middle Asia]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Abdukadyrov, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Miftakhov, Sh.</ags:creatorPersonal>
+<ags:creatorPersonal>Dzhapakov, Kh. (Sredneaziatskij Nauchno-Issledovatel'skij Inst. Mekhanizatsii i Ehlektrifikatsii Sel'skogo Khozyajstva, Tashkentskaya oblast' (USSR))</ags:creatorPersonal>
+<ags:creatorPersonal>Ehraliev, I.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>UR</ags:availabilityLocation><ags:availabilityNumber>7400048</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Tekhnika v Sel'skom Khozyajstve (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.8) p. 82</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+</ags:resources>

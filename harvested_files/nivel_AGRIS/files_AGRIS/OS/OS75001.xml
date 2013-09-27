@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "../../agrislegacy.dtd">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="OS7500012">
+<dc:title xml:lang="en">[Report on commercialization of millet bread]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Diallo, H.</ags:creatorPersonal>
+<ags:creatorCorporate>Institut de Technologie Alimentaire, Dakar (Senegal)</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:identifier scheme="ags:RN">OMVS-ACCESS.No.--05057-74-RA</dc:identifier>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>OS</ags:availabilityLocation><ags:availabilityNumber>7500012</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin d'Information - Institut de Technologie Alimentaire. Centre de Documentation (Senegal)</ags:citationTitle>
+<ags:citationNumber>v. 3/4 p. 14-40</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="OS7500015">
+<dc:title xml:lang="en">[The research of IRAT in Senegal]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Primature du Senegal, Delegation Generale a la Recherche Scientifique; Institut de Recherches Agronomiques Tropicales et des Cultures Vivrieres, Paris (France)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>Centre National de Recherches Agronomiques</ags:publisherName>
+<ags:publisherPlace>Bambey (Senegal)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>10 Aug 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>125 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>OS</ags:availabilityLocation><ags:availabilityNumber>7500015</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="OS7500007">
+<dc:title xml:lang="en">[Annual report Entomology 1973. Experimentation for implementation of cotton growth in Senegal]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Labonne, V.</ags:creatorPersonal>
+<ags:creatorCorporate>Institut de Recherches du Coton et Textiles Exotiques, Kaolack (Senegal); Ministere du Developpement Rural, Dakar (Senegal). Direction des Services Agricoles; Fonds Europeen de Developpement (Senegal)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>IRCT</ags:publisherName>
+<ags:publisherPlace>Kaolack (Senegal)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:identifier scheme="ags:RN">FED-Project--3100-333-15-08</dc:identifier>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>27 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>OS</ags:availabilityLocation><ags:availabilityNumber>7500007</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="OS7500001">
+<dc:title xml:lang="en">[Annual report on experimentation for the implementation of cotton cultivation in Senegal. Section of genetics]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Pauly, S. (Institut de Recherches du Coton et des Textiles Exotiques, Paris (France))</ags:creatorPersonal>
+<ags:creatorCorporate>Institut de Recherches du Coton et des Textiles Exotiques, Kaolack (Senegal); Ministere du Developpement Rural, Dakar (Senegal). Direction des Services Agricoles</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>IRCT</ags:publisherName>
+<ags:publisherPlace>Kaolack(Senegal)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Mar 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>35 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>OS</ags:availabilityLocation><ags:availabilityNumber>7500001</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="OS7500008">
+<dc:title xml:lang="en">[Project for the development of cattle-breeding in eastern Senegal]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Diallo, M.</ags:creatorPersonal>
+<ags:creatorCorporate>Ministere du Developpement Rural et de l'Hydraulique, Dakar (Senegal); United Nations Development Programme, Dakar (Senegal); International Bank for Reconstruction and Development, Dakar (Senegal)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>Societe d'Aide Technique et de Cooperation</ags:publisherName>
+<ags:publisherPlace>Dakar (Senegal)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>May 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>46 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>OS</ags:availabilityLocation><ags:availabilityNumber>7500008</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="OS7500024">
+<dc:title xml:lang="en">[Quantitative survey of a sample of fauna from recent quaternary of Saint-Louis region (Senegal)]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Monteillet, J.</ags:creatorPersonal>
+<ags:creatorCorporate>Institut Fondamental d'Afrique Noire, Dakar (Senegal)</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F23</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>13 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">OMVS-ACCESS.NO.--05234-75-ET</dc:identifier>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>OS</ags:availabilityLocation><ags:availabilityNumber>7500024</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin de l'Institut fondamental d'Afrique Noire. Serie A (Senegal)</ags:citationTitle>
+<ags:citationNumber>v. 36(2) p. 257-290</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="OS7500018">
+<dc:title xml:lang="en">[Report of 1972 activity; survey and improvement of surroundings; bioclimatology: Meteorology of ISRA weather stations]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Delegation Generale a la Recherche Scientifique et Technique, Dakar (Senegal); Institut senegalais de Recherches Agricoles, Bambey (Senegal)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>CNRA</ags:publisherName>
+<ags:publisherPlace>Bambey (Senegal)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Nov 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F10</ags:subjectClassification>
+</dc:subject>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>93 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>OS</ags:availabilityLocation><ags:availabilityNumber>7500018</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="OS7500021">
+<dc:title xml:lang="en">[Preliminary results of experimental trawling campaign]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Brulhet, J.</ags:creatorPersonal>
+<ags:creatorPersonal>Maigret, J.</ags:creatorPersonal>
+<ags:creatorCorporate>Ministere du Developpement Industriel, Nouakchott (Mauritania). Direction des Peches</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1973)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">M40</ags:subjectClassification>
+</dc:subject>
+<dc:identifier scheme="ags:RN">OMVS-ACCESS.NO--05176-73-ET</dc:identifier>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>OS</ags:availabilityLocation><ags:availabilityNumber>7500021</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin du Laboratoire des Peches de Nouadhibou (Mauritania)</ags:citationTitle>
+<ags:citationNumber>v. 2 p. 57-112</ags:citationNumber>
+<ags:citationChronology>(Dec 1973)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+</ags:resources>

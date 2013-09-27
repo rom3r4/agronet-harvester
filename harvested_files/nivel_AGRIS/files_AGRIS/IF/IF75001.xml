@@ -1,0 +1,2392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "../../agrislegacy.dtd">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="IF7400737">
+<dc:title xml:lang="en">[Advances in the rice breeding project [Honduras]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nunez Montes, M.A.</ags:creatorPersonal>
+<ags:creatorCorporate>Universidad Nacional Autonoma de Honduras, Tegucigalpa. Centro Universitario Regional del Litoral Atlantico. Carrera de Ciencias Agricolas</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>Universidad Nacional Autonoma de Honduras</ags:publisherName>
+<ags:publisherPlace>Tegucigalpa (Honduras)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E30</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Illus., graphs, tables; 9 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>71 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400737</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="IF7500989">
+<dc:title xml:lang="en">[Institute of Rural Colonization, annual report: July 1973 - June 1974 [El Salvador]]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Instituto de Colonizacion Rural, San Salvador (El Salvador)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>ICR</ags:publisherName>
+<ags:publisherPlace>San Salvador (El Salvador)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Illus.</ags:descriptionNotes>
+</dc:description>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>10 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7500989</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Informe Anual de Labores - Instituto de Colonizacion Rural (El Salvador)</ags:citationTitle>
+<ags:citationNumber>1973-1974</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400787">
+<dc:title xml:lang="en">[Agricultural bibliographies of Central America: Panama]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Herrera, Carmen D. de (comp.)</ags:creatorPersonal>
+<ags:creatorCorporate>Centro Interamericano de Documentacion e Informacion Agricola, Turrialba (Costa Rica)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>Inter-American Inst. of Agricultural Sciences</ags:publisherName>
+<ags:publisherPlace>Turrialba (Costa Rica)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">A00</ags:subjectClassification>
+</dc:subject>
+<dc:type>Z</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>68 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400787</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Documentacion e Informacion Agricola - Inter-American Inst. of Agricultural Sciences (IICA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0301-438X</ags:citationIdentifier>
+<ags:citationNumber>no. 28</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400662">
+<dc:title xml:lang="en">[Conservation as an instrument of development [natural resources, Mexico]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Beltran, E.</ags:creatorPersonal>
+<ags:creatorConference>Mesas Redondas sobre Desarrollo y Ecologia, Mexico City, 5 Nov 1973</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>Editorial Libros de Mexico</ags:publisherName>
+<ags:publisherPlace>Mexico City</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L20</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F40</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Bibliography p. 234-243</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>Z</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400662</ags:availabilityNumber></agls:availability>
+<dc:source>[Round Tables on Ecology and Development [Mexico]], Instituto Mexicano de Recursos Naturales Renovables, Mexico City.- Mexico City: Editorial Libros de Mexico, 1974. p. 165-254</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400407">
+<dc:title xml:lang="en">[Manifestation of heterosis in Phaseolus vulgaris L. [beans]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Albuquerque, M.M. de</ags:creatorPersonal>
+<ags:creatorPersonal>Vieira, C.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus., tables; 11 ref. Summaries (En, Pt)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400407</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Revista Ceres (Brazil)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0034-737X</ags:citationIdentifier>
+<ags:citationNumber>v. 21(114) p. 148-166</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400098">
+<dc:title xml:lang="en">Artificial insemination in Venezuela; present state and perspectives</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hernandez Prado, A. (Universidad Central de Venezuela, Maracay. Facultad de Ciencias Veterinarias)</ags:creatorPersonal>
+<ags:creatorConference>Seminario sobre la Produccion de Leche en Venezuela, Maracaibo (Venezuela), 14 Mar 1973</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>Editorial Sucre</ags:publisherName>
+<ags:publisherPlace>Caracas (Venezuela)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Feb 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400098</ags:availabilityNumber></agls:availability>
+<dc:source>Seminar on milk production in Venezuela, Consejo Nacional de Investigaciones Agricolas, Caracas (Venezuela). Comision de Ganaderia.- Caracas (Venezuela): Editorial Sucre, Feb 1974. p. 139-150</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="IF7502612">
+<dc:title xml:lang="en">[Evaluation of the chemical methods for determination of lime requirements in acid soils of the country [VenezUela]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Rojas, I.L. de (Centro Nacional de Investigaciones Agropecuarias, Marcay (Venezuela))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F22</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Graph., tables, map; 24 ref. Summaries (En, Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7502612</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agronomia Tropical (Venezuela)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0002-192X</ags:citationIdentifier>
+<ags:citationNumber>v. 24(4) p. 259-278</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400326">
+<dc:title xml:lang="en">[Methods in the interpretation of aerial photography for preparation of vegetation maps]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Smith, R.F. (Universidad Centro-Occidental, Barquisimeto (Venezuela). Escuela de Agronomia)</ags:creatorPersonal>
+<ags:creatorConference>2. Congreso Venezolano de Botanica, Merida (Venezuela), 26 Jun 1972</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>Talleres Graficos Universitarios</ags:publisherName>
+<ags:publisherPlace>Merida (Venezuela)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F24</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus., tables; Summary (Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400326</ags:availabilityNumber></agls:availability>
+<dc:source>[Report on the 2nd Venezuelan Congress in Botany], Universidad de Los Andes, Merida (Venezuela).- Merida (Venezuela): Talleres Graficos Universitarios, 1974. p. 245-260</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400591">
+<dc:title xml:lang="en">[Systematic and biologic study of Argentine Ascobolaceae, 5. [Saccobolus Saccoboloides, Saccobolus Succineus]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ranalli, M.E. (Buenos Aires Univ. (Argentina). Facultad de Ciencias Exactas y Naturales. Dept. de Ciencias Biologicas)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F70</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus., tables; 22 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400591</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Boletin de la Sociedad Argentina de Botanica (Argentina)</ags:citationTitle>
+<ags:citationNumber>v. 15(4) p. 427-445</ags:citationNumber>
+<ags:citationChronology>(May 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400674">
+<dc:title xml:lang="en">[Application of anthelmintics in the control of internal parasites of sheep]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hotson, J.K. (New South Wales Dept. of Agriculture (Australia))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L72</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400674</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Campo (Mexico)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0008-2473</ags:citationIdentifier>
+<ags:citationNumber>v. 49(984) p. 31-32, 34-38</ags:citationNumber>
+<ags:citationChronology>(Feb 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7500787">
+<dc:title xml:lang="en">[Capital in the [land] reformed sector [Chile]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Perez, V.S. (Universidad Catolica de Chile, Santiago. Escuela de Agronomia. Dept. de Desarrollo Rural)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables; 5 ref. Summaries (En, Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7500787</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Ciencia e Investigacion Agraria (Chile)</ags:citationTitle>
+<ags:citationNumber>v. 1(1) p. 9-16</ags:citationNumber>
+<ags:citationChronology>(Jan 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7501734">
+<dc:title xml:lang="en">[A study of short-term development: T0 - T2 (1974-1976) for the project of integral colonization of Saispampa, Pucallpa [Peru]]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Cooperacion Tecnica de Apoyo Infraestructural, Lima (Peru); Sociedades Agricolas de Interes Social, Lima (Peru)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>COTAI</ags:publisherName>
+<ags:publisherPlace>Lima (Peru)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E30</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Graphs, tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>79 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7501734</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="IF7501369">
+<dc:title xml:lang="en">[Growth of sugar-cane seedlings transplanted in five different substrates]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Cesnik, R. (Programa Nacional de Melhoramento de Cana-de-Acucar, Araras, SP (Brazil))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F22</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables; Summary (Pt)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7501369</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Brasil Acucareiro (Brazil)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0006-9167</ags:citationIdentifier>
+<ags:citationNumber>v. 84(1) p. 21-25</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7500785">
+<dc:title xml:lang="en">[A table of animal feed composition for Chile]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hirsch-Reinshagen, P.</ags:creatorPersonal>
+<ags:creatorPersonal>Covacevich, R.</ags:creatorPersonal>
+<ags:creatorPersonal>Canas, R.</ags:creatorPersonal>
+<ags:creatorPersonal>Garcia, F.</ags:creatorPersonal>
+<ags:creatorPersonal>Guzman, F.</ags:creatorPersonal>
+<ags:creatorPersonal>Lacher, E.</ags:creatorPersonal>
+<ags:creatorPersonal>Morales, U.</ags:creatorPersonal>
+<ags:creatorPersonal>Schultz, P.</ags:creatorPersonal>
+<ags:creatorPersonal>Soto, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Vargas, L.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables; 13 ref. Summaries (En, Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7500785</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Ciencia e Investigacion Agraria (Chile)</ags:citationTitle>
+<ags:citationNumber>v. 1(1) p. 54-68</ags:citationNumber>
+<ags:citationChronology>(Jan 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7502915">
+<dc:title xml:lang="en">[The agrarian question, a fundamental question [Colombia]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Alameda, R.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jun 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7502915</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Desarrollo Indoamericano (Colombia)</ags:citationTitle>
+<ags:citationNumber>v. 8(24) p. 6971</ags:citationNumber>
+<ags:citationChronology>(Jun 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400383">
+<dc:title xml:lang="en">[Genetic-physiological aspects of beef cattle growth in the Tropics]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Bailon Ariza, G.J.</ags:creatorPersonal>
+<ags:creatorCorporate>Inter-American Institute of Agricultural Sciences, Turrialba (Costa Rica)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>IICA</ags:publisherName>
+<ags:publisherPlace>Turrialba (Costa Rica)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Aug 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Graphs, tables; 52 ref. Summaries (En, Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>48 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400383</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400295">
+<dc:title xml:lang="en">[Goat rearing]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Agraz, G.A.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400295</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Tierra (Mexico)</ags:citationTitle>
+<ags:citationNumber>v. 29(2) p. 83-86</ags:citationNumber>
+<ags:citationChronology>(Feb 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400185">
+<dc:title xml:lang="en">Chemical control of tomato leaf-miner, Phthorimaea (=Gnorimoschema) operculella (Zeller), (Lepidoptera; Gelechiidae), in the state of Aragua and Lara [Venezuela]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ramirez, E.</ags:creatorPersonal>
+<ags:creatorPersonal>Carmeli, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Balen, L. van</ags:creatorPersonal>
+<ags:creatorPersonal>Garcia, D.</ags:creatorPersonal>
+<ags:creatorPersonal>Sandoval, J.R.</ags:creatorPersonal>
+<ags:creatorPersonal>Nieves, M. (Fundacion Servicio para el Agricultor, Cagua (Venezuela))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1973)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>12 ref.; summaries (En, Es); Received at IICA/CIDIA in 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400185</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agronomia Tropical (Venezuela)</ags:citationTitle>
+<ags:citationNumber>v. 23(4) p. 393-400</ags:citationNumber>
+<ags:citationChronology>(Jul 1973)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400081">
+<dc:title xml:lang="en">Enrichement of maize (Zea mays L.) and wheat (Triticum aestivum L.) flours with variable levels of soybean [Glycine soya] flour and synthetic aminoacids</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Rojas Vargas, L.F.</ags:creatorPersonal>
+<ags:creatorCorporate>Costa Rica Univ., San Jose. Facultad de Agronomia</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>Univ. de Costa Rica</ags:publisherName>
+<ags:publisherPlace>San Jose (Costa Rica)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">S10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Graphs, tables; 21 ref. Summary (Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>46 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400081</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="IF7501437">
+<dc:title xml:lang="en">[Range management]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Parker, K.G.</ags:creatorPersonal>
+<ags:creatorCorporate>Utah State Univ. Contract USAID/Bolivia, La Paz</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>USUC USAID/Bolivia</ags:publisherName>
+<ags:publisherPlace>La Paz (Bolivia)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>*Biblioteca de Asuntos Campesinos y Agropecuarios, La Paz (Bolivia)</ags:descriptionNotes>
+</dc:description>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>5 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7501437</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>USU Series - Utah State University Contract USAID/Bolivia (Bolivia)</ags:citationTitle>
+<ags:citationNumber>No. 1</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400198">
+<dc:title xml:lang="en">Leaf anatomy of the plants of Venezuelan paramos, 1: Hinterhubera imbricata (Compositae)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Roth, I. (Universidad Central de Venezuela, Caracas. Escuela de Biologia)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus. 4 ref. Summeries (En, Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400198</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Acta Botanica Venezuelica (Venezuela)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">084-5906</ags:citationIdentifier>
+<ags:citationNumber>v. 9(1-4) p. 381-398</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400156">
+<dc:title xml:lang="en">Morphological study of fruits and seeds of Mimosoideae (Leguminosae) from Venezuela</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Bravato, M.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus 18 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400156</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Acta Botanica Venezuelica (Venezuela)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">084-5906</ags:citationIdentifier>
+<ags:citationNumber>v. 9(1-4) p. 317-361</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400556">
+<dc:title xml:lang="en">[Development of systems for agricultural production in the tropics]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Soria Vasco, J. (Centro Agronomico Tropical de Investigacion y Ensenanza, Turrialba (Costa Rica))</ags:creatorPersonal>
+<ags:creatorConference>Conferencia sobre Sistemas de Produccion Agricola para el Tropico, Turrialba (Costa Rica), 25 Feb 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>CATIE</ags:publisherName>
+<ags:publisherPlace>Turrialba (Costa Rica)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400556</ags:availabilityNumber></agls:availability>
+<dc:source>[Final Report, Conference on  Agricultural Production Systems for the Tropics], Centro Agronomico Tropical de Investigacion y Ensenanza, Turrialba (Costa Rica); Inter-American Inst. of Agricultural Sciences, Guatemala City. Northern Zone.- Turrialba (Costa Rica): CATIE, 1974. 5 p.</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="IF7500096">
+<dc:title xml:lang="en">[Hydatidosis - incidence in sheep; fertility of cysts, Mercedes, Province of Corrientes, 1971 [Argentina]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hernandez, J. del R. (Frigorifico Ingamer S.A., Mercedes, Corrientes (Argentina). Servicio Veterinario)</ags:creatorPersonal>
+<ags:creatorPersonal>Cardona, G.A. (Instituto Nacional de Tecnologia Agropecuaria, Mercedes, Corrientes (Argentina). Estacion Experimental Agropecuaria. Dept. Parasitologia)</ags:creatorPersonal>
+<ags:creatorPersonal>Meza, E.F.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L70</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L72</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus., tables; 4 ref. Summaries (En, Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7500096</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Revista de Medicina Veterinaria (Argentina)</ags:citationTitle>
+<ags:citationNumber>v. 55(1) p. 73-76, 79-81</ags:citationNumber>
+<ags:citationChronology>(Jan 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400455">
+<dc:title xml:lang="en">Use and limitations of the North Carolina method to predict available phosphorus in some oxy-soils</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Cajuste, L.J.</ags:creatorPersonal>
+<ags:creatorPersonal>Kussow, W.R. (Escuela Nacional de Agricultura, Chapingo (Mexico). Colegio de Postgraduados)</ags:creatorPersonal>
+<ags:creatorConference>Caribbean and Tropical American Soil Science Conference, St. Augustine (Trinidad and Tobago), 7 Jan 1973</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables; 18 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400455</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Tropical Agriculture (Trinidad and Tobago)</ags:citationTitle>
+<ags:citationNumber>v. 51(2) p. 246-252</ags:citationNumber>
+<ags:citationChronology>(Apr 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400709">
+<dc:title xml:lang="en">[A note on the mechanical removal of the fig epidermis [Ficus carica]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Pinto, G.L. (Universidade Federal de Vicosa, MG (Brazil). Dept. de Tecnologia de Alimentos)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus., tables; 4 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400709</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Revista Ceres (Brazil)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0034-737X</ags:citationIdentifier>
+<ags:citationNumber>v. 21(113) p. 86-89</ags:citationNumber>
+<ags:citationChronology>(Jan 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7501401">
+<dc:title xml:lang="en">[Harmonic analysis of population density of Radopholus similis (Cobb) Thorne in the banana region of Guapiles, Costa Rica]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Jaramillo, R. (Sociedad Agricola Industrial San Cristobal, San Jose (Costa Rica). Dept. de Investigaciones Agricolas)</ags:creatorPersonal>
+<ags:creatorPersonal>Figueroa, A. (Ministerio de Agricultura y Ganaderia, San Jose (Costa Rica). Seccion de Nematologia)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Graphs, tables; 21 ref. Summaries (En, Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7501401</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Turrialba (IICA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0041-4360</ags:citationIdentifier>
+<ags:citationNumber>v. 24(4) p. 402-407</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400701">
+<dc:title xml:lang="en">[Tests of germination of buffalo-grass seeds (Cenchrus ciliares L.)]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Silva, U.R. (Instituto de Pesquisa Agropecuaria do Leste, Cruz das Almas, BA (Brazil))</ags:creatorPersonal>
+<ags:creatorPersonal>Nascimento Junior, D. (Universidade Federal de Vicosa, MG (Brazil))</ags:creatorPersonal>
+<ags:creatorPersonal>Gomide, J.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Mendonca, C.A.G.</ags:creatorPersonal>
+<ags:creatorPersonal>Assis, F.N.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables; 11 ref. Summaries (En, Pt)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400701</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Revista Ceres (Brazil)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0034-737X</ags:citationIdentifier>
+<ags:citationNumber>v. 21(113) p. 1-8</ags:citationNumber>
+<ags:citationChronology>(Jan 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7503131">
+<dc:title xml:lang="en">[Use of phosphorus -32 for fertility studies in volcanic soils of Chile]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Bravo Navarrete, E.H.</ags:creatorPersonal>
+<ags:creatorCorporate>Universidad de Concepcion, Chillan (Chile). Escuela de Agronomia</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>UC</ags:publisherName>
+<ags:publisherPlace>Chillan (Chile)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>34 ref. Summaries (En, Es) *Biblioteca Inst. de Investigaciones Agropecuarias, Santiago (Chile)</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>59 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7503131</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="IF7500864">
+<dc:title xml:lang="en">[Brazilian system for the promotion of exports]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Savasini, J.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Lobato, H.D.</ags:creatorPersonal>
+<ags:creatorPersonal>Travolo, M.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Zockun, M.H.G.P.</ags:creatorPersonal>
+<ags:creatorCorporate>Universidade de Sao Paulo (Brazil). Inst. de Pesquisas Economicas</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>USP</ags:publisherName>
+<ags:publisherPlace>Sao Paulo (Brazil)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Jul 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Tables; 36 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>105 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7500864</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Trabalhos para Discussao (Brazil)</ags:citationTitle>
+<ags:citationNumber>no. 11</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7503535">
+<dc:title xml:lang="en">[Peaches, cultivar Cardeal [Brazil, Xanthomonas pruni]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sachs, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Nakasu, B.H.</ags:creatorPersonal>
+<ags:creatorPersonal>Nunes, E.C.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7503535</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Boletim Tecnico - Instituto de Pesquisas Agropecuarias do Sul (Brazil)</ags:citationTitle>
+<ags:citationNumber>(no. 92) p. 16-17</ags:citationNumber>
+<ags:citationChronology>(Feb 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7501910">
+<dc:title xml:lang="en">[Several methods for inoculating soybeans (Glycine max) with Xanthomonas phaseoli var. soyense]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hilje Quiros, I.</ags:creatorPersonal>
+<ags:creatorCorporate>Universidad de Costa Rica, San Jose. Facultad de Agronomia. Escuela de Fitotecnia</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>UCR</ags:publisherName>
+<ags:publisherPlace>San Jose (Costa Rica)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Illus., tables; 22 ref. Summary (Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>46 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7501910</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="IF7503046">
+<dc:title xml:lang="en">[Report on the activities of the Cooperative Regional Program of High Andes 1973-1974 [rural development]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Rojas M, E. (IICA, La Paz (Bolivia))</ags:creatorPersonal>
+<ags:creatorConference>4. Reunion del Programa Regional Cooperativo de los Andes Altos, Pasto (Colombia), 26 May 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>IICA</ags:publisherName>
+<ags:publisherPlace>Pasto (Colombia)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E30</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7503046</ags:availabilityNumber></agls:availability>
+<dc:source>[Fourth meeting of the Cooperative Regional Program of High Andes. Pasto, Narino, Colombia May 26-31, 1974], IICA, Bogota (Colombia); Universidad de Narino, Pasto (Colombia).- Pasto (Colombia): IICA, 1974. p. 20-27</dc:source>
+<ags:citation><ags:citationTitle>Serie de Reuniones, Cursos y Conferencias (IICA)</ags:citationTitle>
+<ags:citationNumber>no. 54</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7500330">
+<dc:title xml:lang="en">[Fertilizers, another difficult problem for [coffee] plantations [Brazil]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Silvia Helena</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7500330</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Revista do Comercio de Cafe (Brazil)</ags:citationTitle>
+<ags:citationNumber>p. 15-17</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400244">
+<dc:title xml:lang="en">[Milk marketing at the Salvador, State of Bahia milk pool: Brazil]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Aad Neto, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Sousa, A.F. de</ags:creatorPersonal>
+<ags:creatorPersonal>Leitao e Silva, J.</ags:creatorPersonal>
+<ags:creatorPersonal>Rebello, A. da P.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Rezende, A.M.</ags:creatorPersonal>
+<ags:creatorPersonal>Brandt, S.A.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">U10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Graphs, tables; Map, scale 1:2.500,000. 15 ref. Summaries (En, Pt)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400244</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Experientiae (Brazil)</ags:citationTitle>
+<ags:citationNumber>v. 17(6) p. 25-44</ags:citationNumber>
+<ags:citationChronology>(Jan 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7503052">
+<dc:title xml:lang="en">[Costs for technicalization the cheese and butter industry in the Narino Department [Colombia]]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Universidad de Narino, Pasto (Colombia). Facultad de Ciencias Agricolas</ags:creatorCorporate>
+<ags:creatorConference>4. Reunion del Programa Regional Cooperativo de los Andes Altos, Pasto (Colombia), 26 May 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>IICA</ags:publisherName>
+<ags:publisherPlace>Pasto (Colombia)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7503052</ags:availabilityNumber></agls:availability>
+<dc:source>[Fourth meeting of the Cooperative Regional Program of High Andes. Pasto, Narino, Colombia May 26-31, 1974], IICA, Bogota (Colombia); Universidad de Narino, Pasto (Colombia).- Pasto (Colombia): IICA, 1974. p. 139-151</dc:source>
+<ags:citation><ags:citationTitle>Serie de Reuniones, Cursos y Conferencias (IICA)</ags:citationTitle>
+<ags:citationNumber>no. 54</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7501359">
+<dc:title xml:lang="en">[Effect of nitrogen, phosphorus and potassium on the production of guinea-grass (Panicum maximun Jacq.) seed [yields]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Febles, G.</ags:creatorPersonal>
+<ags:creatorPersonal>Padilla, C. (Instituto de Ciencia Animal, San Jose de las Lajas, La Habana (Cuba))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Graphs; 16 ref. Summary (Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7501359</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Revista Cubana de Ciencia Agricola (Cuba)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0034-7485</ags:citationIdentifier>
+<ags:citationNumber>v. 8(2) p. 201-209</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400374">
+<dc:title xml:lang="en">[Planning of bean culture in Costa Rica (1974-1979)[Phaseolus, statistics]]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Ministerio de Agricultura y Ganaderia, San Jose (Costa Rica). Direccion de Planeamiento y Coordinacion</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>MAG</ags:publisherName>
+<ags:publisherPlace>San Jose (Costa Rica)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Aug 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E30</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:format><dcterms:extent>76 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400374</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Serie Documento de Estudio - Ministerio de Agricultura y Ganaderia (Costa Rica)</ags:citationTitle>
+<ags:citationNumber>no.2</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7500818">
+<dc:title xml:lang="en">[A study on weed competition in corn (Zea mays L.) culture, 2: Effect of the weeds on corn nutrition]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Blanco, H.G.</ags:creatorPersonal>
+<ags:creatorPersonal>Oliveira, D.A. (Instituto Biologico, Sao Paulo, SP (Brazil))</ags:creatorPersonal>
+<ags:creatorPersonal>Haag, H.P. (Escola Superior de Agricultura Luiz de Queiroz, Piracicaba, SP (Brazil). Dept. de Quimica)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H60</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Graphs, tables; 17 ref. Summaries (En, Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7500818</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Arquivos do Instituto Biologico (Brazil)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0020-3653</ags:citationIdentifier>
+<ags:citationNumber>v. 41(1) p. 5-14</ags:citationNumber>
+<ags:citationChronology>(Jan 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7501380">
+<dc:title xml:lang="en">[A contribution to the study of cardiac bone in cattle of the Gir breed]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Borelli, V.</ags:creatorPersonal>
+<ags:creatorPersonal>Boccaletti, D.</ags:creatorPersonal>
+<ags:creatorPersonal>Albuquerque, J.F.G. de (Faculdade de Medicina Veterinaria e Agronomia de Jaboticabal ''Prof. Antonio Ruete'', SP (Brazil))</ags:creatorPersonal>
+<ags:creatorConference>28. Conferencia Anual da Sociedade Paulista de Medicina Veterinaria, Sao Paulo (Brazil), 9 Sep 1973</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L40</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 21 ref. Summaries (En, Pt)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7501380</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Cientifica (Brazil)</ags:citationTitle>
+<ags:citationNumber>v. 1(1) p. 58-68</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7502889">
+<dc:title xml:lang="en">[Market research and marketing of Porkers in the Argentine Republic]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Macias, E.M.</ags:creatorPersonal>
+<ags:creatorCorporate>Universidad de Buenos Aires (Argentina). Facultad de Agronomia</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>9 graphs, 10 charts, 2 tables; 22 ref. *Biblioteca Central, Facultad de Agronomia, Universidad de Buenos Aires (Argentina)</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>1 v.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7502889</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="IF7502637">
+<dc:title xml:lang="en">[Effect of urea spray on the yield, chemical composition and digestibility of pangola grass [Digitaria decumbens] and A-24 grass [Digitaria pentzii]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Rodriguez-Carrasquel, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Chicco, C.F.</ags:creatorPersonal>
+<ags:creatorPersonal>Chacon, E. (Centro Nacional de Investigaciones Agropecuarias, Maracay (Venezuela). Inst. de Investigaciones Zootecnicas)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables; 29 ref. Summaries (En, Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7502637</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agronomia Tropical (Venezuela)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0002-192X</ags:citationIdentifier>
+<ags:citationNumber>v. 24(3) p. 183-192</ags:citationNumber>
+<ags:citationChronology>(May 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400622">
+<dc:title xml:lang="en">[Effects of foliar applications of urea on different stages of newly sown pangola grass [Digitaria decumbens]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Crespo, G.</ags:creatorPersonal>
+<ags:creatorPersonal>Perez, J. (Instituto de Ciencia Animal, San Jose de las Lajas (Cuba))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Graphs, tables; 6 ref. Summary (Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400622</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Revista Cubana de Ciencias Agricolas (Cuba)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0034-7485</ags:citationIdentifier>
+<ags:citationNumber>v. 8(1) p. 101-104</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7504148">
+<dc:title xml:lang="en">[The role of rural sociologist in the development]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Urzua, R. (Universidad Catolica de Chile, Santiago. Inst. de Sociologia)</ags:creatorPersonal>
+<ags:creatorConference>Consulta de Expertos en la Ensenanza e Investigacion en Sociologia Rural en America Latina, Sao Paulo (Brazil), 27 Nov 1972</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>IICA</ags:publisherName>
+<ags:publisherPlace>Rio de Janeiro (Brazil)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1973</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7504148</ags:availabilityNumber></agls:availability>
+<dc:source>[Teaching and research in rural sociology in Latin America], Diaz Bordenave, J. (ed.).- Rio de Janeiro (Brazil): IICA, 1973. p. 1-9</dc:source>
+<ags:citation><ags:citationTitle>Informes de Conferencias, Cursos y Reuniones (IICA)</ags:citationTitle>
+<ags:citationNumber>no. 14</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7502019">
+<dc:title xml:lang="en">[Identification of pepper mosaic virus in Capsicum annuum L.]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Granillo, C.R. (Universidad de El Salvador, San Salvador. Facultad de Ciencias Agronomicas)</ags:creatorPersonal>
+<ags:creatorPersonal>Anaya, M. (Centro Nacional de Tecnologia Agropecuaria, Santa Tecla (El Salvador). Dept. de Parasitologia)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 20 ref. Summary (Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7502019</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>SIADES (El Salvador)</ags:citationTitle>
+<ags:citationTitle>Sociedad de Ingenieros Agronomos de El Salvador</ags:citationTitle>
+<ags:citationNumber>v. 3(3) p. 71-75</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7502571">
+<dc:title xml:lang="en">[Collecting seeds of insigne pine (Pinus radiata D. Don) for obtaining better plantations [Chile]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Smith V, N. (Instituto Forestal, Santiago (Chile))</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>Instituto Forestal</ags:publisherName>
+<ags:publisherPlace>Santiago (Chile)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>2 graphs; 4 ref. Summaries (En, Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>17 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7502571</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Nota Tecnica - Instituto Forestal (Chile)</ags:citationTitle>
+<ags:citationNumber>(no. 20)</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7501919">
+<dc:title xml:lang="en">[Estrogenic activity in legumes and its alteration due to rumen fermentation [clover, alfalfa, cattle]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hirsch-Reinshagen, P.</ags:creatorPersonal>
+<ags:creatorPersonal>Lara, C.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Graphs; 6 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7501919</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Ciencia e Investigacion Agraria (Chile)</ags:citationTitle>
+<ags:citationNumber>v. 1(2) p. 117-120</ags:citationNumber>
+<ags:citationChronology>(Apr 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7501354">
+<dc:title xml:lang="en">[Limited sucking, 4: Development of parasite infestation in calves under different rearing systems [Bronquitis verminosa]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ugarte, J. (Finca El Pilar, Bauta, La Habana (Cuba))</ags:creatorPersonal>
+<ags:creatorPersonal>Prieto, R. (Laboratorio Central de Diagnostico Veterinario, Arroyo Arenas, La Habana (Cuba))</ags:creatorPersonal>
+<ags:creatorPersonal>Preston, T.R. (Instituto de Ciencia Animal, San Jose de las Lajas, La Habana (Cuba))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L72</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables; 22 ref. Summary (Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7501354</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Revista Cubana de Ciencia Agricola (Cuba))</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0034-7485</ags:citationIdentifier>
+<ags:citationNumber>v. 8(2) p. 149-154</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400533">
+<dc:title xml:lang="en">[Teaching of cattle farm management]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Robayo B, A. (Universidad Nacional de Colombia, Bogota. Facultad de Medicina Veterinaria y Zootecnia)</ags:creatorPersonal>
+<ags:creatorConference>Seminario Regional para Profesores de Zootecnia en el Area de la Economia, Maracaibo (Venezuela), 6 May 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>IICA</ags:publisherName>
+<ags:publisherPlace>Caracas (Venezuela)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">C00</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400533</ags:availabilityNumber></agls:availability>
+<dc:source>[Regional Seminar in Economics for Professors Teaching Animal Production [Latin America]], Zulia Univ., Maracaibo (Venezuela). Facultad de Agronomia; Inter-American Inst. of Agricultural Sciences, Caracas (Venezuela). Andean Zone.- Caracas (Venezuela): IICA, 1974. vp.</dc:source>
+<ags:citation><ags:citationTitle>Serie Informes de Conferencias, Cursos y Reuniones - Inter-American Inst. of Agricultural Sciences (IICA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0301-5378</ags:citationIdentifier>
+<ags:citationNumber>no. 35</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400489">
+<dc:title xml:lang="en">[Teaching of economics in connection with domestic animal production [Peru]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sarria Garcia, M. (Universidad Nacional Agraria La Molina, Lima (Peru))</ags:creatorPersonal>
+<ags:creatorConference>Seminario Regional para Profesores de Zootecnia en el Area de la Economia, Maracaibo (Venezuela), 6 May 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>IICA</ags:publisherName>
+<ags:publisherPlace>Caracas (Venezuela)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">C00</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400489</ags:availabilityNumber></agls:availability>
+<dc:source>[Regional Seminar in Economics for Professors Teaching Animal Production [Latin America]], Zulia Univ., Maracaibo (Venezuela). Facultad de Agronomia; Inter-American Inst. of Agricultural Sciences, Caracas (Venezuela). Andean Zone.- Caracas (Venezuela): IICA, 1974. vp.</dc:source>
+<ags:citation><ags:citationTitle>Serie Informes de Conferencias, Cursos y Reuniones - Inter-American Inst. of Agricultural Sciences (IICA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0301-5378</ags:citationIdentifier>
+<ags:citationNumber>no. 35</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400540">
+<dc:title xml:lang="en">[Distemper in minks caused by a vaccinal virus]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Menchaca, E.S.</ags:creatorPersonal>
+<ags:creatorPersonal>Martin, A.M.</ags:creatorPersonal>
+<ags:creatorPersonal>Moras, E.V.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>15 ref. Summaries (En, Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400540</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Revista de Medicina Veterinaria (Argentina)</ags:citationTitle>
+<ags:citationNumber>v. 55(33) p. 241-244, 247-249</ags:citationNumber>
+<ags:citationChronology>(May 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7501745">
+<dc:title xml:lang="en">The broiler industry in Trinidad and Tobago 1969-1971</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kalloo, F.</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>Central Statistical Office</ags:publisherName>
+<ags:publisherPlace>Port of Spain (Trinidad and Tobago)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Illus., graphs, tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:format><dcterms:extent>38 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7501745</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400509">
+<dc:title xml:lang="en">[9. Agricultural exposition in the State of Apure, San Fernando, March 28-31, 1974 [Venezuela]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Osorio K, C.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400509</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Revista Protinal (Venezuela)</ags:citationTitle>
+<ags:citationNumber>v. 20(4) p. 156-157</ags:citationNumber>
+<ags:citationChronology>(Apr 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400623">
+<dc:title xml:lang="en">[Effect of different forage diets on the biology of Spodoptera frugiperda Smith (Lepidoptera Noctuidae)]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Piedra, F. (Instituto de Ciencia Animal, San Jose de las Lajas (Cuba))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables; 6 ref. Summary (Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400623</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Revista Cubana de Ciencias Agricolas (Cuba)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0034-7485</ags:citationIdentifier>
+<ags:citationNumber>v. 8(1) p. 105-109</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7503603">
+<dc:title xml:lang="en">[A study on peasants' organisations in Honduras]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Garcia, N.A. (IICA, Tegucigalpa (Honduras))</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>IICA</ags:publisherName>
+<ags:publisherPlace>Tegucigalpa (Honduras)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Apr 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>11 ref. Received at CIDIA 1975. *Biblioteca Secretaria de Recursos Naturales, Tegucigalpa (Honduras)</ags:descriptionNotes>
+</dc:description>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>87 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7503603</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="IF7503055">
+<dc:title xml:lang="en">[Alterations of domestic animals exposed to altitude]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sanchez, O.</ags:creatorPersonal>
+<ags:creatorPersonal>Romero, J.J.</ags:creatorPersonal>
+<ags:creatorConference>4. Reunion del Programa Regional Cooperativo de los Andes Altos, Pasto (Colombia), 26 May 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>IICA</ags:publisherName>
+<ags:publisherPlace>Pasto (Colombia)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L20</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>4 tables; 15 ref. Summary (Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7503055</ags:availabilityNumber></agls:availability>
+<dc:source>[Fourth meeting of the Cooperative Regional Program of High Andes. Pasto, Narino, Colombia May 26-31, 1974], IICA, Bogota (Colombia); Universidad de Narino, Pasto (Colombia).- Pasto (Colombia): IICA, 1974. p. 201-222</dc:source>
+<ags:citation><ags:citationTitle>Serie de Reuniones, Cursos y Conferencias (IICA)</ags:citationTitle>
+<ags:citationNumber>no. 54</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400802">
+<dc:title xml:lang="en">[Support of the Inter-American Institute of Agricultural Sciences in animal production research]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ruiz, M. (Centro Agronomico Tropical de Investigacion y Ensenanza, Turrialba (Costa Rica). Dept. de Ganaderia Tropical)</ags:creatorPersonal>
+<ags:creatorConference>2. Reunion Regional de Ganaderia y Pasturas, Maracaibo (Venezuela), 22 Oct 1973</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>IICA</ags:publisherName>
+<ags:publisherPlace>Caracas (Venezuela)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus., tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400802</ags:availabilityNumber></agls:availability>
+<dc:source>[2. Regional Meeting on Animal Husbandry and Pastures], Ministerio de Agricultura y Cria, Caracas (Venezuela); Zulia Univ., Maracaibo (Venezuela). Facultad de Agronomia; Inter-American Inst. of Agricultural Sciences, Caracas (Venezuela). Andean Zone.- Caracas (Venezuela): IICA, 1974. p. 4C1-4C18</dc:source>
+<ags:citation><ags:citationTitle>Serie Informes de Conferencias, Cursos y Reuniones - Inter-American Inst. of Agricultural Sciences (IICA)</ags:citationTitle>
+<ags:citationNumber>no. 24</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400736">
+<dc:title xml:lang="en">[The border zone of the Departamento de Valle and its rural development [Honduras]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ramos N, G.F.</ags:creatorPersonal>
+<ags:creatorCorporate>Universidad Nacional Autonoma de Honduras, Tegucigalpa. Centro Universitario Regional del Litoral Atlantico. Carrera de Ciencias Agricolas</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>Universidad Nacional Autonoma de Honduras</ags:publisherName>
+<ags:publisherPlace>Tegucigalpa (Honduras)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">C00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Tables; Map., 4 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>64 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400736</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="IF7503610">
+<dc:title xml:lang="en">[Venezuelan bibliography on leguminous grains]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Barrios G, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Ramos V, D.</ags:creatorPersonal>
+<ags:creatorCorporate>Ministerio de Agricultura y Cria, Caracas (Venezuela). Oficina de Comunicaciones Agricolas</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>MAG</ags:publisherName>
+<ags:publisherPlace>Maracay (Venezuela)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1973</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">U20</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Received at CIDIA 1975</ags:descriptionNotes>
+</dc:description>
+<dc:type>Z</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>44 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7503610</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400192">
+<dc:title xml:lang="en">Bionomics of black flies (Diptera: Simuliidae) in Costa Rica, 4: Localization and description of collecting places</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Vargas V, M. (Costa Rica Univ., San Jose. Facultad de Microbiologia, Dept. de Parasitologia)</ags:creatorPersonal>
+<ags:creatorPersonal>Travis, B.V.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1973)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L72</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Graphs, tables; summaries (En, Es); Received at IICA/CIDIA in 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400192</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Revista de Biologia Tropical (Costa Rica)</ags:citationTitle>
+<ags:citationNumber>v. 21(1) p. 143-175</ags:citationNumber>
+<ags:citationChronology>(Jul 1973)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400206">
+<dc:title xml:lang="en">The genus Eichhornia (Pontederiaceae) in Venezuela</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Agostini, G. (Ministerio de Agricultura y Cria, Caracas (Venezuela). Inst. Botanico)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F70</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400206</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Acta Botanica Venezuelica (Venezuela)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">084-5906</ags:citationIdentifier>
+<ags:citationNumber>v. 9(1-4) p. 303-310</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7501353">
+<dc:title xml:lang="en">[Limited hay or grazing as forage source for Holstein calves fed with molasses/urea]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ugarte, J. (Finca El Pilar, Bauta, La Habana (Cuba))</ags:creatorPersonal>
+<ags:creatorPersonal>Preston, T.R. (Instituto de Ciencia Animal, San Jose de las Lajas, La Habana (Cuba))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables; 11 ref. Summary (Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7501353</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Revista Cubana de Ciencia Agricola (Cuba))</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0034-7485</ags:citationIdentifier>
+<ags:citationNumber>v. 8(2) p. 155-159</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400018">
+<dc:title xml:lang="en">Preliminary observations on Acromyrmex landolti (For.) and Atta laevigata (Fr. Smith) as pasture pest in Guyana</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Cherrett, J.M.</ags:creatorPersonal>
+<ags:creatorPersonal>Pollard, G.V.</ags:creatorPersonal>
+<ags:creatorPersonal>Turner, J.A.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>11 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400018</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Tropical Agriculture (Trinidad and Tobago)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0041-3216</ags:citationIdentifier>
+<ags:citationNumber>v. 51(1) p. 69-74</ags:citationNumber>
+<ags:citationChronology>(Jan 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7501361">
+<dc:title xml:lang="en">[Response of six grass species to increasing levels of nitrogen fertilization [yields]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Crespo, G. (Instituto de Ciencia Animal, San Jose de las Lajas, La Habana (Cuba))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Graphs, tables; 32 ref. Summary (Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7501361</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Revista Cubana de Ciencia Agricola (Cuba)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0034-7485</ags:citationIdentifier>
+<ags:citationNumber>v. 8(2) p. 181-193</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7502015">
+<dc:title xml:lang="en">[Pteridophyta in the province of Misiones [Argentina]; Schizaeaceae]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Capurro, R.H. (Museo Argentino de Ciencias Naturales ''Bernardino Rivadavia'', Buenos Aires. Dept. de Botanica)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jun 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F70</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 25 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7502015</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Revista del Museo Argentino de Ciencias Naturales ''Bernardino Rivadavia'' e Instituto de Investigacion de las Ciencias Naturales. Botanica (Argentina)</ags:citationTitle>
+<ags:citationNumber>v. 4(5) p. 361-391</ags:citationNumber>
+<ags:citationChronology>(Jun 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7502635">
+<dc:title xml:lang="en">[Accumulation of nitrogen, phosphorus, potassium, calcium and magnesium by some lines of corn]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ramirez, R.</ags:creatorPersonal>
+<ags:creatorPersonal>Obregon G, P. (Centro Nacional de Investigaciones Agropecuarias, Maracay (Venezuela))</ags:creatorPersonal>
+<ags:creatorConference>5. Simposio Latinoamericano de Fisiologia Vegetal, Maracay (Venezuela), 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables; 9 ref. Summaries (En, Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7502635</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agronomia Tropical (Venezuela)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0002-192X</ags:citationIdentifier>
+<ags:citationNumber>v. 24(4) p. 335-348</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7502935">
+<dc:title xml:lang="en">[Breeding of half-bred zebu bulls with heifers of British origin [Argentina]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Carrazzoni, J.A.</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>Hemisferio Sur</ags:publisherName>
+<ags:publisherPlace>Buenos Aires (Argentina)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7502935</ags:availabilityNumber></agls:availability>
+<dc:source>[Subtropical livestock in Argentina: experiences with cattle].- Buenos Aires (Argentina): Hemisferio Sur, 1974. p. 157-161</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400313">
+<dc:title xml:lang="en">[Additions to the flora of marine macro-algae in Venezuela]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Rodriguez de Rios, N. (Universidad Central de Venezuela, Caracas. Facultad de Ciencias. Escuela de Biologia)</ags:creatorPersonal>
+<ags:creatorPersonal>Gonzalez, A. (Universidad Central de Venezuela, Maracay. Facultad de Agronomia. Departamento de Botanica Agricola)</ags:creatorPersonal>
+<ags:creatorConference>2. Congreso Venezolano de Botanica, Merida (Venezuela), 26 Jun 1972</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>Talleres Graficos Universitarios</ags:publisherName>
+<ags:publisherPlace>Merida (Venezuela)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F70</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus. 5 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400313</ags:availabilityNumber></agls:availability>
+<dc:source>[Report on the 2nd Venezuelan Congress in Botany], Universidad de Los Andes, Merida (Venezuela).- Merida (Venezuela): Talleres Graficos Universitarios, 1974. p. 80-84</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400659">
+<dc:title xml:lang="en">[Brief notes on exploitation and reservation of non-renewable resources [Mexico]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Salas, G.P.</ags:creatorPersonal>
+<ags:creatorConference>Mesas Redondas sobre Desarrollo y Ecologia, Mexico City, 5 Nov 1973</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>Editorial Libros de Mexico</ags:publisherName>
+<ags:publisherPlace>Mexico City</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">P00</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400659</ags:availabilityNumber></agls:availability>
+<dc:source>[Round Tables on Ecology and Development [Mexico]], Instituto Mexicano de Recursos Naturales Renovables, Mexico City.- Mexico City: Editorial Libros de Mexico, 1974. p. 39-68</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400605">
+<dc:title xml:lang="en">[A study of rice production costs in the South Pacific region, Parrita zone, 30 farms, April-December 1973 [Costa Rica]]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Ministerio de Agricultura y Ganaderia, San Jose (Costa Rica). Direccion de Planeamiento Agropecuario. Dept. de Economia y Estadisticas Agropecuarias</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>MAG</ags:publisherName>
+<ags:publisherPlace>San Jose (Costa Rica)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>31 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400605</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Boletin Tecnico - Ministerio de Agricultura y Ganaderia, Dept. de Economia y Estadisticas Agropecuarias (Costa Rica)</ags:citationTitle>
+<ags:citationNumber>no. 20</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7504138">
+<dc:title xml:lang="en">[Development indicators: methodology in social diagnosis]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Clifford, R. (IICA, Guatemala City)</ags:creatorPersonal>
+<ags:creatorConference>Consulta de Expertos en la Ensenanza e Investigacion en Sociologia Rural en America Latina, Sao Paulo (Brazil), 27 Nov 1972</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>IICA</ags:publisherName>
+<ags:publisherPlace>Rio de Janeiro (Brazil)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1973</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7504138</ags:availabilityNumber></agls:availability>
+<dc:source>[Teaching and research in rural sociology in Latin America], Diaz Bordenave, J. (ed.).- Rio de Janeiro (Brazil): IICA, 1973. p. 99-117</dc:source>
+<ags:citation><ags:citationTitle>Informes de Conferencias, Cursos y Reuniones (IICA)</ags:citationTitle>
+<ags:citationNumber>no. 14</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7504146">
+<dc:title xml:lang="en">[Some observations on the social demand of technology in Latin American agriculture]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Dominguez, O. (Universidad Austral de Chile, Santiago. Facultad de Medicina Veterinaria)</ags:creatorPersonal>
+<ags:creatorConference>Consulta de Expertos en la Ensenanza e Investigacion en Sociologia Rural en America Latina, Sao Paulo (Brazil), 27 Nov 1972</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>IICA</ags:publisherName>
+<ags:publisherPlace>Rio de Janeiro (Brazil)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1973</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7504146</ags:availabilityNumber></agls:availability>
+<dc:source>[Teaching and research in rural sociology in Latin America], Diaz Bordenave, J. (ed.).- Rio de Janeiro (Brazil): IICA, 1973. p. 17-25</dc:source>
+<ags:citation><ags:citationTitle>Informes de Conferencias, Cursos y Reuniones (IICA)</ags:citationTitle>
+<ags:citationNumber>no. 14</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7500768">
+<dc:title xml:lang="en">[Effects of high dosages of gamma radiation on the longevity of adults of Callosobruchus maculatus (Fabr. 1792) (Coleoptera, Bruchidae) [cowpla weevil]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Walder, J.M.M.</ags:creatorPersonal>
+<ags:creatorPersonal>Wiendl, F.M.</ags:creatorPersonal>
+<ags:creatorCorporate>Centro de Energia Nuclear na Agricultura, Piracicaba, SP (Brazil); Escola Superior de Agricultura ''Luiz de Queiroz'', Piracicaba, SP (Brazil)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>CENA</ags:publisherName>
+<ags:publisherPlace>Piracicaba (Brazil)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Jan 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Graphs, tables; 5 ref. Summaries (En, Pt)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:format><dcterms:extent>11 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7500768</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Boletim Cientifico - Centro de Energia Nuclear na Agricultura (Brazil)</ags:citationTitle>
+<ags:citationNumber>no. 13</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7501665">
+<dc:title xml:lang="en">[Soil and water salinity; reclamation of saline and sodic soils]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Colmenares Mora, J.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F26</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Graphs</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7501665</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Arroz (Colombia)</ags:citationTitle>
+<ags:citationNumber>v. 23(249) p. 7-17, 26</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400631">
+<dc:title xml:lang="en">[Paulo da Cunha Nobrega: curriculum vitae [Biologist, Brazil, 1907-1974]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Anon.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">B50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L40</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400631</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Biologico (Brazil)</ags:citationTitle>
+<ags:citationNumber>v. 40(3) p. 84-89</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7501351">
+<dc:title xml:lang="en">[Maturation of soybean seeds [Glycine max L. Merrill)]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Jacintho, J.B.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Carvalho, N.M. de (Faculdade de Medicina Veterinaria e Agronomia de Jaboticabal ''Prof. Antonio Ruete'', SP (Brazil))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Graphs, tables; 13 ref. Summaries (En, Pt)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7501351</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Cientifica (Brazil)</ags:citationTitle>
+<ags:citationNumber>v. 1(1) p. 81-88</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7501959">
+<dc:title xml:lang="en">[Characteristics, properties and uses of 104 woods from the Altos Llanos Occidentales [Venezuela]]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Ministerio de Agricultura y Cria, Caracas (Venezuela); Universidad de los Andes, Merida (Venezuela); Laboratorio Nacional de Productos Forestales, Merida (Venezuela)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>LNPF</ags:publisherName>
+<ags:publisherPlace>Merida (Venezuela)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F50</ags:subjectClassification>
+</dc:subject>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>106 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7501959</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400417">
+<dc:title xml:lang="en">[Beekeeping, honey extraction. 6: Installations and equipment]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Anon.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400417</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Tierra (Mexico)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0040-733X</ags:citationIdentifier>
+<ags:citationNumber>v. 29(2) p. 108-113</ags:citationNumber>
+<ags:citationChronology>(Feb 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7503072">
+<dc:title xml:lang="en">[Land reform and redistribution of the population in Paraguay]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ramirez, M.A. (Instituto de Bienestar Rural, Asuncion (Paraguay))</ags:creatorPersonal>
+<ags:creatorConference>5. Reunion Interamericana de Ejecutivos de Reforma Agraria, Asuncion (Paraguay), 30 Sep 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>IICA</ags:publisherName>
+<ags:publisherPlace>Asuncion (Paraguay)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 tables</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">VREA--4/2</dc:identifier>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7503072</ags:availabilityNumber></agls:availability>
+<dc:source>[Fifth interamerican meeting of land reform executives], IICA, Asuncion (Paraguay); Instituto de Bienestar Rural, Asuncion (Paraguay).- Asuncion (Paraguay): IICA, 1974. p. 1-17</dc:source>
+<ags:citation><ags:citationTitle>Serie de Reuniones, Cursos y Conferencias (IICA)</ags:citationTitle>
+<ags:citationNumber>no. 53</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400109">
+<dc:title xml:lang="en">Milk production in agricultural settlements [Venezuela]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Gunz, T. (Universidad de Oriente, Jusepin (Venezuela). Escuela de Zootecnia)</ags:creatorPersonal>
+<ags:creatorConference>Seminario sobre la Produccion de Leche en Venezuela, Maracaibo (Venezuela), 14 Mar 1973</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>Editorial Sucre</ags:publisherName>
+<ags:publisherPlace>Caracas (Venezuela)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Feb 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E30</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400109</ags:availabilityNumber></agls:availability>
+<dc:source>Seminar on milk production in Venezuela, Consejo Nacional de Investigaciones Agricolas, Caracas (Venezuela). Comision de Ganaderia.- Caracas (Venezuela): Editorial Sucre, Feb 1974. p. 409-434</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="IF7501413">
+<dc:title xml:lang="en">[Fishing, results of revenue incentives [Brazil, economy, policies]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kogut, E.L.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7501413</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Conjuntura Economica (Brazil)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0010-5945</ags:citationIdentifier>
+<ags:citationNumber>v. 28(4) p. 91-95</ags:citationNumber>
+<ags:citationChronology>(Apr 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400498">
+<dc:title xml:lang="en">[Communal enterprises as an alternative of social-economic structure]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Araujo, J.E.G. (Inter-American Inst. of Agricultural Sciences, San Jose (Costa Rica))</ags:creatorPersonal>
+<ags:creatorConference>9. Reunion Latinoamericana de Fitotecnia, Panama City, 10 Mar 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>ALAF</ags:publisherName>
+<ags:publisherPlace>Panama City</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400498</ags:availabilityNumber></agls:availability>
+<dc:source>[Preliminary report 9. Latin American Meeting on Plant Production], Asociacion Latinoamericano de Fitotecnia, Caracas (Venezuela). Secretaria Ejecutiva.- Panama City: ALAF, 1974. p. 4D1-4D7</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="IF7501430">
+<dc:title xml:lang="en">[Wood production in natural forests of Santa Cruz [Bolivia]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hinojosa Tapia, G.</ags:creatorPersonal>
+<ags:creatorPersonal>Pedrazas Arze, H.</ags:creatorPersonal>
+<ags:creatorCorporate>Ministerio de Asuntos Campesinos y Agropecuarios, Santa Cruz (Bolivia). Direccion Departamental. Distrito de Recursos Forestales</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>MACA</ags:publisherName>
+<ags:publisherPlace>Santa Cruz (Bolivia)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Tables; List of ''Empresas Madereras'' *Biblioteca de Asuntos Campesinos y Agropecuarios, La Paz (Bolivia)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>47 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7501430</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="IF7500345">
+<dc:title xml:lang="en">[Flours of plant origin; sampling [Central American standard]]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Instituto Centroamericano de Investigacion y Tecnologia Industrial, Guatemala City</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>ICAITI</ags:publisherName>
+<ags:publisherPlace>Guatemala City</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Apr 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Illus., tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>5 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7500345</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Norma Centroamericana - Instituto Centroamericano de Investigacion y Tecnologia Industrial (ICAITI)</ags:citationTitle>
+<ags:citationNumber>34 087</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400423">
+<dc:title xml:lang="en">Soil erosion on three Tobago soils [Trinidad and Tobago]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ahmad, N.</ags:creatorPersonal>
+<ags:creatorPersonal>Breckner, E. (West Indies Univ., St. Augustine (Trinidad and Tobago). Dept. of Soil Science)</ags:creatorPersonal>
+<ags:creatorConference>Caribbean and Tropical American Soil Science Conference, St. Augustine (Trinidad and Tobago), 7 Jan 1973</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F28</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus., tables; 16 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400423</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Tropical Agriculture (Trinidad and Tobago)</ags:citationTitle>
+<ags:citationNumber>v. 51(2) p. 313-324</ags:citationNumber>
+<ags:citationChronology>(Apr 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7502017">
+<dc:title xml:lang="en">[Utilization of granulated systemic insecticides in the control of whitefly Bemisia tabaci Genn., and virus infection in beans]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Mancia, J.E. (Universidad de El Salvador. San Salvador. Facultad de Ciencias Agronomicas. Dept. de Parasitologia Vegetal)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables; 5 ref. Summary (Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7502017</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>SIADES (El Salvador)</ags:citationTitle>
+<ags:citationTitle>Sociedad de Ingenieros Agronomos de El Salvador</ags:citationTitle>
+<ags:citationNumber>v. 3(3) p. 77-81</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400492">
+<dc:title xml:lang="en">[Planning and development of cattle production]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Penaherrera G, M. (Universidad Central del Ecuador, Quito)</ags:creatorPersonal>
+<ags:creatorConference>Seminario Regional para Profesores de Zootecnia en el Area de la Economia, Maracaibo (Venezuela), 6 May 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>IICA</ags:publisherName>
+<ags:publisherPlace>Caracas (Venezuela)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>7 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400492</ags:availabilityNumber></agls:availability>
+<dc:source>[Regional Seminar in Economics for Professors Teaching Animal Production [Latin America]], Zulia Univ., Maracaibo (Venezuela). Facultad de Agronomia; Inter-American Inst. of Agricultural Sciences, Caracas (Venezuela). Andean Zone.- Caracas (Venezuela): IICA, 1974. vp.</dc:source>
+<ags:citation><ags:citationTitle>Serie Informes de Conferencias, Cursos y Reuniones - Inter-American Inst. of Agricultural Sciences (IICA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0301-5378</ags:citationIdentifier>
+<ags:citationNumber>no. 35</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7500348">
+<dc:title xml:lang="en">[Flours of plant origin; qualitative and quantitative method for determination of potassium bromate in bleached and integral fluors [Central American standard]]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Instituto Centroamericano de Investigacion y Tecnologia Industrial, Guatemala City</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>ICAITI</ags:publisherName>
+<ags:publisherPlace>Guatemala City</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Mar 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>7 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7500348</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Norma Centroamericana - Instituto Centroamericano de Investigacion y Tecnologia Industrial (ICAITI)</ags:citationTitle>
+<ags:citationNumber>34 086 h10</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7500356">
+<dc:title xml:lang="en">[Apricot marmalade [Characteristics and requirements for processing, Central American standard]]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Instituto Centroamericano de Investigacion y Tecnologia Industrial, Guatemala City</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>ICAITI</ags:publisherName>
+<ags:publisherPlace>Guatemala City</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Jan 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>7 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7500356</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Norma Centroamericana - Instituto Centroamericano de Investigacion y Tecnologia Industrial (ICAITI)</ags:citationTitle>
+<ags:citationNumber>34 062</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7501420">
+<dc:title xml:lang="en">[Evolution and land reform in Chuquisaca and Potosi [Bolivia]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Barnes de Marschall, K.</ags:creatorPersonal>
+<ags:creatorCorporate>Consejo Nacional de Reforma Agraria, La Paz (Bolivia). Dept. Socio-Economico</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>Servicio Nacional de Reforma Agraria</ags:publisherName>
+<ags:publisherPlace>La Paz (Bolivia)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Graphs, tables; 12 ref. *Biblioteca de Asuntos Campesinos y Agropecuarios, La Paz (Bolivia)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>152 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7501420</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="IF7500106">
+<dc:title xml:lang="en">[Out of type plants in sorghum crops [breeding]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Parodi, R.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Scantamburlo, J.L. (Instituto Nacional de Tecnologia Agropecuaria, Manfredi, Cordoba (Argentina). Estacion Experimental Agropecuaria)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7500106</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Gaceta Agricola (Mexico)</ags:citationTitle>
+<ags:citationNumber>v. 18(459) p. 7, 20-21</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7501456">
+<dc:title xml:lang="en">[Nutrient absorption rate in grapevine during vegetative cycle]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Callejas Miranda, E.</ags:creatorPersonal>
+<ags:creatorCorporate>Universidad Catolica de Chile, Santiago. Facultad de Agronomia</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>UCCH</ags:publisherName>
+<ags:publisherPlace>Santiago (Chile)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Graphs, tables; 17 ref. Summaries (En, Es) *Biblioteca Instituto de Investigaciones Agropecuarias, Santiago (Chile)</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>23 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7501456</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="IF7501908">
+<dc:title xml:lang="en">[The use of lignin, silica and acid-detergent fiber as indicators for predicting forage grasses intake [beef and dairy cattle]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Olivo Filippe, R.R.</ags:creatorPersonal>
+<ags:creatorCorporate>Universidad de Costa Rica, San Jose. Facultad de Agronomia</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>UCR</ags:publisherName>
+<ags:publisherPlace>San Jose (Costa Rica)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">U10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Graphs., tables; Bibliography (75 ref.). Summary (Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>Z</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>39 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7501908</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400446">
+<dc:title xml:lang="en">[Ficus anthelmintica Mart. [Medicinal tree, Peru]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Anon.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F70</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400446</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Biota (Peru)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0006-3584</ags:citationIdentifier>
+<ags:citationNumber>v. 10(77) p. 34-40</ags:citationNumber>
+<ags:citationChronology>(Jan 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7503096">
+<dc:title xml:lang="en">[Summary [table] of credit line of the Rotary Fund [National Federation of Coffee Growers, Colombia]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Anon.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7503096</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Revista Cafetera de Colombia (Colombia)</ags:citationTitle>
+<ags:citationNumber>v. 23(157) p. 71-77</ags:citationNumber>
+<ags:citationChronology>(Jan 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7502026">
+<dc:title xml:lang="en">[Palatability and production of eight varieties of the elephant grass]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Pacola, L.J.</ags:creatorPersonal>
+<ags:creatorPersonal>Loma, F.P. (Instituto de Zootecnia, Sao Paulo, SP (Brazil). Div. de Zootecnia de Bovinos de Corte)</ags:creatorPersonal>
+<ags:creatorPersonal>Campos, B. do E.S. de (Instituto de Zootecnia, Sao Paulo, SP (Brazil). Div. de Tecnica Basica e Auxiliar)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jun 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F40</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables; 15 ref. Summaries (En, Pt)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7502026</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Boletim de Industria Animal (Brazil)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0067-9615</ags:citationIdentifier>
+<ags:citationNumber>v. 31(1) p. 91-96</ags:citationNumber>
+<ags:citationChronology>(Jun 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400157">
+<dc:title xml:lang="en">Glossary of scientific terms used in codes and descriptions of vascular plants; English-Spanish</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Clewell, A.F.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F70</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>14 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>L</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400157</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Ceiba (Honduras)</ags:citationTitle>
+<ags:citationNumber>v. 18(1-2) p. 77-94</ags:citationNumber>
+<ags:citationChronology>(Apr 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400121">
+<dc:title xml:lang="en">Pinamerpa, a new variety of beans for the area of Aguascalientes [Mexico]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ochoa M, R.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus., tables; 4 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400121</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agricultura Tecnica en Mexico (Mexico)</ags:citationTitle>
+<ags:citationNumber>v. 3(8) p. 283-285</ags:citationNumber>
+<ags:citationChronology>(Jan 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7500988">
+<dc:title xml:lang="en">[Annual report, 1973-1974 [Tropical Agricultural Research and Training Center, Turrialba (Costa Rica)]]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Centro Agronomico Tropical de Investigacion y Ensenanza, Turrialba (Costa Rica)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>CATIE</ags:publisherName>
+<ags:publisherPlace>Turrialba (Costa Rica)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Jun 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">A00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E30</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">D10</ags:subjectClassification>
+</dc:subject>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>116 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7500988</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Memoria Anual - Centro Agronomico Tropical de Investigacion y Ensenanza (Costa Rica)</ags:citationTitle>
+<ags:citationNumber>1973-1974</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7400789">
+<dc:title xml:lang="en">[Blood picture of mixed cattle, especially zebu produced in the Vale do Ribeira, Sao Paulo State [Brazil]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Reichmann, C.E.</ags:creatorPersonal>
+<ags:creatorPersonal>D'Angelino, J.L.</ags:creatorPersonal>
+<ags:creatorPersonal>Araujo, W.P. de</ags:creatorPersonal>
+<ags:creatorPersonal>Araujo, L.M. de</ags:creatorPersonal>
+<ags:creatorPersonal>Birgel, E.H. (Sao Paulo Univ. (Brazil). Faculdade de Medicina Veterinaria e Zootecnia)</ags:creatorPersonal>
+<ags:creatorPersonal>Moraes, W.F.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L70</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables; Map., 5 ref. Summaries (En, Pt)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7400789</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Biologico (Brazil)</ags:citationTitle>
+<ags:citationNumber>v. 40(1) p. 3-6</ags:citationNumber>
+<ags:citationChronology>(Jan 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+</ags:resources>

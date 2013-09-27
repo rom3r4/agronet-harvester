@@ -1,0 +1,2290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "../../agrislegacy.dtd">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="JA7502815">
+<dc:title xml:lang="en">Studies on Hassaku dwarf</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sasaki, A. (Hiroshima-ken. Fruit Tree Experiment Station, Akitsu (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>16 plates; 129 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>Z</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7502815</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Special Bulletin of Fruit Tree Experiment Station of Hiroshima Prefecture (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.2) 1-106+16</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7402157">
+<dc:title xml:lang="en">Cellulase hydrolysis of the cell wall and its application to estimate the nutritive value of the forage</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Abe, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Horii, S. (National Inst. of Animal Industry, Chiba (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 10 ref.; Summary (En); Received for publication 8 May 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7402157</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Japanese Society of Grassland Science (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 20(1) p. 16-21</ags:citationNumber>
+<ags:citationChronology>(Apr 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7503099">
+<dc:title xml:lang="en">Notes on some Japanese Ascomycetes, 13</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Udagawa, S. (National Inst. of Hygienic Sciences, Tokyo (Japan))</ags:creatorPersonal>
+<ags:creatorPersonal>Furuya, K.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F70</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>7 ref.; Received for publication 10 Aug 1974</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7503099</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Transactions of the Mycological Society of Japan (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 15(3) p. 206-214</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7500917">
+<dc:title xml:lang="en">[Vitamines in ruminant nutrition, 3]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Wada, H. (Okayama Univ. (Japan). Faculty of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>15 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7500917</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Animal Husbandry (Japan)</ags:citationTitle>
+<ags:citationTitle>Chikusan no Kenkyu</ags:citationTitle>
+<ags:citationNumber>v. 28(10) p. 1191-1195</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7501285">
+<dc:title xml:lang="en">Effect of benomyl, thiophanate-methyl and benomyl-thiram compounds of Fusarium oxysporum f. sp. tulipae of tulip</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Yamada, K. (Shimane-ken. Agricultural Experiment Station, Izumo (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jun 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>26 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7501285</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Kinki Chugoku Agricultural Research (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.48) p. 71-76</ags:citationNumber>
+<ags:citationChronology>(Jun 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7400542">
+<dc:title xml:lang="en">Local climate within park and open space</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Maruta, Y. (Nihon Univ., Tokyo (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F40</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 62 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7400542</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Japanese Institute of Landscape Arthitects (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 37(3) p. 33-55</ags:citationNumber>
+<ags:citationChronology>(May 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7500345">
+<dc:title xml:lang="en">On the florescence and the fructification of Metasequoia glyptostroboides Hu et Cheng</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nakai, I.</ags:creatorPersonal>
+<ags:creatorPersonal>Furuno, T. (Kyoto Univ. (Japan). Coll. of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 ref.; Received for publication 31 Jan 1974</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7500345</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of the Japanese Forestry Society (Japan)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0021-485X</ags:citationIdentifier>
+<ags:citationNumber>v. 56(8) p. 294-296</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7501140">
+<dc:title xml:lang="en">Studies on development and differentiation of muscle, 7: An expression of the myogenic cell fusion by using 3H-thymidine autoradiography in chick embryos</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kikuchi, T.</ags:creatorPersonal>
+<ags:creatorPersonal>Nagatani, T.</ags:creatorPersonal>
+<ags:creatorPersonal>Tamate, H. (Tohoku Univ., Sendai (Japan). Faculty of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jun 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L40</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>8 ref.; Summary (En); Received for publication 30 Jun 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7501140</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Tohoku Journal of Agricultural Research (Japan)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0040-8719</ags:citationIdentifier>
+<ags:citationNumber>v. 25(1) p. 37-42</ags:citationNumber>
+<ags:citationChronology>(Jun 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7502377">
+<dc:title xml:lang="en">Quality of Kamaboko prepared by adding yeast protein to brayed fish meat</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Tabata, Y. (Nagasaki Univ. (Japan). Faculty of Fisheries)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">S10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7502377</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin of the Faculty of Fisheries Nagasaki University (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.38) p. 39-44</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7401020">
+<dc:title xml:lang="en">[Cause of the occurrence of polluted fruits of Japanese persimmon and its measures, 2]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hamachi, F.</ags:creatorPersonal>
+<ags:creatorPersonal>Tsuneto, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Morita, A. (Fukuoka-ken. Horticultural Experiment Station (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 12 ref</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7401020</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agriculture and Horticulture (Japan)</ags:citationTitle>
+<ags:citationTitle>Nogyo oyobi Engei</ags:citationTitle>
+<ags:citationNumber>v. 49(5) p. 653-655</ags:citationNumber>
+<ags:citationChronology>(May 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7401964">
+<dc:title xml:lang="en">Purification of a nuclease from Penicillium citrinum</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Fujimoto, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Kuninaka, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Yoshino, H. (Yamasa Shoyu Co. Ltd., Choshi, Chiba (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 11 ref.; Summary (En); Received for publication 1 Oct 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7401964</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agricultural and Biological Chemistry (Japan)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0002-1369</ags:citationIdentifier>
+<ags:citationNumber>v. 38(4) p. 777-783</ags:citationNumber>
+<ags:citationChronology>(Apr 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7500247">
+<dc:title xml:lang="en">Examination on ashing procedures for polarographic analysis of tin in foods</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Iwamoto, Y.</ags:creatorPersonal>
+<ags:creatorPersonal>Maeda, Y. (Toyo Junior Coll. of Food Technology, Kawanishi, Hyogo (Japan). Toyo Inst. of Food Technology)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>7 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7500247</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Report of Toyo Junior College of Food Technology and Toyo Institute of Food Technology (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.11) p. 175-179</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7502071">
+<dc:title xml:lang="en">Alternaria padwickii and panicle blight of rice plant</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Suzuki, H. (Hokuriku National Agricultural Experiment Station, Joetsu, Niigata (Japan))</ags:creatorPersonal>
+<ags:creatorPersonal>Kuramoto, T.</ags:creatorPersonal>
+<ags:creatorPersonal>Yamaguchi, T.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>1 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7502071</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Proceedings of the Association for Plant Protection of Hokuriku (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.22) p. 17-18</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7401028">
+<dc:title xml:lang="en">[Growing fruiting branches of Japanese persimmon, 1: Effect of curvature and training of vegetative shoots on the growth of fruiting branches]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Watanabe, N. (Kashiwazaki Agricultural High School, Niigata (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 3 ref</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7401028</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agriculture and Horticulture (Japan)</ags:citationTitle>
+<ags:citationTitle>Nogyo oyobi Engei</ags:citationTitle>
+<ags:citationNumber>v. 49(5) p. 689-690</ags:citationNumber>
+<ags:citationChronology>(May 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7401235">
+<dc:title xml:lang="en">Automated measurement of enzyme activities by a discrete analyzer</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ozawa, Y. (Kikkoman Shoyu Co. Ltd., Noda, Chiba (Japan). Central Research Labs.)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 23 ref</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7401235</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of the Fermentation of Association (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 32(5) p. 181-195</ags:citationNumber>
+<ags:citationChronology>(May 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7500655">
+<dc:title xml:lang="en">Inheritance of radioresistance in Drosophila, 2: Radioresistance and maternal effect in the early embryonic stage</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nakashima-Tanaka, E.</ags:creatorPersonal>
+<ags:creatorPersonal>Ogaki, M. (Osaka Prefectural Univ., Sakai (Japan). Coll. of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>15 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7500655</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin of the University of Osaka Prefecture. Series B. Agriculture and Biology (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 26 p. 33-44</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7400815">
+<dc:title xml:lang="en">Effect of the thermal treatment of wood hemieclluloses, 7: Mechanism of furfural formation during thermal treatment of xylan</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Miyazaki, K. (Government Forest Experiment Station, Tokyo (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 10 ref.; Summaries (En, Ja)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7400815</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of the Japan Wood Research Society (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 20(3) p. 123-126</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7501045">
+<dc:title xml:lang="en">Studies on utilization and proceeding of Konbu (edible laminariaceous plants), 2: On comparison of quality between natural, forced cultivation, and standard cultivation plants of Makonbu (Laminaria japonica var. japonica)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Funaoka, T.</ags:creatorPersonal>
+<ags:creatorPersonal>Sakamoto, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Sato, T. (Hokkaido. Hakodate Fisheries Experiment Station (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">M10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>11 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7501045</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Hokkaido Fisheries Experimental Station (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 31(9) p. 3-15</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7502646">
+<dc:title xml:lang="en">[New cultural techniques of poinsettia, 2]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Tsurushima, H. (Tokyo-to. Agricultural Experiment Station, Tachikawa (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7502646</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agriculture and Horticulture (Japan)</ags:citationTitle>
+<ags:citationTitle>Nogyo oyobi Engei</ags:citationTitle>
+<ags:citationNumber>v. 50(2) p. 311-316</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7500652">
+<dc:title xml:lang="en">Research on the water utilization for agriculture in the lower basins of the Yodogawa River and the Yamatogawa River [Japan]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Yomota, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Yabe, K.</ags:creatorPersonal>
+<ags:creatorPersonal>Tejima, S. (Osaka Prefectural Univ., Sakai (Japan). Coll. of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">P10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7500652</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin of the University of Osaka Prefecture. Series B. Agriculture and Biology (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 26 p. 7-19</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7402198">
+<dc:title xml:lang="en">The outlook of burley tobacco production in the United States</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ohori, K. (Japan Monopoly Corporation, Tokyo)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7402198</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin of the Morioka Tobacco Experiment Station (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.10) p. 185-190</ags:citationNumber>
+<ags:citationChronology>(Apr 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7500900">
+<dc:title xml:lang="en">Peroral infection of fasted an cortisone-treated mice with Corynebacterium kutscheri</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Yokoiyama, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Ando, T.</ags:creatorPersonal>
+<ags:creatorPersonal>Hayano, K. (Toyo Jozo Co. Ltd., Ohito, Shizuoka (Japan))</ags:creatorPersonal>
+<ags:creatorPersonal>Fujiwara, K.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>15 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7500900</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Experimental Animals (Japan)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0007-5124</ags:citationIdentifier>
+<ags:citationNumber>v. 23(2) p. 63-72</ags:citationNumber>
+<ags:citationChronology>(Apr 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7402115">
+<dc:title xml:lang="en">[Differentiation in cultured tissue of insects]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kuroda, Y. (National Inst. for Genetics, Mishima, Shizuoka (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 31 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7402115</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>[Plant Protection] (Japan)</ags:citationTitle>
+<ags:citationTitle>Shokubutsu Boeki</ags:citationTitle>
+<ags:citationNumber>v. 28(8) p. 313-317</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7502732">
+<dc:title xml:lang="en">Problems pertaining to the efficient use of disused milch cows</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Enoki, I. (National Research Inst. of Agricultural Economics, Tokyo (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7502732</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Quarterly Journal of Agricultural Economy (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 29(1) p. 103-120</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7503182">
+<dc:title xml:lang="en">General properties of endo-N-Acetylmuramidase of Bacillus subtilis YT-25</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Takahara, Y.</ags:creatorPersonal>
+<ags:creatorPersonal>Machigaki, E.</ags:creatorPersonal>
+<ags:creatorPersonal>Murao, S. (Osaka Prefectural Univ., Sakai (Japan). Coll. of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>19 ref.; Summary (En); Received for publication 7 May 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7503182</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agricultural and Biological Chemistry (Japan)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0002-1369</ags:citationIdentifier>
+<ags:citationNumber>v. 38(12) p. 2357-2365</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7503319">
+<dc:title xml:lang="en">Some properties of beta-N-acetylglucosaminidase and alpha-mannosidase in cock spermatozoa</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kannan, Y. (Kobe Univ. (Japan). Faculty of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>22 ref.; Summaries (En, Ja); Received for publication 12 Aug 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7503319</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Science Reports of Faculty of Agriculture - Kobe University (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 11(2) p. 363-367</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7500011">
+<dc:title xml:lang="en">Studies about the cause of stability on the effect of gibberellin treatment for dellaware grapes, 2: The effect of atlox-B.1. on the prevention of decreasing effect of gibberellin treatment by the dry or raining weather</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Dan, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Okuda, Y.</ags:creatorPersonal>
+<ags:creatorPersonal>Nishio, R. (Osaka-fu. Agricultural Research Center, Habikino (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jun 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>10 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7500011</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin of the Osaka Agricultural Research Center (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.11) p. 101-109</ags:citationNumber>
+<ags:citationChronology>(Jun 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7501932">
+<dc:title xml:lang="en">Conditions of enlarging scale of calf raising farms in Southern Kyushu [Japan]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kai, S. (Kyushu Univ., Fukuoka (Japan). Faculty of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7501932</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Rural Economics (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 46(3) p. 116-125</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7402305">
+<dc:title xml:lang="en">[Improvement of piglet growth by adding dextran to nursing feed]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Matsuda, S. (Kagoshima Federation of Farmers' Trading-Cooperations, (Japan). Swine Breeding Center)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7402305</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Animal Husbandry (Japan)</ags:citationTitle>
+<ags:citationTitle>Chikusan no Kenkyu</ags:citationTitle>
+<ags:citationNumber>v. 28(8) p. 1007-1008</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7503511">
+<dc:title xml:lang="en">Hemagglutination inhibition test for rabies antibody in immunized guinea pigs</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Minamoto, N.</ags:creatorPersonal>
+<ags:creatorPersonal>Ohta, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Kurata, K. (Japan. Ministry of Agriculture and Forestry, Kokubunji, Tokyo. National Veterinary Assay Lab.)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>13 ref.; Summary (En); Received for publication 15 Jul 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7503511</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Annual Report of the National Veterinary Assay Laboratory (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.11) p. 9-13</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7400375">
+<dc:title xml:lang="en">Insentive system a way of production control</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kato, S</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7400375</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Wood Industry (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 29(4) p. 142-146, 181</ags:citationNumber>
+<ags:citationChronology>(Apr 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7401510">
+<dc:title xml:lang="en">Morphological and physiological changes during growth and head formation in cabbage</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Otani, K. (Tokyo Univ. of Agriculture (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 10 ref.; Summary (En); Received for publication 25 Jan 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7401510</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Agricultural Science - Tokyo Nogyo Daigaku (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 18(3-4) p. 264-269</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7400211">
+<dc:title xml:lang="en">Localization of nucleic acids and insoluble polysaccharides in the anther of Zea mays L. a histochemical study</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Panchaksharappa, M.G.</ags:creatorPersonal>
+<ags:creatorPersonal>Rudramuniyappa, C.K. (Karnatak Univ., Dharwar (India). Dept. of Botany)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 16 ref.; Summary (En); Received for publication 5 Aug 1972</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7400211</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Cytologia (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 39(1) p. 153-160</ags:citationNumber>
+<ags:citationChronology>(Jan 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7400668">
+<dc:title xml:lang="en">Isolation and synthesis of Alpha-form of isorhoifolin from citrus</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kamiya, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Esaki, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Konishi, F. (Shizuoka Women's Coll. (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>8 ref.; Summary (En); Received for publication 20 Aug 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7400668</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agricultural and Biological Chemistry (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 38(2) p. 339-341</ags:citationNumber>
+<ags:citationChronology>(Feb 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7500450">
+<dc:title xml:lang="en">Phylogenetic significance of the sporeling pattern in Jungermanniales</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nehira, K. (Hiroshima Univ. (Japan). Faculty of General Education)</ags:creatorPersonal>
+<ags:creatorConference>Symposium on taxonomy and evolution of bryophytes, Boulder (USA), 4 Aug 1973</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F70</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>8 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7500450</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of the Hattori Botanical Laboratory (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.38) p. 151-160</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7400759">
+<dc:title xml:lang="en">Requirements of 7 water-soluble vitamins for broiler-type chicks after 4 weeks of age</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Yoshida, M. (National Inst. of Animal Industry, Chiba (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 10 ref</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7400759</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Japanese Poultry Science (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 11(2) p. 67-68</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7501025">
+<dc:title xml:lang="en">A report on a disease of cultured carp due to a capsulated Pseudomonas</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Shiose, J. (Nagano-ken. Fisheries Station (Japan). Saku Branch)</ags:creatorPersonal>
+<ags:creatorPersonal>Wakabayashi, H.</ags:creatorPersonal>
+<ags:creatorPersonal>Egusa, S. (Tokyo Univ. (Japan). Faculty of Agriculture)</ags:creatorPersonal>
+<ags:creatorPersonal>Tominaga, M.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 ref.; Received for publication 16 Feb 1974</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7501025</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Fish Pathology (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 9(1) p. 79-83</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7401892">
+<dc:title xml:lang="en">Sexual hormones in lower plants</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sakurai, A. (Institute of Physical and Chemical Research, Wako, Saitama (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 35 ref</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7401892</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Chemical Regulation of Plants (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 9(1) p. 12-35</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7503383">
+<dc:title xml:lang="en">The rate of decomposition and mineralization of CDU, 3: The properties and decomposition in soils of isomers of CDU</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ishibashi, H.</ags:creatorPersonal>
+<ags:creatorPersonal>Ushioda, T. (Chisso Asahi Hiryo Co. Ltd., Fuji, Shizuoka (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F22</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>18 ref.; Received for publication 7 Jan 1974</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7503383</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of the Science of Soil and Manure (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 46(2) p. 38-44</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7501892">
+<dc:title xml:lang="en">[Pigments in petals of Pelargonium domesticum, P. hortorum and P. peltatum]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nishio, K. (Mukogawa Women's Univ., Nishinomiya, Hyogo (Japan))</ags:creatorPersonal>
+<ags:creatorPersonal>Fukui, T.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7501892</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agriculture and Horticulture (Japan)</ags:citationTitle>
+<ags:citationTitle>Nogyo oyobi Engei</ags:citationTitle>
+<ags:citationNumber>v. 50(1) p. 49-50</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7401309">
+<dc:title xml:lang="en">Alicyclic acid metabolism in plants, 6: Metabolism of quinate in the epicotyls of pea seedlings</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Tazaki, K.</ags:creatorPersonal>
+<ags:creatorPersonal>Minamikawa, T.</ags:creatorPersonal>
+<ags:creatorPersonal>Yoshida, S. (Tokyo Metropolitan Univ. (Japan). Faculty of Science)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 14 ref.; Summary (En); Received for publication 16 Nov 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7401309</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Botanical Magazine. Tokyo (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 87(1005) p. 61-68</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7400240">
+<dc:title xml:lang="en">[Cultural method of medical crop, Swertia japonica Makino]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kobayashi, M. (Tokyo-to. Medical Plant Garden, Kodaira (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 9 ref</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7400240</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agriculture and Horticulture (Japan)</ags:citationTitle>
+<ags:citationTitle>Nogyo oyobi Engei</ags:citationTitle>
+<ags:citationNumber>v. 49(4) p. 561-565</ags:citationNumber>
+<ags:citationChronology>(Apr 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7401409">
+<dc:title xml:lang="en">Leptospirosis in domestic animals</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Yanagawa, R.</ags:creatorPersonal>
+<ags:creatorPersonal>Takashima, I. (Hokkaido Univ., Sapporo (Japan). Faculty of Veterinary Medicine)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>88 ref</ags:descriptionNotes>
+</dc:description>
+<dc:type>Z</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7401409</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of the Japan Veterinary Medical Association (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 27(5) p. 211-217</ags:citationNumber>
+<ags:citationChronology>(May 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7502635">
+<dc:title xml:lang="en">[Present status in citrus fruit production in USA and estimation for near future]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Iwagaki, I. (Shikoku National Agricultural Experiment Station, Zentsuji, Kagawa (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7502635</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agriculture and Horticulture (Japan)</ags:citationTitle>
+<ags:citationTitle>Nogyo oyobi Engei</ags:citationTitle>
+<ags:citationNumber>v. 50(2) p. 263-267</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7402619">
+<dc:title xml:lang="en">The synthesis of methyl vitamin A</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Matsui, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Ishihara, T.</ags:creatorPersonal>
+<ags:creatorPersonal>Kitahara, T. (Institute of Physical and Chemical Research, Wako, Saitama (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">S10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>4 ref.; Received for publication 7 Feb 1974</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7402619</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agricultural and Biological Chemistry (Japan)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0002-1369</ags:citationIdentifier>
+<ags:citationNumber>v. 38(8) p. 1451-1453</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7501322">
+<dc:title xml:lang="en">Experimental culture of Tremella fuciformis</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hongo, I.</ags:creatorPersonal>
+<ags:creatorPersonal>Kataoka, H. (Nihon Univ., Tokyo (Japan). Coll. of Agriculture and Veterinary Medicine)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>4 ref.; Summary (En); Received for publication 2 Oct 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7501322</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin of the College of Agriculture and Veterinary Medicine - Nihon University (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.31) p. 176-181</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7401268">
+<dc:title xml:lang="en">Dual pattern of DL-leucine absorption by duckweed root tips</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Newton, R.J. (Texas Agricultural and Mechanical Univ., College Station (USA). Dept. of Biology)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 14 ref.; Summary (En); Received for publication 10 Jun 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7401268</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant and Cell Physiology (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 15(2) p. 249-254</ags:citationNumber>
+<ags:citationChronology>(Apr 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7400214">
+<dc:title xml:lang="en">Technical history of underdrainage, 1: Ancient underdrainage</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nagahame, K. (Ishikawa Prefecture Coll. of Agriculture, Nonoichi (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">P12</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">B50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 28 ref.; Summary (En); Received for publication 10 Jan 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7400214</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin of Ishikawa Prefecture College of Agriculture (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.3) p. 1-7</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7400310">
+<dc:title xml:lang="en">On the discharge coefficient of submerged outflow of gate</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Maekawa, K.</ags:creatorPersonal>
+<ags:creatorPersonal>Shiraishi, M. (Yamagata Univ., Tsuruoka (Japan). Faculty of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">P10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 9 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7400310</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Transactions of the Japanese Society of Irrigation, Drainage and Reclamation Engineering (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.49) p. 13-19</ags:citationNumber>
+<ags:citationChronology>(Apr 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7500426">
+<dc:title xml:lang="en">Problems of the existing waste water treatment processes and some improvements</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Honda, A. (Osaka-shi. Inst. of Hygiene (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">P10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7500426</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Water and Waste (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 16(9) p. 945-958</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7501202">
+<dc:title xml:lang="en">Mature of the bonds holding pectic substances in Nitella cell walls</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Morikawa, H.</ags:creatorPersonal>
+<ags:creatorPersonal>Senda, M. (Kyoto Univ. (Japan). Coll. of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M40</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>16 ref.; Summary (En); Received for publication 15 May 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7501202</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agricultural and Biological Chemistry (Japan)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0002-1369</ags:citationIdentifier>
+<ags:citationNumber>v. 38(10) p. 1955-1960</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7400670">
+<dc:title xml:lang="en">Enzymic and structural properties of crystalline yeast cell lytic enzyme from a species of fungi imperfecti</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nagasaki, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Fukuyama, J.</ags:creatorPersonal>
+<ags:creatorPersonal>Yamamoto, S. (Kochi Univ., Nankoku (Japan). Faculty of Agriculture)</ags:creatorPersonal>
+<ags:creatorPersonal>Kobayashi, R. (Kumiai Chemical Industry Co. Ltd., Shimizu, Shizuoka (Japan). Chemical Research Lab.)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 11 ref.; Summary (En); Received for publication 23 Aug 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7400670</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agricultural and Biological Chemistry (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 38(2) p. 349-357</ags:citationNumber>
+<ags:citationChronology>(Feb 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7500015">
+<dc:title xml:lang="en">Studies on the meat quality of broilers</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nonaka, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Yanagida, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Mohri, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Ono, T. (Osaka-fu. Agricultural Research Center, Habikino (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jun 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>8 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7500015</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin of the Osaka Agricultural Research Center (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.11) p. 129-133</ags:citationNumber>
+<ags:citationChronology>(Jun 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7501852">
+<dc:title xml:lang="en">Esterase isozymes of Drosophila virilis: Developmental aspects of the alpha- and beta-esterases and their distribution in the body parts</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sasaki, F. (Tokyo Metoropolitan Univ. (Japan). Faculty of Science)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>19 ref.; Summary (En); Received for publication 4 Apr 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7501852</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Japanese Journal of Genetics (Japan)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0021-504X</ags:citationIdentifier>
+<ags:citationNumber>v. 49(4) p. 223-232</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7500083">
+<dc:title xml:lang="en">[Photosynthesis of fruit trees, 3: Effect of pesticide application on photosynthetic rate of young fruit trees]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hino, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Manabe, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Kuraoka, T. (Ehime Univ., Matsuyama (Japan). Coll. of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">H00</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7500083</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agriculture and Horticulture (Japan)</ags:citationTitle>
+<ags:citationTitle>Nogyo oyobi Engei</ags:citationTitle>
+<ags:citationNumber>v. 49(9) p. 1167-1168</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7501829">
+<dc:title xml:lang="en">Some external and internal characters of Chrysophrys major Temminck and Schlegel caught within Pescadores Island, Taiwan and their comparison with Indo-Pacific species</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Yasuda, F.</ags:creatorPersonal>
+<ags:creatorPersonal>Chang, K.H.</ags:creatorPersonal>
+<ags:creatorPersonal>Wang, T.S. (Tokyo Univ. of Fisheries (Japan). Faculty of Fisheries)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M40</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 ref.; Summary (Ja)</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7501829</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of the Tokyo University of Fisheries (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 60(2) p. 115-119</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7400475">
+<dc:title xml:lang="en">The variation of the free ground water level through a long period</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Matsushita, F. (Mie Univ., Tsu (Japan). Faculty of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">P10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 1 ref.; Summary (En); Received for publication 30 Jun 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7400475</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin of the Faculty of Agriculture - Mie University (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.46) p. 15-23</ags:citationNumber>
+<ags:citationChronology>(Jan 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7402650">
+<dc:title xml:lang="en">Determination of N-glycoside linkage formation</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Fukuda, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Ishizaki, T.</ags:creatorPersonal>
+<ags:creatorPersonal>Ito, T. (Tottori Univ. (Japan). Faculty of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables; 23 ref.; Summary (En); Received for publication 30 Sep 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7402650</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of the Faculty of Agriculture - Tottori University (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 9 p. 20-26</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7402588">
+<dc:title xml:lang="en">Phytic acid as a component of mucilage in activated sludge</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nishikawa, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Kuriyama, M. (Kurita Water Industries Co. Ltd., Yokohama (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 9 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7402588</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Fermentation Technology (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 52(5) p. 339-342</ags:citationNumber>
+<ags:citationChronology>(May 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7400336">
+<dc:title xml:lang="en">A study of individual differences in methemoglobin formation caused by dietary nitrate intake</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Miyazaki, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Kawashima, R.</ags:creatorPersonal>
+<ags:creatorPersonal>Uesaka, S. (Kyoto Univ. (Japan). Coll. of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 13 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7400336</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Japanese Journal of Zootechnical Science (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 45(3) p. 149-156</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7401804">
+<dc:title xml:lang="en">A report on vegetation of the nurseries in the Tokyo University Forest in Chiba [Japan]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sakura, T.</ags:creatorPersonal>
+<ags:creatorPersonal>Kasuya, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Hosoya, Y.</ags:creatorPersonal>
+<ags:creatorPersonal>Yonemoto, C. (Tokyo Univ. (Japan). Faculty of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F40</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus. 7 ref.; Received for publication 28 Jun 1973</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7401804</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Miscellaneous Information Tokyo University Forests (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.18) p. 121-130</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7400946">
+<dc:title xml:lang="en">A simple method for quantitative spectrophotometric determination of serum Haptoglobin in mice and rats</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Makimura, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Suzuki, N. (Obihiro Zootechnical Univ., Hokkaido (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 5 ref.; Summaries (En, Ja); Received for publication 30 May 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7400946</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Research Bulletin of Obihiro Zootechnical University. Series 1 (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 8(3) p. 377-382</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7500562">
+<dc:title xml:lang="en">A new ring fission product suggestive of an unknown reductive step in the degradation of n-butylbenzene by Pseudomonas</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Jigami, Y.</ags:creatorPersonal>
+<ags:creatorPersonal>Omori, T.</ags:creatorPersonal>
+<ags:creatorPersonal>Minoda, Y. (Tokyo Univ. (Japan). Faculty of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>11 ref.; Received for publication 24 Jun 1974</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7500562</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agricultural and Biological Chemistry (Japan)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0002-1369</ags:citationIdentifier>
+<ags:citationNumber>v. 38(9) p. 1757-1759</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7400249">
+<dc:title xml:lang="en">Criticism of contemporary pesticide techniques</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Yasuda, S. (Kobe Univ. (Japan). Faculty of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7400249</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agricultural Economic Papers of Kobe University (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.3) p. 30-46</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7501628">
+<dc:title xml:lang="en">Changes in the meat production of Holstein steers associated with feeding ration during the raising term</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Okada, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Shinohara, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Kawakami, N.</ags:creatorPersonal>
+<ags:creatorPersonal>Ozutsumi, K. (National Grassland Research Inst., Nishinasuno, Tochigi (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>20 ref.; Summary (En); Received for publication 20 Dec 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7501628</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin of the National Grassland Research Institute (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.5) p. 20-28</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7501207">
+<dc:title xml:lang="en">Diversity of the degradation of panthenol by microorganisms</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Shimizu, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Tani, Y.</ags:creatorPersonal>
+<ags:creatorPersonal>Ogata, K. (Kyoto Univ. (Japan). Coll. of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>33 ref.; Summary (En); Received for publication 28 May 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7501207</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agricultural and Biological Chemistry (Japan)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0002-1369</ags:citationIdentifier>
+<ags:citationNumber>v. 38(10) p. 1989-1996</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7400419">
+<dc:title xml:lang="en">Comparative quality of fresh and of frozen and thawed scallop meats and post-thaw keeping quality during storage at five degrees centigrade</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Dyer, W.J.</ags:creatorPersonal>
+<ags:creatorPersonal>Hiltz, D.F. (Halifax Lab., Nova Scotia (Canada))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 12 ref.; Summaries (En, Ja)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7400419</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin of the Japanese Society of Scientific Fisheries (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 40(2) p. 235-243</ags:citationNumber>
+<ags:citationChronology>(Feb 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7400605">
+<dc:title xml:lang="en">A reasoning for processed foods</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Matsushita, S. (Kyoto Univ., Uji (Japan). Research Inst. for Food Science)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables; 22 ref.; Received for publication 20 Dec 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7400605</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin of the Research Institute for Food Science - Kyoto University (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.37) p. 49-59</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7501366">
+<dc:title xml:lang="en">[On susceptibility to NPV disease of silkworm, reared by artificial feed under aseptic condition, then reared with shoots]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Matsubara, F.</ags:creatorPersonal>
+<ags:creatorPersonal>Yamaguchi, C.</ags:creatorPersonal>
+<ags:creatorPersonal>Hayashiya, K. (Kyoto Univ. of Industrial Arts and Textile Fibers (Japan). Faculty of Textile Science)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7501366</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agriculture and Horticulture (Japan)</ags:citationTitle>
+<ags:citationTitle>Nogyo oyobi Engei</ags:citationTitle>
+<ags:citationNumber>v. 49(11) p. 1403-1404</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7400593">
+<dc:title xml:lang="en">Conversion of intra-to inter-chain disulfide bonds in gluten polypeptides by SH-SS exchange reaction</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kanazawa, H.</ags:creatorPersonal>
+<ags:creatorPersonal>Yonezawa, D. (Osaka Prefectural Univ., Sakai (Japan). Coll. of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">S10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 14 ref.; Summary (En); Received for publication 22 Oct 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7400593</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of the Agricultural Chemical Society of Japan (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 48(4) p. 245-253</ags:citationNumber>
+<ags:citationChronology>(Apr 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7502987">
+<dc:title xml:lang="en">The heartwood constituents of Haplormosia monophylla Harms</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hayashi, Y.</ags:creatorPersonal>
+<ags:creatorPersonal>Sakurai, K.</ags:creatorPersonal>
+<ags:creatorPersonal>Takahashi, T.</ags:creatorPersonal>
+<ags:creatorPersonal>Kitao, K. (Government Forest Experiment Station, Tokyo (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>14 ref.; Summary (Ja); Received for publication 18 Mar 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7502987</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of the Japan Wood Research Society (Japan)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0021-4795</ags:citationIdentifier>
+<ags:citationNumber>v. 20(12) p. 595-599</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7502735">
+<dc:title xml:lang="en">Presumptive cross-affinity relationship among Pelargonium species through the observation of pollen tube behavior by means of the fluorescence microscope</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Tokumasu, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Kato, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Yano, F. (Ehime Univ., Matsuyama (Japan). Coll. of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>22 ref.; Summary (En); Received for publication 10 Sep 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7502735</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Japanese Journal of Breeding (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 24(6) p. 269-276</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7502566">
+<dc:title xml:lang="en">Animal production and research in the Republic of Viet Nam</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Bui, B.T. (National Agricultural Inst., Saigon (Vietnam, R.). Coll. of Veterinary and Animal Sciences)</ags:creatorPersonal>
+<ags:creatorConference>Symposium on Animal Research, Tokyo (Japan), Oct 1973</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7502566</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Tropical Agriculture Research Series (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.7) p. 85-97</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7501177">
+<dc:title xml:lang="en">The amino acid composition of new protein products for food from soybean</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Tajima, M. (National Food Research Inst., Tokyo (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">S10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>18 ref.; Summary (En); Received for publication 26 Apr 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7501177</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Japanese Society of Food and Nutrition (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 27(6) p. 295-297</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7502758">
+<dc:title xml:lang="en">Study on the utilization of activated sludge of sewerage in industry: Fertilizer response on Zoysia matrella Merr.</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Morishita, T.</ags:creatorPersonal>
+<ags:creatorPersonal>Noda, S. (Hikari Kogyo Co. Ltd., Tokyo (Japan))</ags:creatorPersonal>
+<ags:creatorPersonal>Ozawa, T.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7502758</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of the Japanese Institute of Landscape Architects (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 38(3) p. 16-24</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7501838">
+<dc:title xml:lang="en">Lipid class distribution and fatty acid composition of prawn, Penaeus japonicus Bate</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Guary, J.C. (Marseille Univ. (France))</ags:creatorPersonal>
+<ags:creatorPersonal>Kayama, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Murakami, Y. (Hiroshima Univ., Fukuyama (Japan). Faculty of Fisheries and Animal Husbandry)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M40</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>26 ref.; Summary (Ja); Received for publication 1 Jul 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7501838</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin of the Japanese Society of Scientific Fisheries (Japan)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0021-5392</ags:citationIdentifier>
+<ags:citationNumber>v. 40(10) p. 1027-1032</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7500097">
+<dc:title xml:lang="en">Studies on the physical properties of paddy soils in relation to tillage, 2: Plowing tests in paddy field</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nakajima, K.</ags:creatorPersonal>
+<ags:creatorPersonal>Yagihashi, R.</ags:creatorPersonal>
+<ags:creatorPersonal>Kamide, J. (Aomori-ken. Agricultural Experiment Station, Kuroishi (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F22</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F27</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>9 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7500097</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin of the Aomori Agricultural Experiment Station (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.19) p. 36-41</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7401542">
+<dc:title xml:lang="en">Histological changes of chicken yolk sac membranes after hatching</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kusuhara, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Yatsuki, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Ishida, K.</ags:creatorPersonal>
+<ags:creatorPersonal>Yamaguchi, M. (Niigata Univ. (Japan). Faculty of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L40</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>4 tables, plate; 15 ref.; Received for publication 3 Oct 1973</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7401542</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Niigata Agricultural Science (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.26) p. 167-172+1</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7501607">
+<dc:title xml:lang="en">Studies on the spray program for control of loquat nursery stock, 2: Chemical control of entomosporium leaf spot</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ikenaga, K.</ags:creatorPersonal>
+<ags:creatorPersonal>Michizoe, H. (Nagasaki-ken. Nagasaki Plant Protection Service Station (Japan))</ags:creatorPersonal>
+<ags:creatorPersonal>Morita, A. (Nagasaki-ken. Fruit Tree Experiment Station, Omura (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7501607</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Proceedings of the Association for Plant Protection of Kyushu (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 20 p. 109-110</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7500784">
+<dc:title xml:lang="en">[Utilization of resistant varieties in soybean to cyst nematode (Heterodera glycines)]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kegasawa, K. (Hokkaido National Agricultural Experiment Station, Sapporo (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>14 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7500784</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>[Plant Protection] (Japan)</ags:citationTitle>
+<ags:citationTitle>Shokubutsu Boeki</ags:citationTitle>
+<ags:citationNumber>v. 28(10) p. 409-412</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7500536">
+<dc:title xml:lang="en">Chemical and physical modifications of biologically active polysaccharide produced by Serratia piscatorum</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kita, Y.</ags:creatorPersonal>
+<ags:creatorPersonal>Nakanishi, I.</ags:creatorPersonal>
+<ags:creatorPersonal>Isono, M. (Takeda Chemical Industries Ltd., Osaka (Japan). Central Research Div.)</ags:creatorPersonal>
+<ags:creatorPersonal>Endo, K.</ags:creatorPersonal>
+<ags:creatorPersonal>Yamasaki, H. (Okayama Univ. (Japan). School of Medicine)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>28 ref.; Summary (En); Received for publication 4 Mar 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7500536</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agricultural and Biological Chemistry (Japan)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0002-1369</ags:citationIdentifier>
+<ags:citationNumber>v. 38(9) p. 1631-1636</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7400919">
+<dc:title xml:lang="en">Effect of novel analogs of the juvenile hormone, 1: Effect of juvenile hormone analogs with different alkyl substituents at C-7 and C-11 on the silkworm, Bombyx mori L. (Lepidoptera: Bombycidae)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nihmura, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Ozawa, Y. (Ajinomoto Co. Ltd., Kawasaki, Kanagawa (Japan). Central Research Labs.)</ags:creatorPersonal>
+<ags:creatorPersonal>Mori, K.</ags:creatorPersonal>
+<ags:creatorPersonal>Matsui, M. (Tokyo Univ. (Japan). Faculty of Agriculture)</ags:creatorPersonal>
+<ags:creatorPersonal>Aomori, S</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 14 ref.; Summary (En); Received for publication 19 Aug 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7400919</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Applied Entomology and Zoology (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 9(1) p. 34-40</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7503667">
+<dc:title xml:lang="en">Microbial resolution of some racemic monocyclic alcohols</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Oritani, T.</ags:creatorPersonal>
+<ags:creatorPersonal>Yamashita, K. (Tohoku Univ., Sendai (Japan). Faculty of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>9 ref.; Summary (En); Received for publication 24 Jun 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7503667</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agricultural and Biological Chemistry (Japan)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0002-1369</ags:citationIdentifier>
+<ags:citationNumber>v. 39(1) p. 89-96</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7402543">
+<dc:title xml:lang="en">Bicarbonate stimulation of oxygen evolution, ferricyanide reduction and photoinactivation using isolated chloroplasts</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Stemler, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Govindjee (Illinois Univ., Urbana (USA). Dept. of Botany)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jun 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 26 ref.; Summary (En); Received for publication 2 Mar 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7402543</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant and Cell Physiology (Japan)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-0781</ags:citationIdentifier>
+<ags:citationNumber>v. 15(3) p. 533-544</ags:citationNumber>
+<ags:citationChronology>(Jun 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7402343">
+<dc:title xml:lang="en">Studies on wind damaged trees from Sado [Japan], 2</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kawamura, Y.</ags:creatorPersonal>
+<ags:creatorPersonal>Sakai, H. (Niigata Univ. (Japan). Faculty of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 9 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7402343</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin of the Niigata University Forests (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.8) p. 35-42</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7400028">
+<dc:title xml:lang="en">Experimental studies on the seepage water control in the paddy field</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Tanabe, K.</ags:creatorPersonal>
+<ags:creatorPersonal>Tanaka, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Osawa, T.</ags:creatorPersonal>
+<ags:creatorPersonal>Tsuji, K.</ags:creatorPersonal>
+<ags:creatorPersonal>Daito, K. (Kyushu Univ., Fukuoka (Japan). Faculty of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F22</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">P12</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 12 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7400028</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Science Bulletin of the Faculty of Agriculture - Kyushu University (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 28(2) p. 105-113</ags:citationNumber>
+<ags:citationChronology>(Feb 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7501000">
+<dc:title xml:lang="en">The manufacture of lumber from imported sawlogs, 3: The conversion of western hemlock logs into dimension lumber</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kamada, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Goshu, T.</ags:creatorPersonal>
+<ags:creatorPersonal>Kawashima, H. (Hokkaido. Forest Products Research Inst., Asahikawa (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>4 ref.; Summary (En); Received for publication 27 Aug 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7501000</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of the Hokkaido Forest Products Research Institute (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.273) p. 1-5</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7501278">
+<dc:title xml:lang="en">Survey on some scientific properties of the low productive tea yard soils and their improvement</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ito, Y. (Yamaguchi-ken. Agricultural Experiment Station (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jun 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F22</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7501278</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Kinki Chugoku Agricultural Research (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.48) p. 46-48</ags:citationNumber>
+<ags:citationChronology>(Jun 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7400525">
+<dc:title xml:lang="en">Problems on weed control in transplanting culture of young rice seedlings</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nishikawa, H. (Tohoku National Agricultural Experiment Station, Morioka (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 6 ref</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7400525</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Weed Research (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.17) p. 8-13</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7402108">
+<dc:title xml:lang="en">Studies on club root disease of Chinese cabage, 1: Relation between daylength and occurrence of the disease</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Tamura, M. (Ishikawa-ken. Agricultural Experiment Station, Nonoichi (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 20 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7402108</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin of the Ishikawa-ken Agricultural Experiment Station (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 8 p. 31-36</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7502287">
+<dc:title xml:lang="en">Studies on the thermal softening of wood. 3: Effects of the temperature on the bending creep of dry Hinoki [Chamaecyparis obtusa] wood</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sawabe, O. (Iwata Univ., Morioka (Japan). Faculty of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>7 ref.; Summary (Ja); Received for publication 2 Mar 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7502287</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of the Japan Wood Research Society (Japan)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0021-4795</ags:citationIdentifier>
+<ags:citationNumber>v. 20(11) p. 517-522</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7502393">
+<dc:title xml:lang="en">PCBs in the spotted sharks, Mustelus manazo, from Tokyo Bay [Japan]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Shinma, H. (Tokai Regional Fisheries Research Lab., Tokyo (Japan))</ags:creatorPersonal>
+<ags:creatorPersonal>Shinma, Y.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">T00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>11 ref.; Summary (En); Received for publication 5 Aug 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7502393</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin of the Japanese Society of Scientific Fisheries (Japan)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0021-5392</ags:citationIdentifier>
+<ags:citationNumber>v. 40(11) p. 1179-1186</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7402125">
+<dc:title xml:lang="en">Effect of nitrogen fertilizer application on chemical composition of lowland brown rice</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Taira, H.</ags:creatorPersonal>
+<ags:creatorPersonal>Taira, H. (National Food Research Inst., Tokyo (Japan))</ags:creatorPersonal>
+<ags:creatorPersonal>Matsuzaki, A. (National Inst. of Agricultural Sciences, Tokyo (Japan))</ags:creatorPersonal>
+<ags:creatorPersonal>Matsushima, S.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jun 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>11 ref.; Summary (En); Received for publication 8 Sep 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7402125</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Proceedings of the Crop Science Society of Japan (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 43(2) p. 144-150</ags:citationNumber>
+<ags:citationChronology>(Jun 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7501610">
+<dc:title xml:lang="en">Progress and problems of the co-operative studies on the "Waisei" disease of rice plant in Kyushu [Japan]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kawasaki, I.</ags:creatorPersonal>
+<ags:creatorPersonal>Okamoto, D. (Kyushu National Agricultural Experiment Station, Chikugo, Fukuoka (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7501610</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Proceedings of the Association for Plant Protection of Kyushu (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 20 p. 115-116</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7400964">
+<dc:title xml:lang="en">Studies on the acceleration of flowering in woody ornamentals by low temperature treatments, 3: Forcing of Forsythia viridissima Lindl</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Goi, M. (Kagawa Univ., Miki (Japan). Faculty of Agriculture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F40</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 12 ref.; Summary (En); Received for publication 2 Nov 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7400964</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Technical Bulletin of Faculty of Agriculture - Kagawa University (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 25(2) p. 207-217</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7501934">
+<dc:title xml:lang="en">On economic activities in insulated islands</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nagashima, S. (Japanese Board of Audit, Tokyo)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>13 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7501934</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Rural Economics (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 46(3) p. 134-142</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7502653">
+<dc:title xml:lang="en">[The way to enlarge farms to 15 ha for rice culture, 7]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Takemoto, H.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7502653</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agriculture and Horticulture (Japan)</ags:citationTitle>
+<ags:citationTitle>Nogyo oyobi Engei</ags:citationTitle>
+<ags:citationNumber>v. 50(2) p. 354-358</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7501768">
+<dc:title xml:lang="en">[The screeing and its efficiency of avian coccidiostats]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kirioka, H.</ags:creatorPersonal>
+<ags:creatorPersonal>Osai, H. (Chiba-ken. Poultry Experiment Station, Yachimata (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L72</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7501768</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Animal Husbandry (Japan)</ags:citationTitle>
+<ags:citationTitle>Chikusan no Kenkyu</ags:citationTitle>
+<ags:citationNumber>v. 28(12) p. 1435-1437</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7500198">
+<dc:title xml:lang="en">Utilization of cell culture techniques in pesticide science</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Murakami, M. (Institute of Physical and Chemical Research, Wako, Saitama (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>49 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7500198</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Pesticide Science (Japan)</ags:citationTitle>
+<ags:citationNumber>v. 2(1) p. 1-9</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="JA7502821">
+<dc:title xml:lang="en">Soil moisture movement and watering point for forcing culture of crops grown in glasshouses and plastic greenhouses</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Yumura, Y.</ags:creatorPersonal>
+<ags:creatorPersonal>Nakashimada, M. (Vegetable and Ornamental Crops Research Station, Tsu, Mie (Japan))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F22</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">N10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>15 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ja</dc:language>
+<agls:availability><ags:availabilityLocation>JA</ags:availabilityLocation><ags:availabilityNumber>7502821</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin of the Vegetable and Ornamental Crops Research Station. Series A. (Japan)</ags:citationTitle>
+<ags:citationNumber>(no.1) p. 141-171</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+</ags:resources>

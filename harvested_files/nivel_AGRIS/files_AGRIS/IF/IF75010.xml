@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "../../agrislegacy.dtd">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="IF7503354">
+<dc:title xml:lang="en">[Machines for utilization of water in agriculture. 1]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Echeverria R, H. (Universidad Central de Venezuela, Maracay. Facultad de Agronomia. Dept. de Ingenieria Agricola)</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>Universidad Central de Venezuela, Facultad de Agronomia</ags:publisherName>
+<ags:publisherPlace>Maracay (Venezuela)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">P12</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">N00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>*Servicio de Biblioteca y Documentacion, Centro Nacional de Investigaciones Agropecuarias, Maracay (Venezuela)</ags:descriptionNotes>
+</dc:description>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>56 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7503354</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="IF7503414">
+<dc:title xml:lang="en">[Utilization of energy by-products in an intensive production of beef [Costa Rica]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ruiz, M.E. (Centro Agronomico Tropical de Investigacion y Ensenanza, Turrialba (Costa Rica). Dept. de Ganaderia Tropical)</ags:creatorPersonal>
+<ags:creatorConference>4. Cursillo del Istmo Centroamericano sobre Ganado de Carne y Leche, San Antonio de Belen (Costa Rica), 10 Mar 1975</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>Centro Agronomico Tropical de Investigacion y Ensenanza</ags:publisherName>
+<ags:publisherPlace>Turrialba (Costa Rica)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 graphs, 5 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7503414</ags:availabilityNumber></agls:availability>
+<dc:source>[Fourth short course of the Central American Isthmus on beef and dairy cattle], Comite Permanente de Exposiciones Pecuarias del Istmo Centroamericano, San Jose (Costa Rica).- Turrialba (Costa Rica): Centro Agronomico Tropical de Investigacion y Ensenanza, 1975. p. 96-108</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="IF7503441">
+<dc:title xml:lang="en">[Edible oils and fats; determination of moisture content. Distillation method [Central American standard]]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Instituto Centroamericano de Investigacion y Tecnologia Industrial, Guatemala City</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>ICAITI</ags:publisherName>
+<ags:publisherPlace>Guatemala City</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Sep 1973</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">S10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Received at CIDIA Sep 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>4 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7503441</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Norma Centroamericana (ICAITI)</ags:citationTitle>
+<ags:citationNumber>no. 34-072-h28</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7503548">
+<dc:title xml:lang="en">Tropical legumes hays as substitutes for alfalfa for growing pigs</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Lima, T.A.O. de</ags:creatorPersonal>
+<ags:creatorPersonal>Lima, C.R.</ags:creatorPersonal>
+<ags:creatorPersonal>Peloso, V.P.M. de</ags:creatorPersonal>
+<ags:creatorPersonal>Moreira, A.C.S. de</ags:creatorPersonal>
+<ags:creatorPersonal>Alvarena, J.C. (Instituto de Pesquisa Agropecuaria do Centro-Sul, Rio de Janeiro, GB (Brazil))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1973)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 ref. Summaries (En, Pt); Received at CIDIA Feb 1975</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7503548</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Pesquisa Agropecuaria Brasileira. Serie Zootecnia (Brazil)</ags:citationTitle>
+<ags:citationNumber>v. 8(2) p. 9-11</ags:citationNumber>
+<ags:citationChronology>(1973)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7503471">
+<dc:title xml:lang="en">[Study of differences in embryological process and eclosion of the hepatic Fasciola miracidium and the Paramphistomun spp. under Cuban conditions]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Mitterpak, J.</ags:creatorPersonal>
+<ags:creatorPersonal>Brito, E.</ags:creatorPersonal>
+<ags:creatorPersonal>Paes, R.</ags:creatorPersonal>
+<ags:creatorPersonal>Flores, R. (Universidad Central de Las Villas, Santa Clara (Cuba))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L72</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>4 ref. Summaries (En, Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7503471</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Centro. Serie. Ciencia Animal (Cuba)</ags:citationTitle>
+<ags:citationNumber>v. 1(1) p. 67-72</ags:citationNumber>
+<ags:citationChronology>(Jan 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7503657">
+<dc:title xml:lang="en">[An up-to-date report on accomplishments in the area of soil sciences [Education, Venezuela]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Pla Sentis, I.</ags:creatorPersonal>
+<ags:creatorConference>Reunion Tecnica sobre Educacion de Postgrado en Ciencias Agricolas, Maracay (Venezuela), 24 Apr 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>UCV, IICA</ags:publisherName>
+<ags:publisherPlace>Maracay (Venezuela)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F20</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">C00</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7503657</ags:availabilityNumber></agls:availability>
+<dc:source>[Technical Meeting on Postgraduate Education in Agricultural Sciences [Venezuela]], Universidad Central de Venezuela, Maracay. Facultad de Agronomia; IICA, Caracas (Venezuela).- Maracay (Venezuela): UCV, IICA, 1974. p. C-12-(1-8)</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="IF7503557">
+<dc:title xml:lang="en">[Considerations on water management in Great Britain]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Gabaldon, A.J.</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>Comision del Plan Nacional de Aprovechamiento de los Recursos Hidraulicos</ags:publisherName>
+<ags:publisherPlace>Caracas (Venezuela)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">P10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>*Servicios de Biblioteca y Documentacion Centro Nacional de Investigaciones Agropecuarias, Maracay (Venezuela)</ags:descriptionNotes>
+</dc:description>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>32 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7503557</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Publicacion Divulgativa - Comision del Plan Nacional de Aprovechamiento de los Recursos Hidraulicos (Venezuela)</ags:citationTitle>
+<ags:citationNumber>no. 16</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7503188">
+<dc:title xml:lang="en">[Animal production and breeding cattle [Costa Rica]]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Centro Agronomico Tropical de Investigacion y Ensenanza, Turrialba (Costa Rica). Dept. de Ganaderia Tropical</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>CATIE</ags:publisherName>
+<ags:publisherPlace>Turrialba (Costa Rica)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+</dc:subject>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7503188</ags:availabilityNumber></agls:availability>
+<dc:source>[Annual report 1973-1974].- Turrialba (Costa Rica): CATIE, 1974. p. 78-81</dc:source>
+<ags:citation><ags:citationTitle>Memoria Anual - Centro Agronomico Tropical de Investigacion y Ensenanza (Costa Rica)</ags:citationTitle>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IF7503669">
+<dc:title xml:lang="en">[Libraries and documentation and information centres as supporting elements of higher education [agriculture]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Bustamante, A.</ags:creatorPersonal>
+<ags:creatorConference>Reunion Tecnica sobre Educacion de Postgrado en Ciencias Agricolas, Maracay (Venezuela), 24 Apr 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>UCV, IICA</ags:publisherName>
+<ags:publisherPlace>Maracay (Venezuela)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">C00</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7503669</ags:availabilityNumber></agls:availability>
+<dc:source>[Technical Meeting on Postgraduate Education in Agricultural Sciences [Venezuela]], Universidad Central de Venezuela, Maracay. Facultad de Agronomia; IICA, Caracas (Venezuela).- Maracay (Venezuela): UCV, IICA, 1974. p. C-6-(1-9)</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="IF7504035">
+<dc:title xml:lang="en">[Distribution of population. Census 1964 [Guatemala]]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Instituto Geografico Nacional, Guatemala City</ags:creatorCorporate>
+<ags:creatorConference>Ciclo de Adiestramiento en Preparacion y Evaluacion de Proyectos de Desarrollo Agricola, Guatemala City, Oct 1973</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>CNPE</ags:publisherName>
+<ags:publisherPlace>Guatemala City</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Map. 32 x 25 cm.</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>IF</ags:availabilityLocation><ags:availabilityNumber>7504035</ags:availabilityNumber></agls:availability>
+<dc:source>[Training Cycle in Preparation and Evaluation of Agricultural Development Projects; practical work: coastal fishing], Almengor L, G.A.Sierra P, J.A.Arevalo E, B.Sanchez V, A.Morales R, H.F.Tejada G, G.Vega E, J.M..- Guatemala City: CNPE, 1974. 1 p.</dc:source>
+</ags:resource>
+</ags:resources>

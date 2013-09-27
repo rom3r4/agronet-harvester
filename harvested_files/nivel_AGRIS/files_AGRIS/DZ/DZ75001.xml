@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "../../agrislegacy.dtd">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="DZ7500005">
+<dc:title xml:lang="en">[Loose smut of wheat and barley: fungicide tests [Algeria]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nezzal, T.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>p. 65-69: num. data</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>DZ</ags:availabilityLocation><ags:availabilityNumber>7500005</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Revue de la Recherche Agronomique (Algeria)</ags:citationTitle>
+<ags:citationNumber>(no.3) p. 64-70</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="DZ7590011">
+<dc:title xml:lang="en">[A study on the output and the nutritive value of five Italian Rye-Grass cultivated in the Mitidja in relation to the rate of exploitation [Algeria]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ahmin, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Kalli, R.</ags:creatorPersonal>
+<ags:creatorPersonal>Lemaire, G.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>DZ</ags:availabilityLocation><ags:availabilityNumber>7590011</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Revue de la recherche agronomique (Algeria)</ags:citationTitle>
+<ags:citationNumber>v. 4(4) p. 5-22</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="DZ7500006">
+<dc:title xml:lang="en">[The effect of three stocks on Hamlin orange tree [Algeria]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Bouderbala, M.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>DZ</ags:availabilityLocation><ags:availabilityNumber>7500006</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Revue de la Recherche Agronomique (Algeria)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 3-9</ags:citationNumber>
+<ags:citationChronology>(May 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="DZ7500004">
+<dc:title xml:lang="en">[The contribution of animal genetics research to the improvement of sheep production in Algeria]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kerbaa, A.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+</dc:subject>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>DZ</ags:availabilityLocation><ags:availabilityNumber>7500004</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Revue de la Recherche Agronomique (Algeria)</ags:citationTitle>
+<ags:citationNumber>(no.3) p. 3-6</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+</ags:resources>

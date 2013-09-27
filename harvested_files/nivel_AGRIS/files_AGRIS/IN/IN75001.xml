@@ -1,0 +1,1505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "../../agrislegacy.dtd">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="IN7500002">
+<dc:title xml:lang="en">Monolith core-sampler for evaluation of hydraulic conductivity of soils [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Correia, J.F. (College of Technology and Agricultural Engineering, Udaipur (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(10 Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F22</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>4 illus.; 7 ref. Summary (En). Received for publication 21 July 1972</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500002</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Agricultural Sciences (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5022</ags:citationIdentifier>
+<ags:citationNumber>v. 44(2) p. 74-79</ags:citationNumber>
+<ags:citationChronology>(10 Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500005">
+<dc:title xml:lang="en">Grain yield in relation to tillering pattern of four wheat varieties [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Saini, A.D.</ags:creatorPersonal>
+<ags:creatorPersonal>Nanda, R. (Indian Agricultural Research Inst., New Delhi)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(10 Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F27</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 tables; 11 ref. Summary (En). Received for publication 27 Dec 1972</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500005</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Agricultural Sciences (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5022</ags:citationIdentifier>
+<ags:citationNumber>v. 44(2) p. 87-92</ags:citationNumber>
+<ags:citationChronology>(10 Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500006">
+<dc:title xml:lang="en">Nitrogen and dry matter in plant organs of dwarf wheat varieties at two physical stages as influenced by nitrogen fertilization [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Singh, R.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Anderson, R.G. (Indian Agricultural Research Inst., New Delhi)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(10 Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 tables; 3 illus.; 6 ref. Summary (En). Received for publication 19 Sep 1972</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500006</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Agricultural Sciences (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5022</ags:citationIdentifier>
+<ags:citationNumber>v. 44(2) p. 93-100</ags:citationNumber>
+<ags:citationChronology>(10 Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500228">
+<dc:title xml:lang="en">Phosphorus uptake and root activity in maize as affected by bulk density of soil (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Khanna, P.K.</ags:creatorPersonal>
+<ags:creatorPersonal>Virmani, S.M.</ags:creatorPersonal>
+<ags:creatorPersonal>Safaya, N.M. (Haryana Agricultural Univ., Hissar (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(21 Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>8 ref. Summary (En). Received for publication 7 Jun 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500228</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Agricultural Sciences (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5022</ags:citationIdentifier>
+<ags:citationNumber>v. 44(1) p. 60-63</ags:citationNumber>
+<ags:citationChronology>(21 Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500077">
+<dc:title xml:lang="en">Pathology of the adrenal gland in canines (Canis familiaris) [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Rajan, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Mohiyinddeen (Mysore Veterinary Coll., Bangalore, Karnataka (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 illus.; 5 ref. Summary (En). Received for publication 29 May 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500077</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(2) p. 123-129</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500078">
+<dc:title xml:lang="en">Ovarian lipids in pregnancy [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sharma, D.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Venkitasubramanian, T.A. (Vallabhbhai Patel Chest Inst., Delhi (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>13 ref. Summary (En). Received for publication 18 Dec 1972</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500078</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(2) p. 128-133</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500101">
+<dc:title xml:lang="en">Micronutrient Research in soils and plants in India [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kanwar, J.S. (International Crop Research Inst. for Semi-Arid Tropics, Hyderabad, Andhra Pradesh)</ags:creatorPersonal>
+<ags:creatorPersonal>Randhawa, N.S. (College of Agriculture, Punjab Agricultural Univ., Ludhiana, Punjab (India))</ags:creatorPersonal>
+<ags:creatorCorporate>Indian Council of Agricultural Research, New Delhi</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>ICAR</ags:publisherName>
+<ags:publisherPlace>New Delhi (India)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Dec 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>77 tables</ags:descriptionNotes>
+<ags:descriptionEdition>Rev. ed.</ags:descriptionEdition>
+</dc:description>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>185 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500101</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>ICAR Technical Bulletin (India)</ags:citationTitle>
+<ags:citationNumber>no. 50</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500045">
+<dc:title xml:lang="en">Studies on skinfold thickness in Sabawadi and Nellore Sheep and their crosses in relation to weight gain at different ages [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Choudhury, G.</ags:creatorPersonal>
+<ags:creatorPersonal>Mazumder, S.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Banerjea, G.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Mazumder, J.N. (Bidhan Chandra Krishi Viswa Vidyalaya, Kalyani, West Bengal (India). Dept. of Animal Husbandry and Dairy Science)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>7 tables; 10 ref. Summary (En). Received for publication 20 Feb 1971</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500045</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Health (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5057</ags:citationIdentifier>
+<ags:citationNumber>v. 13(2) p. 121-126</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500058">
+<dc:title xml:lang="en">Technique of cerebral angiography in goat [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sharma, H.N.</ags:creatorPersonal>
+<ags:creatorPersonal>Tyagi, R.P.S. (Haryana Agricultural Univ., Hissar (India). Coll. of Veterinary Science)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500058</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Health (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5057</ags:citationIdentifier>
+<ags:citationNumber>v. 13(2) p. 177-178</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500272">
+<dc:title xml:lang="en">Preliminary observation on the effect of ration after feeding at different intervals on microbial population and metabolic products of buffalo rumen (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sinha, R.N.</ags:creatorPersonal>
+<ags:creatorPersonal>Sharma, D.D.</ags:creatorPersonal>
+<ags:creatorPersonal>Nambudripad, V.K.M.</ags:creatorPersonal>
+<ags:creatorPersonal>Ranganathan, B. (National Dairy Research Inst., Karnal, Haryana (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>25 ref. Summary (En). Received for publication 17 Jul 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500272</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(1) p. 18-21</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500229">
+<dc:title xml:lang="en">Note on the effect of early harvest of summer rice on the yield and quality of seed (Bangladesh)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Khan, N.H.</ags:creatorPersonal>
+<ags:creatorPersonal>Hossain, M.N. (Bangladesh Agricultural Univ., Mymensingh)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(21 Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 ref. Summary (En). Received for publication 30 Mar 1973</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500229</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Agricultural Sciences (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5022</ags:citationIdentifier>
+<ags:citationNumber>v. 44(1) p. 64-65</ags:citationNumber>
+<ags:citationChronology>(21 Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500289">
+<dc:title xml:lang="en">Effect of high protein levels on the replacement value of guar-meal (Cyamopsis tetragonoloba) in layer's ration (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Saxena, U.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Pradhan, K. (Haryana Agricultural Univ., Hissar (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>8 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500289</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(3) p. 190-193</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500068">
+<dc:title xml:lang="en">Measurement of the rate of production of protozao with the help of S in the rumen of cattle and buffalo [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Singh, U.B.</ags:creatorPersonal>
+<ags:creatorPersonal>Verma, D.N.</ags:creatorPersonal>
+<ags:creatorPersonal>Varma, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Ranjhan, S.K. (Indian Veterinary Research Inst., Izatnagar, Uttar Pradesh)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>8 ref. Summary (En). Received for publication 28 Feb 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500068</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(2) p. 89-91</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500015">
+<dc:title xml:lang="en">Correlation studies on soil tests for zine and response of rice on cultivators' fields in Central alluvial soils of Uttar Pradesh [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Pathak, A.N.</ags:creatorPersonal>
+<ags:creatorPersonal>Tiwari, K.N.</ags:creatorPersonal>
+<ags:creatorPersonal>Singh, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Pandey, R.B. (Uttar Pradesh Inst. of Agricultural Sciences, Kanpur (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 tables; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500015</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Fertilizer News (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0015-0206</ags:citationIdentifier>
+<ags:citationNumber>v. 20(4) p. 12-15</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500072">
+<dc:title xml:lang="en">Longevity and migration of infective larvae of some common nematodes of goats in different types of soil [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Tripathi, J.C. (Indian Veterinary Research Inst., Izatnagar, Uttar Pradesh)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L72</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 tables; Summary (En). Received for publication 24 Feb 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500072</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(2) p. 104-108</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500243">
+<dc:title xml:lang="en">Note on the evaluation of poly-ortho- and nitric-phosphates as sources of phosphorus for wheat (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sharma, P.D.</ags:creatorPersonal>
+<ags:creatorPersonal>Singh, T.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Gingrich, J.R. (Govind Ballabh Pant Univ. of Agriculture and Technology, Pantnagar, Uttar Pradesh (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(26 Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Received for publication 28 Feb 1973</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500243</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Agricultural Sciences (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5022</ags:citationIdentifier>
+<ags:citationNumber>v. 44(3) p. 168-169</ags:citationNumber>
+<ags:citationChronology>(26 Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500241">
+<dc:title xml:lang="en">Note on the relative efficacy of different insecticides for the control of the painted-bug, Bagrada cruciferarum krik (Hemiptera: Pentatomidae), on pearl-millet (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sandhu, G.S.</ags:creatorPersonal>
+<ags:creatorPersonal>Singh, B.</ags:creatorPersonal>
+<ags:creatorPersonal>Bhalla, J.S. (Punjab Agricultural Univ., Ludhiana (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(26 Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Received for publication 27 Feb 1973</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500241</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Agricultural Sciences (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5022</ags:citationIdentifier>
+<ags:citationNumber>v. 44(3) p. 165-166</ags:citationNumber>
+<ags:citationChronology>(26 Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500063">
+<dc:title xml:lang="en">Sampling plan for the measurement of changes in level of milk production in areas under development [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Aneja, K.G.</ags:creatorPersonal>
+<ags:creatorPersonal>Marutiram, B. (Institute of Agricultural Research Statistics, New Delhi (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">U10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Appendix. Summary (En). Received for publication 30 Jul 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500063</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(2) p. 70-75</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500274">
+<dc:title xml:lang="en">Plaque assay of buffalo-pox virus</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Bansal, R.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Singh, I.P. (Haryana Agricultural Univ., Hissar (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>7 ref. Summary (En). Received for publication 5 Jun 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500274</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(1) p. 31-35</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500302">
+<dc:title xml:lang="en">Effect of age on chemical composition of parotid saliva in Bubalus bubalis and Bos indicus calves 2 p H, dry matter, ash content, buffering capacity and freezing point depression (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Raizada, B.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Rai, G.S.</ags:creatorPersonal>
+<ags:creatorPersonal>Pandey, M.D.</ags:creatorPersonal>
+<ags:creatorPersonal>Rawat, J.S. (Uttar Pradesh Coll. of Veterinary Science and Animal Husbandry, Mathura (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>11 ref. Summary (En). Received for publication 27 Feb 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500302</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(4) p. 238-242</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500080">
+<dc:title xml:lang="en">Effect of feeding urea with and without supplementation of oxytetracycline to milk cows on body weight and milk production [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Shukla, P.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Talpada, P.M. (Institute of Agriculture, Anand, Gujarat (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 ref. Summary (En). Received for publication 26 Mar 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500080</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(2) p. 134-137</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500039">
+<dc:title xml:lang="en">[Studies on the photoperiodic responses of jute [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Bose, T.K.</ags:creatorPersonal>
+<ags:creatorPersonal>Bose, Tapas</ags:creatorPersonal>
+<ags:creatorPersonal>Basu, R.N. (Agri-Horticultural Society of India, Calcutta. Birla Lab.)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>8 tables; 6 ref. Summary (En). Received for publication 31 Jul 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500039</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Plant Physiology (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5502</ags:citationIdentifier>
+<ags:citationNumber>v. 17(1/2) p. 89-94</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500076">
+<dc:title xml:lang="en">Migratory behaviour in genaeid prawns [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Subrahmanyam, M. (Andhra Univ., Waltair (India). Dept. of Zoology)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M40</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>15 ref. Summary (En). Received for publication 5 Mar 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500076</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(2) p. 117-123</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500316">
+<dc:title xml:lang="en">A note on the histopathology of coccidia lesions in kids (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Singh, N.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Bhagwan, P.S.K. (Govind Ballabh Pant Univ. of Agriculture and Technology, Pantnagar, Uttar Pradesh (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Received for publication 27 Jun 1973</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500316</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(4) p. 284-285</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500087">
+<dc:title xml:lang="en">Effect of phosphorus nutrition in presence of magnesium, zinc and molybdenum on the seed proteins of groundnut and blackgram [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Rajashekar, C.</ags:creatorPersonal>
+<ags:creatorCorporate>University of Agricultural Sciences, Bangalore (India)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherPlace>Bangalore (India)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>13 illus.; 17 tables; Bibliography (134 ref.); Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>Z</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>134 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500087</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500073">
+<dc:title xml:lang="en">Comparative efficiencies of animal and vegetable proteins in laying rations [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Dutta, S.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Bose, S. (Kalyani Univ., West Bengal (India). Dept. of Chemistry)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 ref. Summary (En). Received for publication 1 Jan 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500073</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(2) p. 109-111</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500304">
+<dc:title xml:lang="en">Studies on the growth of foot and mouth disease virus type 'Asia 1' in various primary cell monolayers (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nair, S.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Uppal, P.K.</ags:creatorPersonal>
+<ags:creatorPersonal>Kumar, S. (Indian Veterinary Research Inst., Mukteswar - Kumaon, Uttar Pradesh)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>7 ref. Summary (En). Received for publication 24 Aug 1972</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500304</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(4) p. 248-251</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500214">
+<dc:title xml:lang="en">Acceptability of chapaties prepared from high yielding varieties of wheat (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Chopra, K.</ags:creatorPersonal>
+<ags:creatorPersonal>Bhat, C.M. (Punjab Agricultural Univ., Ludhiana (India). Coll. of Home Science)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">S00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 ref. Summary (En). Received for publication 3 Jul 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500214</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Nutrition and Dietetics (India)</ags:citationTitle>
+<ags:citationNumber>v. 12(4) p. 120-123</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500083">
+<dc:title xml:lang="en">Nucleus length of spermatozoa in four species of Drosaphilia [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Saxena, M.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Sidhu, N.S. (Indian Veterinary Research Inst., Izatnagar, Uttar Pradesh)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 ref. Summary (En). Received for publication 2 Dec 1972</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500083</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(2) p. 142-144</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500277">
+<dc:title xml:lang="en">Studies on growth and egg production in white Leghorn birds maintained on varying levels of protein in the mash (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Singh, R.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Talapatra, S.K. (Uttar Pradesh Coll. of Veterinary Science and Animal Husbandry, Mathura (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>7 ref. Summary (En). Received for publication 30 Nov 1971</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500277</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(1) p. 46-52</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500269">
+<dc:title xml:lang="en">Deterioration of nucleic acids in the semen of bulls and buffalo bulls during storage (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Vyas, M.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Vyas, K.K.</ags:creatorPersonal>
+<ags:creatorPersonal>Dwaraknath, P.K. (College of Veterinary and Animal Science, Bikaner, Rajasthan (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>16 ref. Summary (En). Received for publication 7 Dec 1972</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500269</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(1) p. 4-8</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500286">
+<dc:title xml:lang="en">A comparative study of the carbonyls in butter-fat oxidized with and without milk phospholipids (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Pruthi, T.D.</ags:creatorPersonal>
+<ags:creatorPersonal>Narayanan, K.M.</ags:creatorPersonal>
+<ags:creatorPersonal>Bhalerao, V.R. (National Dairy Research Inst., Karnal, Haryana (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>11 ref. Summary (En). Received for publication 7 Mar 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500286</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(3) p. 173-177</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500292">
+<dc:title xml:lang="en">A note on the morphometry of adrenal glands in the Indian buffalo (Bubalus bubalis) (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Prasad, G.</ags:creatorPersonal>
+<ags:creatorPersonal>Yadava, R.C.P. (Bihar Veterinary Coll., Patna (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L40</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 ref. Received for publication 28 Dec 1972</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500292</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(3) p. 204-206</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500233">
+<dc:title xml:lang="en">Components of genetic variation for yield and its attributes in 6 x 6 diallel crosses of castor (Ricinus communis L.) (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Giriraj, K.</ags:creatorPersonal>
+<ags:creatorPersonal>Mensinkai, S.W.</ags:creatorPersonal>
+<ags:creatorPersonal>Sindagi, S.S. (College of Agriculture, Dharwar, Karnataka (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(26 Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>12 ref. Summary (En). Received for publication 31 Mar 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500233</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Agricultural Sciences (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5022</ags:citationIdentifier>
+<ags:citationNumber>v. 44(3) p. 132-136</ags:citationNumber>
+<ags:citationChronology>(26 Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500253">
+<dc:title xml:lang="en">Variation and covariation of some plant and grain traits in pearl millet (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Gupta, V.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Dhillon, B.S. (Punjab Agricultural Univ., Ludhiana (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 ref. Summary (En). Received for publication 29 May 1972</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500253</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Agricultural Sciences (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5022</ags:citationIdentifier>
+<ags:citationNumber>v. 44(4) p. 213-216</ags:citationNumber>
+<ags:citationChronology>(May 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500098">
+<dc:title xml:lang="en">Milk proteins [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ganguli, N.C. (National Dairy Research Inst., Karnal, Haryana (India). Div. of Dairy Chemistry)</ags:creatorPersonal>
+<ags:creatorCorporate>Indian Council of Agricultural Research, New Delhi</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>ICAR</ags:publisherName>
+<ags:publisherPlace>New Delhi (India)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Dec 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">S10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>85 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:format><dcterms:extent>287 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500098</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500069">
+<dc:title xml:lang="en">Measurement of the production of volatile fatty acid in the rumen of buffalo using a continuous infusion direct isotope dilution technique [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Punj, M.L.</ags:creatorPersonal>
+<ags:creatorPersonal>Marwaha, S.R.</ags:creatorPersonal>
+<ags:creatorPersonal>Sareen, V.K.</ags:creatorPersonal>
+<ags:creatorPersonal>Singh, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Bhatia, I.S. (Punjab Agricultural Univ., Ludhiana (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1972)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>7 tables; 16 ref. Summary (En). Received for publication 23 Nov 1972</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500069</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(2) p. 92-98</ags:citationNumber>
+<ags:citationChronology>(Dec 1972)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500249">
+<dc:title xml:lang="en">Genetic analysis of yield and its direct components in wheat (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Singh, P.V.</ags:creatorPersonal>
+<ags:creatorPersonal>Singh, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Ahmad, Z.</ags:creatorPersonal>
+<ags:creatorPersonal>Khanna, A.N. (Uttar Pradesh Inst. of Agricultural Sciences, Kanpur (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>10 ref. Summary (En). Received for publication 19 Dec 1972</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500249</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Agricultural Sciences (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5022</ags:citationIdentifier>
+<ags:citationNumber>v. 44(4) p. 194-200</ags:citationNumber>
+<ags:citationChronology>(May 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500027">
+<dc:title xml:lang="en">An analysis of growth of salt stressed wheat seedling [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Balasubramanian, V.</ags:creatorPersonal>
+<ags:creatorPersonal>Sarin, M.N. (Indian Agricultural Research Inst., New Delhi. Div. of Plant Physiology)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 tables; 14 ref. Summary (En). Received for publication 22 Aug 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500027</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Plant Physiology (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5502</ags:citationIdentifier>
+<ags:citationNumber>v. 17(1/2) p. 21-27</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500091">
+<dc:title xml:lang="en">Bongavinvilleas [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Pal, B.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Swarup, V.</ags:creatorPersonal>
+<ags:creatorCorporate>Indian Council of Agricultural Research, New Delhi</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>ICAR</ags:publisherName>
+<ags:publisherPlace>New Delhi (India)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Feb 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:format><dcterms:extent>105 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500091</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500298">
+<dc:title xml:lang="en">A note on aspergillosis in a pig (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sadana, J.R.</ags:creatorPersonal>
+<ags:creatorPersonal>Kalra, O.S. (College of Veterinary Sciences, Hissar, Haryana (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Received for publication 29 Jun 1973</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500298</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(3) p. 218-219</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500235">
+<dc:title xml:lang="en">Correlations in Indian colza (Brassica Campestris L. Var. Sarson Prain) (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Singh, D.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Singh, D. (Uttar Pradesh Inst. of Agricultural Sciences, Kanpur (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(26 Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 ref. Summary (En). Received for publication 4 Apr 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500235</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Agricultural Sciences (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5022</ags:citationIdentifier>
+<ags:citationNumber>v. 44(3) p. 142-144</ags:citationNumber>
+<ags:citationChronology>(26 Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500043">
+<dc:title xml:lang="en">Heat loss by respiration in Hariana, Tharparkar and Sahiwal breed under hot dry and hot humid conditions</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ghosal, A.K.</ags:creatorPersonal>
+<ags:creatorPersonal>Guha, S. (Indian Veterinary Research Inst. Izatnagar, Uttar Pradesh. Post-Graduate College of Animal Sciences)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L20</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 tables; 9 ref. Summary (En). Received for publication 30 Jun 1972</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500043</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Health (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5057</ags:citationIdentifier>
+<ags:citationNumber>v. 13(2) p. 111-116</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500065">
+<dc:title xml:lang="en">Effect of gonadotrophic harmones on sex drive and semen production in Murrah buffalo bulls [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Saxena, V.N.</ags:creatorPersonal>
+<ags:creatorPersonal>Singh, G. (Indian Veterinary Research Inst., Izatnagar, Uttar Pradesh)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>15 ref. Summary (En). Received for publication 29 May 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500065</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(2) p. 80-83</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500254">
+<dc:title xml:lang="en">Stability of performance of soybean varieties in Madhya Pradesh (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Lal, M.S.</ags:creatorPersonal>
+<ags:creatorPersonal>Mehta, S.K.</ags:creatorPersonal>
+<ags:creatorPersonal>Pandya, S.C. (Jawaharlal Nehru Krishi Vishwa Vidyalaya, Jabalpur, Madhya Pradesh (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>4 ref. Summary (En). Received for publication 2 Jan 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500254</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Agricultural Sciences (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5022</ags:citationIdentifier>
+<ags:citationNumber>v. 44(4) p. 217-220</ags:citationNumber>
+<ags:citationChronology>(May 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500023">
+<dc:title xml:lang="en">Study on the root-nodule bacteria of groundnut, Archis hypogaea, with special reference to their utilization of nodular carbohydrates in the symbiotic fixation of nitrogen [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Singh, R.</ags:creatorPersonal>
+<ags:creatorPersonal>Singh, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Singh, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Bhatia, I.S. (Pungab Agricultural Univ., Ludhiana (India). Dept. of Chemistry and Biochemistry)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>24 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500023</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Microbiology (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0046-8991</ags:citationIdentifier>
+<ags:citationNumber>v. 14(3) p. 125-129</ags:citationNumber>
+<ags:citationChronology>(1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500285">
+<dc:title xml:lang="en">Studies on the pathology of white-spotted kidneys in calves (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Chauhan, H.V.S.</ags:creatorPersonal>
+<ags:creatorPersonal>Kalra, D.S.</ags:creatorPersonal>
+<ags:creatorPersonal>Bhatia, K.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Kharole, M.U. (Haryana Agricultural Univ., Hissar (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>11 ref. Summary (En). Received for publication 14 Mar 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500285</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(3) p. 168-172</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500258">
+<dc:title xml:lang="en">Note on 'UPAS 120' on early-maturing mutant of pigeon-pea (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Singh, B.B.</ags:creatorPersonal>
+<ags:creatorPersonal>Gupta, S.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Singh, B.D. (Govind Ballabh Pant Univ. of Agriculture and Technology, Pantnagar, Uttar Pradesh (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 ref. Received for publication 16 Apr 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500258</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Agricultural Sciences (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5022</ags:citationIdentifier>
+<ags:citationNumber>v. 44(4) p. 233-234</ags:citationNumber>
+<ags:citationChronology>(May 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500032">
+<dc:title xml:lang="en">Degradation of tannins of amla plant by Aspergillus niger [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Srivastava, S.K.</ags:creatorPersonal>
+<ags:creatorPersonal>Sharma, S.K. (Meerut Coll., Uttar Pradesh (India). Dept. of Botany)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 tables; 18 ref. Summary (En). Received for publication 23 Jan 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500032</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Plant Physiology (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5502</ags:citationIdentifier>
+<ags:citationNumber>v. 17(1/2) p. 47-52</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500306">
+<dc:title xml:lang="en">Isolation and characterization of streptococcus sp. from the rumen of sheep and buffalo calves (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Srivastava, R.V.N.</ags:creatorPersonal>
+<ags:creatorPersonal>Srivastava, S.K. (Indian Veterinary Research Inst., Izatnagar, Uttar Pradesh)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>15 ref. Summary (En). Received for publication 28 Jun 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500306</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(4) p. 257-267</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500294">
+<dc:title xml:lang="en">A note on the isolation and characterization of infectious laryngotracheitis virus of poultry (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sharma, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Bhambani, B.D.</ags:creatorPersonal>
+<ags:creatorPersonal>Agarwal, K.K. (Indian Veterinary Research Inst., Izatnagar, Uttar Pradesh)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>15 ref. Received for publication 1 Feb 1973</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500294</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(3) p. 209-210</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500245">
+<dc:title xml:lang="en">Note on the genome status of Oryza Collina (Trimen) (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nanda, J.S.</ags:creatorPersonal>
+<ags:creatorPersonal>Singh, D.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Chaudhary, R.C. (Govind Ballabh Pant Univ. of Agriculture and Technology, Pantnagar, Uttar Pradesh (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(26 Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>10 ref. Received for publication 4 Jun 1973</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500245</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Agricultural Sciences (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5022</ags:citationIdentifier>
+<ags:citationNumber>v. 44(3) p. 172-173</ags:citationNumber>
+<ags:citationChronology>(26 Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500263">
+<dc:title xml:lang="en">Note on the effect of boll size on the fibre properties of upland cotton (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Chiplonkar, N.C. (Cotton Technological Lab., Indore, Madhya Pradesh (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 ref. Received for publication 22 Dec 1972</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500263</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Agricultural Sciences (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5022</ags:citationIdentifier>
+<ags:citationNumber>v. 44(4) p. 245</ags:citationNumber>
+<ags:citationChronology>(May 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500267">
+<dc:title xml:lang="en">Note on screening commercial cotton varieties of India for resistance to races of xanthomonas malvacearum (E.F. Smith) Dowson (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Verma, J.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Singh, R.P. (Indian Agricultural Research Inst., New Delhi)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 ref. Received for publication 16 Jul 1973</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500267</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Agricultural Sciences (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5022</ags:citationIdentifier>
+<ags:citationNumber>v. 44(4) p. 236-238</ags:citationNumber>
+<ags:citationChronology>(May 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500071">
+<dc:title xml:lang="en">3-4-dichloropropionanilide poisoning in buffalo calves [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Agarwal, N.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Bahga, H.S.</ags:creatorPersonal>
+<ags:creatorPersonal>Sharma, U.K.</ags:creatorPersonal>
+<ags:creatorPersonal>Soni, B.K. (Govind Ballabh Pant Univ. of Agriculture and Technology, Pantnagar, Uttar Pradesh (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>13 ref. Summary (En). Received for publication 1 Mar 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500071</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(2) p. 101-103</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500259">
+<dc:title xml:lang="en">Note on the inheritance of branched ear in barley (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Gulati, S.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Bansal, H.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Varma, N.S. (Indian Agricultural Research Inst., New Delhi)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>4 ref. Received for publication 18 Jul 1973</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500259</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Agricultural Sciences (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5022</ags:citationIdentifier>
+<ags:citationNumber>v. 44(4) p. 235</ags:citationNumber>
+<ags:citationChronology>(May 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500280">
+<dc:title xml:lang="en">Estimation of average productive life of cattle on a modern dairy farm (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sharma, K.N.S.</ags:creatorPersonal>
+<ags:creatorPersonal>Singh, S. (National Dairy Research Inst., Karnal, Haryana (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>4 ref. Summary (En). Received for publication 28 Oct 1972</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500280</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(3) p. 145-149</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500242">
+<dc:title xml:lang="en">Note on the effect of inorganic fertilizers on the efficacy of phorate in the control of sorghum shoot-fly, Atherigona variasoccata Rondani (Diptera: Anthomyiidai) (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Panchabhavi, K.S.</ags:creatorPersonal>
+<ags:creatorPersonal>Desai, K.S.M.</ags:creatorPersonal>
+<ags:creatorPersonal>Thimmiah, G. (University of Agricultural Sciences, Bangalore, Karnataka (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(26 Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Received for publication 23 Feb 1973</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500242</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Agricultural Sciences (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5022</ags:citationIdentifier>
+<ags:citationNumber>v. 44(3) p. 167-168</ags:citationNumber>
+<ags:citationChronology>(26 Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500310">
+<dc:title xml:lang="en">A note on the ruman and blood p.H as influenced by urea feeding in buffaloes (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ahuja, A.K.</ags:creatorPersonal>
+<ags:creatorPersonal>Bhatia, S.K.</ags:creatorPersonal>
+<ags:creatorPersonal>Pradhan, K. (Haryana Agricultural Univ., Hissar (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 ref. Received for publication 25 Jun 1973</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500310</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(4) p. 272-273</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500037">
+<dc:title xml:lang="en">Promotion of rooting by cycloheximide on hypocotyl cuttings of balsamina and associated changes in the pattern of isopeoxidases [India]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Dhaliwal, G.</ags:creatorPersonal>
+<ags:creatorPersonal>Bhattacharya, N.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Nanda, K.K. (Punjab Univ., Chandigarh (India). Dept. of Botany)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 illus.; 26 ref. Summary (En). Received for publication 21 Mar 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500037</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Plant Physiology (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5502</ags:citationIdentifier>
+<ags:citationNumber>v. 17(1/2) p. 73-91</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500247">
+<dc:title xml:lang="en">Effect of soil-water potential in germination of sugarcane setts (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Singh, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Srivastava, K.K. (Indian Inst. of Sugarcane Research, Lucknow, Uttar Pradesh)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">P10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>10 ref. Summary (En). Received for publication 14 May 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500247</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Agricultural Sciences (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5022</ags:citationIdentifier>
+<ags:citationNumber>v. 44(4) p. 184-187</ags:citationNumber>
+<ags:citationChronology>(May 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500256">
+<dc:title xml:lang="en">Intercropping of wheat and sugarcane (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Singh, P.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Singh, A. (Govind Ballabh Pant Univ. of Agricultural and Technology, Pantnagar, Uttar Pradesh (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Summary (En). Received for publication 28 Sep 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500256</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Agricultural Sciences (India)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-5022</ags:citationIdentifier>
+<ags:citationNumber>v. 44(4) p. 226-230</ags:citationNumber>
+<ags:citationChronology>(May 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="IN7500314">
+<dc:title xml:lang="en">A note on the microscopic structures of the sebaceous glands in the paralumbar region of the Indian buffalo calves (India)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Singh, L.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Prasad, J.</ags:creatorPersonal>
+<ags:creatorPersonal>Yadava, R.C.P. (Bihar Veterinary Coll., Patna (India))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L40</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Received for publication 12 May 1973</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>IN</ags:availabilityLocation><ags:availabilityNumber>7500314</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Indian Journal of Animal Sciences (India)</ags:citationTitle>
+<ags:citationNumber>v. 44(4) p. 280-281</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+</ags:resources>

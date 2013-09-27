@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "../../agrislegacy.dtd">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="SU7500522">
+<dc:title xml:lang="en">[Determination of soil mechanical composition in samples taken in one column [Lithuanian SSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Payarskajte, A.I.</ags:creatorPersonal>
+<ags:creatorCorporate>Ministerstvo Sel'skogo Khozyajstva SSSR, Moscow</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F22</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Table; 4 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500522</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Pochvovedenie (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 129-134</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500584">
+<dc:title xml:lang="en">[Diagnostics and comparative methods of medical treatment of omasum constipation and repletion [in cows]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Korobov, A.V. (Moskovskaya Veterinarnaya Akademiya (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 illus.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500584</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Veterinariya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 87-89</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500530">
+<dc:title xml:lang="en">[Effect of moose on undergrowth and underwood in the Berezinsky reserve [Byelorussian SSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Yanushko, A.D.</ags:creatorPersonal>
+<ags:creatorPersonal>Dunin, V.F. (Berezinskij Zapovednik (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>4 tables; 16 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500530</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Lesovedenie (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.3) p. 74-79</ags:citationNumber>
+<ags:citationChronology>(May 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500546">
+<dc:title xml:lang="en">[Scheme of automatic water regulation with flow-over volumes]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kovalenko, P.I.</ags:creatorPersonal>
+<ags:creatorPersonal>Il'ina, L.M. (Ukrainskij Nauchno-Issledovatel'skij Inst. Gidrotekhniki i Melioratsii, Kiev)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">P12</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus., 7 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500546</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Gidrotekhnika i Melioratsiya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 52-57</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500535">
+<dc:title xml:lang="en">[More attention to chemical weed control on corn fields]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Fisyunov, A.V. (Poltavskij Sel'skokhozyajstvennyj Inst. (Ukrainian SSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H60</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500535</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zashchita Rastenij (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 23-25</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500551">
+<dc:title xml:lang="en">[Efficiency of rice production [Rostov region, RSFSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Shalamov, F.F. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Ehkonomiki Sel'skogo Khozyajstva, Moscow (USSR). Severo-Kavkazskij Filial)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500551</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zernovoe Khozyajstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 13-14</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500533">
+<dc:title xml:lang="en">[Herbicide mixtures for sugar-beet [Ukrainian SSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Borona, V.P. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Sakharnoj Svekly, Kiev (Ukrainian SSR). Uladovo-Lyulinetskaya Opytno-Selektsionnaya Stantsiya)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H60</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500533</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zashchita Rastenij (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 19-20</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500555">
+<dc:title xml:lang="en">[Sowing terms and yield of wheat [Kulundinskaja steppe, RSFSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Barsukov, A.I. (Slavgorodskij Sel'skokhozyajstvennyj Tekhnikum, Altajskij Kraj (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Table</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500555</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zernovoe Khozyajstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 25-26</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500586">
+<dc:title xml:lang="en">[Glutathione and peroxidase blood activity in the case of animals' triallate poisoning]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Zhavoronkov, N.I.</ags:creatorPersonal>
+<ags:creatorPersonal>Verkhovskij, A.P. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Ehksperimental'noj Veterinarii, Moscow (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 tables</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500586</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Veterinariya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 91-92</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500528">
+<dc:title xml:lang="en">[Peculiarities of typology of shelter belts in the dry steppe and the semi-desert]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Savel'eva, L.S. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Agrolesomelioratsii, Volgograd (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F28</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500528</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Lesovedenie (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.3) p. 56-60</ags:citationNumber>
+<ags:citationChronology>(May 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500578">
+<dc:title xml:lang="en">[Efficiency of dibiomycin against poultry spirochetosis]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Shkarin, N.V.</ags:creatorPersonal>
+<ags:creatorCorporate>Ministerstvo Sel'skogo Khozyajstva SSSR, Moscow</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L72</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Table</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500578</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Veterinariya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 67-68</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500544">
+<dc:title xml:lang="en">[Water consumption of cultured plants on peat soils [Byelorussian SSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Lashkevich, G.I. (AN Belorusskoj SSR, Minsk)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">P12</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>4 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500544</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Gidrotekhnika i Melioratsiya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 37-42</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500579">
+<dc:title xml:lang="en">[Clinical and hystological modifications in cow genitals in the case of sterility]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Selunskaya, E.I. (Troitskij Veterinarnyj Inst. (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 illus.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500579</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Veterinariya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 69-74</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500585">
+<dc:title xml:lang="en">[Prevention of stresses in calves during transportation]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Tehrytseh, I.N. (Moldavskij Nauchno-Issledovatel'skij Inst. Zhivotnovodstva i Veterinarii, Kriulyanskij Rajon (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500585</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Veterinariya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 89-90</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500599">
+<dc:title xml:lang="en">[Cytogenetic study of the combined effect of ethylene imine (EI) AND N-nitroso-N-methyl urea (NMU) on cells of cotton seeds]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Shamaeva, N.N.</ags:creatorPersonal>
+<ags:creatorPersonal>Mamedov, K. (AN Tadzhikskoj SSR, Dushanbe. Inst. Botaniki)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 graphs, 4 tables; 18 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500599</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Genetika (USSR)</ags:citationTitle>
+<ags:citationNumber>v. 11(4) p. 11-21</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500573">
+<dc:title xml:lang="en">[Postvaccinal immunity and virus carrier state in the case of swine fever occurrence]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Chernyak, I.M. (Vsesoyuznyj Gosudarstvennyj Nauchno-Issledovatel'skij Inst. Veterinarnykh Preparatov, Moscow (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 tables</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500573</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Veterinariya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 52-55</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500545">
+<dc:title xml:lang="en">[Agricultural estimation of the sprinkling machine ''Fregate'' [Kherson region, Ukrainian SSR and Volgograd region, RSFSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Moskvichev, Yu.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Khajdarova, G.Ya.</ags:creatorPersonal>
+<ags:creatorPersonal>Krasnoshchekov, V.S. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Mekhanizatsii i Tekhniki Poliva, Kolomna (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">P12</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>4 graphs</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500545</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Gidrotekhnika i Melioratsiya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 43-47</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500266">
+<dc:title xml:lang="en">[On dequated soils of the Rovensk district [about increasing efficiency of grain production]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Gollyaka, I.G.</ags:creatorPersonal>
+<ags:creatorPersonal>Bushinskaya, M.V. (Rovenskaya Gosudarstvennaya Oblastnaya Sel'skokhozyajstvennaya Opytnaya Stantsiya, Rovenskaya Oblast' (Ukrainian SSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">P12</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500266</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zernovoe Khozyajstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.2) p. 12-13</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500553">
+<dc:title xml:lang="en">[Peas in the North of Kazakhstan]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Bents, V.A. (Severnyj Nauchno-Issledovatel'skij Inst. Zhivotnovodstva, Bishkul'skij Rajon (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Table</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500553</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zernovoe Khozyajstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 22-24</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500540">
+<dc:title xml:lang="en">[Grape fruitade - attractant of eastern worm]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Arakelyan, A.O.</ags:creatorPersonal>
+<ags:creatorPersonal>Nikogosyan, Eh.Z. (Armyanskij Nauchno-Issledovatel'skij Inst. Vinogradarstva, Vinodeliya i Plodovodstva, Ehchmiadzin (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500540</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zashchita Rastenij (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 50</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500549">
+<dc:title xml:lang="en">[Biological sealing of wells]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Alekseev, V.S. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Vodosnabzheniya, Kanalizatsii, Gidrotekhnicheskikh Sooruzhenij i Inzhenernoj Gidrogeologii, Moscow (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">P12</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 tables; 7 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500549</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Gidrotekhnika i Melioratsiya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 87-92</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500527">
+<dc:title xml:lang="en">[On the role of grass cover in production and biological turnover of oak-grove in the forest-steppe zone [in Byelgorod region]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Goryshina, T.K.</ags:creatorPersonal>
+<ags:creatorPersonal>Neshataev, Yu.N.</ags:creatorPersonal>
+<ags:creatorPersonal>Tereshenkova, I.A. (Leningradskij Gosudarstvennyj Univ. (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 tables; 17 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500527</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Lesovedenie (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.3) p. 29-38</ags:citationNumber>
+<ags:citationChronology>(May 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500550">
+<dc:title xml:lang="en">[Utilization of the Caspian sea water for irrigation]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Grammatikati, O.G.</ags:creatorPersonal>
+<ags:creatorPersonal>Omarov, K.</ags:creatorPersonal>
+<ags:creatorPersonal>Ramazanov, D.</ags:creatorPersonal>
+<ags:creatorPersonal>Shugaibov, Z. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Gidrotekhniki i Melioratsii, Moscow (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">P12</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 4 tables, 4 graphs</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500550</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Gidrotekhnika i Melioratsiya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 94-99</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500568">
+<dc:title xml:lang="en">[Comprehensive biological estimation of virus-vaccines against Marek disease]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Korovin, R.N.</ags:creatorPersonal>
+<ags:creatorPersonal>Matyushkov, V.S.</ags:creatorPersonal>
+<ags:creatorPersonal>Ajrapetov, R.G.</ags:creatorPersonal>
+<ags:creatorPersonal>Malygin, A.I.</ags:creatorPersonal>
+<ags:creatorPersonal>Zubtsova, R.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Krejmer, Yu.Kh.</ags:creatorPersonal>
+<ags:creatorPersonal>Derevleva, T.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Lukina, V.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Tokarik, Eh.F.</ags:creatorPersonal>
+<ags:creatorPersonal>Kuznetsov, P.P.</ags:creatorPersonal>
+<ags:creatorCorporate>Ministerstvo Sel'skogo Khozyajstva SSSR, Moscow</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500568</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Veterinariya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 39-40</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500558">
+<dc:title xml:lang="en">[Reserves of the yield [of barley. Tambov region, RSFSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kuleshov, K.R.</ags:creatorPersonal>
+<ags:creatorPersonal>Fedorov, V.A. (Tambovskaya Gosudarstvennaya Oblastnaya Sel'skokhozyajstvennaya Opytnaya Stantsiya (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500558</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zernovoe Khozyajstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 27-28</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500600">
+<dc:title xml:lang="en">[Influence of growth conditions on the combining ability of tobacco]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nosova, P.P. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Tabaka i Makhorki, Krasnodar (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 tables; 11 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500600</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Genetika (USSR)</ags:citationTitle>
+<ags:citationNumber>v. 11(4) p. 37-43</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500587">
+<dc:title xml:lang="en">[Finding phosalone in pathological material [of vegetable and animal origin]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Konyukhov, A.F. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Ehksperimental'noj Veterinarii, Moscow (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500587</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Veterinariya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 93-94</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500583">
+<dc:title xml:lang="en">[Prophylaxis of sheep ketosis]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Dakka, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Migalatyuk, E.M. (Moskovskaya Veterinarnaya Akademiya (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 tables</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500583</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Veterinariya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 84-87</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500554">
+<dc:title xml:lang="en">[Processing of wheat seeds with CCC [Kursk region, RSFSR]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Shuklina, I.A. (Kurskij Sel'skokhozyajstvennyj Inst. (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500554</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zernovoe Khozyajstvo (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 24-25</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="SU7500581">
+<dc:title xml:lang="en">[Comparative estimation of hormonal preparates in the case of cow sterility]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Cheremisinov, G.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Nezhdanov, A.G. (Vsesoyuznyj Nauchno-Issledovatel'skij Inst. Nezaraznykh Boleznej Zhivotnykh, Voronezh (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Ru</dc:language>
+<agls:availability><ags:availabilityLocation>SU</ags:availabilityLocation><ags:availabilityNumber>7500581</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Veterinariya (USSR)</ags:citationTitle>
+<ags:citationNumber>(no.4) p. 76-78</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+</ags:resources>

@@ -59,7 +59,7 @@ import org.ontspace.dc.translator.DublinCore;
  */
 public class DrushUpdater {
 
-	private static final String DRUPAL_ROOT_DIR = "/www/voa3r";
+	private static final String DRUPAL_ROOT_DIR = "/www/newvoa3r";
 	// Tests
 	private final boolean RUN_TESTS = false;
 	private final int DUBLIN_CORE = 0;

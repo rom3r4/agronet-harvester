@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "../../agrislegacy.dtd">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="XL7505411">
+<dc:title xml:lang="en">[Papers presented in the Fifteenth Congress of the International Society of Sugar-cane Technologists [South Africa], 3 (summaries) [diseases and pests, 23 papers]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Anon.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>XL</ags:availabilityLocation><ags:availabilityNumber>7505411</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Brasil Acucareiro (Brazil)</ags:citationTitle>
+<ags:citationNumber>v. 84(5) p. 82-87</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="XL7504264">
+<dc:title xml:lang="en">Chemistry of Brazilian green coffee and the quality of beverage, 4: Electrophoresis of proteins in agar-gel and its interaction with chlorogenic acids</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Amorim, H.V. (Escola Superior de Agricultura ''Luiz de Queiroz'', Piracicaba, SP (Brazil))</ags:creatorPersonal>
+<ags:creatorPersonal>Teixeira, A.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Melo, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Cruz, V.F.</ags:creatorPersonal>
+<ags:creatorPersonal>Malavolta, E.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">S10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>31 ref. Summaries (En, Pt)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>XL</ags:availabilityLocation><ags:availabilityNumber>7504264</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Turrialba (IICA)</ags:citationTitle>
+<ags:citationNumber>v. 25(1) p. 18-24</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="XL7504482">
+<dc:title xml:lang="en">[Mexican official standards, catalog 1972. Supplement to the catalog, 1973 [includes agriculture]]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Secretaria de Industria y Comercio, Mexico City. Direccion General de Normas</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherPlace>Mexico City</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>[nd]</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">D50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">A00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Received at CIDIA Apr 1975</ags:descriptionNotes>
+</dc:description>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>v. 1: 417 p.; v. 2: 37 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>XL</ags:availabilityLocation><ags:availabilityNumber>7504482</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="XL7504323">
+<dc:title xml:lang="en">Influence of gamma irradiation on the mortality of Tribolium casteneum (Herbst)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Wiendl, F.M. (Escola Superior de Agricultura ''Luiz de Queiroz'')</ags:creatorPersonal>
+<ags:creatorPersonal>Tornisielo, V.L.</ags:creatorPersonal>
+<ags:creatorPersonal>Domarco, R.E.</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherPlace>Piracicaba, SP (Brazil)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Oct 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Chiefly numerical; 8 ref. Summaries (En, Pt)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>26 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>XL</ags:availabilityLocation><ags:availabilityNumber>7504323</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Boletim Cientifico - Centro de Energia Nuclear na Agricultura (Brazil)</ags:citationTitle>
+<ags:citationNumber>no. 24</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="XL7504623">
+<dc:title xml:lang="en">Determination of the best interval to apply benlate to control Mycrociclus ulei affecting rubber tree</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Matos, P.</ags:creatorPersonal>
+<ags:creatorPersonal>Santos Filho, H.P. (Instituto de Pesquisas e Experimentacao  Agropecuarias do Leste, Cruz das Almas, BA (Brazil))</ags:creatorPersonal>
+<ags:creatorConference>7. Congresso Anual da Sociedade Brasileira de Fitopatologia, Brasilia (Brazil), 3 Feb 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Summary only</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>XL</ags:availabilityLocation><ags:availabilityNumber>7504623</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Fitopatologia (ALF)</ags:citationTitle>
+<ags:citationTitle>Asociacion Latinoamericana de Fitopatologia</ags:citationTitle>
+<ags:citationNumber>v. 9(2) p. 60</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="XL7503914">
+<dc:title xml:lang="en">Study on corn-weed competition, 1: Investigation on the influence of weed-free bands on the crop yield</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Blanco, H.G.</ags:creatorPersonal>
+<ags:creatorPersonal>Oliveira, D.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Araujo, J.B.M. (Instituto Biologico, Sao Paulo, SP (Brazil))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1973)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 graphs, 5 tables; 20 ref. Summaries (En, Pt). Received at CIDIA 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>XL</ags:availabilityLocation><ags:availabilityNumber>7503914</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Arquivos do Instituto Biologico (Brazil)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0020-3653</ags:citationIdentifier>
+<ags:citationNumber>v. 40(4) p. 309-320</ags:citationNumber>
+<ags:citationChronology>(Oct 1973)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="XL7504923">
+<dc:title xml:lang="en">[Costs and financing of projects]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Veras, A.</ags:creatorPersonal>
+<ags:creatorConference>Cours National en Preparation et Evaluation de Projets de Developpement Agricole, Port-au-Prince (Haiti), Oct 1972</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherPlace>Port-au-Prince (Haiti)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>[nd]</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>21 tables; Translation</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>XL</ags:availabilityLocation><ags:availabilityNumber>7504923</ags:availabilityNumber></agls:availability>
+<dc:source>[Basic documents for study, preparation and evaluation of agricultural development projects], IICA, Port-au-Prince (Haiti).- Port-au-Prince (Haiti), [nd]. 58 p.</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="XL7504080">
+<dc:title xml:lang="en">Irradiation of Pseudoplatystoma corruscans. Possible mutagenic effects of irradiated fish</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Azevedo, J.L. de</ags:creatorPersonal>
+<ags:creatorPersonal>Ferreira, J.R.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1973)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Summary (En); Received at CIDIA Jul 1974</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>XL</ags:availabilityLocation><ags:availabilityNumber>7504080</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Relatorio Cientifico - Escola Superior de Agricultura ''Luiz de Queiroz'' (Brazil)</ags:citationTitle>
+<ags:citationNumber>(no. 7) p. 13-16</ags:citationNumber>
+<ags:citationChronology>(1973)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="XL7504639">
+<dc:title xml:lang="en">[Technological packages for herbaceous cotton. Regions: Geral Mountain of Bahia, Northern Plateau of Diamantina, and Southern Plateau of Diamantina in Bahia State [Brazil]]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Empresa Brasileira de Pesquisa Agropecuaria, Brasilia (Brazil)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherPlace>Brumado, BA (Brazil)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Oct 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">H60</ags:subjectClassification>
+</dc:subject>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>16 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>XL</ags:availabilityLocation><ags:availabilityNumber>7504639</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Circular - Empresa Brasileira de Pesquisa Agropecuaria (Brazil)</ags:citationTitle>
+<ags:citationNumber>no. 6</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="XL7504232">
+<dc:title xml:lang="en">[Provenanced of Pinus spp. adapted to the ecological conditions of Southern Plateaus [Brazil]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Baldanzi, G. (Universidade Federal do Parana, Curitiba (Brazil). Faculdade de Florestas)</ags:creatorPersonal>
+<ags:creatorPersonal>Ritterschofer, F.O.</ags:creatorPersonal>
+<ags:creatorPersonal>Reissmann, C.B.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 tables. Summaries (En, Pt)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>XL</ags:availabilityLocation><ags:availabilityNumber>7504232</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Floresta (Brazil)</ags:citationTitle>
+<ags:citationNumber>v.5(1) p. 31-34</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="XL7505146">
+<dc:title xml:lang="en">Relationship between evapotranspiration of a potato crop (Solanum, tuberosum L.) [Brazil]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Scalopi, E.J.</ags:creatorPersonal>
+<ags:creatorPersonal>Scardua, R.</ags:creatorPersonal>
+<ags:creatorPersonal>Klar, A.E.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1973)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F22</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>14 ref. Summaries (En, Pt)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>XL</ags:availabilityLocation><ags:availabilityNumber>7505146</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Anais da Escola Superior de Agricultura ''Luiz de Queiroz'' (Brazil)</ags:citationTitle>
+<ags:citationNumber>v. 30 p. 83-91</ags:citationNumber>
+<ags:citationChronology>(1973)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="XL7504420">
+<dc:title xml:lang="en">Evaluation of triticale potential in Southern Brazil</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Osorio, E.A. (Universidade Federal de Pelotas, RS (Brazil))</ags:creatorPersonal>
+<ags:creatorPersonal>Moreira, J.C.S.</ags:creatorPersonal>
+<ags:creatorPersonal>Gomes, E.P.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1973)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 tables; 7 ref. Summaries (En, Pt)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>XL</ags:availabilityLocation><ags:availabilityNumber>7504420</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Pesquisa Agropecuaria Brasileira. Serie Agronomia (Brazil)</ags:citationTitle>
+<ags:citationNumber>v. 8(8) p. 217-221</ags:citationNumber>
+<ags:citationChronology>(1973)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="XL7504487">
+<dc:title xml:lang="en">[Generation of energy from [cow and bullock] manure]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Platt, B.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>XL</ags:availabilityLocation><ags:availabilityNumber>7504487</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Campo (Mexico)</ags:citationTitle>
+<ags:citationNumber>v. 50(991) p. 33-35</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="XL7504929">
+<dc:title xml:lang="en">[Guide for preparation of projects in community development]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Inter-American Development Bank, Washington, D.C. (USA)</ags:creatorCorporate>
+<ags:creatorConference>Cours National en Preparation et Evaluation de Projets de Developpement Agricole, Port-au-Prince (Haiti), Oct 1972</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherPlace>Port-au-Prince (Haiti)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>[nd]</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Translation</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>XL</ags:availabilityLocation><ags:availabilityNumber>7504929</ags:availabilityNumber></agls:availability>
+<dc:source>[Basic documents for study, preparation and evaluation of agricultural development projects], IICA, Port-au-Prince (Haiti).- Port-au-Prince (Haiti), [nd]. 13 p.</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="XL7504514">
+<dc:title xml:lang="en">[Beware of botulism [Clostridium botulinum]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Anon.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jun 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q20</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>XL</ags:availabilityLocation><ags:availabilityNumber>7504514</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Tecnica Pesquera (Mexico)</ags:citationTitle>
+<ags:citationNumber>v. 7(77) p. 14-15</ags:citationNumber>
+<ags:citationChronology>(Jun 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="XL7505040">
+<dc:title xml:lang="en">Main diseases present in nurseries of fruit crops of deciduous leaves in Chile</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Torres, A.P. (Universidad de Chile, Santiago)</ags:creatorPersonal>
+<ags:creatorConference>7. Congresso Anual da Sociedade Brasileira de Fitopatologia, Brasilia (Brazil), 3 Feb 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Summary only</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>XL</ags:availabilityLocation><ags:availabilityNumber>7505040</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Fitopatologia (ALF)</ags:citationTitle>
+<ags:citationTitle>Asociacion Latinoamericana de Fitopatologia</ags:citationTitle>
+<ags:citationNumber>v. 9(2) p. 73-74</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="XL7505010">
+<dc:title xml:lang="en">[Influence of storage method on properties of bagasse fiber boards, 1: Affectation of storage time on chemical composition and morphology of bagasse in bales [sugar-cane]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Batlle, E.</ags:creatorPersonal>
+<ags:creatorPersonal>Rodriguez, N.</ags:creatorPersonal>
+<ags:creatorPersonal>Suarez, J.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 graphs, 4 tables; 9 ref. Summaries (En, Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>XL</ags:availabilityLocation><ags:availabilityNumber>7505010</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>ICIDCA (Cuba)</ags:citationTitle>
+<ags:citationTitle>Instituto Cubano de Investigaciones de los Derivados de la Cana de Azucar</ags:citationTitle>
+<ags:citationNumber>v. 8(3) p. 9-15</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="XL7505363">
+<dc:title xml:lang="en">[Damage of Diatraea saccharalis Fabricius (Lepidoptera: Pyralidae) related to plant density, fertility level and corn hybrids in Argentina]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Parisi C, R.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Ortega C, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Reyna R, R.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1973)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>35 ref. Summaries (En, Es)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Es</dc:language>
+<agls:availability><ags:availabilityLocation>XL</ags:availabilityLocation><ags:availabilityNumber>7505363</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agrociencia (Mexico)</ags:citationTitle>
+<ags:citationNumber>(no. 13) p. 43-63</ags:citationNumber>
+<ags:citationChronology>(1973)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="XL7504652">
+<dc:title xml:lang="en">Preliminary studies on the identification of viruses affecting strawberries in the State of Rio Grande do Sul [Brazil]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kuhn, G.B.</ags:creatorPersonal>
+<ags:creatorPersonal>Siqueira, O. (Instituto de Pesquisas e Experimentacao Agropecuarias do Sul, Pelotas, RS (Brazil))</ags:creatorPersonal>
+<ags:creatorConference>7. Congresso Anual da Sociedade Brasileira de Fitopatologia, Brasilia (Brazil), 3 Feb 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F70</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Summary only</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>XL</ags:availabilityLocation><ags:availabilityNumber>7504652</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Fitopatologia (ALF)</ags:citationTitle>
+<ags:citationTitle>Asociacion Latinoamericana de Fitopatologia</ags:citationTitle>
+<ags:citationNumber>v. 9(2) p. 56</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="XL7504203">
+<dc:title xml:lang="en">[Occurrence of parasitic helminths in cattle in the State of Bahia [Brazil]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Brust, M.B.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L72</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>9 illus., 14 ref. Summaries (En, Pt)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>XL</ags:availabilityLocation><ags:availabilityNumber>7504203</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Boletim do Instituto Biologico da Bahia (Brazil)</ags:citationTitle>
+<ags:citationNumber>v. 13(1) p. 138-145</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="XL7504541">
+<dc:title xml:lang="en">[Preliminary observations on the critical period of weed occurrence in cowpea culture, Vigna sinensis (L.) Savi [Brazil]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Paiva, J.B.</ags:creatorPersonal>
+<ags:creatorPersonal>Pitombeira, J.B. (Universidade Federal do Ceara, Fortaleza (Brazil))</ags:creatorPersonal>
+<ags:creatorPersonal>Bezerra, F.F.</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherPlace>Fortaleza (Brazil)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1973</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H60</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">Pt</dc:language>
+<agls:availability><ags:availabilityLocation>XL</ags:availabilityLocation><ags:availabilityNumber>7504541</ags:availabilityNumber></agls:availability>
+<dc:source>[Research report], Universidade Federal do Ceara, Fortaleza (Brazil). Dept. de Fitotecnia.- Fortaleza (Brazil), 1973. p. 54-58</dc:source>
+</ags:resource>
+</ags:resources>

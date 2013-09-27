@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "../../agrislegacy.dtd">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="MA7500012">
+<dc:title xml:lang="en">[Asparagus: experiment results and perspectives of Export and Marketing Office [Morocco]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Anon.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>MA</ags:availabilityLocation><ags:availabilityNumber>7500012</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Maroc Agricole (Morocco)</ags:citationTitle>
+<ags:citationNumber>(no.71) p. 6-9</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="MA7500011">
+<dc:title xml:lang="en">[Sheep cattles of local breeds on the application farm of Hassan II Faculty of Agriculture. Four-year activity review [Morocco]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Bouabouze, A.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>MA</ags:availabilityLocation><ags:availabilityNumber>7500011</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Hommes, Terres et Eaux (Morocco)</ags:citationTitle>
+<ags:citationNumber>(no.12) p. 97-110</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="MA7500006">
+<dc:title xml:lang="en">The D.E.R.R.O. Economic and Rural Development Project of the Occidental Rif: an efficient method in integrated rural development</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Chbicheb, A. (D.E.R.R.O. (Morocco))</ags:creatorPersonal>
+<ags:creatorConference>Reunion sous-regionale sur la Cooperation internationale en Afrique, Tangier (Morocco), 9 Sep 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>MA</ags:availabilityLocation><ags:availabilityNumber>7500006</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Hommes, Terres et Eaux (Morocco)</ags:citationTitle>
+<ags:citationNumber>(no.13) p. 11-24</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="MA7500020">
+<dc:title xml:lang="en">[Precise details about natural areas of Moroccan main conifers in order to individuate provenances [Pinus halepensis, Pinus pinaster, Cupressus atlantica, cedrus atlantica]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Destremay, D.X.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F70</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F40</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>38 charts, scale 1:50,000 to 1:100,000; 23 plates, several numerical tables; 28 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>Y</dc:type>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>MA</ags:availabilityLocation><ags:availabilityNumber>7500020</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Annales de la Recherche Forestiere au Maroc (Morocco)</ags:citationTitle>
+<ags:citationNumber>p. 5-90</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="MA7500023">
+<dc:title xml:lang="en">[Selection and experimentation of oil plants in Morocco [Sunflower, safflower, linseed, rape, castor-oil plant, oil poppy, sesame, madia soybean and groundnut]. Report 1973-1974]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Ministere de l'Agriculture et de la Reforme Agraire, Rabat (Morocco). Station Centrale des Plantes Oleagineuses</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>MARA</ags:publisherName>
+<ags:publisherPlace>Rabat (Morocco)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>[nd]</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Published 1975(?). 112 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:format><dcterms:extent>157 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>MA</ags:availabilityLocation><ags:availabilityNumber>7500023</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="MA7500014">
+<dc:title xml:lang="en">[Trout rivers [Morocco]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Farthouat, J.P.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>MA</ags:availabilityLocation><ags:availabilityNumber>7500014</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Nature et Forets (Morocco)</ags:citationTitle>
+<ags:citationNumber>(no. 5) p. 14-19</ags:citationNumber>
+<ags:citationChronology>(1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+</ags:resources>

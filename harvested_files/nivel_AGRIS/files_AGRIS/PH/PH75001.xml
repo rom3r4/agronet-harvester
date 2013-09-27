@@ -1,0 +1,2297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "../../agrislegacy.dtd">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="PH7500020">
+<dc:title xml:lang="en">Nectary-costule association in Philippine Drynarioid ferns</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Zamora, P.M.</ags:creatorPersonal>
+<ags:creatorPersonal>Vargas, N.S. (University of the Philippines, Quezon City. Coll. of Arts and Sciences and Natural Science Research Center. Dept. of Botany)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jun 1973)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>7 illus. 4 tables; 14 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500020</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Philippine Agriculturist (Philippines)</ags:citationTitle>
+<ags:citationNumber>v. 57(1) p. 72-88</ags:citationNumber>
+<ags:citationChronology>(Jun 1973)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7400001">
+<dc:title xml:lang="en">Egg marketing [in the Philippines]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Dosayla, E.D.</ags:creatorPersonal>
+<ags:creatorCorporate>National Food and Agriculture Council, Diliman, Quezon City (Philippines)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>NFAC</ags:publisherName>
+<ags:publisherPlace>Diliman, Quezon City (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Jul 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>39 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:format><dcterms:extent>48 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7400001</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500461">
+<dc:title xml:lang="en">International Rice Research Institute cropping systems network</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Carangal, V.R. (International Rice Research Inst., College, Laguna (Philippines))</ags:creatorPersonal>
+<ags:creatorConference>Workshop for the South and Southeast Asia Cropping Systems Network, College, Laguna (Philippines), 18 Mar 1975</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>IRRI</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>*IRRI Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>6 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500461</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7400049">
+<dc:title xml:lang="en">Studies on the inheritance of resistance to bacterial blight in rice [Philippines]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Petpisit, V.</ags:creatorPersonal>
+<ags:creatorCorporate>University of the Philippines at Los Banos, College, Laguna (Philippines)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>UPLB</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>6 illus., 9 tables. 26 ref. Summaries (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>E</dc:type>
+<dc:format><dcterms:extent>35 leaves</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7400049</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7400006">
+<dc:title xml:lang="en">Sarcosporidiosis in Philippine carabaos (Bubalus bubalis Linn)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Arambulo, P.V. III (University of the Philippines, Manila. Inst. of Public Health)</ags:creatorPersonal>
+<ags:creatorPersonal>Sarmiento, R.V.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L72</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7400006</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Animal Husbandry and Agricultural Journal (Philippines)</ags:citationTitle>
+<ags:citationNumber>v. 9(3) p. 12,14</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7400008">
+<dc:title xml:lang="en">Mimosine absorption in the [Philippine] chicken-in-vivo studies</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Librojo, N.T. (University of the Philippines at Los Banos. Dept. of Agricultural Chemistry)</ags:creatorPersonal>
+<ags:creatorPersonal>Hatcock, J.N. (Pennsylvania State Univ. (USA))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>9 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7400008</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Animal Husbandry and Agricultural Journal (Philippines)</ags:citationTitle>
+<ags:citationNumber>v. 9(1) p. 36-39</ags:citationNumber>
+<ags:citationChronology>(Jan 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500160">
+<dc:title xml:lang="en">Marketing broilers in the Philippines</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Mariano, E.P.</ags:creatorPersonal>
+<ags:creatorCorporate>National Food and Agriculture Council, Diliman, Quezon City (Philippines)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>NFAC</ags:publisherName>
+<ags:publisherPlace>Diliman, Quezon City (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Jul 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>2 illus., 25 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:format><dcterms:extent>34 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500160</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500736">
+<dc:title xml:lang="en">Occurence of Aspergillus flavus and aflatoxin contamination in cassava</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ilag, L.L.</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>UPLB</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500736</ags:availabilityNumber></agls:availability>
+<dc:source>Advances in food, agriculture and community research and development, University of the Philippines at Los Banos, College, Laguna.- College, Laguna (Philippines): UPLB, 1974. p. 452-454</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500109">
+<dc:title xml:lang="en">Beef and carabeef [in the Philippines]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Philippine Council for Agricultural Research, College, Laguna. Livestock Research Div.</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>PCAR</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>[1974]</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+</dc:subject>
+<dc:format><dcterms:extent>19 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500109</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500346">
+<dc:title xml:lang="en">Development of particleboard on a pilot-plant and semi-commercial scale using plantation and secondary wood species and agricultural fibrous waste materials, III: Kaatoan bangkal [Anthocephalus chinensis] particleboard with and without bark</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Pablo, A.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Ella, A.B.</ags:creatorPersonal>
+<ags:creatorPersonal>Seguerra, J.B. Jr.</ags:creatorPersonal>
+<ags:creatorPersonal>Casal, E.U.</ags:creatorPersonal>
+<ags:creatorCorporate>Forest Products Research and Industries Development Commission, College, Laguna (Philippines)</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>6 illus., 7 tables; 6 ref. Summary (En) *FORPRIDECOM Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FORPRIDECOM-FORD/Id--73133</dc:identifier>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>28 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500346</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500089">
+<dc:title xml:lang="en">A study on the 10 year reproductive efficiency of a herd bull (50 percent Santa Gertrudis x 50 percent Tharparker) mated to Philippine native grade and crossbred cows and the percentages of inbreeding, the phenotypic and genotypic compositions of his progeny</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Chantaraboonta, S.</ags:creatorPersonal>
+<ags:creatorCorporate>Araneta Univ. Foundation, Malabon, Rizal (Philippines)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>AUF</ags:publisherName>
+<ags:publisherPlace>Malabon, Rizal (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>10 illus. 9 tables; 22 ref. Summary (En); *AUF</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>63 leaves</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500089</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7400003">
+<dc:title xml:lang="en">Tomato marketing[in the Philippines]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Mabilangan, Z.R.</ags:creatorPersonal>
+<ags:creatorCorporate>National Food and Agriculture Council, Diliman, Quezon City (Philippines)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>NFAC</ags:publisherName>
+<ags:publisherPlace>Diliman, Quezon City (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Aug 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>20 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:format><dcterms:extent>28 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7400003</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500637">
+<dc:title xml:lang="en">Integrated weed management practices for controlling a difficult weed in lowland rice</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Lacsina, R.Q.</ags:creatorPersonal>
+<ags:creatorPersonal>Datta, S.K. De (International Rice Research Inst., College, Laguna (Philippines))</ags:creatorPersonal>
+<ags:creatorConference>6. National Conference of the Pest Control Council of the Philippines, Cebu City (Philippines), 5 May 1975</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>IRRI</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H60</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>7 tables; 7 ref. Summary (En) *IRRI Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>19 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500637</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500176">
+<dc:title xml:lang="en">Dimensional quality control in lumber manufacture, Mayapis [Shorea Squamata (Turcz.) Dyer]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sibayan, D.V.</ags:creatorPersonal>
+<ags:creatorPersonal>Decena, A.S.</ags:creatorPersonal>
+<ags:creatorPersonal>Cruz, R.Z. dela</ags:creatorPersonal>
+<ags:creatorCorporate>Forest Products Research and Industries Development Commission, College, Laguna (Philippines)</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>7 illus., 3 tables; 6 ref. Summary (En) *FORPRIDECOM Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FORPRIDECOM-FORD--7381En</dc:identifier>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>19 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500176</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500069">
+<dc:title xml:lang="en">Design parameters of a laboratory rice stripper using transverse bolt</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Phan Hieu Hien</ags:creatorPersonal>
+<ags:creatorCorporate>University of the Philippines at Los Banos, College, Laguna</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>UPLB</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>10 illus. 5 graphs. 39 ref. Summaries (En); *UPLB</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>62 leaves</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500069</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500312">
+<dc:title xml:lang="en">Performance of selected [Philippine] abaca varieties and promising hybrids in the Visayas</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Cruz, O.J.</ags:creatorPersonal>
+<ags:creatorPersonal>Balingkit, E.V. (Bureau of Plant Industry, Manila (Philippines). Abaca and other Fibers Development Board)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(May 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 illus., 5 tables; 6 ref. Summaries (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500312</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Philippine Journal of Plant Industry (Philippines)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0048-3826</ags:citationIdentifier>
+<ags:citationNumber>v. 39(2) p. 53-68</ags:citationNumber>
+<ags:citationChronology>(May 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500245">
+<dc:title xml:lang="en">Forecast and control of late blight epidemics on Irish potatoes as affected by local environmental conditions [in Baguio, Philippines]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Balaoing, V.G.</ags:creatorPersonal>
+<ags:creatorPersonal>Balaoing, T.M.</ags:creatorPersonal>
+<ags:creatorPersonal>Surat, J.C. (Baguio Experiment Station (Philippines))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 illus., 4 tables; 9 ref. Summaries (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500245</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Philippine Journal of Plant Industry (Philippines)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0048-3826</ags:citationIdentifier>
+<ags:citationNumber>v. 39(1) p. 9-20</ags:citationNumber>
+<ags:citationChronology>(Jan 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500128">
+<dc:title xml:lang="en">Tenants, leasers, owners: welfare implications of tenure change</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Mangahas, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Miralao, V.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Reyes, R. de los (Ateneo de Manila Univ., Quezon City (Philippines). Inst. of Philippine Culture)</ags:creatorPersonal>
+<ags:creatorCorporate>Ateneo de Manila Univ., Quezon City (Philippines)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>Ateneo de Manila University</ags:publisherName>
+<ags:publisherPlace>Quezon City (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>16 illus., 55 tables; 42 ref. (Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>196 leaves</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500128</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500537">
+<dc:title xml:lang="en">Liverfluke control in the provinces of Sorsogon and Leyte (Philippines)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Dumag, P.U.</ags:creatorPersonal>
+<ags:creatorPersonal>Castillo, A.M.</ags:creatorPersonal>
+<ags:creatorPersonal>Batolos, J.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Escandor, N.B.</ags:creatorPersonal>
+<ags:creatorPersonal>Gajudo, C.E.</ags:creatorPersonal>
+<ags:creatorPersonal>Dioneda, D.F.</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>Philippine Council for Agricultural Research</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L72</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>3 illus., 4 tables; 13 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>24 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500537</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500183">
+<dc:title xml:lang="en">Nondestructive testing for strength and elasticity of some Philippine woods by forced vibration</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kyokong, B.</ags:creatorPersonal>
+<ags:creatorCorporate>University of the Philippines at Los Banos, College, Laguna</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>UPLB</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>23 illus., 6 tables; 31 ref. Summaries (En); *UPLB Library</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>85 leaves</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500183</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500268">
+<dc:title xml:lang="en">Development is research utilized [Masagana 99 rice culture]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Drilon, J.D. Jr. (Southeast Asian Regional Center for Graduate Study and Research in Agriculture, College, Laguna (Philippines))</ags:creatorPersonal>
+<ags:creatorConference>Seminar on Man, Society and Development, Cagayan de Oro (Philippines), 6 Dec 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>SEARCA</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E30</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Appendix: 16 steps Masagana 99 rice culture</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>22 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500268</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500456">
+<dc:title xml:lang="en">Land preparation [in the Philippines] its speed in relation to rate of water supply</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Valera, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Giron, Q.</ags:creatorPersonal>
+<ags:creatorPersonal>Wickham, T. (International Rice Research Inst., College, Laguna (Philippines))</ags:creatorPersonal>
+<ags:creatorConference>IRRI Saturday Seminar, College, Laguna (Philippines), 15 Feb 1975</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>IRRI</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">P12</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>7 illus., 17 graphs, 7 tables; 6 ref. *IRRI Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>32 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500456</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500242">
+<dc:title xml:lang="en">Evaluation of yield and nutritive and sensory qualities of soybeans as a vegetable</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Margate, L.Z.</ags:creatorPersonal>
+<ags:creatorCorporate>University of the Philippines at Los Banos, College, Laguna</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>UPLB</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Jan 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">S10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>10 illus., 72 tables; Bibliography (58 ref.) Summaries (En) *UPLB Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>U</dc:type>
+<dc:type>Z</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>140 leaves</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500242</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500469">
+<dc:title xml:lang="en">The Indonesian corn commodity system</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Southeast Asian Regional Center for Graduate Study and Research in Agriculture, College, Laguna (Philippines); Harvard Univ., Cambridge, Massachusetts (USA)</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">S10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>8 graphs, 8 illus., 103 tables</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">HARVARD/SEARCA--928-B</dc:identifier>
+<dc:type>N</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>257 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500469</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500258">
+<dc:title xml:lang="en">The state of economic research on Philippine non-timber forest products</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Vergara, N.T. (University of the Philippines at Los Banos, College, Laguna. Coll. of Forestry. Forest Resources Management Dept.)</ags:creatorPersonal>
+<ags:creatorConference>1. Philippine Council for Agricultural Research Forestry Research Congress, Baguio City (Philippines), 1 Feb 1975</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>PCAR</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>4 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>15 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500258</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500168">
+<dc:title xml:lang="en">Quantitative evaluation of bark of the Philippine mahogany and other commercial species</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Lapitan, F.G.</ags:creatorPersonal>
+<ags:creatorPersonal>Ramos, J.R.</ags:creatorPersonal>
+<ags:creatorPersonal>Virtucio, F.D.</ags:creatorPersonal>
+<ags:creatorCorporate>Forest Products Research and Industries Development Commission, College, Laguna (Philippines)</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>2 tables; 14 ref. Summary (En) *FORPRIDECOM Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FORPRIDECOM-RU(We)--9-2-1</dc:identifier>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>9 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500168</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500222">
+<dc:title xml:lang="en">Recent developments in calorie requirements of Filipinos</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Guzman, M.P.E. de (National Science Development Board, Manila (Philippines). Food and Nutrition Research Center)</ags:creatorPersonal>
+<ags:creatorConference>Forum on Nutrition in National Development, College, Laguna (Philippines), 6 Jan 1975</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherPlace>[College, Laguna (Philippines)]</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">S30</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>3 illus., 4 tables; 13 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>17 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500222</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500121">
+<dc:title xml:lang="en">36 ways of cooking soybeans</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Onate, L.U.</ags:creatorPersonal>
+<ags:creatorPersonal>Aguinaldo, A.R.</ags:creatorPersonal>
+<ags:creatorPersonal>Eusebio, J.S. (University of the Philippines at Los Banos, College, Laguna. Dept. of Home Technology)</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>UPLB, Dept. of Development Communication</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">R00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">Q00</ags:subjectClassification>
+</dc:subject>
+<dc:format><dcterms:extent>29 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500121</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Farm Bulletin (Philippines)</ags:citationTitle>
+<ags:citationNumber>no. 34</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500068">
+<dc:title xml:lang="en">A study on the factors that influence the daily farms at the Sta Maria [Bulacan, Philippines] (BAI) dairy project</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Pitoonthud, S.</ags:creatorPersonal>
+<ags:creatorCorporate>Araneta Univ. Foundation, Malabon, Rizal (Philippines)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>AUF</ags:publisherName>
+<ags:publisherPlace>Malabon, Rizal (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>15 illus. 7 tables; 17 ref. Summaries (En); *AUF</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>74 leaves</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500068</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500239">
+<dc:title xml:lang="en">Comparative performance of wire-loop and rasp-bar cylinders for threshing rice crop</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sarwar, J.G.</ags:creatorPersonal>
+<ags:creatorCorporate>University of the Philippines at Los Banos, College, Laguna</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>UPLB</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Jan 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>29 illus., 35 ref. Summaries (En). *UPLB Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>88 leaves</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500239</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500373">
+<dc:title xml:lang="en">The nutritive value of stargrass (Cynodon plectostachyus) at 28-, 42-, and 56-day regrowths during the wet season</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ordoveza, A.L.</ags:creatorPersonal>
+<ags:creatorPersonal>Aranas, T.J.</ags:creatorPersonal>
+<ags:creatorPersonal>Palo, L.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Velasco, N.B. (Dairy Training Research Institute, College, Laguna (Philippines))</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>DTRI</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>6 tables; 9 ref. Summary (En). *DTRI, Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>15 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500373</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500454">
+<dc:title xml:lang="en">Resistance to insect pests in rice varieties [in the Philippines]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Vega, C.R. (International Rice Research Inst., College, Laguna (Philippines). Dept. of Entomology)</ags:creatorPersonal>
+<ags:creatorConference>Conference on Plant Protection in Tropical and Sub-Tropical Areas, Manila (Philippines), 4 Nov 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>BPI</ags:publisherName>
+<ags:publisherPlace>Manila (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>8 graphs, 7 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500454</ags:availabilityNumber></agls:availability>
+<dc:source>Proceedings of the Conference on Plant Protection in Tropical and Sub-Tropical Areas, Manila 4-15 Nov. 1974, Bureau of Plant Industry, Manila (Philippines).- Manila (Philippines): BPI, 1974. p. 339-364</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500341">
+<dc:title xml:lang="en">Service record of commercially creosoted apitong [Dipterocarpus grandiflorus] poles in telecommunications and power lines</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Mosteiro, A.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Mata, P.G.</ags:creatorPersonal>
+<ags:creatorCorporate>Forest Products Research and Industries Development Commission, College, Laguna (Philippines)</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>3 illus., 2 tables; Summary (En) *FORPRIDECOM Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FORPRIDECOM-RP/Tpt--5211</dc:identifier>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>6 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500341</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500399">
+<dc:title xml:lang="en">The status of fishery economics research and statistics [in the Philippines]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Alix, J.C. (Bureau of Agricultural Economics, Quezon City (Philippines))</ags:creatorPersonal>
+<ags:creatorConference>1. Philippine Council for Agricultural Research Fisheries Research Congress, Legaspi City (Philippines), 7 Mar 1975</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>PCAR</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Appendix</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>15 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500399</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500726">
+<dc:title xml:lang="en">National cooperative rice performance tests</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Escuro, P.B.</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>UPLB</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500726</ags:availabilityNumber></agls:availability>
+<dc:source>Advances in food, agriculture and community research and development, University of the Philippines at Los Banos, College, Laguna.- College, Laguna (Philippines): UPLB, 1974. p. 18-34</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500478">
+<dc:title xml:lang="en">Masagana 99 [cropping system program of the Philippines]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Panganiban, D.F. (National Food and Agriculture Council, Diliman, Quezon City (Philippines))</ags:creatorPersonal>
+<ags:creatorConference>Workshop for the South and Southeast Asia Cropping Systems Network, College, Laguna (Philippines), 18 Mar 1975</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>NFAC</ags:publisherName>
+<ags:publisherPlace>Diliman, Quezon City (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>7 tables; 3 ref. *IRRI Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>18 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500478</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500204">
+<dc:title xml:lang="en">A study on the processing of condemned animals into steamed meat and bone meal</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Aguilar, L.M. (Bureau of Animal Industry, Valenzuela, Bulacan (Philippines). Livestock Research Div.)</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>BAI</ags:publisherName>
+<ags:publisherPlace>Valenzuela, Bulacan (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Feb 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>5 ref. Appendices. Summaries (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>10 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500204</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500431">
+<dc:title xml:lang="en">Fuel gas from agricultural waste</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Economic Development Foundation, Makati, Rizal (Philippines)</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 illus., 6 graphs</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500431</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Trends in Technology (Philippines)</ags:citationTitle>
+<ags:citationNumber>v. 3(3) p. 3-5</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500003">
+<dc:title xml:lang="en">Parchment [derived from Philippine plants]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ballon, C.M. (Forest Products Research and Industries Development Commission, College, Laguna (Philippines))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F50</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500003</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>FORPRIDE Digest (Philippines)</ags:citationTitle>
+<ags:citationNumber>v. 3(1) p. 6-7</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500482">
+<dc:title xml:lang="en">Status of inland waters resource in the Philippines</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Cruz, C.R. de la (Central Luzon State Univ., Munoz, Nueva Ecija (Philippines). Freshwater Aquaculture Center)</ags:creatorPersonal>
+<ags:creatorConference>1. Philippine Council for Agricultural Research Fisheries Research Congress, Legaspi City (Philippines), 7 Mar 1975</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>PCAR</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M00</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>10 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500482</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500450">
+<dc:title xml:lang="en">1974 interagency insect control guide for lowland rice in the Philippines</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Anon.</ags:creatorPersonal>
+<ags:creatorConference>Conference on Plant Protection in Tropical and Sub-Tropical Areas, Manila (Philippines), 4 Nov 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>BPI</ags:publisherName>
+<ags:publisherPlace>Manila (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500450</ags:availabilityNumber></agls:availability>
+<dc:source>Proceedings of the Conference on Plant Protection in Tropical and Sub-Tropical Areas, Manila 4-15 Nov. 1974, Bureau of Plant Industry, Manila (Philippines).- Manila (Philippines): BPI, 1974. p. 409-428</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500055">
+<dc:title xml:lang="en">Feasibility of merchandising rice, palay, sugar and salt by Northern Palawan [Philippines] Multi-Purpose Cooperative, Inc.</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Winarto, V.</ags:creatorPersonal>
+<ags:creatorCorporate>Asian Inst. of Management, Makati, Rizal (Philippines)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>AIM</ags:publisherName>
+<ags:publisherPlace>Makati, Rizal (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>*AIM</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>138 leaves</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500055</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500638">
+<dc:title xml:lang="en">Appropriate technology for developing countries</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Follosco, C.L. (Ford Philippines, Muntinlupa, Rizal)</ags:creatorPersonal>
+<ags:creatorConference>Workshop on Agricultural Mechanization and Indigenous Production of Agricultural Machines in the Less Developed Countries, College, Laguna (Philippines), 6 May 1975</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>International Rice Research Institute</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E30</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>*IRRI Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>8 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500638</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500675">
+<dc:title xml:lang="en">Cultivar improvement of industrial oil crops and spices [in the Philippines]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Batugal, P.A. (University of the Philippines at Los Banos, College, Laguna. Coll. of Agriculture)</ags:creatorPersonal>
+<ags:creatorConference>Workshop on National Priorities in Philippine Agriculture, College, Laguna (Philippines), 24 Sep 1973</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>PCAR</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500675</ags:availabilityNumber></agls:availability>
+<dc:source>Workshop on National Priorities in Philippine Agriculture, Philippine Council for Agricultural Research, College, Laguna.- College, Laguna (Philippines): PCAR, 1975. p. 8-12</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500499">
+<dc:title xml:lang="en">Wood resources allocation in a wood processing company</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Arances, J.B.</ags:creatorPersonal>
+<ags:creatorCorporate>University of the Philippines at Los Banos, College, Laguna</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>UPLB</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>9 illus., 19 tables; 24 ref. Appendices. Summaries (En) *UPLB Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>111 Leaves</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500499</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500304">
+<dc:title xml:lang="en">Reforestation program in the Philippines</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Viado, J. (Bureau of Forest Development, Quezon City (Philippines))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500304</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Philippine Forests (Philippines)</ags:citationTitle>
+<ags:citationNumber>v. 7(1-2) p. 10-11</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500334">
+<dc:title xml:lang="en">Log-defect studies of Philippine commercial species, I: Philippine mahogany and other species 6. Mayapis [Shorea squamata]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Decena, A.D.</ags:creatorPersonal>
+<ags:creatorPersonal>Sibayan, D.V.</ags:creatorPersonal>
+<ags:creatorPersonal>Cruz, R.Z. de la</ags:creatorPersonal>
+<ags:creatorCorporate>Forest Products Research and Industries Development Commission, College, Laguna (Philippines)</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>4 tables; 8 ref. Summary (En) *FORPRIDECOM Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FORPRIDECOM-FORD--7377-EN</dc:identifier>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>13 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500334</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500104">
+<dc:title xml:lang="en">Root crops [in the Philippines]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Philippine Council for Agricultural Research, College, Laguna. Crops Research Div.</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>PCAR</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>[1974]</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>6 tables; Summaries (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:format><dcterms:extent>21 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500104</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500487">
+<dc:title xml:lang="en">Research in brackishwater aquaculture as a national program [in the Philippines]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Lijauco, M.M. (University of the Philippines, Quezon City. Coll. of Fisheries)</ags:creatorPersonal>
+<ags:creatorConference>1. Philippine Council for Agricultural Research Fisheries Research Congress, Legaspi City (Philippines), 7 Mar 1975</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>PCAR</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M40</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>1 table; 5 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>10 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500487</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500192">
+<dc:title xml:lang="en">Phosphorus-zinc interactions in sugar-cane fertilization and nutrition</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Rashed-Ul-Q</ags:creatorPersonal>
+<ags:creatorCorporate>University of the Philippines at Los Banos, College, Laguna</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>UPLB</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>34 illus., 47 tables; Bibliography p. 174-186 (178 ref.); Summaries (En); *UPLB Library</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>Z</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>222 leaves</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500192</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500668">
+<dc:title xml:lang="en">On the recent outbreaks of brown planthoppers Nilaparvata lugens and the grassy stunt virus disease of rice in Laguna [Philippines]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Calora, F.B. (Cyanamid Agricultural Research Foundation, Calamba, Laguna (Philippines))</ags:creatorPersonal>
+<ags:creatorConference>5. National Conference of the Pest Control Council of the Philippines, Davao City (Philippines), 8 May 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>PCCP</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500668</ags:availabilityNumber></agls:availability>
+<dc:source>Proceedings of the 5th National Conference of the Pest Control Council of the Philippines, Davao City 8-10 May 1974, Pest Control Council of the Philippines, University of the Philippines at Los Banos, College, Laguna. Dept. of Plant Pathology.- College, Laguna (Philippines): PCCP, 1974. p. 27-34</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="PH7400041">
+<dc:title xml:lang="en">Study of the extractives of four Philippine mahogany species, I: Benzene-soluble fraction</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Salud, E.C.</ags:creatorPersonal>
+<ags:creatorCorporate>Forest Products Research and Industries Development Commission, College, Laguna (Philippines)</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>2 tables. 9 ref. Summary (En). *FORPRIDECOM, Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FORPRIDECOM-RC/Me--5341</dc:identifier>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>vp</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7400041</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500670">
+<dc:title xml:lang="en">Some extension guidelines for scientists engaged in research on industrial oil and spice crops [in the Philippines]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Juliano, C.P.Jr. (University of the Philippines at Los Banos, College, Laguna. Coll. of Agriculture)</ags:creatorPersonal>
+<ags:creatorConference>Workshop on National Priorities in Philippine Agriculture, College, Laguna (Philippines), 24 Sep 1973</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>PCAR</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500670</ags:availabilityNumber></agls:availability>
+<dc:source>Workshop on National Priorities in Philippine Agriculture, Philippine Council for Agricultural Research, College, Laguna.- College, Laguna (Philippines): PCAR, 1975. p. 98-101</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500207">
+<dc:title xml:lang="en">Studies on squids, a survey on Philippine traditional squid fishing grounds</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Flores, E.C. (University of the Philippines, Quezon City. Coll. of Fisheries. Dept. of Marine Fisheries)</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>U.P. College of Fisheries</ags:publisherName>
+<ags:publisherPlace>Quezon City (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Jul 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>7 fig., 4 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>12 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500207</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>University of the Philippines Marine Fisheries Technical Report (Philippines)</ags:citationTitle>
+<ags:citationNumber>no. 2</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500473">
+<dc:title xml:lang="en">Masagana [cropping system in the Philippines]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Bangladesh Agricultural Development Corporation, Dacca</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>Bangladesh Agricultural Development Corporation</ags:publisherName>
+<ags:publisherPlace>Dacca, Bangladesh</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>9 tables; *IRRI Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>49 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500473</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500072">
+<dc:title xml:lang="en">Performance characteristics of a flail type soybean thresher</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Naewbanij, M.</ags:creatorPersonal>
+<ags:creatorCorporate>University of the Philippines at Los Banos, College, Laguna</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>UPLB</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>8 illus. 20 ref. 13 graphs. Summaries (En); *UPLB</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>81 leaves</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500072</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7400009">
+<dc:title xml:lang="en">Studies on physiology of Philippine mint (Mentha cordifolia Opiz). II. Effect of two different light intensities on the vegetative growth and oil yield</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Cantoria, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Gacutan, V.T.C. (University of the Philippines, Quezon City)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>22 ref. Summaries (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7400009</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Philippine Journal of Science (Philippines)</ags:citationTitle>
+<ags:citationNumber>v. 103(1) p. 13-19</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500198">
+<dc:title xml:lang="en">Human behavior research in abaca and other fiber industries</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Valera, G.P. (University of the Philippines at Los Banos, College, Laguna. Dept. of Agricultural Economics)</ags:creatorPersonal>
+<ags:creatorConference>[Workshop on] Abaca and other perennial fiber crops, University of the Philippines at Los Banos, College, Laguna, 24 Sep 1973</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>Philippine Council for Agricultural Research</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>2 tables; 12 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:format><dcterms:extent>p. 81-90</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500198</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>PCAR Workshop on National Priorities in Philippine Agriculture (Philippines)</ags:citationTitle>
+<ags:citationNumber>no. 19</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500389">
+<dc:title xml:lang="en">The Philippines recommends for corn 1975</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Philippine Council for Agricultural Research, College, Laguna</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>PCAR</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Mar 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">H00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>48 illus. (part col.), 9 tables; 10 ref. Appendices</ags:descriptionNotes>
+</dc:description>
+<dc:format><dcterms:extent>105 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500389</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500184">
+<dc:title xml:lang="en">Resistance to the rice leaf folder, Cnaphalocrosis medinalis Guenee, in rice varieties</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Gonzales, J.C.</ags:creatorPersonal>
+<ags:creatorCorporate>University of the Philippines at Los Banos, College, Laguna</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>UPLB</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>21 illus., 25 tables; bibliography (69 ref.). Summaries (En); *UPLB Library</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>U</dc:type>
+<dc:type>Z</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>104 leaves</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500184</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500236">
+<dc:title xml:lang="en">Influence of selected growth regulators and organic additives on culture in vitro of papaya (Carica papaya L.) ovary tissue</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nguyen, T.V.</ags:creatorPersonal>
+<ags:creatorCorporate>University of the Philippines at Los Banos, College, Laguna</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>UPLB</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Jan 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>8 illus., 16 tables; Bibliography (96 ref.) Summaries (En) *UPLB Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>Z</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>84 leaves</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500236</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500172">
+<dc:title xml:lang="en">Minimizing end-splitting by physico-chemical methods [of logs, particularly the Philippine mahogany species]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Decena, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Sibayan, D.</ags:creatorPersonal>
+<ags:creatorPersonal>Hernandez, D.</ags:creatorPersonal>
+<ags:creatorCorporate>Forest Products Research and Industries Development Commission, College, Laguna (Philippines)</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">H00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>15 illus., 4 tables; 9 ref. Summary (En) *FORPRIDECOM Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FORPRIDECOM-RU(S-TA-1)--1</dc:identifier>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>32 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500172</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500149">
+<dc:title xml:lang="en">Onion marketing [in the Philippines]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Carlos, I.P.</ags:creatorPersonal>
+<ags:creatorCorporate>National Food and Agriculture Council, Diliman, Quezon City (Philippines)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>NFAC</ags:publisherName>
+<ags:publisherPlace>Diliman, Quezon City (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Feb 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>19 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>19 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500149</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500617">
+<dc:title xml:lang="en">The corn systems of Thailand, Indonesia and the Philippines: a comparative overview</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Collado, G.M. (Southeast Asian Regional Center for Graduate Study and Research in Agriculture, College, Laguna (Philippines))</ags:creatorPersonal>
+<ags:creatorConference>SEARCA-Harvard University Regional Workshop on Corn, College, Laguna (Philippines), 9 Apr 1975</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>SEARCA</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Appendices</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>15 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500617</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500292">
+<dc:title xml:lang="en">Studies on the pathologic reactions of different varieties of vegetables to meloidogyne incognita</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Calinga, R.H.</ags:creatorPersonal>
+<ags:creatorPersonal>Ballon, F.B. (Bureau of Plant Industry, Manila (Philippines). Vegetables and Root Crops Section)</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>Bureau of Plant Industry</ags:publisherName>
+<ags:publisherPlace>Manila (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>5 tables; 2 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>11 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500292</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500028">
+<dc:title xml:lang="en">Competition between weeds and upland rice in monsoon Asia</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Okapor, L.T.</ags:creatorPersonal>
+<ags:creatorPersonal>Datta, S.K. de (International Rice Research Inst., Los Banos, Laguna (Philippines))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 tables. 20 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500028</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Philippine Weed Science Bulletin (Philippines)</ags:citationTitle>
+<ags:citationNumber>v. 1(1) p. 39-45</ags:citationNumber>
+<ags:citationChronology>(Apr 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500301">
+<dc:title xml:lang="en">Breakthroughs in fertilization research [for Philippine coconut]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Philippine Coconut Authority, Diliman, Quezon City (Philippines)</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 illus., 6 tables; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500301</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Coconut Farmers Bulletin (Philippines)</ags:citationTitle>
+<ags:citationNumber>v. 1(4) p. 1-10</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500274">
+<dc:title xml:lang="en">Comparative analysis of economic performance of compact farms vs. non-compact farms [Philippines]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Torres, R.D. (University of the Philippines at Los Banos, College, Laguna. Dept. of Agricultural Economics)</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>UPLB</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Feb 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>19 tables; Summaries (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>42 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500274</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500458">
+<dc:title xml:lang="en">Recent developments in cropping systems applied research in the Philippines</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Bunoan, J.C. Jr. (Bureau of Soils, Manila (Philippines). Soil Fertility Div.)</ags:creatorPersonal>
+<ags:creatorConference>Workshop for the South and Southeast Asia Cropping System Network, College, Laguna (Philippines), 18 Mar 1975</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>IRRI</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>5 graphs, 12 tables *IRRI Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>29 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500458</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500053">
+<dc:title xml:lang="en">Utilization of carabeef on sausage and meat loaf products</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Yasay, G.D. Jr.</ags:creatorPersonal>
+<ags:creatorCorporate>University of the Philippines at Los Banos, College, Laguna</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>UPLB</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>14 tables; 35 ref. Summaries (En); *UPLB</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>51 leaves</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500053</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500118">
+<dc:title xml:lang="en">Inland fisheries [in the Philippines]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Philippine Council for Agricultural Research, College, Laguna. Fisheries Research Div.</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>PCAR</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>[1974]</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+</dc:subject>
+<dc:format><dcterms:extent>19 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500118</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500043">
+<dc:title xml:lang="en">Manganese-phosphorus interactions in soils and in soybean (Glycine max merrill)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Supa-Udomlerk, B.</ags:creatorPersonal>
+<ags:creatorCorporate>University of the Philippines at Los Banos, College, Laguna</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>UPLB</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F22</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>20 illus., 44 tables; 78 ref. Summaries (En); *UPLB</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>Z</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>110 leaves</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500043</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500246">
+<dc:title xml:lang="en">Influence of lime pelleting of soybean and peanut on nodulation and yield in acid soils of Lipa [Philippines]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Bandoja, J.V.</ags:creatorPersonal>
+<ags:creatorPersonal>Altamirano, S.T.</ags:creatorPersonal>
+<ags:creatorPersonal>Iswaran, V. (Roxas Memorial Experiment Station, Lipa City (Philippines))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>1 table; 10 ref. Summaries (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500246</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Philippine Journal of Plant Industry (Philippines)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0048-3826</ags:citationIdentifier>
+<ags:citationNumber>v. 39(1) p. 21-24</ags:citationNumber>
+<ags:citationChronology>(Jan 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500217">
+<dc:title xml:lang="en">Protein from plant sources [in the Philippines]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Quisumbing, E.C. (National Food and Agriculture Council, Quezon City (Philippines) Dept. of Agriculture)</ags:creatorPersonal>
+<ags:creatorConference>Forum on Nutrition in National Development, College, Laguna (Philippines), 6 Jan 1975</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherPlace>[College, Laguna (Philippines)]</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">S00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">S10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>3 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>6 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500217</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500120">
+<dc:title xml:lang="en">Parks and wildlife management [in the Philippines]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Philippine Council for Agricultural Research, College, Laguna. Forestry Research Div.</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>PCAR</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>[1974]</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">K00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L20</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>3 tables</ags:descriptionNotes>
+</dc:description>
+<dc:format><dcterms:extent>19 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500120</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500210">
+<dc:title xml:lang="en">Nutritional improvement in crops by breeding</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Aday, B.A. (University of the Philippines at Los Banos, College, Laguna. Dept. of Agronomy)</ags:creatorPersonal>
+<ags:creatorConference>Forum on Nutrition in National Development, College, Laguna (Philippines), 6 Jan 1975</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherPlace>[College, Laguna (Philippines)]</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>6 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>10 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500210</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500014">
+<dc:title xml:lang="en">Construction guide for low-cost houses for farmers, fishermen, labourers, and other workers in rural and resettlement areas [in the Philippines]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Siopongco, J.O.</ags:creatorPersonal>
+<ags:creatorPersonal>Seguerra, J.B. Jr.</ags:creatorPersonal>
+<ags:creatorPersonal>Lauricio, F.M.</ags:creatorPersonal>
+<ags:creatorPersonal>Bobila, C.</ags:creatorPersonal>
+<ags:creatorPersonal>Tamolang, F.N. (Forest Products Research and Industries Development Commission, College, Laguna (Philippines))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">N10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>32 illus.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500014</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>FORPRIDE Digest (Philippines)</ags:citationTitle>
+<ags:citationNumber>v. 3(1) p. 8-49</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500324">
+<dc:title xml:lang="en">Kaingineros [hillside farmers] perceptions of and attitudes towards forest conservation in Mt. Makiling Laguna, Philippines</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Duldulao, A.C.</ags:creatorPersonal>
+<ags:creatorCorporate>University of the Philippines at Los Banos, College, Laguna</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>UPLB</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Mar 1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>2 illus., 52 tables; 37 ref. Summaries (En). Appendices *UPLB Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>U</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>191 leaves</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500324</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500501">
+<dc:title xml:lang="en">Some aspects of polarity and morphogenesis in Cladophora aegagropila [algae]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Zafaralla, M.T.</ags:creatorPersonal>
+<ags:creatorCorporate>University of the Philippines at Los Banos, College, Laguna</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>UPLB</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>13 illus., 10 tables; 42 ref. Summaries (En) *UPLB Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>67 leaves</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500501</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500179">
+<dc:title xml:lang="en">Microbial foods</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Fernandez, W.L. (University of the Philippines at Los Banos, College, Laguna. Dept. of Life Sciences)</ags:creatorPersonal>
+<ags:creatorConference>Forum on Nutrition in National Development, University of the Philippines at Los Banos, 6 Jan 1975</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherPlace>[Los Banos (Philippines)]</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q20</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>3 tables; 19 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>13 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500179</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500244">
+<dc:title xml:lang="en">The marine benthic algae of Bulusan and vicinity, province of Sorsogon [Philippines], 1: introduction and chlorophyta</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Trono, G.C. Jr. (University of the Philippines, Quezon City. Dept. of Botany and Natural Science Research)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M40</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Summaries (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500244</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Kalikasan (Philippines)</ags:citationTitle>
+<ags:citationTitle>Philippine Journal of Biology</ags:citationTitle>
+<ags:citationNumber>v. 4(1) p. 23-41</ags:citationNumber>
+<ags:citationChronology>(Jan 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500460">
+<dc:title xml:lang="en">Estimating the elasticities of home consumption and marketable surplus for a subsistence crop: rice in the Philippines</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Toquero, Z.</ags:creatorPersonal>
+<ags:creatorPersonal>Duff, B.</ags:creatorPersonal>
+<ags:creatorPersonal>Anden, T.</ags:creatorPersonal>
+<ags:creatorPersonal>Hayanic, Y. (International Rice Research Inst., College, Laguna (Philippines))</ags:creatorPersonal>
+<ags:creatorConference>IRRI Saturday Seminar, College, Laguna (Philippines), 20 Feb 1975</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>IRRI</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>3 graphs, 7 tables; 13 ref. *IRRI Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>31 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500460</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500262">
+<dc:title xml:lang="en">Research situation and needs of harvesting methods of non-timber forest products [in the Philippines]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Lopez, F.R. (Forest Products Research and Industries Development Commission, College, Laguna (Philippines))</ags:creatorPersonal>
+<ags:creatorConference>1. Philippine Council for Agricultural Research Forestry Research Congress, Baguio City (Philippines), 1 Feb 1975</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>PCAR</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>9 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500262</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500190">
+<dc:title xml:lang="en">An attitude study on the radio support of the Masagana 99 information program [ in the Philippines]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Librero, F.</ags:creatorPersonal>
+<ags:creatorCorporate>University of the Philippines at Los Banos, College, Laguna</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>UPLB</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">C00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>2 illus., 73 tables; bibliography (51 ref.). Summaries (En) *UPLB Library</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>U</dc:type>
+<dc:type>Z</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>212 leaves</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500190</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500308">
+<dc:title xml:lang="en">Nasipit-Anakan [Philippine] experience in forest plantation development</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Tamesis, F. (Nasipit Lumber Co., Butuan City (Philippines))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 illus.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500308</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Philippine Forests (Philippines)</ags:citationTitle>
+<ags:citationNumber>v. 7(1-2) p. 12-15</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500272">
+<dc:title xml:lang="en">Wood anatomy in relation to the properties of fiber boards and paper products: status of research in the Philippines</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Lantican, C.B. (University of the Philippines at Los Banos, College, Laguna. Coll. of Forestry. Dept. of Wood Science and Technology)</ags:creatorPersonal>
+<ags:creatorConference>1. Philippine Council for Agricultural Research Forestry Research Congress, Baguio City (Philippines), 1 Feb 1975</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>PCAR</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>1 table; 6 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>18 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500272</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500044">
+<dc:title xml:lang="en">Beef production at different stocking rates on Pennisetum purpureum (Napier grass) Centrosema pubescens (Centrosema) pastures</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Montemayor, J.M.</ags:creatorPersonal>
+<ags:creatorCorporate>University of the Philippines at Los Banos, College, Laguna</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>UPLB</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>19 tables; 64 ref. Summaries (En); *UPLB</ags:descriptionNotes>
+</dc:description>
+<dc:type>U</dc:type>
+<dc:type>Z</dc:type>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>80 leaves</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500044</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500705">
+<dc:title xml:lang="en">Response of C22 rice variety to different levels of nitrogen, phosphorus and potassium</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Fernandez, D.B.</ags:creatorPersonal>
+<ags:creatorPersonal>Pantastico, E.B.</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>UPLB</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500705</ags:availabilityNumber></agls:availability>
+<dc:source>Advances in food, agriculture and community research and development, University of the Philippines at Los Banos, College, Laguna.- College, Laguna (Philippines): UPLB, 1974. p. 39-52</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500282">
+<dc:title xml:lang="en">Training and research activities of the Office of rice production training and research 1974</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ross, V.E.</ags:creatorPersonal>
+<ags:creatorPersonal>Perdon, E.R.</ags:creatorPersonal>
+<ags:creatorPersonal>Dilag, R.T. Jr.</ags:creatorPersonal>
+<ags:creatorPersonal>Necesario, R.S.</ags:creatorPersonal>
+<ags:creatorPersonal>Almasan, L. (International Rice Research Inst., College, Laguna (Philippines))</ags:creatorPersonal>
+<ags:creatorConference>IRRI Saturday Seminar, College, Laguna (Philippines), 21 Dec 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>IRRI</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Dec 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>24 tables *IRRI Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>24 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500282</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>IRRI Dept. of Agricultural Economics-Saturday Seminar Papers (Philippines)</ags:citationTitle>
+<ags:citationNumber>no. 74-40</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500266">
+<dc:title xml:lang="en">Parks development [in the Philippines]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Pascual, J.B. (Bureau of Forest Development, Quezon City (Philippines))</ags:creatorPersonal>
+<ags:creatorConference>1. Philippine Council for Agricultural Research Forestry Research Congress, Baguio City (Philippines), 1 Feb 1975</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>PCAR</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K00</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>19 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500266</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500017">
+<dc:title xml:lang="en">Printing and writing papers from three-year old kaatoan bangkal [Anthocephalus chiupensis (Lank.) Rich. (ex)]. [Philippine species]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Escolano, J.O.</ags:creatorPersonal>
+<ags:creatorPersonal>Villanueva, E.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Bawagan, P.V. (Forest Products Research and Industries Development Commission, College, Laguna (Philippines))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500017</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>FORPRIDE Digest (Philippines)</ags:citationTitle>
+<ags:citationNumber>v. 3(1) p. 82-83</ags:citationNumber>
+<ags:citationChronology>(Mar 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500136">
+<dc:title xml:lang="en">Red leaf disease of grain sorghums in the Philippines</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Paulsen, A.Q.</ags:creatorPersonal>
+<ags:creatorPersonal>Karganilla, A. (University of the Philippines at Los Banos, College, Laguna. Dept. of Plant Pathology)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1973)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 illus., 10 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500136</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Philippine Agriculturist (Philippines)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0031-7454</ags:citationIdentifier>
+<ags:citationNumber>v. 57(5) p. 264-268</ags:citationNumber>
+<ags:citationChronology>(Oct 1973)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500410">
+<dc:title xml:lang="en">Pathology of non-timber products in the Philippines</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Guzman, E.D. de (University of the Philippines at Los Banos, College, Laguna. Coll. of Forestry)</ags:creatorPersonal>
+<ags:creatorConference>1. Philippine Council for Agricultural Research Forestry Research Congress, Baguio City (Philippines), 1 Feb 1975</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>PCAR</ags:publisherName>
+<ags:publisherPlace>College, Laguna (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Appendices</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>9 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500410</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500514">
+<dc:title xml:lang="en">Farming in the tropics</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Anon.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500514</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Animal Husbandry and Agricultural Journal (Philippines)</ags:citationTitle>
+<ags:citationNumber>v. 9(11) p. 32-33</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500140">
+<dc:title xml:lang="en">A survey on Philippine shrimp resources</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Borja, P.C. (Bureau of Fisheries and Aquatic Resources, Diliman, Quezon City (Philippines). Fisheries Research Div.)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1973)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 illus., 2 tables; 18 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500140</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Fisheries Newsletter (Philippines)</ags:citationTitle>
+<ags:citationNumber>(no.3) p. 26-36</ags:citationNumber>
+<ags:citationChronology>(Jul 1973)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500174">
+<dc:title xml:lang="en">Classification of the treatability of Philippine woods by pressure methods</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Mosteiro, A.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Siriban, F.R.</ags:creatorPersonal>
+<ags:creatorCorporate>Forest Products Research and Industries Development Commission, College, Laguna (Philippines)</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>3 illus., 2 tables; summary (En). *FORPRIDECOM Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FORPRIDECOM-RP(TPT)--2112</dc:identifier>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>10 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500174</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500034">
+<dc:title xml:lang="en">Proper handling of fish-pond products for marketing [in the Philippines]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Esguerra, R.S.</ags:creatorPersonal>
+<ags:creatorCorporate>Development Bank of the Philippines, Makati, Rizal. Agricultural Projects Dept.</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">M10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500034</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Philippine Farmers Journal (Philippines)</ags:citationTitle>
+<ags:citationNumber>v. 16(10) p. 40</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500150">
+<dc:title xml:lang="en">Chico [Sapodilla: fruit of the marmalade tree] marketing [in the Philippines]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Javier, M.V.</ags:creatorPersonal>
+<ags:creatorPersonal>Mariano, E.P.</ags:creatorPersonal>
+<ags:creatorCorporate>National Food and Agriculture Council, Diliman, Quezon City (Philippines)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>NFAC</ags:publisherName>
+<ags:publisherPlace>Diliman, Quezon City (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Jan 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>17 tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>20 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500150</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7400037">
+<dc:title xml:lang="en">Machining properties of Philippine woods XII: Amugis [Koordersiodendern pinnatum (Blanco) Merr.]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Eala, R.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Canlas, P.S. Jr.</ags:creatorPersonal>
+<ags:creatorCorporate>Forest Products Research and Industries Development Commission, College, Laguna (Philippines)</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>4 tables. Summary (En). *FORPRIDECOM, Library (Philippines)</ags:descriptionNotes>
+</dc:description>
+<dc:identifier scheme="ags:RN">FORPRIDECOM-RU/Qq--1112</dc:identifier>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>13 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7400037</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="PH7500451">
+<dc:title xml:lang="en">Control of [Philippine] vegetable insects</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sanchez, F.F. (Rodent Research Center, College, Laguna (Philippines))</ags:creatorPersonal>
+<ags:creatorConference>Conference on Plant Protection in Tropical and Sub-Tropical Areas, Manila (Philippines), 4 Nov 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>BPI</ags:publisherName>
+<ags:publisherPlace>Manila (Philippines)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>PH</ags:availabilityLocation><ags:availabilityNumber>7500451</ags:availabilityNumber></agls:availability>
+<dc:source>Proceedings of the Conference on Plant Protection in Tropical and Sub-Tropical Areas, Manila 4-15 Nov. 1974, Bureau of Plant Industry, Manila (Philippines).- Manila (Philippines): BPI, 1974. p. 562-565</dc:source>
+</ags:resource>
+</ags:resources>

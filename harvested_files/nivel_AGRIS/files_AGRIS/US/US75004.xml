@@ -1,0 +1,2393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "../../agrislegacy.dtd">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="US7400408">
+<dc:title xml:lang="en">Arginine, lysine and glycine interaction in the nutrition of the chick</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kadirvel, R.</ags:creatorPersonal>
+<ags:creatorPersonal>Vohra, P.</ags:creatorPersonal>
+<ags:creatorPersonal>Kratzer, F.H.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>28 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400408</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Nutrition (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0022-3166</ags:citationIdentifier>
+<ags:citationNumber>v. 104(9) p. 1127-1134</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501105">
+<dc:title xml:lang="en">Ammonium nitrogen in fetuses of urea-treated sheep [Toxicity]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Yelverton, C.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Roller, M.H.</ags:creatorPersonal>
+<ags:creatorPersonal>Swanson, R.N.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>10 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501105</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>American Journal of Veterinary Research (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0002-9645</ags:citationIdentifier>
+<ags:citationNumber>v. 36(2) p. 191-192</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7500123">
+<dc:title xml:lang="en">Isolation of seedborne Diaporthe phaseolorum [sojae] and Phomopsis from immature soybean plants</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kmetz, K.</ags:creatorPersonal>
+<ags:creatorPersonal>Ellett, C.W.</ags:creatorPersonal>
+<ags:creatorPersonal>Schmitthenner, A.F.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>22 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7500123</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant Disease Reporter (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-0811</ags:citationIdentifier>
+<ags:citationNumber>v. 58(11) p. 978-982</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501358">
+<dc:title xml:lang="en">Metabolism of 3H-gibberellin A1 and 3H-Gibberellin A4 by Phaseolus coccineus seedlings</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Reeve, D.R.</ags:creatorPersonal>
+<ags:creatorPersonal>Crozier, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Durley, R.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Reid, D.M.</ags:creatorPersonal>
+<ags:creatorPersonal>Pharis, R.P.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>15 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501358</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant Physiology (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-0889</ags:citationIdentifier>
+<ags:citationNumber>v. 55(1) p. 42-44</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501432">
+<dc:title xml:lang="en">Rhabdoviruslike particles associated with stunting of maize in Alabama [Transmitted by the corn planthopper Peregrinus maidis]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Zeyen, R.J.</ags:creatorPersonal>
+<ags:creatorPersonal>Morrison, R.H.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>11 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501432</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant Disease Reporter (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-0811</ags:citationIdentifier>
+<ags:citationNumber>v. 59(2) p. 169-171</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501920">
+<dc:title xml:lang="en">Ultrastructure of nectarine fruit surfaces</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Fogle, H.W.</ags:creatorPersonal>
+<ags:creatorPersonal>Faust, M.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>7 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501920</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal - American Society for Horticultural Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0003-1062</ags:citationIdentifier>
+<ags:citationNumber>v. 100(1) p. 74-77</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400203">
+<dc:title xml:lang="en">Selection of American elms [Ulmus americana] for resistance to Ceratocystis ulmi</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sinclair, W.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Welch, D.S.</ags:creatorPersonal>
+<ags:creatorPersonal>Parker, K.G.</ags:creatorPersonal>
+<ags:creatorPersonal>Tyler, L.J.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>18 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400203</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant Disease Reporter (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-0811</ags:citationIdentifier>
+<ags:citationNumber>v. 58(9) p. 784-788</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501817">
+<dc:title xml:lang="en">The establishment of three cell lines from the tick Rhipicephalus appendiculatus (Acari: Ixodidae) and their infection with some arboviruses [West Nile, Louping ill, Langat and Quaranfil viruses]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Varma, M.G.R.</ags:creatorPersonal>
+<ags:creatorPersonal>Pudney, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Leake, C.J.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(10 Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L72</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>13 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501817</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Medical Entomology (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0022-2585</ags:citationIdentifier>
+<ags:citationNumber>v. 11(6) p. 698-706</ags:citationNumber>
+<ags:citationChronology>(10 Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7502134">
+<dc:title xml:lang="en">Gastric neoplasms in the dog: a report of 20 cases [Tumors, physiological diseases]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sautter, J.H.</ags:creatorPersonal>
+<ags:creatorPersonal>Hanlon, G.F.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1 Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>18 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7502134</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal - American Veterinary Medical Association (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0003-1488</ags:citationIdentifier>
+<ags:citationNumber>v. 166(7) p. 691-696</ags:citationNumber>
+<ags:citationChronology>(1 Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7500303">
+<dc:title xml:lang="en">Inhibition of bacteria by some volatile and non-volatile compounds associated with milk, 5: Leuconostoc citrovorum</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kulshrestha, D.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Marth, E.H.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>10 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7500303</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Milk and Food Technology (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0022-2747</ags:citationIdentifier>
+<ags:citationNumber>v. 37(12) p. 600-605</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501161">
+<dc:title xml:lang="en">Salt requirements of lambs [Nutritional requirements]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hagsten, I.</ags:creatorPersonal>
+<ags:creatorPersonal>Perry, T.W.</ags:creatorPersonal>
+<ags:creatorPersonal>Outhouse, J.B.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>13 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501161</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Animal Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0021-8812</ags:citationIdentifier>
+<ags:citationNumber>v. 40(2) p. 329-334</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7401153">
+<dc:title xml:lang="en">Turbulence promoters in ultrafiltration of whey protein concentrate</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Dejmek, P.</ags:creatorPersonal>
+<ags:creatorPersonal>Funeteg, B.</ags:creatorPersonal>
+<ags:creatorPersonal>Hallstrom, B.</ags:creatorPersonal>
+<ags:creatorPersonal>Winge, L.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>16 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7401153</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Food Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0022-1147</ags:citationIdentifier>
+<ags:citationNumber>v. 39(5) p. 1014-1017</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7401449">
+<dc:title xml:lang="en">Fluorescent antibody study of a new bovine herpesvirus (strain DN-599) [Cattle]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sass, B.</ags:creatorPersonal>
+<ags:creatorPersonal>Mohanty, S.B.</ags:creatorPersonal>
+<ags:creatorPersonal>Hetrick, F.M.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7401449</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>American Journal of Veterinary Research (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0002-9645</ags:citationIdentifier>
+<ags:citationNumber>v. 35(10) p. 1343-1346</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501919">
+<dc:title xml:lang="en">Measurement and evaluation of pod opening force for Vigna sinensis Endl. [Cowpeas]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Dougherty, R.H.</ags:creatorPersonal>
+<ags:creatorPersonal>Hicks, J.R.</ags:creatorPersonal>
+<ags:creatorPersonal>Bassett, M.J.</ags:creatorPersonal>
+<ags:creatorPersonal>Fluck, R.C.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>11 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501919</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal - American Society for Horticultural Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0003-1062</ags:citationIdentifier>
+<ags:citationNumber>v. 100(1) p. 72-74</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400085">
+<dc:title xml:lang="en">Characterization of several viruses isolated from chickens with inclusion body hepatitis and aplastic anemia</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Rosenberger, J.K.</ags:creatorPersonal>
+<ags:creatorPersonal>Eckroade, R.J.</ags:creatorPersonal>
+<ags:creatorPersonal>Klopp, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Krauss, W.C.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>16 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400085</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Avian Diseases (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0005-2086</ags:citationIdentifier>
+<ags:citationNumber>v. 18(3) p. 399-409</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7500216">
+<dc:title xml:lang="en">Cost of required water pollution abatement on poultry processing plants [Georgia]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kerns, W.R.</ags:creatorPersonal>
+<ags:creatorPersonal>Jones, H.B. Jr.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">T00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>12 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7500216</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Southern Journal of Agricultural Economics (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0081-3052</ags:citationIdentifier>
+<ags:citationNumber>v. 6(1) p. 205-211</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501242">
+<dc:title xml:lang="en">Evaluation of soil testing methods for predicting growth and response of Pinus elliottii to phosphorus fertilization</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ballard, R.</ags:creatorPersonal>
+<ags:creatorPersonal>Pritchett, W.L.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>19 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501242</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Proceedings - Soil Science Society of America (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0038-0776</ags:citationIdentifier>
+<ags:citationNumber>v. 39(1) p. 132-136</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400608">
+<dc:title xml:lang="en">The transmission of aflatoxin B1 into eggs [Food contamination, contaminated feed, chickens]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Jacobson, W.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Wiseman, H.G.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q20</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>10 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400608</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Poultry Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-5791</ags:citationIdentifier>
+<ags:citationNumber>v. 53(5) p. 1743-1745</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501202">
+<dc:title xml:lang="en">Comparative growth and photosynthesis of black walnut [Juglans nigra] and honeylocust [Gleditsia triacanthos] seedlings</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Carpenter, S.B.</ags:creatorPersonal>
+<ags:creatorPersonal>Hanover, J.W.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>19 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501202</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Forest Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0015-749X</ags:citationIdentifier>
+<ags:citationNumber>v. 20(4) p. 317-324</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400615">
+<dc:title xml:lang="en">Polychlorinated biphenyl levels in raw and cooked chicken and chicken broth [Contamination]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Zabik, M.E.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>15 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400615</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Poultry Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-5791</ags:citationIdentifier>
+<ags:citationNumber>v. 53(5) p. 1785-1790</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400660">
+<dc:title xml:lang="en">Tubercularia ulmea canker of Tallhedge [Rhamnus frangula]: influence of freezing stress on disease susceptibility</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Schoeneweiss, D.F.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>13 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400660</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant Disease Reporter (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-0811</ags:citationIdentifier>
+<ags:citationNumber>v. 58(10) p. 937-941</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501845">
+<dc:title xml:lang="en">Toxicity of phosphine and methyl bromide at various temperatures and exposure periods to the four metamorphic stages of Trogoderma variabile [Control, stored products, insect pests]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Vincent, L.E.</ags:creatorPersonal>
+<ags:creatorPersonal>Lindgren, D.L.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501845</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Economic Entomology (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0022-0493</ags:citationIdentifier>
+<ags:citationNumber>v. 68(1) p. 53-56</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501892">
+<dc:title xml:lang="en">Effects of prostaglandin F2alpha on estrous cycle or corpus luteum in mares and gilts</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Douglas, R.H.</ags:creatorPersonal>
+<ags:creatorPersonal>Ginther, O.J.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>10 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501892</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Animal Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0021-8812</ags:citationIdentifier>
+<ags:citationNumber>v. 40(3) p. 518-522</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7502538">
+<dc:title xml:lang="en">Perspectives on predator management [Sheep, coyotes]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Johnson, J.</ags:creatorPersonal>
+<ags:creatorPersonal>Gartner, F.R.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L72</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>30 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7502538</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Range Management (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0022-409X</ags:citationIdentifier>
+<ags:citationNumber>v. 28(1) p. 18-21</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501138">
+<dc:title xml:lang="en">Spinal cord compression caused by osteocartilaginous exostoses of the spine in two dogs [Hereditary diseases]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Prata, R.G.</ags:creatorPersonal>
+<ags:creatorPersonal>Stoll, S.G.</ags:creatorPersonal>
+<ags:creatorPersonal>Zaki, F.A.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(15 Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>13 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501138</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal - American Veterinary Medical Association (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0003-1488</ags:citationIdentifier>
+<ags:citationNumber>v. 166(4) p. 371-375</ags:citationNumber>
+<ags:citationChronology>(15 Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501064">
+<dc:title xml:lang="en">Spectral characterization of the photoreducible b-type cytochrome of Dictyostelium discoideum [Molds]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Poff, K.L.</ags:creatorPersonal>
+<ags:creatorPersonal>Butler, W.L.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>12 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501064</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant Physiology (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-0889</ags:citationIdentifier>
+<ags:citationNumber>v. 55(2) p. 427-429</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7500189">
+<dc:title xml:lang="en">Discussion: International dimension of agricultural prices</dc:title>
+<dc:creator>
+<ags:creatorPersonal>McPherson, W.W.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7500189</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Southern Journal of Agricultural Economics (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0081-3052</ags:citationIdentifier>
+<ags:citationNumber>v. 6(1) p. 25-26</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7502200">
+<dc:title xml:lang="en">Fibrous osteodystrophy with facial hyperostosis in a dog with renal cortical hypoplasia [Congenital kidney disease, hyperparathyroidism, osteitis fibrosa cystica]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Norrdin, R.W.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>22 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7502200</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Cornell Veterinarian (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0010-8901</ags:citationIdentifier>
+<ags:citationNumber>v. 65(2) p. 173-186</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501182">
+<dc:title xml:lang="en">Heterodera cruciferae on cabbages in South Australia and its chemical control [Nematodes]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Stirling, G.R.</ags:creatorPersonal>
+<ags:creatorPersonal>Wicks, T.J.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>9 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501182</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant Disease Reporter (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-0811</ags:citationIdentifier>
+<ags:citationNumber>v. 59(1) p. 43-45</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400521">
+<dc:title xml:lang="en">Zoo animal practice as a career [Veterinary medicine]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Boever, W.J.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1 Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L70</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>13 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400521</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal - American Veterinary Medical Association (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0003-1488</ags:citationIdentifier>
+<ags:citationNumber>v. 165(9) p. 795-797</ags:citationNumber>
+<ags:citationChronology>(1 Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400206">
+<dc:title xml:lang="en">Attempt at previsual diagnosis of citrus young tree decline by use of a remote sensing infrared thermometer [Sand hill decline, Florida]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Edwards, G.J.</ags:creatorPersonal>
+<ags:creatorPersonal>DuCharme, E.P.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400206</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant Disease Reporter (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-0811</ags:citationIdentifier>
+<ags:citationNumber>v. 58(9) p. 793-796</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400129">
+<dc:title xml:lang="en">Therapeutic use of a phantom for semen collection from a stallion</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kenney, R.M.</ags:creatorPersonal>
+<ags:creatorPersonal>Cooper, W.L.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(15 Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400129</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal - American Veterinary Medical Association (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0003-1488</ags:citationIdentifier>
+<ags:citationNumber>v. 165(8) p. 706-707</ags:citationNumber>
+<ags:citationChronology>(15 Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7500538">
+<dc:title xml:lang="en">Surveillance of Iowa swine herds for influenza-like illness: combined serologic and virus isolation method</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Pertle, E.C.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>7 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7500538</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>American Journal of Veterinary Research (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0002-9645</ags:citationIdentifier>
+<ags:citationNumber>v. 36(1) p. 121-122</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7500063">
+<dc:title xml:lang="en">Dune sand stabilization with synthetic soil conditioners: a laboratory experiment</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Gabriels, D.</ags:creatorPersonal>
+<ags:creatorPersonal>Boodt, M. de</ags:creatorPersonal>
+<ags:creatorPersonal>Minjauw, D.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>10 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7500063</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Soil Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0038-075X</ags:citationIdentifier>
+<ags:citationNumber>v. 118(5) p. 332-338</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501827">
+<dc:title xml:lang="en">Flea reinfestation on the California meadow vole (Microtus californicus) [Malaraeus telchinus, Hystrichopsylla linsdalei, Leptopsylla segnis, insect pests]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Schwan, T.G.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(10 Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L72</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501827</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Medical Entomology (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0022-2585</ags:citationIdentifier>
+<ags:citationNumber>v. 11(6) p. 760</ags:citationNumber>
+<ags:citationChronology>(10 Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7401110">
+<dc:title xml:lang="en">A tympanic membrane temperature measurement technique for birds [Chickens]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ahmad, M.M.</ags:creatorPersonal>
+<ags:creatorPersonal>Mather, F.B.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7401110</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Poultry Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-5791</ags:citationIdentifier>
+<ags:citationNumber>v. 53(4) p. 1616-1618</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7401285">
+<dc:title xml:lang="en">The rate of larval development of Aedes implicatus Vockeroth in field and laboratory</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Stewart, W.W.A.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L72</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>13 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7401285</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Mosquito News (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0027-142X</ags:citationIdentifier>
+<ags:citationNumber>v. 34(3) p. 283-285</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7401459">
+<dc:title xml:lang="en">Hematology of the neonatal calf: erythrocyte and leukocyte values of normal calves [Dairy cattle]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Tennant, B.</ags:creatorPersonal>
+<ags:creatorPersonal>Harrold, D.</ags:creatorPersonal>
+<ags:creatorPersonal>Reina-Guerra, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Kendrick, J.W.</ags:creatorPersonal>
+<ags:creatorPersonal>Laben, R.C.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>28 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7401459</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Cornell Veterinarian (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0010-8901</ags:citationIdentifier>
+<ags:citationNumber>v. 64(4) p. 516-532</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400629">
+<dc:title xml:lang="en">Change in electrophoresis patterns of liquid egg white due to heat</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Cunningham, F.E.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>19 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400629</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Poultry Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-5791</ags:citationIdentifier>
+<ags:citationNumber>v. 53(5) p. 1866-1869</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400776">
+<dc:title xml:lang="en">Dorsal surgical approach to acetabular fractures in the dog</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Wadsworth, P.L.</ags:creatorPersonal>
+<ags:creatorPersonal>Henry, W.B.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(15 Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400776</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal - American Veterinary Medical Association (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0003-1488</ags:citationIdentifier>
+<ags:citationNumber>v. 165(10) p. 908-910</ags:citationNumber>
+<ags:citationChronology>(15 Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7500636">
+<dc:title xml:lang="en">An enzymatic-chemical method for extraction of cottonseed [meal] protein [Flour]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Childs, E.A.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7500636</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Food Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0022-1147</ags:citationIdentifier>
+<ags:citationNumber>v. 40(1) p. 78-80</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400707">
+<dc:title xml:lang="en">Softening temperature, ash content, and bond quality of polyvinyl-acetate-emulsion adhesives [Wood-glue bonding]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Bergin, E.G.</ags:creatorPersonal>
+<ags:creatorPersonal>Chow, S.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">K50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400707</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Forest Products Journal (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0015-7473</ags:citationIdentifier>
+<ags:citationNumber>v. 24(11) p. 45-59</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501098">
+<dc:title xml:lang="en">Effects of fasting on hepatic function in ponies</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Gronwall, R.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>9 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501098</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>American Journal of Veterinary Research (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0002-9645</ags:citationIdentifier>
+<ags:citationNumber>v. 36(2) p. 145-148</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7401203">
+<dc:title xml:lang="en">Availability of fertilizer zinc to corn in a calcareous mineral soil</dc:title>
+<dc:creator>
+<ags:creatorPersonal>MacGregor, J.M.</ags:creatorPersonal>
+<ags:creatorPersonal>Sajjapongse, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Gunderson, O.M.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>20 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7401203</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Proceedings - Soil Science Society of America (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0038-0776</ags:citationIdentifier>
+<ags:citationNumber>v. 38(4) p. 611-616</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400369">
+<dc:title xml:lang="en">Incidence of hickory shuckworm [Laspeyresia caryana] in galls of Phylloxera spp. on pecans</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Boethel, D.J.</ags:creatorPersonal>
+<ags:creatorPersonal>Criswell, J.T.</ags:creatorPersonal>
+<ags:creatorPersonal>Eikenbary, R.D.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400369</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Economic Entomology (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0022-0493</ags:citationIdentifier>
+<ags:citationNumber>v. 67(5) p. 692-693</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400083">
+<dc:title xml:lang="en">Skeletal disease and locomotor problems in turkeys [Virus diseases]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sanger, V.L.</ags:creatorPersonal>
+<ags:creatorPersonal>Dahlgren, R.R.</ags:creatorPersonal>
+<ags:creatorPersonal>Cover, M.S.</ags:creatorPersonal>
+<ags:creatorPersonal>Langham, R.F.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>30 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400083</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Avian Diseases (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0005-2086</ags:citationIdentifier>
+<ags:citationNumber>v. 18(3) p. 378-393</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400504">
+<dc:title xml:lang="en">Effects of mannoheptulose on lipid metabolism of rats [Fatty acid synthetase, cholesterol synthesis]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Koh, E.</ags:creatorPersonal>
+<ags:creatorPersonal>Berdanier, C.D.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">S20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>29 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400504</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Nutrition (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0022-3166</ags:citationIdentifier>
+<ags:citationNumber>v. 104(10) p. 1227-1233</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400832">
+<dc:title xml:lang="en">Dielectric properties of model meat emulsions at 900 and 2800 MHz [megahertz] in relation to their composition [Water, fat, proteins]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ohlsson, T.</ags:creatorPersonal>
+<ags:creatorPersonal>Henriques, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Bengtsson, N.E.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">S10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>7 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400832</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Food Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0022-1147</ags:citationIdentifier>
+<ags:citationNumber>v. 39(6) p. 1153-1156</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501340">
+<dc:title xml:lang="en">Some economic aspects of agricultural regulation and stabilization</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Houck, J.P.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>30 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501340</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>American Journal of Agricultural Economics (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0002-9092</ags:citationIdentifier>
+<ags:citationNumber>v. 56(5) p. 1113-1124</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400952">
+<dc:title xml:lang="en">Variations in efficiency of nitrogen utilization in tomatoes (Lycopersicon esculentum Mill.) grown under nitrogen stress [Genetic control]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>O'Sullivan, J.</ags:creatorPersonal>
+<ags:creatorPersonal>Gabelman, W.H.</ags:creatorPersonal>
+<ags:creatorPersonal>Gerloff, G.C.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>20 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400952</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal - American Society for Horticultural Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0003-1062</ags:citationIdentifier>
+<ags:citationNumber>v. 99(6) p. 543-547</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7500555">
+<dc:title xml:lang="en">Freezing of boar spermatozoa: fertilizing capacity with concentrated semen and a new thawing procudure [Swine]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Pursel, V.G.</ags:creatorPersonal>
+<ags:creatorPersonal>Johnson, L.A.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>30 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7500555</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Animal Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0021-8812</ags:citationIdentifier>
+<ags:citationNumber>v. 40(1) p. 99-102</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7500140">
+<dc:title xml:lang="en">Dasheen mosaic virus infection of Colocasia and Xanthosoma in Venezuela [Philodendron selloum, Myzus persicae, vectors]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Debrot, E.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Ordosgoitti, A.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>9 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7500140</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant Disease Reporter (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-0811</ags:citationIdentifier>
+<ags:citationNumber>v. 58(11) p. 1032-1034</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501062">
+<dc:title xml:lang="en">Zinc nutrition and starch metabolism in Phaseolus vulgaris L. [Kidney beans]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Jyung, W.H.</ags:creatorPersonal>
+<ags:creatorPersonal>Ehmann, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Schlender, K.K.</ags:creatorPersonal>
+<ags:creatorPersonal>Scala, J.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>23 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501062</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant Physiology (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-0889</ags:citationIdentifier>
+<ags:citationNumber>v. 55(2) p. 414-420</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400047">
+<dc:title xml:lang="en">Citation for John M. deMann, recipient of the 1974 Dairy Research, Inc. Award</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Anon.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400047</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Dairy Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0022-0302</ags:citationIdentifier>
+<ags:citationNumber>v. 57(9) p. 1101-1102</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7401098">
+<dc:title xml:lang="en">Changes in egg white during incubation of the fertile egg [Chickens]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Cunningham, F.E.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>22 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7401098</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Poultry Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-5791</ags:citationIdentifier>
+<ags:citationNumber>v. 53(4) p. 1561-1565</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7502452">
+<dc:title xml:lang="en">Registration of Cerise proso millet [Varieties]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Nelson, L.A.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7502452</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Crop Science (USA)</ags:citationTitle>
+<ags:citationNumber>v. 15(1) p. 98</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400729">
+<dc:title xml:lang="en">Photosynthesis in detached leaves of cold-hardened citrus seedings [Kumquats, grapefruits, citrons, mandarin oranges]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Young, R.</ags:creatorPersonal>
+<ags:creatorPersonal>Bell, W.D.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>26 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400729</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal - American Society for Horticultural Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0003-1062</ags:citationIdentifier>
+<ags:citationNumber>v. 99(5) p. 400-403</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400368">
+<dc:title xml:lang="en">Reactions of sorghum varieties to maize weevil [Sitophilus zeamaize] infestation under three relative humidities</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Rogers, R.R.</ags:creatorPersonal>
+<ags:creatorPersonal>Mills, R.B.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400368</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Economic Entomology (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0022-0493</ags:citationIdentifier>
+<ags:citationNumber>v. 67(5) p. 692</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501598">
+<dc:title xml:lang="en">Viscerotropic velogenic Newcastle disease in turkeys: Immune response following vaccination with either viable B1 strain or inactivated vaccine</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Boney, W.A. Jr.</ags:creatorPersonal>
+<ags:creatorPersonal>Stone, H.D.</ags:creatorPersonal>
+<ags:creatorPersonal>Gillette, K.G.</ags:creatorPersonal>
+<ags:creatorPersonal>Coria, M.F.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>19 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501598</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Avian Diseases (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0005-2086</ags:citationIdentifier>
+<ags:citationNumber>v. 19(1) p. 19-30</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400798">
+<dc:title xml:lang="en">Peanut plants from single de-embryonated cotyledons or cotyledonary fragments</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Illingworth, J.E.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>1 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400798</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>HortScience (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0018-5345</ags:citationIdentifier>
+<ags:citationNumber>v. 9(5) p. 462</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7401069">
+<dc:title xml:lang="en">Effects of anchovy fish meal in broiler diets [Chickens]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Avila G, E.</ags:creatorPersonal>
+<ags:creatorPersonal>Balloun, S.L.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>13 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7401069</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Poultry Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-5791</ags:citationIdentifier>
+<ags:citationNumber>v. 53(4) p. 1372-1379</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7500467">
+<dc:title xml:lang="en">Hybridization of Aedes taeniorhynchus (Wiedemann) with Aedes nigromaculis (Ludlow) or Aedes sollicitans (Walker) by induced copulation [The use of genetic incompatibility to control mosquito populations]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Fukuda, T.</ags:creatorPersonal>
+<ags:creatorPersonal>Woodard, D.B.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L72</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7500467</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Mosquito News (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0027-142X</ags:citationIdentifier>
+<ags:citationNumber>v. 34(4) p. 431-435</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7401312">
+<dc:title xml:lang="en">Southern green stink bug [Nezara viridula]: influence on yield and quality of soybeans</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Thomas, G.D.</ags:creatorPersonal>
+<ags:creatorPersonal>Ignoffo, C.M.</ags:creatorPersonal>
+<ags:creatorPersonal>Morgan, C.E.</ags:creatorPersonal>
+<ags:creatorPersonal>Dickerson, W.A.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(15 Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>8 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7401312</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Economic Entomology (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0022-0493</ags:citationIdentifier>
+<ags:citationNumber>v. 67(4) p. 501-503</ags:citationNumber>
+<ags:citationChronology>(15 Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7500268">
+<dc:title xml:lang="en">Boron deficiency in unfertilized cotton (Gossypium hirsutum) ovules grown in vitro [Phytohormone interactions]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Birnbaum, E.H.</ags:creatorPersonal>
+<ags:creatorPersonal>Beasley, C.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Dugger, W.M.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>12 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7500268</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant Physiology (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-0889</ags:citationIdentifier>
+<ags:citationNumber>v. 54(6) p. 931-935</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400642">
+<dc:title xml:lang="en">Survival of Gremmeniella abietina (Scleroderris lagerbergii) in marketed Christmas trees</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Magasi, L.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Manley, J.M.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>4 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400642</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant Disease Reporter (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-0811</ags:citationIdentifier>
+<ags:citationNumber>v. 58(10) p. 892-894</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7502409">
+<dc:title xml:lang="en">Real property taxes and farm real estate values: incidence and implications: comment</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Deaton, B.J.</ags:creatorPersonal>
+<ags:creatorPersonal>Mundy, S.D.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7502409</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>American Journal of Agricultural Economics (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0002-9092</ags:citationIdentifier>
+<ags:citationNumber>v. 57(1) p. 125-126</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400211">
+<dc:title xml:lang="en">Reaction in corn inbreds and hybrids to Helminthosporium maydis race T</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Lim, S.M.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400211</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant Disease Reporter (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-0811</ags:citationIdentifier>
+<ags:citationNumber>v. 58(9) p. 811-813</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7500150">
+<dc:title xml:lang="en">Structure and biosynthesis of cuticular lipids. Hydroxylation of palmitic acid and decarboxylation of C28, C30, and C32 acids in Vicia faba [broadbeans] flowers [Composition of the cutin monomers]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kolattukudy, P.E.</ags:creatorPersonal>
+<ags:creatorPersonal>Croteau, R.</ags:creatorPersonal>
+<ags:creatorPersonal>Brown, L.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>18 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7500150</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant Physiology (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-0889</ags:citationIdentifier>
+<ags:citationNumber>v. 54(5) p. 670-677</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7401437">
+<dc:title xml:lang="en">Canine reproduction: Effects of multiple treatments of medroxyprogesterone acetate on reproductive organs of the bitch [Dogs]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sokolowski, J.H.</ags:creatorPersonal>
+<ags:creatorPersonal>Zimbelman, R.G.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>18 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7401437</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>American Journal of Veterinary Research (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0002-9645</ags:citationIdentifier>
+<ags:citationNumber>v. 35(10) p. 1285-1287</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7500287">
+<dc:title xml:lang="en">Infection of onion leaves by Pseudomonas cepacia [Bacterial soft rot]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kawamoto, S.O.</ags:creatorPersonal>
+<ags:creatorPersonal>Lorbeer, J.W.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>9 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7500287</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Phytopathology (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0031-949X</ags:citationIdentifier>
+<ags:citationNumber>v. 64(11) p. 1440-1445</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7500137">
+<dc:title xml:lang="en">Susceptibility variations to spur blight (Didymella applanata) among red raspberry cultivars and selections</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Daubeny, H.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Pepin, H.S.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>10 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7500137</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant Disease Reporter (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-0811</ags:citationIdentifier>
+<ags:citationNumber>v. 58(11) p. 1024-1027</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400831">
+<dc:title xml:lang="en">Organoleptic acceptability of various cooked mutton salami formulations</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Anderson, J.R.</ags:creatorPersonal>
+<ags:creatorPersonal>Gillett, T.A.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">S00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>17 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400831</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Food Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0022-1147</ags:citationIdentifier>
+<ags:citationNumber>v. 39(6) p. 1150-1152</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501778">
+<dc:title xml:lang="en">Weed control systems in cotton on Tifton loamy sand soil</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Dowler, C.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Hauser, E.W.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>9 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501778</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Weed Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0043-1745</ags:citationIdentifier>
+<ags:citationNumber>v. 23(1) p. 40-42</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7500354">
+<dc:title xml:lang="en">Artificial diets for maintaining the adult clover root borer [Hylastinus obscurus]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Byers, R.A.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7500354</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Economic Entomology (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0022-0493</ags:citationIdentifier>
+<ags:citationNumber>v. 67(6) p. 806</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7502014">
+<dc:title xml:lang="en">Fate of dichlorvos residues during milling and oil extraction of soybeans [Post-harvest control of Graphognathus]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>La Hue, D.W.</ags:creatorPersonal>
+<ags:creatorPersonal>Kirk, L.D.</ags:creatorPersonal>
+<ags:creatorPersonal>Mustakas, G.C.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">Q20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7502014</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Environmental Entomology (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0046-2254</ags:citationIdentifier>
+<ags:citationNumber>v. 4(1) p. 11-14</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7401182">
+<dc:title xml:lang="en">Effect of 2,4-dinitrophenol on auxin-induced ethylene production and auxin conjugation by mung bean tissue</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Lau, O.L.</ags:creatorPersonal>
+<ags:creatorPersonal>Murr, D.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Yang, S.F.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>19 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7401182</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant Physiology (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-0889</ags:citationIdentifier>
+<ags:citationNumber>v. 54(2) p. 182-185</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501258">
+<dc:title xml:lang="en">A neoclassical analysis of the U. S. Farm sector, 1948-1970 [Impact of farm programs on the farm economy]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Rosine, J.</ags:creatorPersonal>
+<ags:creatorPersonal>Helmberger, P.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>28 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501258</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>American Journal of Agricultural Economics (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0002-9092</ags:citationIdentifier>
+<ags:citationNumber>v. 56(4) p. 717-729</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400834">
+<dc:title xml:lang="en">Effect of calcium supplementation of brom cresol purple broth on recovery counts of Bacillus stearothermophilus [Spoilage, canned foods]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Evancho, G.M.</ags:creatorPersonal>
+<ags:creatorPersonal>Ashton, D.H.</ags:creatorPersonal>
+<ags:creatorPersonal>Corson, L.M.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>7 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400834</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Food Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0022-1147</ags:citationIdentifier>
+<ags:citationNumber>v. 39(6) p. 1161-1162</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501153">
+<dc:title xml:lang="en">Alteration of phospholipids in porcine spermatozoa during in vivo uterus and oviduct incubation [Swine]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Snider, D.R.</ags:creatorPersonal>
+<ags:creatorPersonal>Clegg, E.D.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>25 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501153</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Animal Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0021-8812</ags:citationIdentifier>
+<ags:citationNumber>v. 40(2) p. 269-274</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7401095">
+<dc:title xml:lang="en">Effect of different feeding regimes on performance of broiler chickens reared sexes separate or combined</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Gehle, M.H.</ags:creatorPersonal>
+<ags:creatorPersonal>Powell, T.S.</ags:creatorPersonal>
+<ags:creatorPersonal>Arends, L.G.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>8 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7401095</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Poultry Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-5791</ags:citationIdentifier>
+<ags:citationNumber>v. 53(4) p. 1543-1548</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400143">
+<dc:title xml:lang="en">The ultrastructure of the root cap in cultured roots of Convolvulus arvensis L.</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Phillips, H.L. Jr.</ags:creatorPersonal>
+<ags:creatorPersonal>Torrey, J.G.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>20 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400143</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>American Journal of Botany (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0002-9122</ags:citationIdentifier>
+<ags:citationNumber>v. 61(8) p. 879-887</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7401445">
+<dc:title xml:lang="en">Histochemical muscle fiber typing in inherited muscular dystrophy of mink [Defects of skeletal muscle]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hamilton, M.J.</ags:creatorPersonal>
+<ags:creatorPersonal>Hegreberg, G.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Gorham, J.R.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>30 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7401445</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>American Journal of Veterinary Research (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0002-9645</ags:citationIdentifier>
+<ags:citationNumber>v. 35(10) p. 1321-1324</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7502272">
+<dc:title xml:lang="en">Lethal dosages of methyl bromide for four plant-parasitic nematodes and the effect of soil temperature on its nematicidal activity [Xiphinema index, Meloidogyne incognita, Heterodera schachtii, Paratylenchus]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Abdalla, N.</ags:creatorPersonal>
+<ags:creatorPersonal>Lear, B.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>15 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7502272</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant Disease Reporter (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-0811</ags:citationIdentifier>
+<ags:citationNumber>v. 59(3) p. 224-228</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501890">
+<dc:title xml:lang="en">Effect of high dietary molybdenum and sulfate on plasma copper clearance and tissue minerals in growing swine</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Standish, J.F.</ags:creatorPersonal>
+<ags:creatorPersonal>Ammerman, C.B.</ags:creatorPersonal>
+<ags:creatorPersonal>Wallace, H.D.</ags:creatorPersonal>
+<ags:creatorPersonal>Combs, G.E.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>10 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501890</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Animal Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0021-8812</ags:citationIdentifier>
+<ags:citationNumber>v. 40(3) p. 509-513</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7401142">
+<dc:title xml:lang="en">An apparatus for measuring plucking force of pig hairs [Dehairing process during slaughter]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Mowafy, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Cassens, R.G.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7401142</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Food Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0022-1147</ags:citationIdentifier>
+<ags:citationNumber>v. 39(5) p. 970-971</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400256">
+<dc:title xml:lang="en">Failure to detect cyclic 3',5'-adenosine monophosphate in healthy and crown gall [Agrobacterium tumefaciens] tumorous tissues of Vicia faba [Broadbeans]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Niles, R.M.</ags:creatorPersonal>
+<ags:creatorPersonal>Mount, M.S.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>12 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400256</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant Physiology (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-0889</ags:citationIdentifier>
+<ags:citationNumber>v. 54(3) p. 372-373</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501675">
+<dc:title xml:lang="en">Determination of chlorophacinone and diphenadione [rodenticide] residues in biological materials</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Bullard, R.W.</ags:creatorPersonal>
+<ags:creatorPersonal>Holguin, G.</ags:creatorPersonal>
+<ags:creatorPersonal>Peterson, J.E.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>12 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501675</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Agricultural and Food Chemistry (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0021-8561</ags:citationIdentifier>
+<ags:citationNumber>v. 23(1) p. 72-74</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7500461">
+<dc:title xml:lang="en">Susceptibility of Psorophora confinnis and Anopheles quadrimaculatus of the Mississippi Delta to four insecticides</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ouzts, J.D.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L72</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7500461</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Mosquito News (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0027-142X</ags:citationIdentifier>
+<ags:citationNumber>v. 34(4) p. 403-405</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501027">
+<dc:title xml:lang="en">Chromatography of cytokinins on a neutral polystyrene resin. A simple procedure for the separation of the cis and trans isomers of zeatin or ribosylzeatin [Wheat]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Armstrong, D.J.</ags:creatorPersonal>
+<ags:creatorPersonal>Skoog, F.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>20 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501027</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant Physiology (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-0889</ags:citationIdentifier>
+<ags:citationNumber>v. 55(2) p. 237-239</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501123">
+<dc:title xml:lang="en">Intraarticular treatment of tarsal degenerative joint disease in cattle</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Van Pelt, R.W.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1 Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>22 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501123</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal - American Veterinary Medical Association (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0003-1488</ags:citationIdentifier>
+<ags:citationNumber>v. 166(3) p. 239-246</ags:citationNumber>
+<ags:citationChronology>(1 Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7502132">
+<dc:title xml:lang="en">Abnormal bone development and lameness associated with secondary copper deficiency in young cattle</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Smith, B.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Fisher, G.L.</ags:creatorPersonal>
+<ags:creatorPersonal>Poulos, P.W.</ags:creatorPersonal>
+<ags:creatorPersonal>Irwin, M.R.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1 Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>41 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7502132</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal - American Veterinary Medical Association (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0003-1488</ags:citationIdentifier>
+<ags:citationNumber>v. 166(7) p. 682-688</ags:citationNumber>
+<ags:citationChronology>(1 Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400410">
+<dc:title xml:lang="en">Induction of rapid, synchronous vitamin A deficiency in the rat</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Lamb, A.J.</ags:creatorPersonal>
+<ags:creatorPersonal>Apiwatanaporn, P.</ags:creatorPersonal>
+<ags:creatorPersonal>Olson, J.A.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>16 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400410</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Nutrition (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0022-3166</ags:citationIdentifier>
+<ags:citationNumber>v. 104(9) p. 1140-1148</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501412">
+<dc:title xml:lang="en">A severe outbreak of [tomato and tobacco ringspot] virus-induced grapevine decline in Cascade grapevines in New York</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Uyemoto, J.K.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>8 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501412</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant Disease Reporter (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-0811</ags:citationIdentifier>
+<ags:citationNumber>v. 59(2) p. 98-101</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7502185">
+<dc:title xml:lang="en">Interaction of kinetin and calcium in relation to their effect on stimulation of ethylene production [Mung beans]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Lau, O.L.</ags:creatorPersonal>
+<ags:creatorPersonal>Yang, S.F.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Apr 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>20 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7502185</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant Physiology (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-0889</ags:citationIdentifier>
+<ags:citationNumber>v. 55(4) p. 738-740</ags:citationNumber>
+<ags:citationChronology>(Apr 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7502253">
+<dc:title xml:lang="en">Southern pine economy's response capability [Pinus, market demands]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Guttenberg, S.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7502253</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Forest Products Journal (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0015-7473</ags:citationIdentifier>
+<ags:citationNumber>v. 25(3) p. 16-18</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7401191">
+<dc:title xml:lang="en">Diffusion of herbicides [in soils] in the adsorbed phase</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Scott, H.D.</ags:creatorPersonal>
+<ags:creatorPersonal>Phillips, R.E.</ags:creatorPersonal>
+<ags:creatorPersonal>Paetzold, R.F.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F22</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">H60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>15 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7401191</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Proceedings - Soil Science Society of America (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0038-0776</ags:citationIdentifier>
+<ags:citationNumber>v. 38(4) p. 558-562</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7500084">
+<dc:title xml:lang="en">Incidence and control of mastitis during the dry period [Streptococcus agalactiae, Streptococcus uberis, Staphylococcus aureus, dairy cattle]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ward, G.E.</ags:creatorPersonal>
+<ags:creatorPersonal>Schultz, L.H.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>25 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7500084</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Dairy Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0022-0302</ags:citationIdentifier>
+<ags:citationNumber>v. 57(11) p. 1341-1349</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7400227">
+<dc:title xml:lang="en">Control of Meloidogyne hapla on peony [Paeonia lactiflora, nematodes]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Schmitt, D.P.</ags:creatorPersonal>
+<ags:creatorPersonal>Norton, D.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Hinz, P.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>17 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7400227</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant Disease Reporter (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0032-0811</ags:citationIdentifier>
+<ags:citationNumber>v. 58(9) p. 860-864</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7501906">
+<dc:title xml:lang="en">14C-sucrose translocation in apple [Carbon isotopes]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Schneider, G.W.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>13 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7501906</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal - American Society for Horticultural Science (USA)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0003-1062</ags:citationIdentifier>
+<ags:citationNumber>v. 100(1) p. 22-24</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="US7502420">
+<dc:title xml:lang="en">Solute loss from deteriorated cottonseed: relationship between deterioration, seed moisture, and solute loss [influenced by delinting procedure and post-delinting washing]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Halloin, J.M.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>9 ref.; Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>US</ags:availabilityLocation><ags:availabilityNumber>7502420</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Crop Science (USA)</ags:citationTitle>
+<ags:citationNumber>v. 15(1) p. 11-15</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+</ags:resources>

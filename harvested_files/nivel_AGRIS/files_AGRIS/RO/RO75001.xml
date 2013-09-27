@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "../../agrislegacy.dtd">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="RO7500052">
+<dc:title xml:lang="en">New rice lines [L237, L768, L387 obtained at Chirnogi Experimental Centre, Romania]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Melachrinos, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Melachrinos, F. (Institutul de Cercetari pentru Cereale si Plante Tehnice, Fundulea (Romania))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1971)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>7 tables; 5 ref. Summaries (En, Ru)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ro</dc:language>
+<agls:availability><ags:availabilityLocation>RO</ags:availabilityLocation><ags:availabilityNumber>7500052</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Analele Institutului de Cercetari pentru Cereale si Plante Tehnici. Fundulea. Seria B (Romania)</ags:citationTitle>
+<ags:citationNumber>v. 39; p. 87-95</ags:citationNumber>
+<ags:citationChronology>(1971)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="RO7500021">
+<dc:title xml:lang="en">Effects of the cultivation methods applied to temporarily wet soils on wheat and corn yields [Livada, Romania]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hulpoi, N.</ags:creatorPersonal>
+<ags:creatorPersonal>Nicolae, C.</ags:creatorPersonal>
+<ags:creatorPersonal>Pintilie, C.</ags:creatorPersonal>
+<ags:creatorPersonal>Damian, L.</ags:creatorPersonal>
+<ags:creatorPersonal>Pipie, F.</ags:creatorPersonal>
+<ags:creatorPersonal>Olaru, V. (Institutul de 'cercetari pentru Cereale si Plante Tehnice, Fundulea (Romania))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1971)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F27</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 tables; 9 ref. Summaries (En, Ru)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ro</dc:language>
+<agls:availability><ags:availabilityLocation>RO</ags:availabilityLocation><ags:availabilityNumber>7500021</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Analele Institutului de Cercetari pentru Cereale si Plante Tehnici. Fundulea. Seria B (Romania)</ags:citationTitle>
+<ags:citationNumber>v. 39, p. 121-132</ags:citationNumber>
+<ags:citationChronology>(1971)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="RO7500049">
+<dc:title xml:lang="en">Contributions to the knowledge of physiological specialization of Ustilago tritici in Romania</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Tusa, C.</ags:creatorPersonal>
+<ags:creatorPersonal>Radulescu, E. (Institutul de Cercetari pentru Cereale si Plante Tehnice, Fundulea (Romania))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1971)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>4 tables; 6 ref. Summaries (En, Ru)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ro</dc:language>
+<agls:availability><ags:availabilityLocation>RO</ags:availabilityLocation><ags:availabilityNumber>7500049</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Analele Institutului de Cercetari pentru Cereale si Plante Tehnici. Fundulea. Seria B (Romania)</ags:citationTitle>
+<ags:citationNumber>v. 39, p. 59-66</ags:citationNumber>
+<ags:citationChronology>(1971)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="RO7500015">
+<dc:title xml:lang="en">Experimental results with amendments and fertilizers on the [acid] soils at Livada [Romania]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Boeriu, I. (Institutul de Cercetari pentru Cereale si Plante Tehnice, Fundulea (Romania))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1971)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 tables, 6 graphs; 7 ref. Summaries (En, Ru)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ro</dc:language>
+<agls:availability><ags:availabilityLocation>RO</ags:availabilityLocation><ags:availabilityNumber>7500015</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Analele Institutului de Cercetari pentru Cereale si Plante Tehnici. Fundulea. Seria B (Romania)</ags:citationTitle>
+<ags:citationNumber>v. 39, p. 55-72</ags:citationNumber>
+<ags:citationChronology>(1971)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="RO7500020">
+<dc:title xml:lang="en">Some aspects of phosphorus and nitrogen fertilization in wheat and corn [on a medium-leached chernozem at Fundulea, Romania]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hera, C.</ags:creatorPersonal>
+<ags:creatorPersonal>Isfan, D.</ags:creatorPersonal>
+<ags:creatorPersonal>Triboi, E.</ags:creatorPersonal>
+<ags:creatorPersonal>Burlacu, G.</ags:creatorPersonal>
+<ags:creatorPersonal>Oproiu, E.</ags:creatorPersonal>
+<ags:creatorPersonal>Cernescu, L. (Institutul de Cercetari pentru Cereale si Plante Tehnice, Fundulea (Romania))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1971)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>4 tables; 4 graphs; 5 ref. Summaries (En, Ru)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ro</dc:language>
+<agls:availability><ags:availabilityLocation>RO</ags:availabilityLocation><ags:availabilityNumber>7500020</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Analele Institutului de Cercetari pentru Cereale si Plante Tehnici. Fundulea. Seria B (Romania)</ags:citationTitle>
+<ags:citationNumber>v. 39; p. 111-120</ags:citationNumber>
+<ags:citationChronology>(1971)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="RO7500013">
+<dc:title xml:lang="en">Phosphate fertility of [chernozem] soils and phosphorus fertilization [southern Romania]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Triboi, E.</ags:creatorPersonal>
+<ags:creatorPersonal>Hera, C. (Institutul de Cercetari pentru Cereale si Plante Tehnice, Fundulea (Romania))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1971)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>8 graphs; 6 ref. Summaries (En, Ru)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ro</dc:language>
+<agls:availability><ags:availabilityLocation>RO</ags:availabilityLocation><ags:availabilityNumber>7500013</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Analele Institutului de Cercetari pentru Cereale si Plante Tehnice. Fundulea. Seria B (Romania)</ags:citationTitle>
+<ags:citationNumber>v. 39, p. 31-45</ags:citationNumber>
+<ags:citationChronology>(1971)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="RO7500045">
+<dc:title xml:lang="en">Research on the wheat resistance to Diptera pests</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Mustea, D.</ags:creatorPersonal>
+<ags:creatorPersonal>Tataru, V.</ags:creatorPersonal>
+<ags:creatorPersonal>Cadar, T. (Institutul de Cercetari pentru Cereale si Plante Tehnice, Fundulea (Romania))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1971)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>4 tables; 11 ref. Summaries (En, Ru)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ro</dc:language>
+<agls:availability><ags:availabilityLocation>RO</ags:availabilityLocation><ags:availabilityNumber>7500045</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Analele Institutului de Cercetari pentru Cereale si Plante Tehnici. Fundulea. Seria B (Romania)</ags:citationTitle>
+<ags:citationNumber>v. 39, p. 27-34</ags:citationNumber>
+<ags:citationChronology>(1971)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="RO7500047">
+<dc:title xml:lang="en">Observations on the attack induced in wheat by the overwintering adult of Eurygaster sp.</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Barbulescu, A. (Institutul de Cercetari pentru Cereale si Plante Tehnice, Fundulea (Romania))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1971)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 tables; 12 ref. Summaries (En, Ru)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ro</dc:language>
+<agls:availability><ags:availabilityLocation>RO</ags:availabilityLocation><ags:availabilityNumber>7500047</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Analele Institutului de Cercetari pentru Cereale si Plante Tehnici. Fundulea. Seria B (Romania)</ags:citationTitle>
+<ags:citationNumber>v. 39, p. 43-50</ags:citationNumber>
+<ags:citationChronology>(1971)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="RO7500055">
+<dc:title xml:lang="en">New lysine-enriched maize hybrids [at Fundulea, Romania]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Muresan, T.</ags:creatorPersonal>
+<ags:creatorPersonal>Cosmin, O.</ags:creatorPersonal>
+<ags:creatorPersonal>Negut, C.</ags:creatorPersonal>
+<ags:creatorPersonal>Sarca, T.</ags:creatorPersonal>
+<ags:creatorPersonal>Brad, I.</ags:creatorPersonal>
+<ags:creatorPersonal>Dobrescu, E. (Institutul de Cercetari pentru Cereale si Plante Tehnice, Fundulea (Romania))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1971)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>13 tables; 24 ref. Summaries (En, Ru)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ro</dc:language>
+<agls:availability><ags:availabilityLocation>RO</ags:availabilityLocation><ags:availabilityNumber>7500055</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Analele Institutului de Cercetari pentru Cereale si Plante Tehnici. Fundulea. Seria B (Romania)</ags:citationTitle>
+<ags:citationNumber>v. 39, p. 121-133</ags:citationNumber>
+<ags:citationChronology>(1971)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="RO7500016">
+<dc:title xml:lang="en">Evolution of soil fertility as influenced by irrigation [leached chernozem at Fundulea, Romania]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Handra, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Hulpoi, N. (Institutul de Cercetari pentru Cereale si Plante Tehnice, Fundulea (Romania))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1971)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F22</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">P12</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>8 tables; 7 ref. Summaries (En, Ru)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ro</dc:language>
+<agls:availability><ags:availabilityLocation>RO</ags:availabilityLocation><ags:availabilityNumber>7500016</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Analele Institutului de Cercetari pentru Cereale si Plante Tehnici. Fundulea. Seria B (Romania)</ags:citationTitle>
+<ags:citationNumber>v. 39, p. 73-82</ags:citationNumber>
+<ags:citationChronology>(1971)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="RO7500012">
+<dc:title xml:lang="en">Contributions to the development of new conventional methods of extraction of available phosphorus from soil</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Borlan, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Handra, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Hera, C.</ags:creatorPersonal>
+<ags:creatorPersonal>Lacatusu, R.</ags:creatorPersonal>
+<ags:creatorPersonal>Nebunelea, D. (Institutul de Cercetari pentru Cereale si Plante Tehnice, Fundulea (Romania))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1971)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F22</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 tables, 5 graphs; 7 ref. Summaries (En, Ru)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ro</dc:language>
+<agls:availability><ags:availabilityLocation>RO</ags:availabilityLocation><ags:availabilityNumber>7500012</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Analele Institutului de Cercetari pentru Cereale si Plante Tehnici. Fundulea. Seria B (Romania)</ags:citationTitle>
+<ags:citationNumber>v. 39, p. 21-30</ags:citationNumber>
+<ags:citationChronology>(1971)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="RO7500048">
+<dc:title xml:lang="en">Influence of Fusarium sp. infection on certain qualitative indexes in wheat</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Cseresnyes, Z.</ags:creatorPersonal>
+<ags:creatorPersonal>Hulea, A. (Institutul de Cercetari pentru Cereale si Plante Tehnice, Fundulea (Romania))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1971)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>4 tables; 11 ref. Summaries (En, Ru)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ro</dc:language>
+<agls:availability><ags:availabilityLocation>RO</ags:availabilityLocation><ags:availabilityNumber>7500048</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Analele Institutului de Cercetari pentru Cereale si Plante Tehnici. Fundulea. Seria B (Romania)</ags:citationTitle>
+<ags:citationNumber>v. 39, p. 51-58</ags:citationNumber>
+<ags:citationChronology>(1971)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="RO7500017">
+<dc:title xml:lang="en">The influence of wheat stubble burning on the characteristics of soil and the yielding potential</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hulpoi, N.</ags:creatorPersonal>
+<ags:creatorPersonal>Pintilie, C.</ags:creatorPersonal>
+<ags:creatorPersonal>Eliade, G.</ags:creatorPersonal>
+<ags:creatorPersonal>Ghinea, L.</ags:creatorPersonal>
+<ags:creatorPersonal>Handra, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Sin, G. (Institutul de Cercetari pentru Cereale si Plante Tehnice, Fundulea (Romania))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1971)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F21</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F22</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>7 tables; 6 ref. Summaries (En, Ru)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Ro</dc:language>
+<agls:availability><ags:availabilityLocation>RO</ags:availabilityLocation><ags:availabilityNumber>7500017</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Analele Institutului de Cercetari pentru Cereale si Plante Tehnici. Fundulea. Seria B (Romania)</ags:citationTitle>
+<ags:citationNumber>v. 39, p. 83-90</ags:citationNumber>
+<ags:citationChronology>(1971)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+</ags:resources>

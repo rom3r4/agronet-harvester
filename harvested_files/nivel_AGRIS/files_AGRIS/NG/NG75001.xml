@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "../../agrislegacy.dtd">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="NG7500006">
+<dc:title xml:lang="en">Peasants and the ''economic man'' model: are Nigerian peasant farmers economic men</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Abasiekong, E.M. (Institute for Agricultural Research, Samaru, Zaria (Nigeria))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E50</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>NG</ags:availabilityLocation><ags:availabilityNumber>7500006</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Samaru Agricultural Newsletter (Nigeria)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0036-3731</ags:citationIdentifier>
+<ags:citationNumber>v. 17(1) p. 21-24</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="NG7500007">
+<dc:title xml:lang="en">Residual effects of superphosphate and rock phosphate fertilisers</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Mokwunye, A.U. (Institute for Agricultural Research, Samaru, Zaria (Nigeria))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">Q20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 tables; 7 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>NG</ags:availabilityLocation><ags:availabilityNumber>7500007</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Samaru Agricultural Newsletter (Nigeria)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0036-3731</ags:citationIdentifier>
+<ags:citationNumber>v. 17(1) p. 25-30</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="NG7500001">
+<dc:title xml:lang="en">An analysis of data on Wadara cattle at Dalori and the Bornu Ranch at Maiduguri North Eastern State Nigeria</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Wheat, J.D.</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>Institute for Agricultural Research</ags:publisherName>
+<ags:publisherPlace>Samaru, Zaria (Nigeria)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>29 tables; 5 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:type>E</dc:type>
+<dc:format><dcterms:extent>13 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>NG</ags:availabilityLocation><ags:availabilityNumber>7500001</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Samaru Miscellaneous Paper (Nigeria)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0080-5769</ags:citationIdentifier>
+<ags:citationNumber>no. 49</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+</ags:resources>

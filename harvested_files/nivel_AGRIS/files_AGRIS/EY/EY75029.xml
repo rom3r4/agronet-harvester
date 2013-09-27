@@ -1,0 +1,2246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "../../agrislegacy.dtd">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="EY7514076">
+<dc:title xml:lang="en">[On some umoral aspects of dog's obesity]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Salutini, E.</ags:creatorPersonal>
+<ags:creatorPersonal>Buonaccorsi, A. (Pisa Univ. (Italy). Istituto di Patologia Speciale e Clinica Medica)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1973)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Bibliography (13 ref); Summaries (En, Fr, It) *Istituto di Tecnica e Propaganda Agraria, Rome (Italy)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">It</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7514076</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Annali della Facolta di Medicina Veterinaria. Pisa (Italy)</ags:citationTitle>
+<ags:citationNumber>v. 26 p. 212-219</ags:citationNumber>
+<ags:citationChronology>(1973)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7510855">
+<dc:title xml:lang="en">The effect the chemical quality of milk has on cheese quality</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Chapman, H.R. (Nat. Inst. for Res. in Dairying, Shinfield, Reading (UK))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>10 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7510855</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Dairy Industries (UK)</ags:citationTitle>
+<ags:citationNumber>v. 39(9) p. 329-334</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7502629">
+<dc:title xml:lang="en">Some aspects of growth in laboratory mice (Statistical analyses of a family of growth curves)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Esteve, J.</ags:creatorPersonal>
+<ags:creatorPersonal>Schifflers, E. (Lyon-1 Univ. Claude Bernard, 69-Villeurbanne (France). Section de Biologie generale et appliquee)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>10 ref. Summaries (En, Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7502629</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Annales de Zoologie Ecologie animale (France)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0003-4231</ags:citationIdentifier>
+<ags:citationNumber>V.6(3) p. 449-461</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7511016">
+<dc:title xml:lang="en">Time of sowing spring barley and spring wheat</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Francis, A.L. (Bridget's Experimental Husbandry Farm, Martyr Worthy, Winchester, Hants (UK))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>8 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7511016</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Experimental Husbandry (UK)</ags:citationTitle>
+<ags:citationNumber>(no.26) p. 76-89</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7510476">
+<dc:title xml:lang="en">Insecticidal activity of the pyrethrins and related compounds. VI. Methyl-, alkenyl-, and benzyl-furfuryl and -3-furylmethyl chrysanthemates</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Elliott, M. (Dept. of Insecticides and Fungicides, Rothamsted Experimental Station, Harpenden, Herts AL5 2JQ (UK))</ags:creatorPersonal>
+<ags:creatorPersonal>Farnham, A.W.</ags:creatorPersonal>
+<ags:creatorPersonal>Janes, N.F.</ags:creatorPersonal>
+<ags:creatorPersonal>Needham, P.H.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L72</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>24 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7510476</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Pesticide Science (UK)</ags:citationTitle>
+<ags:citationNumber>v. 5(4) p. 491-496</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7518487">
+<dc:title xml:lang="en">Purification and study of the acid phosphatase of the Hevea brasiliensis latex</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Jacob, J.L.</ags:creatorPersonal>
+<ags:creatorPersonal>Sontag, N. (Institut Francais du Caoutchouc, 75 - Paris (France). Lab. de Biochimie)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Graphs; tables; 32 ref.; summaries (En, Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7518487</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Biochimie (France)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0300-9084</ags:citationIdentifier>
+<ags:citationNumber>v. 56(10) p. 1315-1322</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7512622">
+<dc:title xml:lang="en">[Problems about sugar in France and E.E.C. and in the world]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Anon.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">S00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Tables</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7512622</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Revue Technique et Economique de l'Industrie Alimentaire (France)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0035-4244</ags:citationIdentifier>
+<ags:citationNumber>(no.228) p. 18-27</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7519279">
+<dc:title xml:lang="en">Changes within the year in blood copper in horses, 1: Studies on the copper status of horses and some other blood parameters</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ghergariu, S.</ags:creatorPersonal>
+<ags:creatorPersonal>Angi, E. (Faculty of Veterinary Medicine, Cluj (Romania). Clinique Medicale)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L40</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>1 graph, 6 tables; 6 ref. Summaries (De, En, Es, Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7519279</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zentralblatt fuer Veterinaermedizin. Reihe A (Germany, F.R.)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0044-4294</ags:citationIdentifier>
+<ags:citationNumber>v. 22(2) p. 143-148</ags:citationNumber>
+<ags:citationChronology>(Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7515582">
+<dc:title xml:lang="en">The metabolic fate of tridemorph in rats</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hawkins, D.R. (Dept. of Metabolism and Pharmacokinetics, Huntingdon Research Centre, Huntingdon (UK))</ags:creatorPersonal>
+<ags:creatorPersonal>Down, W.H.</ags:creatorPersonal>
+<ags:creatorPersonal>Chasseaud, L.F.</ags:creatorPersonal>
+<ags:creatorPersonal>Lewis, J.D.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>13 ref., 1 fig.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7515582</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Pesticide Science (UK)</ags:citationTitle>
+<ags:citationNumber>v. 5(5) p. 535-542</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7503731">
+<dc:title xml:lang="en">[Remarks on harvesting and storage of the most important apple and pear varieties in 1974/75 in the region of the Niederelbe] [Germany, F.R.]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Blank, H.-G.</ags:creatorPersonal>
+<ags:creatorPersonal>Gebert, F.</ags:creatorPersonal>
+<ags:creatorPersonal>Tiemann, K.-H.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>7 tables</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">De</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7503731</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Mitteilungen des Obstbauversuchsringes des alten Landes (Germany, F.R.)</ags:citationTitle>
+<ags:citationNumber>v. 29(10) p. 296-310</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7516559">
+<dc:title xml:lang="en">[Feeding and egg shell stability]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Loercher, K. (Freie Univ. Berlin (Germany, F.R.). Inst. fuer Tierzucht und Tierernaehrung)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>1 illus., 4 tables; 104 ref. Summaries (De, En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">De</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7516559</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Uebersichten zur Tierernaehrung (Germany, F.R.)</ags:citationTitle>
+<ags:citationNumber>v. 2(2) p. 157-182</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7400123">
+<dc:title xml:lang="en">The mercury problem - a trigger for environmental pollution control</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ramel, C. (Stockholm Univ. (Sweden). Wallenberg Lab.)</ags:creatorPersonal>
+<ags:creatorConference>1. International Conference on Environmental Mutagens, Asilomar, Cal. (USA), 29 Aug 1973</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">T00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>14 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7400123</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Mutation Research (Netherlands)</ags:citationTitle>
+<ags:citationNumber>v. 26(4) p. 341-348</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7517116">
+<dc:title xml:lang="en">Motivation of chemical soil desinfestation in agriculture and horticulture</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Assche, C. van (Louvain Univ., Heverlee (Belgium). Lab. for Phytopathology and Plant Protection)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7517116</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agriculture and Environment (Netherlands)</ags:citationTitle>
+<ags:citationNumber>v. 1(3) p. 213-215</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7518405">
+<dc:title xml:lang="en">[Cristacortis, a new virus disease of citrus [to follow]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Vogel, A. (Centro de Edafologia, Santa Cruz de Tenerife, Canary Islands (Spain))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus.; 8 tables</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7518405</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Fruits (France)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0016-2293</ags:citationIdentifier>
+<ags:citationNumber>v. 29(9) p. 589-607</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7514713">
+<dc:title xml:lang="en">[Vegetable growing 2000 years ago]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hanselmann, E.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">B50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 illus.; 7 ref. Summary (De)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">De</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7514713</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Erwerbsgaertner (Germany, F.R.)</ags:citationTitle>
+<ags:citationNumber>v. 28(49) p. 1867-1868</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7400870">
+<dc:title xml:lang="en">Udder health programme</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Merck, C.C. (Freie Univ. Berlin (Germany, F.R.). Klinik fuer Klauentierkrankheiten und Fortpflanzungskunde)</ags:creatorPersonal>
+<ags:creatorConference>11. Deutscher Tieraerztetag, Berlin (Germany, F.R.), 8 Apr 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1 Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L70</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L72</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>1 table, 3 graphs; 3 ref. Summaries (De, En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">De</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7400870</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Berliner und Muenchener Tieraerztliche Wochenschrift (Germany, F.R.)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0005-9366</ags:citationIdentifier>
+<ags:citationNumber>v. 87(15) p. 285-290</ags:citationNumber>
+<ags:citationChronology>(1 Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7514157">
+<dc:title xml:lang="en">[The use of frozen concentrated starters in Gouda cheese manufacture]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Martens, R.</ags:creatorPersonal>
+<ags:creatorCorporate>Rijkscentrum voor Landbouwkundig Onderzoek Gent, Melle (Belgium). Rijkszuivelstation</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>17 ref.; Summaries (En, Fr, Nl). Fr. ed.: Utilisation de ferments concentres congeles dans la fabrication du fromage Gouda, in: Revue de l'Agriculture</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<dc:language scheme="ags:ISO639-1">Nl</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7514157</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Landbouwtijdschrift (Belgium)</ags:citationTitle>
+<ags:citationNumber>v. 27(6) p. 1433-1443</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7503582">
+<dc:title xml:lang="en">Blood pressure, cardiac output, and blood-gas tension in the horse at rest and during exercise</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Bergsten, G. (Kungliga Veterinaerhoegskolan, Stockholm (Sweden). Inst. foer Medicin I)</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>Acta Veterinaria Scandinavica</ags:publisherName>
+<ags:publisherPlace>Stockholm (Sweden)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>13 illus., 11 tables; 129 ref. Bibliography. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>Z</dc:type>
+<dc:format><dcterms:extent>88 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7503582</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Acta Veterinaria Scandinavica. Supplementum (Denmark)</ags:citationTitle>
+<ags:citationNumber>no. 48</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7510162">
+<dc:title xml:lang="en">High frequency of antibiotic-resistant enterobacteria in the River Stour, Kent</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hughes, C. (Biol. Lab., Univ. of Kent, Canterbury, Kent CT2 7NJ (UK))</ags:creatorPersonal>
+<ags:creatorPersonal>Meynell, G.G.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">P10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7510162</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Lancet (UK)</ags:citationTitle>
+<ags:citationNumber>v. 2(7876) p. 451-453</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7402022">
+<dc:title xml:lang="en">Neutral constituents of Larix decidua bark</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Norin, T. (For. Products Res. Lab., Stockholm (Sweden))</ags:creatorPersonal>
+<ags:creatorPersonal>Winell, B.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>17 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7402022</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Phytochemistry (UK)</ags:citationTitle>
+<ags:citationNumber>v. 13(7) p. 1290-1292</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7518502">
+<dc:title xml:lang="en">A preliminary study of delayed hypersensitivity to Mycobacterium chelonei, Mycobacterium fortuitum (Ranae) and Mycobacterium gordonae in cattle from two areas in Uganda</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Pritchard, D.G. (Sch. Path., Middlesex Hospital Med. Sch., London (UK))</ags:creatorPersonal>
+<ags:creatorPersonal>Stanford, J.L.</ags:creatorPersonal>
+<ags:creatorPersonal>Paul, R.C.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7518502</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>British Journal of Experimental Pathology (UK)</ags:citationTitle>
+<ags:citationNumber>v. 55(no.4) p. 374-383</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7400438">
+<dc:title xml:lang="en">[Efficient water use and recycling of components from process water]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Bruin, S. (Landbouwhogeschool, Wageningen (Netherlands))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(11 Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">P10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>22 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Nl</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7400438</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Voedingsmiddelentechnologie (Netherlands)</ags:citationTitle>
+<ags:citationNumber>v. 7(37) p. 52-57</ags:citationNumber>
+<ags:citationChronology>(11 Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7514124">
+<dc:title xml:lang="en">Agricultural properties of oxisols</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Wambeke, A. van (Ghent Rijksuniversiteit (Belgium). Geologisch Inst.)</ags:creatorPersonal>
+<ags:creatorConference>Journee d'Etudes sur les Sols Tropicaux, Ghent (Belgium), 22 Oct 1973</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Summaries (En, Fr, Nl)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7514124</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Pedologie (Belgium)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0079-0419</ags:citationIdentifier>
+<ags:citationNumber>v. 24(2) p. 191-195</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7518737">
+<dc:title xml:lang="en">Localization of a protein antigen in the chicken spleen. Effect of various manipulative procedures on the morphogenesis of the germinal centre</dc:title>
+<dc:creator>
+<ags:creatorPersonal>White, R.G. (Dep. Bact., Univ., Glasgow (UK))</ags:creatorPersonal>
+<ags:creatorPersonal>Henderson, D.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Eslami, M.B.</ags:creatorPersonal>
+<ags:creatorPersonal>Nielsen, K.H.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7518737</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Immunology (UK)</ags:citationTitle>
+<ags:citationNumber>v. 28(no.1) p. 1-21</ags:citationNumber>
+<ags:citationChronology>(1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7512533">
+<dc:title xml:lang="en">[The housing in production of mutton]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kiener, J.E (Institut Technique de l'Elevage Ovin et Caprin, 75 - Paris (France))</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>Ministere de l'Agriculture</ags:publisherName>
+<ags:publisherPlace>75 - PARIS (France)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>Oct 1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">N10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7512533</ags:availabilityNumber></agls:availability>
+<dc:source>[Livestock buildings], Anon..- 75 - PARIS (France): Ministere de l'Agriculture, Oct 1974. p. 695-698</dc:source>
+<ags:citation><ags:citationTitle>Bulletin Technique d'Information (France)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0015-9646</ags:citationIdentifier>
+<ags:citationNumber>(no.293)</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7503330">
+<dc:title xml:lang="en">Lindane residues in the southern coastal aquifer of Israel</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Lahav, N. (Hebrew Univ., Rehovoth (Israel). Dept. of Soil and Water)</ags:creatorPersonal>
+<ags:creatorPersonal>Kahanovitch, Y.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">T00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Summary (En), 18 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7503330</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Water, Air and Soil Pollution (Netherlands)</ags:citationTitle>
+<ags:citationNumber>v. 3(3) p. 253-259</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7513189">
+<dc:title xml:lang="en">Fine structure and cytochemistry of the abscission zone cells of Phaseolus leaves. II. Localization of peroxidase and acid phosphatase in the separation zone cells</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hall, J.L. (Sch. Biol. Sci., Univ. Sussex, Falmer (UK))</ags:creatorPersonal>
+<ags:creatorPersonal>Sexton, R.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>21 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7513189</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Annals of Botany (UK)</ags:citationTitle>
+<ags:citationNumber>v. 38(157) p. 855-858</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7400336">
+<dc:title xml:lang="en">Home production of mixed fortification feeds and of nucleus on 1973 in Italy</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Anon.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jun 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">U10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:type>N</dc:type>
+<dc:language scheme="ags:ISO639-1">It</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7400336</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Alimentazione Animale (Italy)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0007-5429</ags:citationIdentifier>
+<ags:citationNumber>v. 18(2) p. 7-8</ags:citationNumber>
+<ags:citationChronology>(Jun 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7512046">
+<dc:title xml:lang="en">[Experiments on Taleggio cheese manufacture with a 50/50 rennet-pepsin preparation]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Carbone, E.</ags:creatorPersonal>
+<ags:creatorPersonal>Emaldi, G.C.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1973)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">Q20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 tables; 6 ref. Summaries (En, It) *Istituto di Tecnica e Propaganda Agraria, Rome (Italy)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">It</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7512046</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Annali - Istituto Sperimentale Lattiero-Caseario. Lodi (Italy)</ags:citationTitle>
+<ags:citationNumber>v. 1 p. 81-89</ags:citationNumber>
+<ags:citationChronology>(1973)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7513224">
+<dc:title xml:lang="en">Attachment of some bacterial strains to the skin of broiler chickens</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Notermans, S. (Dep. Food Microbiol., Agric. Univ., Wageningen (Netherlands))</ags:creatorPersonal>
+<ags:creatorPersonal>Kampelmacher, E.H.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L70</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7513224</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>British Poultry Science (UK)</ags:citationTitle>
+<ags:citationNumber>v. 15(no.6) p. 573-585</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7519851">
+<dc:title xml:lang="en">Influence of differential chromosome spiralisation on karyotype morphology</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Iordansky, A.B. (Inst. Molec. Biol., Acad. Sci. USSR, Moscow (USSR))</ags:creatorPersonal>
+<ags:creatorPersonal>Deryaguin, G.V.</ags:creatorPersonal>
+<ags:creatorPersonal>Badaev, N.S.</ags:creatorPersonal>
+<ags:creatorPersonal>Pavulsone, S.A.</ags:creatorPersonal>
+<ags:creatorPersonal>Krumin, A.R.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>7 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7519851</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Nature (UK)</ags:citationTitle>
+<ags:citationNumber>v. 253(5494) p. 734-735</ags:citationNumber>
+<ags:citationChronology>(1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7401278">
+<dc:title xml:lang="en">Investigation of parameters acting on adhesion phenomena</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Bole-Besancon, M.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F22</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Summaries (En, Fr, De, Sp)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7401278</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Etude du CNEEMA (France)</ags:citationTitle>
+<ags:citationTitle>Centre National :d'Etudes et d'Experimentation du Materiel Agricole</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0007-8735</ags:citationIdentifier>
+<ags:citationNumber>(no. 393) 54 p.</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7517472">
+<dc:title xml:lang="en">[Triticale, a promising new grain for bread manufacturing]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Calimeri, M.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(24 Feb 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">S10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 tables; Bibliography (14 ref.)</ags:descriptionNotes>
+</dc:description>
+<dc:type>Z</dc:type>
+<dc:language scheme="ags:ISO639-1">It</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7517472</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Arte Bianca (Italy)</ags:citationTitle>
+<ags:citationNumber>v. 30(8) p. 4</ags:citationNumber>
+<ags:citationChronology>(24 Feb 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7515534">
+<dc:title xml:lang="en">The Scientific Basis for Soil Husbandry. Part VI - The soil, plant growth, and the carbon and nitrogen cycles</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Deavin, A.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F20</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7515534</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Soil Association (UK)</ags:citationTitle>
+<ags:citationNumber>v. 3(1) p. 5-6</ags:citationNumber>
+<ags:citationChronology>(1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7517950">
+<dc:title xml:lang="en">[Plant protection and the society]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Plantenziektenkundige Dienst, Wageningen (Netherlands)</ags:creatorCorporate>
+<ags:creatorConference>Maatschappelijke aspecten van gewasbescherming, Wageningen (Netherlands), 5 Nov 1974</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>Plantenziektenkundige Dienst</ags:publisherName>
+<ags:publisherPlace>Wagenigen (Netherlands)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H00</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:format><dcterms:extent>70 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Nl</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7517950</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="EY7515811">
+<dc:title xml:lang="en">Evidence for the genotypic control of spore size in Claviceps purpurea</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Loveless, A.R. (Portsmouth Polytechnic, Hants. (UK))</ags:creatorPersonal>
+<ags:creatorPersonal>Peach, J.M.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>1 graph, 1 tab.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7515811</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Transactions of the British Mycological Society (UK)</ags:citationTitle>
+<ags:citationNumber>v. 63(3) p. 612-616</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7401743">
+<dc:title xml:lang="en">Destruction of vitamin A in liver during technological processing. 2: The effect of pigment, iron and copper content of liver and of the temperature during mincing on the destruction of vitamin A during cooking and mincing of liver</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hannakainen, E.</ags:creatorPersonal>
+<ags:creatorPersonal>Niinivaara, F.P. (Helsinki Univ. (Finland). Inst. fuer Fleischtechnologie)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>8 tables; 27 ref. Summary (De)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">De</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7401743</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Fleischwirtschaft (Germany, F.R.)</ags:citationTitle>
+<ags:citationNumber>v. 54(8) p. 1366-1370</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7517235">
+<dc:title xml:lang="en">Polynucleotide-acrylamide gel electrophoresis of soluble nucleases from tobacco leaves</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Loon, L.C. van (Landbouwhogeschool, Wageningen (Netherlands). Vakgroep Plantenfysiologie)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>17 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7517235</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>FEBS-Letters (Netherlands)</ags:citationTitle>
+<ags:citationNumber>v. 51(1) p. 266-269</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7400059">
+<dc:title xml:lang="en">Relationship between in vitro digestibility results and in vivo measurements of nutritive value, for silage-fed cattle</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Griffiths, T.W.</ags:creatorPersonal>
+<ags:creatorPersonal>O'Shea, J. (Foras Taluntais. Dunsinea Research Centre, Castleknock, Co. Dublin (Ireland))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Summary (En); 3 ref.; communication to the editor</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7400059</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Irish Journal of Agricultural Research (Ireland)</ags:citationTitle>
+<ags:citationNumber>v. 13(2) p. 237-238</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7401750">
+<dc:title xml:lang="en">Fenbendazol in the treatment of gastro-intestinal helminthiasis in sheep</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Duewel, D.</ags:creatorPersonal>
+<ags:creatorPersonal>Tiefenbach, B.</ags:creatorPersonal>
+<ags:creatorPersonal>Kirsch, R.</ags:creatorPersonal>
+<ags:creatorPersonal>Doerrhoefer, H. (Farbwerke Hoechst A.G., Frankfurt am Main (Germany, F.R.))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1 Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L72</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 tables; 13 ref. Summary (De)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">De</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7401750</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Praktische Tierarzt (Germany, F.R.)</ags:citationTitle>
+<ags:citationNumber>v. 55(8) p. 425-427</ags:citationNumber>
+<ags:citationChronology>(1 Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7516584">
+<dc:title xml:lang="en">[The agriculture in Northrhine-Westphalia 1973] [Germany, F.R.]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Landesamt fuer Datenverarbeitung und Statistik, Duesseldorf (Germany, F.R.)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>Landesamt fuer Datenverarbeitung und Statistik Nordrhein-Westfalen</ags:publisherName>
+<ags:publisherPlace>Duesseldorf (Germany, F.R.)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1973</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>Tables</ags:descriptionNotes>
+</dc:description>
+<dc:type>N</dc:type>
+<dc:format><dcterms:extent>295 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">De</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7516584</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Beitraege zur Statistik des Landes Nordrhein-Westfalen (Germany, F.R.)</ags:citationTitle>
+<ags:citationNumber>no. 320</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7517236">
+<dc:title xml:lang="en">DNA content of dormant barley leaf nuclei and the synthesis of RNA and DNA during germination</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ahmed, Z.U.</ags:creatorPersonal>
+<ags:creatorPersonal>Kamra, O.P. (Dalhousie Univ., Halifax, Nova Scotia (Canada). Dept. of Biology)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>24 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7517236</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>FEBS-Letters (Netherlands)</ags:citationTitle>
+<ags:citationNumber>v. 51(1) p. 277-280</ags:citationNumber>
+<ags:citationChronology>(Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7503768">
+<dc:title xml:lang="en">The vitamin A content in the liver of free-living animals. 3.</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Schulze, H.</ags:creatorPersonal>
+<ags:creatorPersonal>Treichler, J. (Institut fuer Wildforschung, Hannover (Germany, F.R.))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 ref. Summaries (De, En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">De</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7503768</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Deutsche Tieraerztliche Wochenschrift (Germany, F.R.)</ags:citationTitle>
+<ags:citationNumber>v. 81(21) p. 517-518</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7515736">
+<dc:title xml:lang="en">Serine involvement in the flowering of Lemna during photoperiodic induction</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Khudairi, A.K. (Biology Department, Northeastern University, Boston, Massachusetts (USA))</ags:creatorPersonal>
+<ags:creatorPersonal>Hemberg, T.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M40</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>15 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7515736</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Experimental Botany (UK)</ags:citationTitle>
+<ags:citationNumber>v. 25(87) p. 740-744</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7502461">
+<dc:title xml:lang="en">Field measurement of available phosphorus, L value</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Fardeau, J.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Triboi, E. (CEA Centre d'Etudes Nucleaires de Cadarache, 13 - Saint-Paul-les-Durance (France). Service de Radio-Agronomie)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Summary (En, Fr), 13 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7502461</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Plant and Soil (Netherlands)</ags:citationTitle>
+<ags:citationNumber>v. 41(2) p. 293-302</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7502812">
+<dc:title xml:lang="en">exrB: a malB-linked gene in Escherichia coli B involved in sensitivty to radiation and filament formation</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Greenberg, J. (Palo Alto Medical Research Foundation, Palo Alto, California (USA))</ags:creatorPersonal>
+<ags:creatorPersonal>Berends, L.J.</ags:creatorPersonal>
+<ags:creatorPersonal>Donch, J.</ags:creatorPersonal>
+<ags:creatorPersonal>Green, M.H.L.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7502812</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Genetical Research (UK)</ags:citationTitle>
+<ags:citationNumber>v. 23(2) p. 175-184</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7400257">
+<dc:title xml:lang="en">[Tests to irrigate beetroots with or without resistance gauge]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Anon.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jun 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">P12</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Only a summary of the original article in: Annali di Studi e Ricerce sull'Irrigazione (Italy). (1971) v. 9 p. 53-62</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">It</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7400257</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Italia Agricola (Italy)</ags:citationTitle>
+<ags:citationNumber>v. 111(6) p. 9-11</ags:citationNumber>
+<ags:citationChronology>(Jun 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7503187">
+<dc:title xml:lang="en">[Thoughts on game feeding]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Ruhdel, H.J.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>1 table</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">De</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7503187</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Kraftfutter (Germany, F.R.)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0023-4427</ags:citationIdentifier>
+<ags:citationNumber>v. 57(10) p. 404-406</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7401787">
+<dc:title xml:lang="en">[Aims and functions of agricultural development aid]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Priebe, H.</ags:creatorPersonal>
+<ags:creatorConference>14. Jahrestagung der Gesellschaft fuer Wirtschafts- und Sozialwissenschaften des Landbaues, Braunschweig (Germany, F.R.), 26 Sep 1973</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>BLV Verlagsgesellschaft</ags:publisherName>
+<ags:publisherPlace>Muenchen (Germany, F.R.)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E30</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E00</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:language scheme="ags:ISO639-1">De</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">3405113474</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7401787</ags:availabilityNumber></agls:availability>
+<dc:source>[Agricultural policy within the international development policy], Buchholz, H.Urff, W. von (eds.).- 2. ed..- Muenchen (Germany, F.R.): BLV Verlagsgesellschaft, 1974.- ISBN 3405113474. p. 251-262</dc:source>
+<ags:citation><ags:citationTitle>Schriften der Gesellschaft fuer Wirtschafts- und Sozialwissenschaften des Landbaues (Germany, F.R.)</ags:citationTitle>
+<ags:citationNumber>no. 11</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7510428">
+<dc:title xml:lang="en">Further observations on the production of scrapie in sheep by oral dosing with foetal membranes from scrapie-affected sheep</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Pattison, I.H. (ARC Inst. Res. Anim. Dis., Compton, Newbury, Berks (UK))</ags:creatorPersonal>
+<ags:creatorPersonal>Hoare, M.N.</ags:creatorPersonal>
+<ags:creatorPersonal>Jebbett, J.N.</ags:creatorPersonal>
+<ags:creatorPersonal>Watson, W.A.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7510428</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>British Veterinary Journal (UK)</ags:citationTitle>
+<ags:citationNumber>v. 130(no.4) p. lxv-lxvii</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7514720">
+<dc:title xml:lang="en">[Report 1974 on horticultural experiments of the Experiment Stations and Experiment Gardens for Horticulture of the Landwirtschaftskammer Rheinland] [Germany, F.R.]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Weiss, B.</ags:creatorPersonal>
+<ags:creatorPersonal>Zischka, W. (comps.)</ags:creatorPersonal>
+<ags:creatorCorporate>Landwirtschaftskammer Rheinland, Bonn (Germany, F.R.)</ags:creatorCorporate>
+</dc:creator>
+<dc:publisher><ags:publisherName>LK Rheinland</ags:publisherName>
+<ags:publisherPlace>Bonn (Germany, F.R.)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">A50</ags:subjectClassification>
+</dc:subject>
+<dc:format><dcterms:extent>310 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">De</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7514720</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Gartenbauliche Versuchsberichte der Landwirtschaftskammer Rheinland (Germany, F.R.)</ags:citationTitle>
+<ags:citationNumber>v. 13</ags:citationNumber>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7511790">
+<dc:title xml:lang="en">The production and growth of young apple compact mutants induced by ionizing radiation</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Poll, L. (Kongelige Veterinaer- og Landbohoejskole, Copenhagen (Denmark). Dept. of Horticulture)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>15 ref. Summary (En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7511790</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Euphytica (Netherlands)</ags:citationTitle>
+<ags:citationNumber>v. 23(3) p. 521-533</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7517072">
+<dc:title xml:lang="en">The influence of transport stress on the activity of GOT, GPT, LDH and CPK in the serum of calves</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Groth, W.</ags:creatorPersonal>
+<ags:creatorPersonal>Graenzer, W. (Technische Univ. Muenchen, Weihenstephan (Germany, F.R.). Inst. fuer Tierhygiene und Nutztierkunde)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>6 graphs, 3 tables; 52 ref. Summaries (De, En, Es, Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">De</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7517072</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zentralblatt fuer Veterinaermedizin. Reihe A (Germany, F.R.)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0044-4294</ags:citationIdentifier>
+<ags:citationNumber>v. 22(1) p. 57-75</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7513479">
+<dc:title xml:lang="en">First guidelines for the culture of Clarias lazera in Central Africa</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kimpe, P. de</ags:creatorPersonal>
+<ags:creatorPersonal>Micha, J.C. (UNDP/FAO Regional Fish Culture Training and Research Project, Bangui (Central African Republic))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Nov 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Summary (En); 31 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7513479</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Aquaculture (Netherlands)</ags:citationTitle>
+<ags:citationNumber>v. 4(3) p. 227-248</ags:citationNumber>
+<ags:citationChronology>(Nov 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7512369">
+<dc:title xml:lang="en">[Genetic variability of production characters of station controlled cows of charolais breed [preliminary results]]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Foulley, J.L.</ags:creatorPersonal>
+<ags:creatorPersonal>Menissier, F. (Institut National de la Recherche Agronomique , 78 - Jouy en Josas (France). Station de Genetique Quantitative et Appliquee)</ags:creatorPersonal>
+<ags:creatorConference>6. Journees d'Information du grenier de Theix, Theix-Beaumont (France), 28 Nov 1973</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>INRA - ITEB</ags:publisherName>
+<ags:publisherPlace>Versailles (France)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:type>Z</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7512369</ags:availabilityNumber></agls:availability>
+<dc:source>[Utilization of nursing cow herds. 6. Information days, Theix-Beaumont (France), 28 Nov 1973], Institut National de la Recherche Agronomique, 78 - Versailles (France). Service d'Experimentation et d'Information; Institut Technique de l'Elevage Bovin, 75 - Paris (France).- Versailles (France): INRA - ITEB, 1974. p. 171-191</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="EY7502194">
+<dc:title xml:lang="en">[Import of stone and berry fruits into the Federal Republic of Germany in 1973]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Rhein, P. (Technische Univ. Hannover (Germany, F.R.). Lehrstuhl fuer Gaertnerische Marktlehre)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 tables</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">De</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7502194</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Erwerbsobstbau (Germany, F.R.)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0014-0309</ags:citationIdentifier>
+<ags:citationNumber>v. 16(9) p. 143-145</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7400512">
+<dc:title xml:lang="en">Diseases and injuries to cultures of cucurbitaceae. Handbook for the determination and methods of control. Cucumber and muskmelon</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Bouhot, D.</ags:creatorPersonal>
+<ags:creatorPersonal>Lefebvre, J.M. (Institut National de la Recherche Agronomique, 21-Dijon (France) Station de Recherche sur la Flore pathogene dans le sol)</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>Pepinieristes Horticulteurs Maraichers</ags:publisherName>
+<ags:publisherPlace>Paris (France)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>99 diapositives, 28 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:format><dcterms:extent>72 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7400512</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="EY7517772">
+<dc:title xml:lang="en">[Inquiry about life conditions of trees in the Brussels agglomeration]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Boulanger, J. (Groupe d'Etude et de Recherches des Conditions de Vie des Arbres en Site Urbain, Brussels (Belgium))</ags:creatorPersonal>
+<ags:creatorPersonal>Impens, R. (Faculte des Sciences Agronomiques de l'Etat, Gembloux (Belgium). Lab. de Biologie Vegetale)</ags:creatorPersonal>
+<ags:creatorConference>Semaine d'Etude Agriculture et Environnement, Gembloux (Belgium), 2 Sep 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">T00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Summaries (En, Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7517772</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin des Recherches Agronomiques de Gembloux. Hors Serie (Belgium)</ags:citationTitle>
+<ags:citationNumber>p. 559-568</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7510670">
+<dc:title xml:lang="en">Physical and genetic organization of petite and grande yeast mitochondrial DNA. IV. In vivo transcription products of mitochondrial DNA and localization of 23 S ribosomal RNA in petite mutants of Saccharomyces cerevisiae</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Faye, G. (Centre de Genetique Moleculaire du CNRS, Gif-sur-Yvette (France))</ags:creatorPersonal>
+<ags:creatorPersonal>Kujawa, C.</ags:creatorPersonal>
+<ags:creatorPersonal>Fukuhara, H.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>47 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7510670</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Molecular Biology (UK)</ags:citationTitle>
+<ags:citationNumber>v. 88(1) p. 185-203</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7517540">
+<dc:title xml:lang="en">[Forcing of the rose in a glasshouse: results of experiments made in Sicily in a cold glasshouse roofed with polietilene]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Sciortino, A. (Palermo Univ. (Italy). Istituto di Orticoltura e Floricoltura)</ags:creatorPersonal>
+<ags:creatorConference>Societa Orticola Italiana. 1. Convegno Nazionale sulla tecnica delle coltivazioni ortive in serra, Ragusa (Italy), 22 Nov 1971</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jun 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>14 tables; Bibliography (8 ref); Summaries (En, It)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>N</dc:type>
+<dc:type>Z</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">It</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7517540</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Tecnica Agricola (Italy)</ags:citationTitle>
+<ags:citationNumber>v. 26(3) p. 843-871</ags:citationNumber>
+<ags:citationChronology>(Jun 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7502689">
+<dc:title xml:lang="en">[Treated Legumes and Fruits : Salads with dithiocarbamates is it possible to do better]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Anon.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H00</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7502689</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin d'information, Laboratoire cooperatif d'Analyses et de Recherches (France)</ags:citationTitle>
+<ags:citationNumber>(no.98) p. 3-14</ags:citationNumber>
+<ags:citationChronology>(Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7510166">
+<dc:title xml:lang="en">Meconopsis as foliage plants</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Evans, A.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7510166</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of the Royal Horticultural Society (UK)</ags:citationTitle>
+<ags:citationNumber>v. 99(9) p. 383-388</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7518968">
+<dc:title xml:lang="en">Bedding materials for cubicles</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Anon.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7518968</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Veterinary Record (UK)</ags:citationTitle>
+<ags:citationNumber>v. 96(no.5) p. 111-112</ags:citationNumber>
+<ags:citationChronology>(1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7503780">
+<dc:title xml:lang="en">The intracutaneous Leptospirin test on pigs as part of animal inspection and the control of animal diseases</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Obiger, G.</ags:creatorPersonal>
+<ags:creatorPersonal>Schoenberger, A. (Bundesgesundheitsamt, Berlin (Germany, F.R.). Inst. fuer Veterinaermedizin)</ags:creatorPersonal>
+<ags:creatorConference>16. Arbeitstagung Lebensmitttelhygiene der DVG, Garmisch-Partenkirchen (Germany, F.R.), 24 Sep 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>1 graphs; 2 ref. Summaries (De, En, Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">De</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7503780</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Fleischwirtschaft (Germany, F.R.)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0015-363X</ags:citationIdentifier>
+<ags:citationNumber>v. 54(10) p. 1649-1650</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7401166">
+<dc:title xml:lang="en">[ Wheat : Pioneer [ Society ] announces the commercialization of the first hybrids of wheat ]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Anon.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(7 Sep 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F30</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7401166</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agra France (France)</ags:citationTitle>
+<ags:citationTitle>Actualite Economique et Sociale</ags:citationTitle>
+<ags:citationNumber>(no. 1436) p. 1 )</ags:citationNumber>
+<ags:citationChronology>(7 Sep 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7520360">
+<dc:title xml:lang="en">Effect of confinement on the weight of honeybee queens</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Szabo, T.I. (Dept. Environmental Biology, Univ. Guelph, Guelph, Ont. (Canada))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7520360</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Apicultural Research (UK)</ags:citationTitle>
+<ags:citationNumber>v. 14(1) p. 9-14</ags:citationNumber>
+<ags:citationChronology>(1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7519613">
+<dc:title xml:lang="en">Regulation (EEC) No 773/75 of the Commission of 24 March 1975 amending Regulation (EEC) No 2603/71 on detailed rules for the conclusion of contracts for first processing and market preparation of tobacco held by intervention agencies</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Commission of the European Communities, Brussels (Belgium)</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(26 Mar 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">D50</ags:subjectClassification>
+</dc:subject>
+<dc:type>W</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7519613</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Official Journal of the European Communities (Luxembourg)</ags:citationTitle>
+<ags:citationNumber>v. 18(L 77) p. 15-16</ags:citationNumber>
+<ags:citationChronology>(26 Mar 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7401514">
+<dc:title xml:lang="en">[Characteristics of the main clupeids in the Adriatic, with reference also to their rational utilization /in Italy/]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Mancini, L.</ags:creatorPersonal>
+<ags:creatorConference>Convegno sui Problemi della Pesca, Cesenatico, Forli (Italy), 31 May 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Aug 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>7 tables; Summary (It)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">It</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7401514</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Industrie Alimentari (Italy)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0019-901X</ags:citationIdentifier>
+<ags:citationNumber>v. 13(8) p. 97-101</ags:citationNumber>
+<ags:citationChronology>(Aug 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7515473">
+<dc:title xml:lang="en">The rate of cutaneous evaporation in some tropical and temperate breeds of cattle in Nigeria</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Amakiri, S.F. (Department of Veterinary Anatomy and Physiology, Ibadan University, Ibadan (Nigeria))</ags:creatorPersonal>
+<ags:creatorPersonal>Mordi, R.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7515473</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Animal Production (UK)</ags:citationTitle>
+<ags:citationNumber>v. 20(1) p. 63-68</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7516721">
+<dc:title xml:lang="en">[The use of an electronic optic eye analyzer to measure soil cracking]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Petruzzelli, G.</ags:creatorPersonal>
+<ags:creatorPersonal>Guidi, G. (Consiglio Nazionale delle Ricerche, Pisa (Italy). Lab. per la Chimica del Terreno)</ags:creatorPersonal>
+<ags:creatorConference>I problemi dell'acqua in agricoltura. 10. Simposio Internazionale di Agrichimica, Bari (Italy), May 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F22</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Bibliography (21 ref); Summaries (De, En, Es, Fr, It)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>Z</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">It</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7516721</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Agrochimica (Italy)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0007-1857</ags:citationIdentifier>
+<ags:citationNumber>v. 19(1) p. 73-81</ags:citationNumber>
+<ags:citationChronology>(Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7512362">
+<dc:title xml:lang="en">[Influence of technical factors on the rentability of nursing cow herds]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Lienard, G. (Institut National de la Recherche Agronomique , 63 - Theix-Beaumont (France). Lab. d'Economie de l'Elevage)</ags:creatorPersonal>
+<ags:creatorConference>6. Journees d'Information du grenier de Theix, Theix-Beaumont (France), 28 Nov 1973</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>INRA - ITEB</ags:publisherName>
+<ags:publisherPlace>Versailles (France)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7512362</ags:availabilityNumber></agls:availability>
+<dc:source>[Utilization of nursing cow herds .6. Information days Theix-Beaumont (France), 28 Nov 1973], Institut National de la Recherche Agronomique, 78 - Versailles (France). Service d'Experimentation et d'Information; Institut Technique de l'Elevage Bovin, 75 - Paris (France).- Versailles (France): INRA - ITEB, 1974. p. 32-46</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="EY7511290">
+<dc:title xml:lang="en">Regulation (EEC) No 2744/74 of the Commission of 30 October 1974 fixing for products processed from fruit and vegetables the export refunds provided for in Article 3a of Regulation (EEC) No 865/68</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Commission of the European Communities, Brussels (Belgium)</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(30 Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">D50</ags:subjectClassification>
+</dc:subject>
+<dc:type>W</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7511290</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Official Journal of the European Communities (Luxembourg)</ags:citationTitle>
+<ags:citationNumber>v. 17(L 292) p. 38-39</ags:citationNumber>
+<ags:citationChronology>(30 Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7401170">
+<dc:title xml:lang="en">Research on the culture in vitro of oil palm embryos. XI Effects of osmotic pressure on growth and development and on the absorption of sugars</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Rabechault, H.</ags:creatorPersonal>
+<ags:creatorPersonal>Buffard-Morel, J.</ags:creatorPersonal>
+<ags:creatorPersonal>Varechon, C. (Office de la Recherche Scientifique et Technique Outre mer, 93 - Bondy (France). Lab. de Physiologie Vegetale)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 Tables, Illus, 29 Ref</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7401170</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Oleagineux (France)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0030 - 2082</ags:citationIdentifier>
+<ags:citationNumber>v. 29 (7) p. 351 - 356</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7516107">
+<dc:title xml:lang="en">[Value of utilization of french imported wheat]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Seibel, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Bolling, H. (Institut Detmold (Germany, F.R.))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Graphs; 4 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7516107</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin des Anciens Eleves de l'Ecole Francaise de Meunerie (France)</ags:citationTitle>
+<ags:citationNumber>(no.263) p. 227-237</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7502218">
+<dc:title xml:lang="en">[Testing device for comparative investigations of various irrigation methods]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Balci, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Mertin, W.</ags:creatorPersonal>
+<ags:creatorCorporate>Kueltuerteknik ve Zirai Insaat Kuersuesue, Bornova-Izmir (Turkey); Hohenheim Univ., Stuttgart (Germany, F.R.). Abt. Pflanzenbau in den Tropen und Subtropen</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jun 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">P12</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>8 illus., 1 table; 2 ref. Summaries (De, En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">De</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7502218</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zeitschrift fuer Kulturtechnik und Flurbereinigung (Germany, F.R.)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0044-2984</ags:citationIdentifier>
+<ags:citationNumber>v. 15(3) p. 161-169</ags:citationNumber>
+<ags:citationChronology>(Jun 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7518374">
+<dc:title xml:lang="en">[Land occupation plannings]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Andre, M.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(31 Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E30</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7518374</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>France Agricole (France)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0046-4899</ags:citationIdentifier>
+<ags:citationNumber>(no.1544) p. 21-22</ags:citationNumber>
+<ags:citationChronology>(31 Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7401766">
+<dc:title xml:lang="en">The significance of egg shell structure for the egg contents</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kiefer, H. (Hennengold G.m.b.H. und Co. K.G., Gimsheim (Germany, F.R.). Forschungslabor)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jun 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 illus., 4 tables; 18 ref. Summaries (De, En, Es, Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">De</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7401766</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zentralblatt fuer Veterinaermedizin. Reihe A (Germany, F.R.)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0044-4294</ags:citationIdentifier>
+<ags:citationNumber>v. 21(6) p. 514-522</ags:citationNumber>
+<ags:citationChronology>(Jun 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7517641">
+<dc:title xml:lang="en">Regulation (EEC) No 37/75 of the Commission of 8 January 1975 amending the Annex to Regulation (EEC) No 1098/68 on detailed rules for the application of export refunds on milk and milk products</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Commission of the European Communities, Brussels (Belgium)</ags:creatorCorporate>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(9 Jan 1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">D50</ags:subjectClassification>
+</dc:subject>
+<dc:type>W</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7517641</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Official Journal of the European Communities (Luxembourg)</ags:citationTitle>
+<ags:citationNumber>v. 18(L 5) p. 7</ags:citationNumber>
+<ags:citationChronology>(9 Jan 1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7510430">
+<dc:title xml:lang="en">The relationship between liveweight and its components and the onset of the breeding season in Border Leicester ewes</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Williams, H.L. (Dep. Livestock Production, Univ. New England, Armidale, NSW (Australia))</ags:creatorPersonal>
+<ags:creatorPersonal>Thwaites, C.J.</ags:creatorPersonal>
+<ags:creatorPersonal>Fogarty, N.M.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7510430</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>British Veterinary Journal (UK)</ags:citationTitle>
+<ags:citationNumber>v. 130(no.4) p. lxx-lxxiii</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7511453">
+<dc:title xml:lang="en">[Research on the integral mechanization of tomatoes]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Postiglione, L. (Naples Univ. (Italy). Istituto di Agronomia Generale e Coltivazioni Erbacee)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jun 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">N20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Original article issued in "Ricerche sulla meccanizzazione integrale di colture ortive" (pomodoro e fagiolino). Consiglio Nazionale delle Ricerche. (1973) p. 37 *Istituto di Tecnica e Propaganda Agraria, Rome (Italy)</ags:descriptionNotes>
+</dc:description>
+<dc:type>V</dc:type>
+<dc:language scheme="ags:ISO639-1">It</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7511453</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Conoscere per Produrre (Italy)</ags:citationTitle>
+<ags:citationNumber>(no. 2) p. 42-44</ags:citationNumber>
+<ags:citationChronology>(Jun 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7400584">
+<dc:title xml:lang="en">[Synthesis report on principal works on oenology made in 1973 by Institut technique du vin]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Loustaunau de Guilhem (Institut Technique du Vin, 75-Paris (France) Service d'Oenologie)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q00</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7400584</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Vignes et vins (France)</ags:citationTitle>
+<ags:citationNumber>(no.231) p. 5-10</ags:citationNumber>
+<ags:citationChronology>(Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7520253">
+<dc:title xml:lang="en">Uptake of sterols by Phytophthora infestans, their intracellular distribution and metabolism</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Langcake, P. (Shell Res. Ltd., Woodstock Lab., Sittingbourne Res. Centre, Kent (UK))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 diag.; 4 tab.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7520253</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Transactions of the British Mycological Society (UK)</ags:citationTitle>
+<ags:citationNumber>v. 64(1) p. 55-65</ags:citationNumber>
+<ags:citationChronology>(1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7400260">
+<dc:title xml:lang="en">[Sorghum instead of maize in suine feed]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Anon.</ags:creatorPersonal>
+<ags:creatorConference>1. Convegno Nazionale sull'Alimentazione del Bestiame: Mais e Sorgo, Piacenza (Italy), 1970</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Jun 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Summary only, original article in Atti del 1. Convegno ... Istituto Sperimentale per la Zootecnica, Modena (Italy) (1970)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">It</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7400260</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Italia Agricola (Italy)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0020-275X</ags:citationIdentifier>
+<ags:citationNumber>v. 111(6) p. 12</ags:citationNumber>
+<ags:citationChronology>(Jun 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7517763">
+<dc:title xml:lang="en">Wildlife conservation with or without agriculture? The case of the Pays de Herve near Liege and its endangered entomofauna</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Leclercq, J.</ags:creatorPersonal>
+<ags:creatorCorporate>Faculte des Sciences Agronomiques de l'Etat, Gembloux (Belgium). Lab. de Zoologie Generale et Faunistique</ags:creatorCorporate>
+<ags:creatorConference>Semaine d'Etude Agriculture et Environnement, Gembloux (Belgium), 2 Sep 1974</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">L20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Summaries (En, Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7517763</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin des Recherches Agronomiques de Gembloux. Hors Serie (Belgium)</ags:citationTitle>
+<ags:citationNumber>p. 438-461</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7503829">
+<dc:title xml:lang="en">Courtship behaviour of the wild goat [Afghanistan]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Schaller, G.B. (New York Zoological Society, Bronx (USA). Center for Biology and Conservation)</ags:creatorPersonal>
+<ags:creatorPersonal>Lourie, A.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 tables; 19 ref. Summaries (De, En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7503829</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Zeitschrift fuer Saeugetierkunde (Germany, F.R.)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0044-3468</ags:citationIdentifier>
+<ags:citationNumber>v. 39(2) p. 115-127</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7519167">
+<dc:title xml:lang="en">Formation of volatile organic products in soils under anaerobiosis. I. Metabolism of glucose</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Adamson, J.A. (Department of Agronomy, Cornell University, Ithaca, New York 14850 (USA))</ags:creatorPersonal>
+<ags:creatorPersonal>Francis, A.J.</ags:creatorPersonal>
+<ags:creatorPersonal>Duxbury, J.M.</ags:creatorPersonal>
+<ags:creatorPersonal>Alexander, M.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F21</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7519167</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Soil Biology + Biochemistry (UK)</ags:citationTitle>
+<ags:citationNumber>v. 7(1) p. 45-50</ags:citationNumber>
+<ags:citationChronology>(1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7512338">
+<dc:title xml:lang="en">[Saint Nectaire, a cheese still relating to crafts]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Le Leu, R.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(13 Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">Q10</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7512338</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>France Agricole (France)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0046-4899</ags:citationIdentifier>
+<ags:citationNumber>(no.1537) p. 50</ags:citationNumber>
+<ags:citationChronology>(13 Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7512359">
+<dc:title xml:lang="en">[Utilization of nursing cow herds]</dc:title>
+<dc:creator>
+<ags:creatorCorporate>Institut National de la Recherche Agronomique, 78 - Versailles (France). Service d'Experimentation et d'Information; Institut Technique de l'Elevage Bovin, 75 - Paris (France)</ags:creatorCorporate>
+<ags:creatorConference>6 Journees d'Information du grenier de Theix, Theix-Beaumont (France), 28 Nov 1973</ags:creatorConference>
+</dc:creator>
+<dc:publisher><ags:publisherName>INRA - ITEB</ags:publisherName>
+<ags:publisherPlace>Versailles (France)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1974</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+</dc:subject>
+<dc:description><ags:descriptionNotes>*INRA-SEI, Route de St.Cyr 78 - Versailles (France)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>V</dc:type>
+<dc:format><dcterms:extent>398 p.</dcterms:extent></dc:format>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7512359</ags:availabilityNumber></agls:availability>
+</ags:resource>
+  <ags:resource ags:ARN="EY7517810">
+<dc:title xml:lang="en">[Comparative study of the chemical composition of plants and soils from goitrous and non-goitrous areas of the Idjwi Island (Kivu Lake, Republic of Zaire)]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Cornil, J.</ags:creatorPersonal>
+<ags:creatorPersonal>Ledent, G.</ags:creatorPersonal>
+<ags:creatorPersonal>Vanderstappen, R.</ags:creatorPersonal>
+<ags:creatorPersonal>Herman, P. (Institut de Recherches Chimiques, Tervuren (Belgium))</ags:creatorPersonal>
+<ags:creatorPersonal>Velden, M. van der</ags:creatorPersonal>
+<ags:creatorPersonal>Delange, F.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F22</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">S30</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Summaries (Fr, Nl)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7517810</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Academie Royale des Sciences d'Outre-Mer - Bulletin des Seances (Belgium)</ags:citationTitle>
+<ags:citationTitle>Koniklijke Academie voor Overzeese Wetenschappen - Mededelingen der Zittingen</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0001-4176</ags:citationIdentifier>
+<ags:citationNumber>(no. 3) p. 386-402</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7519024">
+<dc:title xml:lang="en">Surveys of sugar-beet seed crops, mangold clamps and weeds in England for aphids and viruses, 1963-73</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Heathcote, G.D. (Broom's Barn Experimental Station, Higham, Bury St. Edmunds, Suffolk (UK))</ags:creatorPersonal>
+<ags:creatorPersonal>Byford, W.J.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>23 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7519024</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Journal of Agricultural Science (UK)</ags:citationTitle>
+<ags:citationNumber>v. 84(1) p. 87-95</ags:citationNumber>
+<ags:citationChronology>(1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7510531">
+<dc:title xml:lang="en">The effect of water sprinkling on the performance of growing and finishing pigs during hot weather</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hsia, L.C.</ags:creatorPersonal>
+<ags:creatorPersonal>Fuller, M.F.</ags:creatorPersonal>
+<ags:creatorPersonal>Koh, F.K.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Summaries (Es, Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7510531</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Tropical Animal Health and Production (UK)</ags:citationTitle>
+<ags:citationNumber>v. 6(no.3) p. 183-187</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7511629">
+<dc:title xml:lang="en">Infectious bursal disease. 2. Experimental inoculation: clinical observations and histopathology of Fabricius bursa, spleen and thymus</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Vindevogel, H.</ags:creatorPersonal>
+<ags:creatorPersonal>Gouffaux, M. (Liege Univ., Cureghem (Belgium). Faculte de Medecine Veterinaire)</ags:creatorPersonal>
+<ags:creatorPersonal>Meulemans, G.</ags:creatorPersonal>
+<ags:creatorPersonal>Halen, P.</ags:creatorPersonal>
+<ags:creatorPersonal>Schyns, P. (Institut National de Recherches Veterinaires, Brussels (Belgium))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L73</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>9 illus.; 6 ref. Summaries (En, Fr)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7511629</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Annales de Medecine Veterinaire (Belgium)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0003-4118</ags:citationIdentifier>
+<ags:citationNumber>v. 118(6) p. 375-386</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7518048">
+<dc:title xml:lang="en">Artificial rearing of the Black Sea turbot larvae (Scophthalmus maeoticus)</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Spectorova, L.V.</ags:creatorPersonal>
+<ags:creatorPersonal>Aronovich, T.M.</ags:creatorPersonal>
+<ags:creatorPersonal>Doroshev, S.I.</ags:creatorPersonal>
+<ags:creatorPersonal>Popova, V.P. (All-Union Research Inst. of Marine Fisheries and Oceanography, Moscow (USSR))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">M10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Summary (En); 20 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7518048</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Aquaculture (Netherlands)</ags:citationTitle>
+<ags:citationNumber>v. 4(4) p. 329-340</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7502541">
+<dc:title xml:lang="en">[ Public Technical agricultural teaching ]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Anon.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(13 Jul 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">C00</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7502541</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin d'Information du Ministere de l'Agriculture et du Developpement rural (France)</ags:citationTitle>
+<ags:citationNumber>(no.646) p. C1-C6</ags:citationNumber>
+<ags:citationChronology>(13 Jul 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7517319">
+<dc:title xml:lang="en">Evidence of distant dispersal of live spores of Erysiphe graminis f.sp. hordei</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hermansen, J.E.</ags:creatorPersonal>
+<ags:creatorPersonal>Torp, U.</ags:creatorPersonal>
+<ags:creatorPersonal>Prahm, L. (Kongelige Veterinaer- og Landbohoejskole, Copenhagen (Denmark). Plantepatologisk Afdeling)</ags:creatorPersonal>
+</dc:creator>
+<dc:publisher><ags:publisherName>KVL</ags:publisherName>
+<ags:publisherPlace>Koebenhavn (Denmark)</ags:publisherPlace>
+</dc:publisher>
+<dc:date>
+<dcterms:dateIssued>1975</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H20</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 illus. 5 tables; 13 ref. Summary (En, Da). Manuscript submitted 6 Jun 1974</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<dc:relation><dcterms:isPartOf scheme="ags:ISBN">8787047063</dcterms:isPartOf>
+</dc:relation>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7517319</ags:availabilityNumber></agls:availability>
+<dc:source>Annual Report, Kongelige Veterinaer- og Landbohoejskole, Copenhagen (Denmark).- Koebenhavn (Denmark): KVL, 1975.- ISBN 8787047063. p. 1-16</dc:source>
+</ags:resource>
+  <ags:resource ags:ARN="EY7518680">
+<dc:title xml:lang="en">Reversible spectral change of squid retinochrome by salts</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Azuma, K. (Dep. Biol., Osaka Med. Coll. (Japan))</ags:creatorPersonal>
+<ags:creatorPersonal>Azuma, M.</ags:creatorPersonal>
+<ags:creatorPersonal>Sakaguchi, K.</ags:creatorPersonal>
+<ags:creatorPersonal>Kito, Y.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1975)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>7 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7518680</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Nature (UK)</ags:citationTitle>
+<ags:citationNumber>v. 253(5488) p. 206-207</ags:citationNumber>
+<ags:citationChronology>(1975)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7512451">
+<dc:title xml:lang="en">[Antithyroid activity of rape oil-cakes for sheep]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Molenat, G.</ags:creatorPersonal>
+<ags:creatorPersonal>Michelot, J.</ags:creatorPersonal>
+<ags:creatorPersonal>Theriez, M.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Dec 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">L74</ags:subjectClassification>
+</dc:subject>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7512451</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Bulletin Technique du Centre de Recherches Zootechniques et Veterinaires de Theix (France)</ags:citationTitle>
+<ags:citationNumber>(no.18) p. 49</ags:citationNumber>
+<ags:citationChronology>(Dec 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7514714">
+<dc:title xml:lang="en">[Export trade of West European countries with non-edible horticultural products in 1973]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Koeniger, M. (Technische Univ. Muenchen, Weihenstephan (Germany, F.R.). Inst. fuer Wirtschaftslehre des Gartenbaues)</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>4 illus., 1 table; 1 ref.</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">De</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7514714</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Erwerbsgaertner (Germany, F.R.)</ags:citationTitle>
+<ags:citationNumber>v. 28(49) p. 1871-1873</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7503722">
+<dc:title xml:lang="en">[Production costs of vegetable transplants. Own propagation or buying]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Bahnmueller, H. (Staatliche Lehr- und Versuchsanstalt fuer Gartenbau, Heidelberg (Germany, F.R.))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E10</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>3 tables; 5 ref. Summary (De)</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">De</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7503722</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Gemuese (Germany, F.R.)</ags:citationTitle>
+<ags:citationNumber>v. 10(11) p. 274-278</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EY7518122">
+<dc:title xml:lang="en">[International market of Chinese gooseberry]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Fournier, J.M.</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(Oct 1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">E70</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Illus. See also in "Pomologie Francaise" v. 16(10) 1974 p. 197</ags:descriptionNotes>
+</dc:description>
+<dc:language scheme="ags:ISO639-1">Fr</dc:language>
+<agls:availability><ags:availabilityLocation>EY</ags:availabilityLocation><ags:availabilityNumber>7518122</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Arboriculture Fruitiere (France)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0003-794X</ags:citationIdentifier>
+<ags:citationNumber>(no.248) p. 17-21</ags:citationNumber>
+<ags:citationChronology>(Oct 1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+</ags:resources>

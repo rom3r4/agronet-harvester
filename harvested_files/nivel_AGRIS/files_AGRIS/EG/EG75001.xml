@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ags:resources SYSTEM "../../agrislegacy.dtd">
+<ags:resources xmlns:ags="http://purl.org/agmes/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:agls="http://www.naa.gov.au/recordkeeping/gov_online/agls/1.2" xmlns:dcterms="http://purl.org/dc/terms/">
+  <ags:resource ags:ARN="EG7500031">
+<dc:title xml:lang="en">Effect of kinetin, gibberellic acid and a combination of both on the endogenous hormones and inhibitors of Phaseolus vulgaris and Vigna sinensis plants</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Foda, H.A.</ags:creatorPersonal>
+<ags:creatorPersonal>El-Ghobashy, A.S.</ags:creatorPersonal>
+<ags:creatorPersonal>Abu Tabeikh, A.T. (Ain Shams Univ., Cairo (Egypt). Faculty of Science)</ags:creatorPersonal>
+<ags:creatorConference>1. Egyptian Congress of Botany, Cairo (Egypt), 25 Mar 1972</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1973)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>27 ref. Summary (Ar, En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EG</ags:availabilityLocation><ags:availabilityNumber>7500031</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Egyptian Journal of Botany (Egypt)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0021-9363</ags:citationIdentifier>
+<ags:citationNumber>v. 16(1-3) p. 171-190</ags:citationNumber>
+<ags:citationChronology>(1973)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EG7500022">
+<dc:title xml:lang="en">A review of some practical uses of cycocel plant growth regulator</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Lindley, C.D. (Cyanamid International Corp., Zurich (Switzerland))</ags:creatorPersonal>
+<ags:creatorConference>1. Egyptian Congress of Botany, Cairo (Egypt), 25 Mar 1972</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1973)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F00</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>39 ref. Summary (Ar, En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EG</ags:availabilityLocation><ags:availabilityNumber>7500022</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Egyptian Journal of Botany (Egypt)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0021-9363</ags:citationIdentifier>
+<ags:citationNumber>v. 16(1-3) p. 83-92</ags:citationNumber>
+<ags:citationChronology>(1973)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EG7500016">
+<dc:title xml:lang="en">Physiological studies through the post-blooming development of Gondeila and Malakaby dates grown at Asswan [Asswan Governorate (Egypt)]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Hussein, F.</ags:creatorPersonal>
+<ags:creatorPersonal>Abdalla, K.M. (Zagazig Univ. (Egypt) Faculty of Agriculture)</ags:creatorPersonal>
+<ags:creatorConference>1. Egyptian Congress of Botany, Cairo (Egypt), 25 Mar 1972</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1973)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>1 table; 10 ref. Summary (Ar, En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EG</ags:availabilityLocation><ags:availabilityNumber>7500016</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Egyptian Journal of Botany (Egypt)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0021-9363</ags:citationIdentifier>
+<ags:citationNumber>v. 16(1-3) p. 27-36</ags:citationNumber>
+<ags:citationChronology>(1973)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EG7500018">
+<dc:title xml:lang="en">The effect of different levels of NPK fertilizers on the physical and biochemical properties of safflower oil</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Kamel, K.F. (Ministry of Agriculture, Cairo (Egypt). Grain and Bread Technology Research Section)</ags:creatorPersonal>
+<ags:creatorPersonal>Mohamed, A.K. (General Company for Cairo and Giza Bakeries (Egypt))</ags:creatorPersonal>
+<ags:creatorConference>1. Egyptian Congress of Botany, Cairo (Egypt), 25 Mar 1972</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1973)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 tables; 9 ref. Summary (Ar, En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EG</ags:availabilityLocation><ags:availabilityNumber>7500018</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Egyptian Journal of Botany (Egypt)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0021-9363</ags:citationIdentifier>
+<ags:citationNumber>v. 16(1-3) p. 43-48</ags:citationNumber>
+<ags:citationChronology>(1973)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EG7500029">
+<dc:title xml:lang="en">Effects of pre-blooming and late may sprays with 2,4-D and urea on yield and fruit quantities of balady oranges</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Shawky, I.</ags:creatorPersonal>
+<ags:creatorPersonal>El-Tomi, A.L.</ags:creatorPersonal>
+<ags:creatorPersonal>Khalil, A. (Ain Shams Univ., Cairo (Egypt). Faculty of Agriculture)</ags:creatorPersonal>
+<ags:creatorConference>1. Egyptian Congress of Botany, Cairo (Egypt), 25 Mar 1972</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1973)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>2 tables; 9 ref. Summary (Ar, En)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EG</ags:availabilityLocation><ags:availabilityNumber>7500029</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Egyptian Journal of Botany (Egypt)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0021-9363</ags:citationIdentifier>
+<ags:citationNumber>v. 16(1-3) p. 151-159</ags:citationNumber>
+<ags:citationChronology>(1973)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EG7500023">
+<dc:title xml:lang="en">The development of gibberellic acid in Egypt [grapes, oranges, sugar-cane]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Zaki, M.A. (Agricultural Research Centre, Giza (Egypt))</ags:creatorPersonal>
+<ags:creatorConference>1. Egyptian Congress of Botany, Cairo (Egypt), 25 Mar 1972</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1973)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>Review</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EG</ags:availabilityLocation><ags:availabilityNumber>7500023</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Egyptian Journal of Botany (Egypt)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0021-9363</ags:citationIdentifier>
+<ags:citationNumber>v. 16(1-3) p. 93-95</ags:citationNumber>
+<ags:citationChronology>(1973)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EG7500024">
+<dc:title xml:lang="en">Effect of CCC on carbohydrate and nitrogen metabolsim in ripening wheat kemels</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Amberger, A.</ags:creatorPersonal>
+<ags:creatorPersonal>Kuhbauch, W. (Technische Univ. Muenchen (Germany, F.R.). Inst. of Plant Nutrition)</ags:creatorPersonal>
+<ags:creatorConference>1. Egyptian Congress of Botany, Cairo (Egypt), 25 Mar 1972</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1973)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F25</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>5 tables. Summary (Ar)</ags:descriptionNotes>
+</dc:description>
+<dc:type>K</dc:type>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EG</ags:availabilityLocation><ags:availabilityNumber>7500024</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Egyptian Journal of Botany (Egypt)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0021-9363</ags:citationIdentifier>
+<ags:citationNumber>v. 16(1-3) p. 97-106</ags:citationNumber>
+<ags:citationChronology>(1973)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EG7500008">
+<dc:title xml:lang="en">Influence of growing season and storage temperature on chilling injury of tomato fruits</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Abdel-Maksoud, M.M.</ags:creatorPersonal>
+<ags:creatorPersonal>Abdel-Kader, A.S. (Ain Shams Univ., Cairo (Egypt). Faculty of Agriculture)</ags:creatorPersonal>
+<ags:creatorPersonal>Abou- Aziz, A.B.</ags:creatorPersonal>
+<ags:creatorPersonal>Abdel-Samie, K.A. (National Research Centre, Cairo (Egypt))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">H50</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>9 ref. Summaries (Ar, En). Received 2 Nov 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EG</ags:availabilityLocation><ags:availabilityNumber>7500008</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Egyptian Journal of Horticulture (Egypt)</ags:citationTitle>
+<ags:citationNumber>v. 1(2) p. 171-177</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EG7500035">
+<dc:title xml:lang="en">The development of Paraquat in Egypt [Onions, maize, Sugar-cane]</dc:title>
+<dc:creator>
+<ags:creatorPersonal>Zaki, M.A. (Agricultural Research Centre, Cairo (Egypt))</ags:creatorPersonal>
+<ags:creatorConference>1. Egyptian Congress of Botany, Cairo (Egypt), 25 Mar 1972</ags:creatorConference>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1973)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">H60</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+</dc:subject>
+<dc:type>K</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EG</ags:availabilityLocation><ags:availabilityNumber>7500035</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Egyptian Journal of Botany (Egypt)</ags:citationTitle>
+<ags:citationIdentifier scheme="ags:ISSN">0021-9363</ags:citationIdentifier>
+<ags:citationNumber>v. 16(1-3) p. 231-233</ags:citationNumber>
+<ags:citationChronology>(1973)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+  <ags:resource ags:ARN="EG7500009">
+<dc:title xml:lang="en">The effect of chilling and non-chilling temperatures on the quality of papaya fruits</dc:title>
+<dc:creator>
+<ags:creatorPersonal>El-Tomi, A.L.</ags:creatorPersonal>
+<ags:creatorPersonal>Abdel-Kader, A.S.</ags:creatorPersonal>
+<ags:creatorPersonal>Abdel-Wahab, F.K. (Ain Shams Univ., Cairo (Egypt). Faculty of Agriculture)</ags:creatorPersonal>
+<ags:creatorPersonal>Abou-Aziz, A.B. (National Research Centre, Cairo, (Egypt))</ags:creatorPersonal>
+</dc:creator>
+<dc:date>
+<dcterms:dateIssued>(1974)</dcterms:dateIssued>
+</dc:date>
+<dc:subject>
+<ags:subjectClassification scheme="ags:ASC">F60</ags:subjectClassification>
+<ags:subjectClassification scheme="ags:ASC">F10</ags:subjectClassification>
+</dc:subject>
+<dc:description>
+<ags:descriptionNotes>1 table; 4 ref. Summaries (Ar, En). Received 24 Nov 1973</ags:descriptionNotes>
+</dc:description>
+<dc:type>E</dc:type>
+<dc:language scheme="ags:ISO639-1">En</dc:language>
+<agls:availability><ags:availabilityLocation>EG</ags:availabilityLocation><ags:availabilityNumber>7500009</ags:availabilityNumber></agls:availability>
+<ags:citation><ags:citationTitle>Egyptian Journal of Horticulture (Egypt)</ags:citationTitle>
+<ags:citationNumber>v. 1(2) p. 179-185</ags:citationNumber>
+<ags:citationChronology>(1974)</ags:citationChronology>
+</ags:citation>
+</ags:resource>
+</ags:resources>
