@@ -1,11 +1,11 @@
-ï»¿[drupal-contentuploader](#)
-======================
+[drupal-contentuploader](#)
+==
 
 Helper Java App that Harvests Metadata-Models' repositories and inserts them it into Relational databases
 
 Installation
----
-
+--
+    
     To deploy this app just follow these istructions:
     
     (from an UNIX / UNIX-like system)
@@ -20,8 +20,21 @@ Installation
     
     $ sudo apt-get install drush
     
+    (Use 'port install' command on Mac OS, or 'yum install' on RedHat Like systems)
+    
     $ cd drupal-contentuploader
         
+Once installed, modify these 3 files:
+    
+1. ./runandtest.sh
+2. ./PortalUpdater/script/execute_portalUpdater.sh 
+3. ./PortalUpdater/src/main/java/es/uah/cc/ie/utils/DrushUpdater.java
+
+Also, to be able to insert content on a Drupal setup, ensure this:
+
+1. You have the VOA3R Drush module installed & activated
+2. In your Drupal system you have these empty content-types: resource_agrisap & resource_dc (machine-id) 
+
     $ ./runandtest.sh
     
     (If the program gets installed correctly, the output will be similar to this)
@@ -64,8 +77,7 @@ Installation
     [INFO] ------------------------------------------------------------------------
 
 
-Licence
-===
+License
+==
 
-Propietary. University of Alcal.í  .
-Disclaimer: This code is provided as-is. Run it at your own risk
+Copyright University of Alcala. Licensed under GNU/GPL version 2 License  
