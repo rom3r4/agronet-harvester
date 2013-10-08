@@ -24,16 +24,16 @@ Installation
     
     $ cd drupal-contentuploader
         
-Once installed, modify these 3 files:
+    Once installed, modify these 3 files:
     
-1. ./runandtest.sh
-2. ./PortalUpdater/script/execute_portalUpdater.sh 
-3. ./PortalUpdater/src/main/java/es/uah/cc/ie/utils/DrushUpdater.java
+    1. ./runandtest.sh
+    2. ./PortalUpdater/script/execute_portalUpdater.sh 
+    3. ./PortalUpdater/src/main/java/es/uah/cc/ie/utils/DrushUpdater.java
 
-Also, to be able to insert content on a Drupal setup, ensure this:
+    Also, to be able to insert content on a Drupal setup, ensure this:
 
-1. You have the VOA3R Drush module installed & activated
-2. In your Drupal system you have these empty content-types: resource_agrisap & resource_dc (machine-id) 
+    1. You have the VOA3R Drush module installed & activated
+    2. In your Drupal system you have these empty content-types: resource_agrisap & resource_dc (machine-id) 
 
     $ ./runandtest.sh
     
