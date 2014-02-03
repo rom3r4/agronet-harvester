@@ -1,44 +1,44 @@
-[drupal-contentuploader](#)
---
+###[agronet-harverter](#)
 
-Helper Java App that Harvests Metadata-Models' repositories and inserts them it into Relational databases
 
-Installation
---
-    
-    To deploy this app just follow these istructions:
-    
-    (from an UNIX / UNIX-like system)
+Java application that harvests RDF repositories into a Drupal installed CMS.
 
-    $ git clone https://github.com/julianromerajuarez/drupal-contentuploader.git
-    
-    (In you are using a debian-like linux distribution, type this)
-    
-    $ sudo apt-get install maven2
-    
-    (once again you should install a dependent package)
-    
-    $ sudo apt-get install drush
-    
-    (Use 'port install' command on Mac OS, or 'yum install' on RedHat Like systems)
-    
-    $ cd drupal-contentuploader
+###Requirements
+
+- Working Drupal 7 installation with [drupal-contentbuider](https://github.com/julianromera/drupal-contentbuilder) module enabled
+- Drush ``>= version 6.x`` 
+- Maven
+- Git
+
+###Installation
+
+
+(Tested on Debian wheezy Linux)
+
+    $ sudo apt-get install maven2 drush
+
+    $ git clone https://github.com/julianromera/agronet-harvester.git
+    $ cd agronet-harvester
         
-    Once installed, modify these 3 files:
+    Modify these 3 files:
     
+    - Variable INIT_DIR
     1. ./runandtest.sh
+    
+    - Variable DIR
     2. ./PortalUpdater/script/execute_portalUpdater.sh 
+    
+    - Change the Drupal Directory:
     3. ./PortalUpdater/src/main/java/es/uah/cc/ie/utils/DrushUpdater.java
+    
 
-    Also, to be able to insert content on a Drupal setup, ensure this:
+    Also, to be able to insert content on your Drupal installation, ensure:
 
-    1. You have the VOA3R Drush module installed & activated
-    2. In your Drupal system you have these empty content-types: resource_agrisap & resource_dc (machine-id) 
+    1. You have the 'drupal-contentbuilder' installed & enabled
+    2. Create these two Drupal Content-Types: resource_agrisap & resource_dc (machine-id) 
 
     $ ./runandtest.sh
-    
-    (If the program gets installed correctly, the output will be similar to this)
-    
+
     [INFO] Scanning for projects...
     [INFO] Searching repository for plugin with prefix: 'dependency'.
     [INFO] ------------------------------------------------------------------------
@@ -77,7 +77,13 @@ Installation
     [INFO] ------------------------------------------------------------------------
 
 
-License
---
+###Author
 
-Copyright University of Alcala. Licensed under GNU/GPL version 2 License  
+University of Alcala
+
+
+###'License'
+
+This is free and unemcumbered software released into the public domain. For more information, see the accompanying UNLICENSE file.  
+
+If you're unfamiliar with public domain, that means it's perfectly fine to start with this skeleton and code away, later relicensing as you see fit.
