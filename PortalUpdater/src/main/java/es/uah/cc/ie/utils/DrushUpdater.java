@@ -59,9 +59,9 @@ import org.ontspace.dc.translator.DublinCore;
  */
 public class DrushUpdater {
 
-	private static final String DRUPAL_ROOT_DIR = "/www/newvoa3r";
+	private static final String DRUPAL_ROOT_DIR = "/www/agronet";
 	// Tests
-	private final boolean RUN_TESTS = false;
+	private final boolean RUN_TESTS = true;
 	private final int DUBLIN_CORE = 0;
 	private final int AGRISAP = 1;
 	private int test_passed;
