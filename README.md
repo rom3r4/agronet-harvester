@@ -22,9 +22,13 @@ Java application that harvests RDF repositories into a Drupal installed CMS.
         
     Modify these 3 files:
     
+    - Variable INIT_DIR
     1. ./runandtest.sh
+    
+    - Variable DIR
     2. ./PortalUpdater/script/execute_portalUpdater.sh 
-    - Change the Drupal destination directory:
+    
+    - Change the Drupal Directory:
     3. ./PortalUpdater/src/main/java/es/uah/cc/ie/utils/DrushUpdater.java
     
 
