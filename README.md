@@ -1,16 +1,16 @@
-###[agronet-harvester](#)
+## agronet - RDF Harvester
 
 
 Java application that harvests RDF repositories into a Drupal installed CMS.
 
-###Requirements
+### Requirements
 
 - Working Drupal 7 installation with [drupal-contentbuider](https://github.com/julianromera/drupal-contentbuilder) module enabled
 - Drush ``>= version 6.x`` 
 - Maven
 - Git
 
-###Installation
+### Installation
 
 
 (Tested on Debian wheezy Linux)
@@ -77,12 +77,12 @@ Java application that harvests RDF repositories into a Drupal installed CMS.
     [INFO] ------------------------------------------------------------------------
 
 
-###Author
+### Author
 
 University of Alcala
 
 
-###'License'
+### LICENSE
 
 This is free and unemcumbered software released into the public domain. For more information, see the accompanying UNLICENSE file.  
 
