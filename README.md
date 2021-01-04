@@ -5,10 +5,11 @@ Java application that harvests RDF repositories into a Drupal installed CMS.
 
 ### Requirements
 
-- Working Drupal 7 installation with [drupal-contentbuider](https://github.com/julianromera/drupal-contentbuilder) module enabled
-- Drush ``>= version 6.x`` 
+- Java 8+
 - Maven
 - Git
+- Working Drupal 7 installation with [drupal-contentbuider](https://github.com/julianromera/drupal-contentbuilder) module enabled
+- Drush ``>= version 6.x`` 
 
 ### Installation
 
@@ -17,7 +18,7 @@ Java application that harvests RDF repositories into a Drupal installed CMS.
 
     $ sudo apt-get install maven2 drush
 
-    $ git clone https://github.com/julianromera/agronet-harvester.git
+    $ git clone https://github.com/romera-github/agronet-harvester.git
     $ cd agronet-harvester
         
     Modify these 3 files:
