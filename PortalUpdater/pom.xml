@@ -49,7 +49,7 @@
     <dependency>
         <groupId>com.google.code.gson</groupId>
         <artifactId>gson</artifactId>
-        <version>1.6</version><!-- Stack Overflow for v1.7+ -->
+        <version>2.8.9</version><!-- Stack Overflow for v1.7+ -->
     </dependency>
     <dependency>
         <groupId>junit</groupId>
